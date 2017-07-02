@@ -80,8 +80,8 @@ def create_public_link(links, username, password):
 
 if __name__ == '__main__':
     filename = 'channels/g39ds_platte.json'
-    username = "steve.v.iannaccone@gmail.com"
-    password = "renegade1200"
+    username = "your.slack.email.address@address.com"
+    password = "your_slack_password"
     links, publinks = get_links(filename)
     create_public_link(links, username, password)
 #F52Q95C9Z/individual.md
