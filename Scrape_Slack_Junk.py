@@ -84,4 +84,3 @@ if __name__ == '__main__':
     password = "your_slack_password"
     links, publinks = get_links(filename)
     create_public_link(links, username, password)
-#F52Q95C9Z/individual.md
