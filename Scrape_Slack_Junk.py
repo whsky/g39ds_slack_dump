@@ -79,7 +79,7 @@ def create_public_link(links, username, password):
         driver.close()
 
 if __name__ == '__main__':
-    filename = 'channels/g39ds_platte.json'
+    filename = 'g39ds_platte.json'
     username = "your.slack.email.address@address.com"
     password = "your_slack_password"
     links, publinks = get_links(filename)
