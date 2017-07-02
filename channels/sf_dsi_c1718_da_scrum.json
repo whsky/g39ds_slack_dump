@@ -1,0 +1,604 @@
+{
+    "messages": [
+        {
+            "text": "<@U2ATTPFU2|dan> archived the channel", 
+            "ts": "1481652127.000003", 
+            "subtype": "channel_archive", 
+            "user": "U2ATTPFU2", 
+            "members": [
+                "U1UBYJQM6", 
+                "U1YEKSK45", 
+                "U21K0MQDQ", 
+                "U21LVGZFX", 
+                "U253BP9K7", 
+                "U284ZMVJ7", 
+                "U29M0G4U8", 
+                "U2A6GFBNX", 
+                "U2ATTPFU2"
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1VA45RE2|ivan> has left the channel", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1481609549.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1UCK7AAW|ultramann> has left the channel", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1480968595.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "Is anyone practicing presentation rn?", 
+            "type": "message", 
+            "user": "U29M0G4U8", 
+            "ts": "1480626109.000002"
+        }, 
+        {
+            "text": "Thanks for the notes guys!", 
+            "type": "message", 
+            "user": "U21K0MQDQ", 
+            "ts": "1480475514.000025"
+        }, 
+        {
+            "text": "Sounds good to me!", 
+            "type": "message", 
+            "user": "U284ZMVJ7", 
+            "ts": "1480473924.000024"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "smashing", 
+                    "users": [
+                        "U21K0MQDQ"
+                    ]
+                }
+            ], 
+            "text": "From Isaac's email it looks like we don't have to be in until 2 on Thursday. Id nothing else comes up, would you guys want to grab a conf room and just run through our presentations a couple times in the morning to get more practice?", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1480472185.000023"
+        }, 
+        {
+            "text": "Kurt:\n- maybe take out formulas and just say names of approaches? Could cut time\n- serendipity, just say one issue was that you \u201cwere recommending popular albums. Added in probabilistic element\u201d to cut time\n\nDoug:\n- snake case for #\u2019s in title\n- could cut subreddit discussion if you need to cut time\n- and garbage in, garbage out slide if you need to cut time\n\nChris:\n- could cut the \u201cassumptions\u201d from your intro to cut time\n- don\u2019t need to list sound features\n- for accuracy say number of classes to explain low accuracy\n\nKel\n- In intro stress that your search uses semantic meaning/topics which will allow you to find things that keyword search will miss\n- You might want to dwell on the similarity matrix for a second longer to explain whats going on\n- Nice timing/slide order", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1480466943.000022"
+        }, 
+        {
+            "text": "my comments from this afternoon", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1480466921.000021"
+        }, 
+        {
+            "text": "KURT\n\n- Maybe call it the Bandcamp Music Recommender?\n- Don\u2019t understand bottom right chart on Data Exploration\n- How many things that the user actually BOUGHT/Downloaded, not \u201cliked\u201d, of those 10\n- Model comparisons - Use slide area better; maybe just split between RHS and LHS, and make a 2x2 table of pros/cons\n- Fix font colors on logos page\n\nPETER\n\n- First slide - spend more time on the humor of the RHS\n- What are the \u201ctop singular vectors\u201d of TFIDF?\n- Think you can cut the \u201cparticular varietals\u201d sequence\n- Think you can cut down the histogram section to just 1 that should be far and are, and 1 that should be close and are\n- I\u2019d add to your \u201cQuery\u201d slide things like \u201cCab Sauv + white\u201d and see what I might like\n\nCHRIS\n\n- Instead of Number of Correct Classifications, use % of correct classifications\n- Why did you pick these sound features for the smaller chart?  I\u2019d love to get rid of the language ones, because they aren\u2019t really a topic, they\u2019re a language\n\nKEL\n\n- How does their current system work, exactly?", 
+            "type": "message", 
+            "user": "U284ZMVJ7", 
+            "ts": "1480453953.000020"
+        }, 
+        {
+            "text": "My notes, in case helpful:", 
+            "type": "message", 
+            "user": "U284ZMVJ7", 
+            "ts": "1480453951.000019"
+        }, 
+        {
+            "text": "Kel\n0:30 Moving to keyword search\n1:00 starting data model pipeline\n1:30 \u201csimilarity matrix\u201d\n2:00 dolphin migration patterns\n2:30 kmeans clustering\n3:00 starting results and next steps\n3:30 finished", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1480453528.000018"
+        }, 
+        {
+            "text": "Chris\n0:30 starting assumption\n1:00 starting data\n1:30 just finishing \u201clabel songs with predicted topic\u201d\n2:00 starting LDA\n2:30 describing sound features\n3:00 starting heat map\n3:30 \u201cgerman and gangster rap\u201d\n4:00 starting conclusions\n4:30 wish list\n5:00 appendix", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1480453028.000017"
+        }, 
+        {
+            "text": "Doug\n1:00 proposed solution end of slide\n1:30 through step 4\n2:00 through training corpus\n2:30 11/9\n3:00 \u00be way through feat importances\n3:30 starting model selection\n4:00 through label error\n4:30 starting next steps\n\nKurt\n0:30 done with background\n1:00 starting histogram\n1:30 finishing side data\n2:00 done with metric\n2:30 moving to results\n3:00 reading model comparisons\n3:30 starting serendipity\n4:00 finishing serendipity\n4:30 finishing demo", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1480451800.000016"
+        }, 
+        {
+            "text": "Ready to start practice presentations in room 311.", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1480450631.000015"
+        }, 
+        {
+            "text": "Running late see you in 40 m", 
+            "type": "message", 
+            "user": "U2A6GFBNX", 
+            "ts": "1480441225.000014"
+        }, 
+        {
+            "text": "Ok cool", 
+            "type": "message", 
+            "user": "U284ZMVJ7", 
+            "ts": "1480374796.000013"
+        }, 
+        {
+            "text": "Everyone gets to present twice. We have 45min for the first round and 30min for the second, on the assumption that you will tighten it up for the second round.", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1480374776.000012"
+        }, 
+        {
+            "text": "Ah ok. So does this mean that we all present 2x each tomorrow, with some time in between to make changes, or does it mean that half go at 12:15 and half at 4?", 
+            "type": "message", 
+            "user": "U284ZMVJ7", 
+            "ts": "1480374710.000011"
+        }, 
+        {
+            "text": "Ah, okay. Isaac sent out a message and I thought it went out to everyone, but it was just the scrum leads. Here is the schedule for tomorrow:  Scrum leader\tFirst Time\tSecond Time\nChris\t10-10:45\t2:30-3\nMoses\t10:45-11:30\t3-3:30\nIsaac\t11:30-12:15\t3:30-4\nDan B.\t12:15-1:00\t4-4:30\nCary\t1-1:45\t4:30-5\nIvan\t1:45-2:30\t5-5:30", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1480374645.000010"
+        }, 
+        {
+            "text": "Sorry - <@U2ATTPFU2> where would we see this?  Is there a schedule posted somewhere?", 
+            "type": "message", 
+            "user": "U284ZMVJ7", 
+            "ts": "1480374494.000009"
+        }, 
+        {
+            "text": "<!channel> - As you guys probably noticed, we are scheduled for 12:15 and 4pm for our practice presentations. We will also meet at 10am for the usual scrum. Please have your presentation sketched out pretty well for us to take a quick look at that time. Keep in mind some principles for constructing good slides: Fonts should be large enough to read easily from the back of the room, including the labels and axis tick labels for your plots. This will help you to follow the second guideline which is that you should only use a few bullet points on each slide - the audience should be listening to you not reading your slides. Consider Guy Kawasaki's 10/20/30 rule - <http://guykawasaki.com/the_102030_rule/> and you will probably want fewer than 10 slides since you only have 3 minutes. This relates to the following quote from Steve Jobs:  \u201cThis is a very complicated world, it's a very noisy world. And we're not going to get the chance to get people to remember much about us... So we have to be really clear on what we want them to know about us.\"", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1480374428.000007", 
+            "attachments": [
+                {
+                    "image_bytes": 2434290, 
+                    "title": "Guy Kawasaki - The 10/20/30 Rule of PowerPoint", 
+                    "service_name": "Guy Kawasaki", 
+                    "ts": 1135972067, 
+                    "title_link": "http://guykawasaki.com/the_102030_rule/", 
+                    "image_height": 250, 
+                    "image_url": "http://guykawasaki.com/wp-content/uploads/2015/03/Guy-Kawasaki-13.jpg", 
+                    "image_width": 375, 
+                    "text": "I suffer from something called M\u00e9ni\u00e8re\u2019s disease\u2014don\u2019t worry, you cannot get it from reading my blog. The symptoms of M\u00e9ni\u00e8re\u2019s include hearing loss, tinnitus (a constant ringing sound), and vertigo. There are many medical theories about its cause: too much salt, caffeine, or alcohol in one\u2019s diet, too much stress, and allergies. Thus, I\u2019ve worked \u2026", 
+                    "id": 1, 
+                    "fallback": "Guy Kawasaki: Guy Kawasaki - The 10/20/30 Rule of PowerPoint", 
+                    "service_icon": "http://guykawasaki.com/wp-content/uploads/2015/02/Guy-Kawasaki-57x57.png", 
+                    "from_url": "http://guykawasaki.com/the_102030_rule/"
+                }
+            ]
+        }, 
+        {
+            "text": "Spotify artist visualization: <https://artistexplorer.spotify.com/>", 
+            "type": "message", 
+            "user": "U284ZMVJ7", 
+            "ts": "1480357692.000005", 
+            "attachments": [
+                {
+                    "image_bytes": 400172, 
+                    "title": "Artist Explorer is a music discovery tool to to explore artists and music by browsing artists through a relationship tree", 
+                    "service_name": "Artist Explorer", 
+                    "image_width": 346, 
+                    "title_link": "https://artistexplorer.spotify.com/", 
+                    "image_height": 250, 
+                    "image_url": "https://artistexplorer.spotify.com/img/artistexplorer.png", 
+                    "id": 1, 
+                    "fallback": "Artist Explorer: Artist Explorer is a music discovery tool to to explore artists and music by browsing artists through a relationship tree", 
+                    "service_icon": "https://artistexplorer.spotify.com/favicon.ico", 
+                    "from_url": "https://artistexplorer.spotify.com/"
+                }
+            ]
+        }, 
+        {
+            "text": "3rd floor.", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1480355205.000004"
+        }, 
+        {
+            "text": "Meet at 10, usual place.", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1480354416.000003"
+        }, 
+        {
+            "text": "Are we meeting at 9 this morning?", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1480350218.000002"
+        }, 
+        {
+            "text": "Guys, only Kel showed up this morning for the scum meeting.  Unless you made some prior arrangements with Dan, scrum meetings aren't optional.  Please get back to me ASAP.  Thanks.", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479938623.000013"
+        }, 
+        {
+            "text": "Hope you get well soon Dan.  Guys, we can sync up today.  How about 11:30 on the 5th floor (same place as yesterday's meeting)?", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479927547.000011", 
+            "edited": {
+                "user": "U1VA45RE2", 
+                "ts": "1479927562.000000"
+            }
+        }, 
+        {
+            "text": "sorry to hear that, hope you feel better soon", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1479922878.000010"
+        }, 
+        {
+            "text": "<!channel> - I am more sick today, so I will not be coming in. Let's check if Cary or Ivan can join you guys.", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1479922852.000009"
+        }, 
+        {
+            "text": "I\u2019m a big fan of the explanation paper.", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1479922734.000008"
+        }, 
+        {
+            "text": "then an explanation that seems digestible: <http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf>", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1479845497.000007"
+        }, 
+        {
+            "text": "<https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors>", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1479845467.000005", 
+            "attachments": [
+                {
+                    "title": "Part 2: Word Vectors - Bag of Words Meets Bags of Popcorn | Kaggle", 
+                    "text": "Kaggle is your home for data science. Learn new skills, build your career, collaborate with other data scientists, and compete in world-class machine learning challenges.", 
+                    "title_link": "https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors", 
+                    "service_name": "kaggle.com", 
+                    "id": 1, 
+                    "fallback": "Part 2: Word Vectors - Bag of Words Meets Bags of Popcorn | Kaggle", 
+                    "service_icon": "https://www.kaggle.com/content/v/1e4cdaa83f46/kaggle/img/apple-touch-icon.png", 
+                    "from_url": "https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors"
+                }
+            ]
+        }, 
+        {
+            "text": "word2vec resources:", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1479845467.000004"
+        }, 
+        {
+            "text": "<!channel> - I am on the 5th floor.", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1479840812.000003"
+        }, 
+        {
+            "text": "Hey guys, I am on the way in, but will be a little late. Let's meet on the 5th floor at 11am. ", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1479836180.000002"
+        }, 
+        {
+            "text": "Hi all.  I'll take Dan's spot this morning.  Let's meet on the 5th floor (Tehama side) at 11 AM.", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479750752.000018"
+        }, 
+        {
+            "text": "Hey guys, I started feeling sick yesterday and despite best efforts am still sick this morning. I have asked around to find someone to join you, but no response yet.", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1479749555.000017"
+        }, 
+        {
+            "text": "<!channel> we are talking about projects with folks from cohorts 19 &amp;20 on the 5th floor. If you are still here come on up and join us!", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1479518313.000016"
+        }, 
+        {
+            "text": "Neal Riordan's project on Music Genres - <https://github.com/NRiordan/jawnre>", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1479409807.000014", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "NRiordan/jawnre", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/NRiordan/jawnre", 
+                    "text": "jawnre - Final project at Galvanize", 
+                    "id": 1, 
+                    "fallback": "GitHub: NRiordan/jawnre", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/17011792?v=3&s=400", 
+                    "from_url": "https://github.com/NRiordan/jawnre"
+                }
+            ]
+        }, 
+        {
+            "text": "Fil Machi's project on Meetup Communities - <https://github.com/nitecascade/solid-funicular>", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1479409753.000012", 
+            "attachments": [
+                {
+                    "thumb_height": 110, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 110, 
+                    "title": "nitecascade/solid-funicular", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/nitecascade/solid-funicular", 
+                    "text": "solid-funicular - Capstone project - communities on <http://meetup.com|meetup.com>", 
+                    "id": 1, 
+                    "fallback": "GitHub: nitecascade/solid-funicular", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/18324844?v=3&s=400", 
+                    "from_url": "https://github.com/nitecascade/solid-funicular"
+                }
+            ]
+        }, 
+        {
+            "text": "I am going to be a bit late today since I had to take the car to the mechanic. Let's meet at 10:30.", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1479401292.000011"
+        }, 
+        {
+            "text": "<https://github.com/liudahchris/project>", 
+            "type": "message", 
+            "user": "U21K0MQDQ", 
+            "ts": "1479355352.000009", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "liudahchris/project", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/liudahchris/project", 
+                    "text": "Contribute to project development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: liudahchris/project", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/10040121?v=3&s=400", 
+                    "from_url": "https://github.com/liudahchris/project"
+                }
+            ]
+        }, 
+        {
+            "text": "Here's a paper from probably before the Netflix prize (2005?) that proposes two ways to deal with missing data, and proposes using a hybrid:\n<http://www.siam.org/meetings/sdm06/proceedings/059zhangs2.pdf>\nI'll continue to look into this.", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479328383.000008"
+        }, 
+        {
+            "text": "Here's a paper by the guys who won the Netflix prize explaining the steps they took in making their algorithm: <https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf>", 
+            "type": "message", 
+            "user": "U29M0G4U8", 
+            "ts": "1479322025.000007"
+        }, 
+        {
+            "text": "have a meeting with james, going to be a little late", 
+            "type": "message", 
+            "user": "U21K0MQDQ", 
+            "ts": "1479319209.000006"
+        }, 
+        {
+            "text": "<https://github.com/yamariva2000/DeepDyve>", 
+            "type": "message", 
+            "user": "U2A6GFBNX", 
+            "ts": "1479263875.000004", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "yamariva2000/DeepDyve", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/yamariva2000/DeepDyve", 
+                    "text": "Contribute to DeepDyve development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: yamariva2000/DeepDyve", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/19863801?v=3&s=400", 
+                    "from_url": "https://github.com/yamariva2000/DeepDyve"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/pjh2011/wine_project>", 
+            "type": "message", 
+            "user": "U21LVGZFX", 
+            "ts": "1479230137.000002", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "pjh2011/wine_project", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/pjh2011/wine_project", 
+                    "text": "Contribute to wine_project development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: pjh2011/wine_project", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/13373331?v=3&s=400", 
+                    "from_url": "https://github.com/pjh2011/wine_project"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/pasttense-ofdig/theater-recommender>", 
+            "type": "message", 
+            "user": "U284ZMVJ7", 
+            "ts": "1479150486.000004", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "pasttense-ofdig/theater-recommender", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/pasttense-ofdig/theater-recommender", 
+                    "text": "Contribute to theater-recommender development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: pasttense-ofdig/theater-recommender", 
+                    "thumb_url": "https://avatars1.githubusercontent.com/u/20713803?v=3&s=400", 
+                    "from_url": "https://github.com/pasttense-ofdig/theater-recommender"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/kruegg21/bandcamp_project>", 
+            "type": "message", 
+            "user": "U29M0G4U8", 
+            "ts": "1479148958.000002", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "kruegg21/bandcamp_project", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/kruegg21/bandcamp_project", 
+                    "text": "Contribute to bandcamp_project development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: kruegg21/bandcamp_project", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/11095001?v=3&s=400", 
+                    "from_url": "https://github.com/kruegg21/bandcamp_project"
+                }
+            ]
+        }, 
+        {
+            "text": "Please share a link for your project GitHub repo to this channel. See you tomorrow!", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1479104280.000014"
+        }, 
+        {
+            "text": "Hey guys, We will meet tomorrow at the same place, 3rd floor near the Tehama-side kitchen, at 10am.", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1479104214.000013"
+        }, 
+        {
+            "text": "<@U21LVGZFX|phuse2> has joined the channel", 
+            "ts": "1479104095.000012", 
+            "subtype": "channel_join", 
+            "user": "U21LVGZFX", 
+            "type": "message", 
+            "inviter": "U2ATTPFU2"
+        }, 
+        {
+            "text": "<@U29M0G4U8|kruegg> has joined the channel", 
+            "ts": "1479104095.000011", 
+            "subtype": "channel_join", 
+            "user": "U29M0G4U8", 
+            "type": "message", 
+            "inviter": "U2ATTPFU2"
+        }, 
+        {
+            "text": "<@U2A6GFBNX|cookiedoge> has joined the channel", 
+            "ts": "1479104095.000010", 
+            "subtype": "channel_join", 
+            "user": "U2A6GFBNX", 
+            "type": "message", 
+            "inviter": "U2ATTPFU2"
+        }, 
+        {
+            "text": "<@U284ZMVJ7|dougkenney> has joined the channel", 
+            "ts": "1479104094.000009", 
+            "subtype": "channel_join", 
+            "user": "U284ZMVJ7", 
+            "type": "message", 
+            "inviter": "U2ATTPFU2"
+        }, 
+        {
+            "text": "<@U21K0MQDQ|liudahchris> has joined the channel", 
+            "ts": "1479104094.000008", 
+            "subtype": "channel_join", 
+            "user": "U21K0MQDQ", 
+            "type": "message", 
+            "inviter": "U2ATTPFU2"
+        }, 
+        {
+            "text": "<@U1YEKSK45|isaac.laughlin> has joined the channel", 
+            "ts": "1479104094.000007", 
+            "subtype": "channel_join", 
+            "user": "U1YEKSK45", 
+            "type": "message", 
+            "inviter": "U2ATTPFU2"
+        }, 
+        {
+            "text": "<@U1UBYJQM6|moses.marsh> has joined the channel", 
+            "ts": "1479104094.000006", 
+            "subtype": "channel_join", 
+            "user": "U1UBYJQM6", 
+            "type": "message", 
+            "inviter": "U2ATTPFU2"
+        }, 
+        {
+            "text": "<@U253BP9K7|chris.overton> has joined the channel", 
+            "ts": "1479104094.000005", 
+            "subtype": "channel_join", 
+            "user": "U253BP9K7", 
+            "type": "message", 
+            "inviter": "U2ATTPFU2"
+        }, 
+        {
+            "text": "<@U1VA45RE2|ivan> has joined the channel", 
+            "ts": "1479104094.000004", 
+            "subtype": "channel_join", 
+            "user": "U1VA45RE2", 
+            "type": "message", 
+            "inviter": "U2ATTPFU2"
+        }, 
+        {
+            "text": "<@U1UCK7AAW|ultramann> has joined the channel", 
+            "ts": "1479104093.000003", 
+            "subtype": "channel_join", 
+            "user": "U1UCK7AAW", 
+            "type": "message", 
+            "inviter": "U2ATTPFU2"
+        }, 
+        {
+            "text": "<@U2ATTPFU2|dan> has joined the channel", 
+            "type": "message", 
+            "user": "U2ATTPFU2", 
+            "ts": "1479104093.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "sf_dsi_c1718_da_scrum", 
+        "name": "sf_dsi_c1718_da_scrum", 
+        "is_channel": true, 
+        "created": 1479104093, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U2ATTPFU2", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [], 
+        "id": "C3252G33P", 
+        "is_shared": false
+    }
+}

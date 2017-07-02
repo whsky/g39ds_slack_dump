@@ -1,0 +1,356 @@
+{
+    "messages": [
+        {
+            "text": "disregard. Solved", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1498791622.382778"
+        }, 
+        {
+            "text": "this is what it looks like now but it seems to be frozen", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1498789724.171634"
+        }, 
+        {
+            "text": "```INFO (theano.gof.compilelock): Waiting for existing lock by process '82688' (I am process '82689')\nINFO (theano.gof.compilelock): To manually release the lock, delete /Users/One-Life.Grind./.theano/compiledir_Darwin-16.6.0-x86_64-i386-64bit-i386-3.6.1-64/lock_dir\nEpoch 1/10\nEpoch 1/10\nEpoch 1/10\nEpoch 1/10\nEpoch 1/10\nEpoch 1/10\nEpoch 1/10```", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1498789628.160457"
+        }, 
+        {
+            "text": "Hey all! So built a deep CNN to try and improve my project and am in the process of trying to optimize the hyperparameters via grid search. How do I know if it will ever end? Suggested max time I should wait before thinking something is amiss?", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1498789607.157907"
+        }, 
+        {
+            "text": "Title is wrong but those are the mounds I am about to try and cluster together.", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1497720784.884068"
+        }, 
+        {
+            "username": "powers_rc", 
+            "display_as_bot": false, 
+            "text": "<@U4G9R3ABY|powers_rc> uploaded a file: <https://gstudents.slack.com/files/powers_rc/F5W638UMC/area_labeled_2.png|area_labeled_2.png>", 
+            "upload": true, 
+            "ts": "1497720744.881597", 
+            "subtype": "file_share", 
+            "user": "U4G9R3ABY", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [
+                    "G5HUBLJ87"
+                ], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5W638UMC-d29ae9ae50/area_labeled_2_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5W638UMC-d29ae9ae50/area_labeled_2_64.png", 
+                "size": 567988, 
+                "original_h": 480, 
+                "thumb_360_w": 360, 
+                "title": "area_labeled_2.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5W638UMC/area_labeled_2.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5W638UMC-d29ae9ae50/area_labeled_2_360.png", 
+                "id": "F5W638UMC", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5W638UMC-d29ae9ae50/area_labeled_2_80.png", 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1497720742, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5W638UMC-d29ae9ae50/area_labeled_2_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5W638UMC/download/area_labeled_2.png", 
+                "user": "U4G9R3ABY", 
+                "image_exif_rotation": 1, 
+                "is_public": false, 
+                "pretty_type": "PNG", 
+                "name": "area_labeled_2.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5W638UMC-b168e25d99", 
+                "permalink": "https://gstudents.slack.com/files/powers_rc/F5W638UMC/area_labeled_2.png", 
+                "is_external": false, 
+                "created": 1497720742, 
+                "original_w": 640, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Yeah that wouldn't work but I was able to get it to and it seems to be doing \"okay\"", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1497720501.866728"
+        }, 
+        {
+            "text": "What about the stuff we worked out on the white board yesterday?", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1497713688.445447"
+        }, 
+        {
+            "text": "Cameron I am in the desert.  You can do this!", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1497673388.574349"
+        }, 
+        {
+            "text": "\nNot sure if any of you are free this weekend but I really need some help recalculating these coordinates. I will bribe someone with beer or something else you desire if you have the time.", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1497665579.202799"
+        }, 
+        {
+            "text": "Brooks (an instructor) worked at NASA.  You can check with IT. Another route is to reimage the machine.", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1497447613.379052"
+        }, 
+        {
+            "text": "Didn't one of the IT guys work at NASA before galvanize? I'd start there...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497408514.868265"
+        }, 
+        {
+            "text": "Malware.. not much experience with it.  Good luck", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1497402426.106577"
+        }, 
+        {
+            "text": "Yeah but my images were not. Should have it back by morning ", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1497400709.877901"
+        }, 
+        {
+            "text": "Man I hope you were pushing your stuff up to Github", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1497399290.684370"
+        }, 
+        {
+            "text": "Do any of you know how to remove malware? My computer just got hacked, not sure what to do....", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1497397334.382178"
+        }, 
+        {
+            "text": "I still can't pull down the assessment 5 solutions...", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1496411395.080039"
+        }, 
+        {
+            "text": "I am taking a screen shot once the GE page has fully loaded but that page contains the icons which I don't want, I am not really concerned with the static data the web page contains otherwise.", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1496270526.683797"
+        }, 
+        {
+            "text": "Requests and BeautifulSoup really only work with static content. I think selenium is a way for python to interact with websites that use AJAX and JavaScript to dynamically build their content. If this is not what you need, you might be barking up the wrong tree.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496246073.719472"
+        }, 
+        {
+            "text": "Thanks I will try and speak with him today", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1496245726.579860"
+        }, 
+        {
+            "text": "Raj from a few cohorts back was just talking about that. He's next door at Tectonic if you need to find somebody pronto.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496245449.467859"
+        }, 
+        {
+            "text": "thanks", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1496244703.168571"
+        }, 
+        {
+            "text": "Yeah I just tried that this morning and it works but i forgot it contains all the icons which I am now trying to get rid of", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1496244700.167614"
+        }, 
+        {
+            "text": "Cameron, have you tried putting a fixed delay in using `sleep`?\n<https://stackoverflow.com/questions/510348/how-can-i-make-a-time-delay-in-python>", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1496244250.980186", 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+                    "thumb_width": 316, 
+                    "title": "How can I make a time delay in Python?", 
+                    "text": "I would like to know how to put a time delay in a Python script.", 
+                    "title_link": "https://stackoverflow.com/questions/510348/how-can-i-make-a-time-delay-in-python", 
+                    "service_name": "stackoverflow.com", 
+                    "id": 1, 
+                    "fallback": "How can I make a time delay in Python?", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+                    "from_url": "https://stackoverflow.com/questions/510348/how-can-i-make-a-time-delay-in-python"
+                }
+            ]
+        }, 
+        {
+            "text": "```def take_area_photos(coordinates, area_name):\n    driver = webdriver.Chrome()\n    driver.set_window_size(1440, 900)\n    driver.maximize_window()\n    driver.switch_to_window(driver.window_handles[0])\n    delay = 60\n\n    area_lst = [area.split(',')for area in coordinates]\n\n    for area in area_lst:\n        if area[0] == area_name:\n            coordinates = area[1:]\n            for i, c in enumerate(coordinates):\n                try:\n                    filepath = '/Users/One-Life.Grind./Galvanize/Capstone/images/Canino_Lanocito_Richardson/' + str(i) + '.png'\n                    lat, lon = c.split(';')\n                    url = \"<https://earth.google.com/web/@{},{},1573.2221546a,277.89739987d,35y,0.69169508h,0.45101597t,-0r>\".format(lat, lon)\n                    driver.get(url)\n                    WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.ID, 'icon')))\n                    driver.save_screenshot(filepath)\n                    break\n                except TimeoutException:\n                    print (\"Loading took too much time!\")```", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1496203558.713550"
+        }, 
+        {
+            "text": "Do any of you have experience with selenium at all? I am using it to create my screenshots but I can not figure out the delay to wait until the page fully loads. I am trying to get it to wait until the zoom element loads to proceed. This is what I have thus far.", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1496203509.707857"
+        }, 
+        {
+            "username": "powers_rc", 
+            "display_as_bot": false, 
+            "text": "<@U4G9R3ABY|powers_rc> uploaded a file: <https://gstudents.slack.com/files/powers_rc/F5J3DRMNK/proposal.pdf|Proposal.pdf>", 
+            "upload": true, 
+            "ts": "1495629575.416492", 
+            "subtype": "file_share", 
+            "user": "U4G9R3ABY", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1", 
+                        "users": [
+                            "U1Z90HJG3"
+                        ]
+                    }
+                ], 
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5J3DRMNK", 
+                "size": 321303, 
+                "title": "Proposal.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5J3DRMNK/proposal.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495629574, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5J3DRMNK/download/proposal.pdf", 
+                "user": "U4G9R3ABY", 
+                "groups": [
+                    "G5HUBLJ87"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "Proposal.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5J3DRMNK-aef94b9ba6", 
+                "permalink": "https://gstudents.slack.com/files/powers_rc/F5J3DRMNK/proposal.pdf", 
+                "is_external": false, 
+                "created": 1495629574, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Cameron could you please make that into a pdf for us?  Thanks.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1495603514.377546"
+        }, 
+        {
+            "username": "powers_rc", 
+            "display_as_bot": false, 
+            "text": "<@U4G9R3ABY|powers_rc> uploaded a file: <https://gstudents.slack.com/files/powers_rc/F5H445N6N/proposal.docx|Proposal.docx>", 
+            "upload": true, 
+            "ts": "1495596817.276543", 
+            "subtype": "file_share", 
+            "user": "U4G9R3ABY", 
+            "file": {
+                "filetype": "docx", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5H445N6N", 
+                "size": 445714, 
+                "title": "Proposal.docx", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5H445N6N/proposal.docx", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495596816, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5H445N6N/download/proposal.docx", 
+                "user": "U4G9R3ABY", 
+                "groups": [
+                    "G5HUBLJ87"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Word Document", 
+                "name": "Proposal.docx", 
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5H445N6N-9807ebb925", 
+                "permalink": "https://gstudents.slack.com/files/powers_rc/F5H445N6N/proposal.docx", 
+                "is_external": false, 
+                "created": 1495596816, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1495596779, 
+            "value": "Group messaging", 
+            "creator": "U4G9R3ABY"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--powers_rc-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--powers_rc-1", 
+        "last_read": "1498791622.382778", 
+        "creator": "U4G9R3ABY", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1495596779, 
+        "is_group": true, 
+        "members": [
+            "U4G9R3ABY", 
+            "U1Z90HJG3", 
+            "U1WHHHQ7N", 
+            "U33BKEP9Q", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": true, 
+        "purpose": {
+            "last_set": 1495596779, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky @powers_rc", 
+            "creator": "U4G9R3ABY"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5HUBLJ87", 
+        "latest": {
+            "text": "disregard. Solved", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1498791622.382778"
+        }
+    }
+}

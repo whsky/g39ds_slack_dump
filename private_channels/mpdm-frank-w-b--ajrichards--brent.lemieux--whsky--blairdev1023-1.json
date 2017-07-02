@@ -1,0 +1,117 @@
+{
+    "messages": [
+        {
+            "username": "blairdev1023", 
+            "display_as_bot": false, 
+            "text": "<@U4P15CTHT|blairdev1023> uploaded a file: <https://gstudents.slack.com/files/blairdev1023/F5GQ5BW8Z/blair_proposal.zip|blair_proposal.zip>", 
+            "upload": true, 
+            "ts": "1495639055.718919", 
+            "subtype": "file_share", 
+            "user": "U4P15CTHT", 
+            "file": {
+                "filetype": "zip", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5GQ5BW8Z", 
+                "size": 321547, 
+                "title": "blair_proposal.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5GQ5BW8Z/blair_proposal.zip", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495639054, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5GQ5BW8Z/download/blair_proposal.zip", 
+                "user": "U4P15CTHT", 
+                "groups": [
+                    "G5GM6CA64"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Zip", 
+                "name": "blair_proposal.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5GQ5BW8Z-c86368ab09", 
+                "permalink": "https://gstudents.slack.com/files/blairdev1023/F5GQ5BW8Z/blair_proposal.zip", 
+                "is_external": false, 
+                "created": 1495639054, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1495639041, 
+            "value": "Group messaging", 
+            "creator": "U4P15CTHT"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--blairdev1023-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--blairdev1023-1", 
+        "last_read": "1495639055.718919", 
+        "creator": "U4P15CTHT", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1495639041, 
+        "is_group": true, 
+        "members": [
+            "U4P15CTHT", 
+            "U1WHHHQ7N", 
+            "U1Z90HJG3", 
+            "U33BKEP9Q", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1495639041, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky @blairdev1023", 
+            "creator": "U4P15CTHT"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5GM6CA64", 
+        "latest": {
+            "username": "blairdev1023", 
+            "display_as_bot": false, 
+            "text": "<@U4P15CTHT|blairdev1023> uploaded a file: <https://gstudents.slack.com/files/blairdev1023/F5GQ5BW8Z/blair_proposal.zip|blair_proposal.zip>", 
+            "upload": true, 
+            "ts": "1495639055.718919", 
+            "subtype": "file_share", 
+            "user": "U4P15CTHT", 
+            "file": {
+                "filetype": "zip", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5GQ5BW8Z", 
+                "size": 321547, 
+                "title": "blair_proposal.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5GQ5BW8Z/blair_proposal.zip", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495639054, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5GQ5BW8Z/download/blair_proposal.zip", 
+                "user": "U4P15CTHT", 
+                "groups": [
+                    "G5GM6CA64"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Zip", 
+                "name": "blair_proposal.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5GQ5BW8Z-c86368ab09", 
+                "permalink": "https://gstudents.slack.com/files/blairdev1023/F5GQ5BW8Z/blair_proposal.zip", 
+                "is_external": false, 
+                "created": 1495639054, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    }
+}

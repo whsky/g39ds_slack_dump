@@ -1,0 +1,877 @@
+{
+    "messages": [
+        {
+            "text": "<@U1TU3PLMB|katieparker> archived the channel", 
+            "ts": "1485967367.000002", 
+            "subtype": "channel_archive", 
+            "user": "U1TU3PLMB", 
+            "members": [
+                "U1TU3PLMB", 
+                "U1V9LP9NG", 
+                "U1V9MDK0U", 
+                "U1V9TUF0Q", 
+                "U1VA83DGR", 
+                "U1VAR1ARE", 
+                "U1VB0A63W", 
+                "U1VB7V8E6", 
+                "U1VB80NDA", 
+                "U1VBKLDJR", 
+                "U1VKFG822", 
+                "U1VKTLR89", 
+                "U1VLTCLTS"
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1VAKEUHJ|jakebell> has left the channel", 
+            "type": "message", 
+            "user": "U1VAKEUHJ", 
+            "ts": "1477503425.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "disapproval", 
+                    "users": [
+                        "U1VAR1ARE", 
+                        "U1VA83DGR"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1V9MDK0U"
+                    ]
+                }
+            ], 
+            "text": "Can I just update the spreadsheet without pay him back?", 
+            "type": "message", 
+            "user": "U1VB7V8E6", 
+            "ts": "1476367485.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "upvote", 
+                    "users": [
+                        "U1VB80NDA"
+                    ]
+                }, 
+                {
+                    "count": 2, 
+                    "name": "baby_bottle", 
+                    "users": [
+                        "U1V9MDK0U", 
+                        "U1VB0A63W"
+                    ]
+                }
+            ], 
+            "text": "Yes, mother. ", 
+            "type": "message", 
+            "user": "U1VB7V8E6", 
+            "ts": "1476309544.000006"
+        }, 
+        {
+            "text": "Also <@U1VB80NDA> <@U1VB0A63W> <@U1VB7V8E6> <@U1VKTLR89> <@U1V9MDK0U> remember to pay Chad back! And once you do update the spreadsheet!!! <https://docs.google.com/spreadsheets/d/1KdSda_sYhv6_ScEVweT3JT0D7P56UJTtw0O_788RL20/edit#gid=0>", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1476309490.000005"
+        }, 
+        {
+            "text": "Actually <@U1VB7V8E6> you also need to sign the cards too", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1476304537.000004"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VA83DGR"
+                    ]
+                }
+            ], 
+            "text": "yesh", 
+            "type": "message", 
+            "user": "U1V9MDK0U", 
+            "ts": "1476303122.000003"
+        }, 
+        {
+            "text": "<@U1V9MDK0U> have you signed the cards yet? I know <@U1VB80NDA> and <@U1VLTCLTS> still need to sign as well.", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1476303098.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1V9MDK0U"
+                    ]
+                }
+            ], 
+            "text": "This can easily be done. I have a key to the storage area. You all just let me know when we need to 007 Adele", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1476117429.000008"
+        }, 
+        {
+            "text": "<@U1TU3PLMB> okay well let Chad or I know then. I know Chad is going to the alumni thing that night so he\u2019ll be here. We just need to make sure the powers that be don\u2019t know anything about this.", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1476116627.000007"
+        }, 
+        {
+            "text": "Sounds good. Yes, I can find a storage area to keep it safe and secret", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1476116443.000006"
+        }, 
+        {
+            "text": "<@U1V9TUF0Q> was thinking of bringing it and setting it up on Wed", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1476116339.000005"
+        }, 
+        {
+            "text": "<@U1VA83DGR> Yes! Do you have it with you today?", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1476115879.000004"
+        }, 
+        {
+            "text": "<@U1TU3PLMB> is there a place we can hide the Adele cardboard cut out where Ken, Ryan, and Ian won\u2019t see on Thursday?", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1476114215.000003"
+        }, 
+        {
+            "text": "Hey guys I have cards for Ryan, Ken, and Ian for all of us to sign so please come up to me at some point when you have time (and can be sneaky) to sign them!", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1476114175.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "moneybag", 
+                    "users": [
+                        "U1VBKLDJR"
+                    ]
+                }
+            ], 
+            "text": "Remember to pay Chad back guys! Or if you have already please move your name to the appropriate spot on the spreadsheet: <https://docs.google.com/spreadsheets/d/1KdSda_sYhv6_ScEVweT3JT0D7P56UJTtw0O_788RL20/edit#gid=0>", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1475509531.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "plus1", 
+                    "users": [
+                        "U1V9MDK0U"
+                    ]
+                }
+            ], 
+            "text": "<@U1V9TUF0Q> Let me know if you do end up getting a Venmo account. Happy to donate to the cause", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1474305434.000010"
+        }, 
+        {
+            "text": "hahaha Probably. Maybe I\u2019ll get a venmo at some point, just a bit busy now.", 
+            "type": "message", 
+            "user": "U1V9TUF0Q", 
+            "ts": "1474240374.000009"
+        }, 
+        {
+            "text": "I\u2019m guessing you\u2019re probably going to have to stock up in change <@U1V9TUF0Q> :sweat_smile:", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1474240351.000008"
+        }, 
+        {
+            "text": "Nope. Cash only. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1V9TUF0Q", 
+            "ts": "1474240265.000007"
+        }, 
+        {
+            "text": "awesome thank you both for organizing this! <@U1V9TUF0Q> do you have venmo/squarecash?", 
+            "type": "message", 
+            "user": "U1VKFG822", 
+            "ts": "1474240181.000006"
+        }, 
+        {
+            "text": "<@U1VBKLDJR> <@U1VKFG822> <@U1VB7V8E6> <@U1VAKEUHJ> <@U1VB0A63W> <@U1V9LP9NG> <@U1VKTLR89> <@U1VLTCLTS> <@U1VB80NDA> <@U1V9MDK0U> <@U1VAR1ARE>", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1474240073.000005"
+        }, 
+        {
+            "text": "<https://docs.google.com/spreadsheets/d/1KdSda_sYhv6_ScEVweT3JT0D7P56UJTtw0O_788RL20/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1474239986.000004"
+        }, 
+        {
+            "text": "I\u2019m making a google spreadsheet right now so we can keep track of who has paid you Chad.", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1474239776.000003"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "clap", 
+                    "users": [
+                        "U1VAR1ARE", 
+                        "U1VBKLDJR"
+                    ]
+                }
+            ], 
+            "text": "Adele Lifesize Cutout: $84.78\nDr. Pepper Candle: $23.27\nGame of Thrones Goblet: $40.49\nTotal: $148.54\nIndividual ($148.54 / 13): $11.50", 
+            "type": "message", 
+            "user": "U1V9TUF0Q", 
+            "ts": "1474239655.000002"
+        }, 
+        {
+            "text": "Awesome thank you <@U1V9TUF0Q>! Let us know what the total comes out to and we can split the difference among everyone in the class.", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473613302.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "money_with_wings", 
+                    "users": [
+                        "U1VAR1ARE", 
+                        "U1VBKLDJR", 
+                        "U1VA83DGR"
+                    ]
+                }
+            ], 
+            "text": "Sure. I'll do it.", 
+            "type": "message", 
+            "user": "U1V9TUF0Q", 
+            "ts": "1473481878.000016"
+        }, 
+        {
+            "text": "<@U1VBKLDJR> <@U1VKFG822> <@U1VB7V8E6> <@U1V9TUF0Q> <@U1VAKEUHJ> <@U1VB0A63W> <@U1V9LP9NG> <@U1VLTCLTS> <@U1VB80NDA> <@U1V9MDK0U> <@U1VAR1ARE> <@U1VKTLR89> Anyone want to volunteer to buy the whole set and we pay them back via a split of 13? I can\u2019t buy all the items in one go but if no one else can either I can at least pay for one of the items and have people pay me back.", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473476147.000015"
+        }, 
+        {
+            "text": "So who's ordering?", 
+            "type": "message", 
+            "user": "U1VBKLDJR", 
+            "ts": "1473470206.000014"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "candle", 
+                    "users": [
+                        "U1VB7V8E6"
+                    ]
+                }, 
+                {
+                    "count": 4, 
+                    "name": "parrot_fiestaparrot", 
+                    "users": [
+                        "U1VBKLDJR", 
+                        "U1VKFG822", 
+                        "U1V9TUF0Q", 
+                        "U1VLTCLTS"
+                    ]
+                }
+            ], 
+            "text": "Okay so candle for Ian, goblet for Ryan, and Adele cutout for Ken. Everyone good?", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473461279.000013"
+        }, 
+        {
+            "text": "I make fun of him because i always see him with Dr Pepper and Cheddar Ruffles. He does love Dr pepper though. That candle would be hilarious", 
+            "type": "message", 
+            "user": "U1V9MDK0U", 
+            "ts": "1473459176.000012"
+        }, 
+        {
+            "text": "I never knew this about him lol :joy:", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473452447.000011"
+        }, 
+        {
+            "text": "Does Ian really like Dr. Pepper a lot?", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473452431.000010"
+        }, 
+        {
+            "text": "<https://www.etsy.com/listing/104378919/dr-pepper-mason-jar-candle-soda-pop?ref=market>", 
+            "type": "message", 
+            "user": "U1VB0A63W", 
+            "ts": "1473452278.000008", 
+            "attachments": [
+                {
+                    "image_bytes": 63948, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "$12.00", 
+                            "title": "USD"
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "4", 
+                            "title": "Available"
+                        }
+                    ], 
+                    "title": "Dr Pepper Mason Jar Candle Soda Pop Scent 12 Oz Handmade", 
+                    "service_name": "Etsy", 
+                    "image_width": 250, 
+                    "title_link": "https://www.etsy.com/listing/104378919/dr-pepper-mason-jar-candle-soda-pop?ref=market", 
+                    "image_height": 250, 
+                    "image_url": "https://img1.etsystatic.com/021/0/5158216/il_570xN.492929593_8z18.jpg", 
+                    "text": "The scent is Doctor Pepper - A blend of spicy orange and cherry notes with hints of toasted almond, clove and cinnamon. The candle is burgundy color. This is a 12 ounce clear glass mason jar with gold tone lid. The candle weighs over a pound. The jar is 4 1/2 inches (12 cm) tall. Approximately 70-80 hours burn time. I put the label on the lid only so you can enjoy your candle burning through the clear glass. Your jar also comes with a pretty hang tag describing the scent with a pretty gold cord and bow making it perfect for gift giving. The wicking I use is a cotton/paper blend which is supposed to be self trimming, however, its always best to keep the wick trimmed to no more than a quarter inch and keep the wick centered in the jar for the best burning. My candles are highly scented and throw the scent well both lit and unlit.", 
+                    "id": 1, 
+                    "fallback": "Etsy: Dr Pepper Mason Jar Candle Soda Pop Scent 12 Oz Handmade", 
+                    "service_icon": "https://www.etsy.com/images/favicon.ico", 
+                    "from_url": "https://www.etsy.com/listing/104378919/dr-pepper-mason-jar-candle-soda-pop?ref=market"
+                }
+            ]
+        }, 
+        {
+            "text": "CHEDDAR RUFFLES AND DR PEPPER", 
+            "type": "message", 
+            "user": "U1V9MDK0U", 
+            "ts": "1473452148.000007"
+        }, 
+        {
+            "text": "We still really need to think of something for Ian!", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473451859.000006"
+        }, 
+        {
+            "text": "<https://www.google.com/?client=safari#q=game+of+thrones+dinner+is+coming&amp;safe=off&amp;tbm=shop>", 
+            "type": "message", 
+            "user": "U1VAR1ARE", 
+            "ts": "1473451469.000004", 
+            "attachments": [
+                {
+                    "title": "Google", 
+                    "text": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.", 
+                    "title_link": "https://www.google.com/?client=safari#q=game+of+thrones+dinner+is+coming&safe=off&tbm=shop", 
+                    "service_name": "google.com", 
+                    "id": 1, 
+                    "fallback": "Google", 
+                    "service_icon": "https://www.google.com/favicon.ico", 
+                    "from_url": "https://www.google.com/?client=safari#q=game+of+thrones+dinner+is+coming&safe=off&tbm=shop"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.google.com/?client=safari#safe=off&amp;tbm=shop&amp;q=game+of+thrones+dinner+is+coming+apron>", 
+            "type": "message", 
+            "user": "U1VAR1ARE", 
+            "ts": "1473451435.000002", 
+            "attachments": [
+                {
+                    "title": "Google", 
+                    "text": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.", 
+                    "title_link": "https://www.google.com/?client=safari#safe=off&tbm=shop&q=game+of+thrones+dinner+is+coming+apron", 
+                    "service_name": "google.com", 
+                    "id": 1, 
+                    "fallback": "Google", 
+                    "service_icon": "https://www.google.com/favicon.ico", 
+                    "from_url": "https://www.google.com/?client=safari#safe=off&tbm=shop&q=game+of+thrones+dinner+is+coming+apron"
+                }
+            ]
+        }, 
+        {
+            "text": "Okee dokee", 
+            "type": "message", 
+            "user": "U1VBKLDJR", 
+            "ts": "1473296806.000002"
+        }, 
+        {
+            "text": "And I\u2019m pretty sure he already has the books already", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473209258.000053"
+        }, 
+        {
+            "text": "He did but he missed the sale and hasn\u2019t gotten it", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473209226.000052"
+        }, 
+        {
+            "text": "The books, if he hasn't read them, are pretty reasonable <https://www.amazon.com/George-Martins-Thrones-5-Book-Boxed/dp/0345535529/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1473207530&amp;sr=1-1&amp;keywords=a+song+of+ice+and+fire>", 
+            "type": "message", 
+            "user": "U1VBKLDJR", 
+            "ts": "1473207645.000051"
+        }, 
+        {
+            "text": "Didn't Ryan say he was going to buy the goblet?", 
+            "type": "message", 
+            "user": "U1VBKLDJR", 
+            "ts": "1473207397.000050"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VA83DGR"
+                    ]
+                }
+            ], 
+            "name": "students_g28", 
+            "text": "<@U1TU3PLMB|katieparker> has renamed the channel from \"g28_students\" to \"students_g28\"", 
+            "ts": "1473203354.000049", 
+            "subtype": "channel_name", 
+            "user": "U1TU3PLMB", 
+            "old_name": "g28_students", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "laughing", 
+                    "users": [
+                        "U1VA83DGR"
+                    ]
+                }, 
+                {
+                    "count": 2, 
+                    "name": "squirtle", 
+                    "users": [
+                        "U1VBKLDJR", 
+                        "U1VB0A63W"
+                    ]
+                }
+            ], 
+            "text": "For Ian (not really): <https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&amp;field-keywords=how+to+draw+pokemon>", 
+            "type": "message", 
+            "user": "U1VAR1ARE", 
+            "ts": "1473201748.000041"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VA83DGR", 
+                        "U1VAKEUHJ"
+                    ]
+                }
+            ], 
+            "text": "^ Ken definitely has room in his apartment for that", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1473200442.000040"
+        }, 
+        {
+            "text": "<@U1VA83DGR|nhedeker> set the channel topic: TOP SECRET GIFTS TO INSTRUCTORS", 
+            "ts": "1473200433.000039", 
+            "topic": "TOP SECRET GIFTS TO INSTRUCTORS", 
+            "subtype": "channel_topic", 
+            "user": "U1VA83DGR", 
+            "type": "message"
+        }, 
+        {
+            "text": "Okay honestly I\u2019m kinda a big fan of the Adele cardboard cutout idea :laughing:", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473200386.000038"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 4, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VA83DGR", 
+                        "U1V9TUF0Q", 
+                        "U1VBKLDJR", 
+                        "U1VB7V8E6"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 659, 
+                    "service_icon": "http://cdn2.bigcommerce.com/n-ou1isn/ydriczk/product_images/fav.gif", 
+                    "thumb_width": 323, 
+                    "title": "Adele Lifesize Cardboard Cutout / Standee/ Stand Up", 
+                    "service_name": "Starstills.com", 
+                    "title_link": "http://www.starstills.com/adele-lifesize-cardboard-cutout-standee-stand-up/", 
+                    "text": "Lifesize Cardboard Cutout of Adele huge selection of movie, music and celebrity cutouts, standees and standups available now at <http://Starstills.com|Starstills.com>", 
+                    "id": 1, 
+                    "fallback": "Starstills.com: Adele Lifesize Cardboard Cutout / Standee/ Stand Up", 
+                    "thumb_url": "http://cdn1.bigcommerce.com/n-ou1isn/ydriczk/products/87762/images/89469/Adele_Lifesize_Cardboard_Cutout_available_now_at_starstills__46185.1459854117.500.659.jpg?c=2", 
+                    "from_url": "http://www.starstills.com/adele-lifesize-cardboard-cutout-standee-stand-up/"
+                }
+            ], 
+            "text": "<http://www.starstills.com/adele-lifesize-cardboard-cutout-standee-stand-up/>", 
+            "ts": "1473200158.000036", 
+            "user": "U1VAR1ARE", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "sunglasses", 
+                    "users": [
+                        "U1VB7V8E6"
+                    ]
+                }
+            ], 
+            "text": "we can just buy Ian a Dr Pepper and some Cheddar Ruffles.", 
+            "type": "message", 
+            "user": "U1V9MDK0U", 
+            "ts": "1473200095.000035"
+        }, 
+        {
+            "text": "I\u2019m happy to pitch in as well!", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1473199940.000034"
+        }, 
+        {
+            "text": "If anyone knows of any other good items or online stores please recommend them!", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473199652.000033"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "pineapple", 
+                    "users": [
+                        "U1VBKLDJR", 
+                        "U1TU3PLMB"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 600, 
+                    "service_icon": "http://www.thinkgeek.com/images/mobile/timmy-icon-57.png", 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "$14.99", 
+                            "title": "Price"
+                        }
+                    ], 
+                    "thumb_width": 600, 
+                    "title": "Pi By the Numbers Heat Change Mug", 
+                    "service_name": "ThinkGeek", 
+                    "title_link": "http://www.thinkgeek.com/product/isqq/?srp=17", 
+                    "text": "Each Pi By the Numbers Heat Change Mug is covered in Pi. When it's cold, the mug displays Pi's nickname: 3.14. But when you fill that same mug with hot caffeinated liquid, Pi majestically unfurls around it to 334 decimal places.", 
+                    "id": 1, 
+                    "fallback": "ThinkGeek: Pi By the Numbers Heat Change Mug", 
+                    "thumb_url": "http://www.thinkgeek.com/images/products/zoom/isqq_pi_by_numbers_heat_change_mug.gif", 
+                    "from_url": "http://www.thinkgeek.com/product/isqq/?srp=17"
+                }
+            ], 
+            "text": "Maybe something like this for Ken? <http://www.thinkgeek.com/product/isqq/?srp=17>", 
+            "ts": "1473199627.000031", 
+            "user": "U1VA83DGR", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1VA83DGR|nhedeker> set the channel topic: Showing our appreciation to the instructors ", 
+            "ts": "1473199464.000030", 
+            "topic": "Showing our appreciation to the instructors ", 
+            "subtype": "channel_topic", 
+            "user": "U1VA83DGR", 
+            "type": "message"
+        }, 
+        {
+            "text": "I\u2019m good with buying the goblet or whatever other items you think is best. They have done a great job and do definitely deserve a thank you!", 
+            "type": "message", 
+            "user": "U1V9TUF0Q", 
+            "ts": "1473199369.000028"
+        }, 
+        {
+            "text": "Something math-related for Ken", 
+            "type": "message", 
+            "user": "U1VBKLDJR", 
+            "ts": "1473199352.000027"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 6, 
+                    "name": "+1", 
+                    "users": [
+                        "U1V9TUF0Q", 
+                        "U1VAR1ARE", 
+                        "U1VBKLDJR", 
+                        "U1VB7V8E6", 
+                        "U1TU3PLMB", 
+                        "U1VAKEUHJ"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U1VA83DGR", 
+                "ts": "1473199404.000000"
+            }, 
+            "text": "Please also react to this comment just so I can get a head count of who has seen this and who hasn\u2019t <@U1VBKLDJR> <@U1VKFG822> <@U1VB7V8E6> <@U1V9TUF0Q> <@U1VAKEUHJ> <@U1VB0A63W> <@U1V9LP9NG> <@U1VKTLR89> <@U1VLTCLTS> <@U1VB80NDA> <@U1V9MDK0U> <@U1VAR1ARE>", 
+            "ts": "1473199307.000026", 
+            "user": "U1VA83DGR", 
+            "type": "message"
+        }, 
+        {
+            "text": "So what do you all think? Also this is obviously TOP SECRET so no spilling the beans to our current and past instructors!!!", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473199086.000024", 
+            "edited": {
+                "user": "U1VA83DGR", 
+                "ts": "1473199187.000000"
+            }
+        }, 
+        {
+            "text": "There are a lot of ways we can go about this in terms of logistics. Probably simplest is one person buying all the stuff and then split the total cost evenly amongst the class and pay that one person back (either in cash or via venmo).", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473199081.000023"
+        }, 
+        {
+            "text": "I\u2019m not as sure what we could get for Ken and Ian but I figured you guys might have some ideas.", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473199076.000022"
+        }, 
+        {
+            "text": "For Ryan since he\u2019s such a huge Game of Thrones fan I figured we could give him the replica dragon claw goblet that is listed on ThinkGeek. Here is the link and it only costs $30: <http://www.thinkgeek.com/product/190e/?srp=1>.", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473199070.000020", 
+            "attachments": [
+                {
+                    "thumb_height": 710, 
+                    "service_icon": "http://www.thinkgeek.com/images/mobile/timmy-icon-57.png", 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "$29.99", 
+                            "title": "Price"
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "Home &amp; Office :: Glassware &amp; Drinkware", 
+                            "title": "Category"
+                        }
+                    ], 
+                    "thumb_width": 516, 
+                    "title": "Game of Thrones Dragonclaw Goblet Replica", 
+                    "service_name": "ThinkGeek", 
+                    "title_link": "http://www.thinkgeek.com/product/190e/?srp=1", 
+                    "text": "You don't have to know the story behind this Game of Thrones goblet to be impressed by it. With a resin stem shaped like a dragon's claws and a glass bowl, this chalice is perfect for hosting parties or for a quiet dinner alone pondering the fate", 
+                    "id": 1, 
+                    "fallback": "ThinkGeek: Game of Thrones Dragonclaw Goblet Replica", 
+                    "thumb_url": "http://www.thinkgeek.com/images/products/zoom/190e_got_replica_dragonclaw_goblet.jpg", 
+                    "from_url": "http://www.thinkgeek.com/product/190e/?srp=1"
+                }
+            ]
+        }, 
+        {
+            "text": "Hey Everyone. So the program is ending soon and for a while now I\u2019ve been thinking of ways to maybe show Ryan, Ken, and Ian how much we appreciate them on graduation day. I\u2019m pretty sure we are all super grateful for all the hours and work they have put into our education to make it the best that it can be. I was thinking we can collectively get each one a present to give to them on graduation day.", 
+            "type": "message", 
+            "user": "U1VA83DGR", 
+            "ts": "1473199064.000019"
+        }, 
+        {
+            "text": "<@U1V9TUF0Q|chadlatham> has joined the channel", 
+            "ts": "1473199060.000018", 
+            "subtype": "channel_join", 
+            "user": "U1V9TUF0Q", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1VB80NDA|setfloat> has joined the channel", 
+            "ts": "1473199060.000017", 
+            "subtype": "channel_join", 
+            "user": "U1VB80NDA", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1VKTLR89|mrb91002> has joined the channel", 
+            "ts": "1473199060.000016", 
+            "subtype": "channel_join", 
+            "user": "U1VKTLR89", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1V9LP9NG|mattstuhring> has joined the channel", 
+            "ts": "1473199059.000015", 
+            "subtype": "channel_join", 
+            "user": "U1V9LP9NG", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1VB7V8E6|bropheus> has joined the channel", 
+            "ts": "1473199059.000014", 
+            "subtype": "channel_join", 
+            "user": "U1VB7V8E6", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1V9MDK0U|spanningtime> has joined the channel", 
+            "ts": "1473199059.000013", 
+            "subtype": "channel_join", 
+            "user": "U1V9MDK0U", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1VKFG822|jseligman> has joined the channel", 
+            "ts": "1473199059.000012", 
+            "subtype": "channel_join", 
+            "user": "U1VKFG822", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1VB0A63W|johnc> has joined the channel", 
+            "ts": "1473199059.000011", 
+            "subtype": "channel_join", 
+            "user": "U1VB0A63W", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1VAR1ARE|thatmichaelpark> has joined the channel", 
+            "ts": "1473199058.000010", 
+            "subtype": "channel_join", 
+            "user": "U1VAR1ARE", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1VAKEUHJ|jakebell> has joined the channel", 
+            "ts": "1473199058.000009", 
+            "subtype": "channel_join", 
+            "user": "U1VAKEUHJ", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1VLTCLTS|peterdoane> has joined the channel", 
+            "ts": "1473199058.000008", 
+            "subtype": "channel_join", 
+            "user": "U1VLTCLTS", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1VBKLDJR|hienpd> has joined the channel", 
+            "ts": "1473199058.000007", 
+            "subtype": "channel_join", 
+            "user": "U1VBKLDJR", 
+            "type": "message", 
+            "inviter": "U1VA83DGR"
+        }, 
+        {
+            "text": "<@U1VA83DGR|nhedeker> set the channel purpose: TOP SECRET: Showing Ryan, Ken, and Ian how grateful and appreciative we are for everything they have done for us.", 
+            "ts": "1473193026.000006", 
+            "subtype": "channel_purpose", 
+            "user": "U1VA83DGR", 
+            "type": "message", 
+            "purpose": "TOP SECRET: Showing Ryan, Ken, and Ian how grateful and appreciative we are for everything they have done for us."
+        }, 
+        {
+            "text": "<@U1VA83DGR|nhedeker> set the channel purpose: Showing Ryan, Ken, and Ian how grateful and appreciative we are for everything they have done for us.", 
+            "ts": "1473192800.000005", 
+            "subtype": "channel_purpose", 
+            "user": "U1VA83DGR", 
+            "type": "message", 
+            "purpose": "Showing Ryan, Ken, and Ian how grateful and appreciative we are for everything they have done for us."
+        }, 
+        {
+            "text": "<@U1VA83DGR|nhedeker> set the channel purpose: How to show Ryan, Ken, and Ian how grateful we are for everything they have done for us.", 
+            "ts": "1473192769.000004", 
+            "subtype": "channel_purpose", 
+            "user": "U1VA83DGR", 
+            "type": "message", 
+            "purpose": "How to show Ryan, Ken, and Ian how grateful we are for everything they have done for us."
+        }, 
+        {
+            "text": "<@U1VA83DGR|nhedeker> has joined the channel", 
+            "ts": "1473192704.000003", 
+            "subtype": "channel_join", 
+            "user": "U1VA83DGR", 
+            "type": "message", 
+            "inviter": "U1TU3PLMB"
+        }, 
+        {
+            "text": "<@U1TU3PLMB|katieparker> has joined the channel", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1473192686.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1473200433, 
+            "value": "TOP SECRET GIFTS TO INSTRUCTORS", 
+            "creator": "U1VA83DGR"
+        }, 
+        "is_general": false, 
+        "name_normalized": "students_g28", 
+        "name": "students_g28", 
+        "is_channel": true, 
+        "created": 1473192687, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U1TU3PLMB", 
+        "is_org_shared": false, 
+        "previous_names": [
+            "g28_students"
+        ], 
+        "purpose": {
+            "last_set": 1473193027, 
+            "value": "TOP SECRET: Showing Ryan, Ken, and Ian how grateful and appreciative we are for everything they have done for us.", 
+            "creator": "U1VA83DGR"
+        }, 
+        "members": [], 
+        "id": "C28QGDWDC", 
+        "is_shared": false
+    }
+}

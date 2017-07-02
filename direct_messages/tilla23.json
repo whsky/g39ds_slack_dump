@@ -1,0 +1,161 @@
+{
+    "messages": [
+        {
+            "text": "No worries!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497898496.148103"
+        }, 
+        {
+            "username": "tilla23", 
+            "display_as_bot": false, 
+            "text": "<@U3PNGE865|tilla23> uploaded a file: <https://gstudents.slack.com/files/tilla23/F5WST4R71/poster.pdf|poster.pdf> and commented: sorry, was wrestling with the printer upstairs!", 
+            "upload": true, 
+            "ts": "1497898234.052394", 
+            "subtype": "file_share", 
+            "user": "U3PNGE865", 
+            "file": {
+                "initial_comment": {
+                    "comment": "sorry, was wrestling with the printer upstairs!", 
+                    "created": 1497898233, 
+                    "timestamp": 1497898233, 
+                    "is_intro": true, 
+                    "user": "U3PNGE865", 
+                    "id": "Fc5WS9BXDL"
+                }, 
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5WST4R71", 
+                "size": 209635, 
+                "title": "poster.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5WST4R71/poster.pdf", 
+                "ims": [
+                    "D5BL470SK"
+                ], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1497898233, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5WST4R71/download/poster.pdf", 
+                "user": "U3PNGE865", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "poster.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5WST4R71-c0d8ddc5cf", 
+                "permalink": "https://gstudents.slack.com/files/tilla23/F5WST4R71/poster.pdf", 
+                "is_external": false, 
+                "created": 1497898233, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "You got this shit!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497644819.525135"
+        }, 
+        {
+            "text": "word, thanks a lot man.  gonna be a super busy weekend but hopefully I\u2019ll have something awesome ready for Monday!", 
+            "type": "message", 
+            "user": "U3PNGE865", 
+            "ts": "1497642893.986500"
+        }, 
+        {
+            "text": "Sweet let me know if you get stuck somewhere...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497642843.972010"
+        }, 
+        {
+            "text": "yep, I was just about to shoot you an update - spoke with Adam and floated the idea of pivoting to a purely cluster-based project, he said it\u2019d be cool as long as it\u2019s truly a deep dive into unsupervised pattern extraction, which I\u2019m totally down with.  he gave me a couple ideas to move forward in that direction, and I\u2019m giving them a shot - currently looking at pairwise plots of my feature space..", 
+            "type": "message", 
+            "user": "U3PNGE865", 
+            "ts": "1497642266.811475"
+        }, 
+        {
+            "text": "Did you manage to get some face time with Adam or Frank?", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497641866.700028"
+        }, 
+        {
+            "text": "It's absolutely your call. If you think that you won't be competing in the same sector than by all means make a poster as well.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497551926.325335"
+        }, 
+        {
+            "text": "hey man, Pete and I are both leaning towards doing posters right now..we think our projects have diverged enough to the point that using the same medium shouldn\u2019t be a huge deal - thoughts?", 
+            "type": "message", 
+            "user": "U3PNGE865", 
+            "ts": "1497551757.264424"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1494429417.956836"
+        }, 
+        {
+            "text": "cool will do.", 
+            "type": "message", 
+            "user": "U3PNGE865", 
+            "ts": "1494429310.922428"
+        }, 
+        {
+            "text": "Sorry to hear it...slack Adam and get his thoughts about the Assessment coming up. We will try to figure something out!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1494429283.913271"
+        }, 
+        {
+            "text": "hey Steve, just a quick update - feeling about the same as yesterday, I\u2019m going in to the surgeon at 3:40 today and will get the extraction at that time if the doctor thinks I need it.  I\u2019ll let you guys know what\u2019s going on - I don\u2019t know if I\u2019ll be able to come in for the assessment tomorrow if I do end up getting the surgery, but I definitely want to try at least doing it from home or something, if you guys are open to it.", 
+            "type": "message", 
+            "user": "U3PNGE865", 
+            "ts": "1494429177.879158"
+        }, 
+        {
+            "text": "Let us know if you are struggling with anything, and we will try to help.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1494345391.235709"
+        }, 
+        {
+            "text": "thanks man, definitely appreciate you guys all being so understanding! Adam sort of gave me a road map for what to focus on for the next few days, gonna do my best to stay caught up from here.", 
+            "type": "message", 
+            "user": "U3PNGE865", 
+            "ts": "1494344688.019934"
+        }, 
+        {
+            "text": "Damn, I had that same thing happen to me in high school. It laid me up for a few days for sure.\nTake care of yourself first!\nHope they can get you in and taken care of soon...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1494344566.983265"
+        }, 
+        {
+            "text": "hey man, was just going to message you guys.  I spoke with Adam and Frank before I took off yesterday, but not sure how much of this they already relayed to you. It turns out I\u2019ve got an impacted wisdom tooth - normally they could just yank it, but the oral surgeon looked at my 2d x-ray and was concerned the tooth might be right on top of a nerve, which would complicate things.  I just got back from getting a CT scan at a different place, and am just waiting to hear from the surgeon - really hoping they can squeeze me in today, but I\u2019m scheduled for tomorrow at 2:30, and it sounds like they won\u2019t even be able to do the surgery at that time, as it\u2019s just a \u2018consultation\u2019, and any surgery would have to go down at a separate appointment. \n\n I\u2019m in some serious pain right now and definitely can\u2019t make it in today, but they threw me on antibiotics and gave me a saline rinse, so I\u2019m hoping it\u2019ll clear up and I\u2019ll be able to come back in ASAP - I guess the pain is just from the infection, so if that clears up I should definitely be able to make it for Thursday and Friday, and can just put the surgery off.", 
+            "type": "message", 
+            "user": "U3PNGE865", 
+            "ts": "1494344407.932817"
+        }, 
+        {
+            "text": "Are you around today?", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1494343035.504383"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U3PNGE865", 
+            "U34BY2K3K"
+        ]
+    }
+}

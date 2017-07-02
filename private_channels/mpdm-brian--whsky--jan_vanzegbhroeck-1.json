@@ -1,0 +1,143 @@
+{
+    "messages": [
+        {
+            "username": "brian", 
+            "display_as_bot": false, 
+            "text": "<@U34A9NM7H|brian> uploaded a file: <https://gstudents.slack.com/files/brian/F3X9HK763/pair.py|pair.py> and commented: To my two best friends:", 
+            "upload": true, 
+            "ts": "1485388904.000002", 
+            "subtype": "file_share", 
+            "user": "U34A9NM7H", 
+            "file": {
+                "initial_comment": {
+                    "comment": "To my two best friends:", 
+                    "created": 1485388904, 
+                    "timestamp": 1485388904, 
+                    "is_intro": true, 
+                    "user": "U34A9NM7H", 
+                    "id": "Fc3VT89J72"
+                }, 
+                "filetype": "python", 
+                "lines_more": 90, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3X9HK763", 
+                "size": 2635, 
+                "title": "pair.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3X9HK763/pair.py", 
+                "ims": [], 
+                "preview": "import pandas as pd\nfrom sklearn.feature_extraction.text import CountVectorizer\nfrom sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS\nimport numpy as np\nfrom numpy.linalg import lstsq, norm", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/brian/F3X9HK763/pair.py/edit", 
+                "username": "", 
+                "timestamp": 1485388904, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3X9HK763/download/pair.py", 
+                "user": "U34A9NM7H", 
+                "groups": [
+                    "G3VT80Z4Y"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "pair.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3X9HK763-78058a68a2", 
+                "permalink": "https://gstudents.slack.com/files/brian/F3X9HK763/pair.py", 
+                "is_external": false, 
+                "created": 1485388904, 
+                "lines": 95, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">pandas</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">pd</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">sklearn</span>.<span class=\"cm-property\">feature_extraction</span>.<span class=\"cm-property\">text</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">CountVectorizer</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">sklearn</span>.<span class=\"cm-property\">feature_extraction</span>.<span class=\"cm-property\">stop_words</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">ENGLISH_STOP_WORDS</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">numpy</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">np</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">numpy</span>.<span class=\"cm-property\">linalg</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">lstsq</span>, <span class=\"cm-variable\">norm</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1485388860, 
+            "value": "Group messaging", 
+            "creator": "U34A9NM7H"
+        }, 
+        "name_normalized": "mpdm-brian--whsky--jan_vanzegbhroeck-1", 
+        "name": "mpdm-brian--whsky--jan_vanzegbhroeck-1", 
+        "last_read": "1485388904.000002", 
+        "creator": "U34A9NM7H", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1485388860, 
+        "is_group": true, 
+        "members": [
+            "U34A9NM7H", 
+            "U3BHWDP0D", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1485388860, 
+            "value": "Group messaging with: @brian @whsky @jan_vanzegbhroeck", 
+            "creator": "U34A9NM7H"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G3VT80Z4Y", 
+        "latest": {
+            "username": "brian", 
+            "display_as_bot": false, 
+            "text": "<@U34A9NM7H|brian> uploaded a file: <https://gstudents.slack.com/files/brian/F3X9HK763/pair.py|pair.py> and commented: To my two best friends:", 
+            "upload": true, 
+            "ts": "1485388904.000002", 
+            "subtype": "file_share", 
+            "user": "U34A9NM7H", 
+            "file": {
+                "initial_comment": {
+                    "comment": "To my two best friends:", 
+                    "created": 1485388904, 
+                    "timestamp": 1485388904, 
+                    "is_intro": true, 
+                    "user": "U34A9NM7H", 
+                    "id": "Fc3VT89J72"
+                }, 
+                "filetype": "python", 
+                "lines_more": 90, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3X9HK763", 
+                "size": 2635, 
+                "title": "pair.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3X9HK763/pair.py", 
+                "ims": [], 
+                "preview": "import pandas as pd\nfrom sklearn.feature_extraction.text import CountVectorizer\nfrom sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS\nimport numpy as np\nfrom numpy.linalg import lstsq, norm", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/brian/F3X9HK763/pair.py/edit", 
+                "username": "", 
+                "timestamp": 1485388904, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3X9HK763/download/pair.py", 
+                "user": "U34A9NM7H", 
+                "groups": [
+                    "G3VT80Z4Y"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "pair.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3X9HK763-78058a68a2", 
+                "permalink": "https://gstudents.slack.com/files/brian/F3X9HK763/pair.py", 
+                "is_external": false, 
+                "created": 1485388904, 
+                "lines": 95, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">pandas</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">pd</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">sklearn</span>.<span class=\"cm-property\">feature_extraction</span>.<span class=\"cm-property\">text</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">CountVectorizer</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">sklearn</span>.<span class=\"cm-property\">feature_extraction</span>.<span class=\"cm-property\">stop_words</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">ENGLISH_STOP_WORDS</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">numpy</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">np</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">numpy</span>.<span class=\"cm-property\">linalg</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">lstsq</span>, <span class=\"cm-variable\">norm</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    }
+}

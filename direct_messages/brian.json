@@ -1,0 +1,148 @@
+{
+    "messages": [
+        {
+            "text": "but name is just `bd McKean` for both...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489615616.618525"
+        }, 
+        {
+            "text": "I see two entries", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489615596.613374"
+        }, 
+        {
+            "text": "I imagine their servers must be getting hit pretty hard right now...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489615572.606837"
+        }, 
+        {
+            "text": "Do you see an entry for both emails?", 
+            "type": "message", 
+            "user": "U34A9NM7H", 
+            "ts": "1489615558.603100"
+        }, 
+        {
+            "text": "I like CBS -- never had a problem before.", 
+            "type": "message", 
+            "user": "U34A9NM7H", 
+            "ts": "1489615540.598127"
+        }, 
+        {
+            "text": "Whaaat! That is strange...next year I'll just do it straight from <http://NCAA.com|NCAA.com>, stupid CBS. :face_with_rolling_eyes:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489615511.589790"
+        }, 
+        {
+            "text": "Dude!  I just git an CBS bracket invitation on my gmail account today!  And it's already filled out like the one I did for my aol account!  Freaky!", 
+            "type": "message", 
+            "user": "U34A9NM7H", 
+            "ts": "1489614302.246810"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F3NK07YTT/archive.zip|Archive.zip> and commented: The Real ONE!", 
+            "upload": true, 
+            "ts": "1484009322.000004", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "initial_comment": {
+                    "comment": "The Real ONE!", 
+                    "created": 1484009322, 
+                    "timestamp": 1484009322, 
+                    "is_intro": true, 
+                    "user": "U34BY2K3K", 
+                    "id": "Fc3NK081G9"
+                }, 
+                "filetype": "zip", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3NK07YTT", 
+                "size": 274967, 
+                "title": "Archive.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3NK07YTT/archive.zip", 
+                "ims": [
+                    "D3Q030V2A"
+                ], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484009322, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3NK07YTT/download/archive.zip", 
+                "user": "U34BY2K3K", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Zip", 
+                "name": "Archive.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3NK07YTT-b3b28f0570", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F3NK07YTT/archive.zip", 
+                "is_external": false, 
+                "created": 1484009322, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "the real archive ...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1484009308.000003"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F3PBSJCNQ/archive.zip|Archive.zip>", 
+            "upload": true, 
+            "ts": "1484009093.000002", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "filetype": "zip", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3PBSJCNQ", 
+                "size": 339129, 
+                "title": "Archive.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3PBSJCNQ/archive.zip", 
+                "ims": [
+                    "D3Q030V2A"
+                ], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484009092, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3PBSJCNQ/download/archive.zip", 
+                "user": "U34BY2K3K", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Zip", 
+                "name": "Archive.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3PBSJCNQ-6868a1d6c5", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F3PBSJCNQ/archive.zip", 
+                "is_external": false, 
+                "created": 1484009092, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U34A9NM7H", 
+            "U34BY2K3K"
+        ]
+    }
+}

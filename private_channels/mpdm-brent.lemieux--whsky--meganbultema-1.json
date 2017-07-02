@@ -1,0 +1,51 @@
+{
+    "messages": [
+        {
+            "text": "No problem, just as long as you let someone know!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1494879815.588721"
+        }, 
+        {
+            "text": "Hello,   I forgot to PM both of you and let you know I was going to be gone Friday. Opps! I had discussed it with Adam and Frank before hand.", 
+            "type": "message", 
+            "user": "U4F44DR33", 
+            "ts": "1494863333.883779"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1494863270, 
+            "value": "Group messaging", 
+            "creator": "U4F44DR33"
+        }, 
+        "name_normalized": "mpdm-brent.lemieux--whsky--meganbultema-1", 
+        "name": "mpdm-brent.lemieux--whsky--meganbultema-1", 
+        "last_read": "1494879815.588721", 
+        "creator": "U4F44DR33", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1494863270, 
+        "is_group": true, 
+        "members": [
+            "U4F44DR33", 
+            "U33BKEP9Q", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1494863270, 
+            "value": "Group messaging with: @brent.lemieux @whsky @meganbultema", 
+            "creator": "U4F44DR33"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5DN6S93N", 
+        "latest": {
+            "text": "No problem, just as long as you let someone know!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1494879815.588721"
+        }
+    }
+}

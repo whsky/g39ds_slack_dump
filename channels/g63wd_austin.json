@@ -1,0 +1,43 @@
+{
+    "messages": [
+        {
+            "text": "<@U2F9JJWAU|jessicacox> has left the channel", 
+            "type": "message", 
+            "user": "U2F9JJWAU", 
+            "ts": "1483997940.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U2F9JJWAU|jessicacox> has joined the channel", 
+            "type": "message", 
+            "user": "U2F9JJWAU", 
+            "ts": "1483743798.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g63wd_austin", 
+        "name": "g63wd_austin", 
+        "is_channel": true, 
+        "created": 1483743798, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U2F9JJWAU", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [], 
+        "id": "C3NE30X0A", 
+        "is_shared": false
+    }
+}

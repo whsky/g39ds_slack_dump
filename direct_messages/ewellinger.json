@@ -1,0 +1,341 @@
+{
+    "messages": [
+        {
+            "username": "ewellinger", 
+            "display_as_bot": false, 
+            "text": "<@U1XEGP6GZ|ewellinger> uploaded a file: <https://gstudents.slack.com/files/ewellinger/F49KZ7HMH/pickling.md|pickling.md>", 
+            "upload": true, 
+            "ts": "1487886912.000007", 
+            "subtype": "file_share", 
+            "user": "U1XEGP6GZ", 
+            "file": {
+                "filetype": "markdown", 
+                "lines_more": 90, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F49KZ7HMH", 
+                "size": 2567, 
+                "title": "pickling.md", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F49KZ7HMH/pickling.md", 
+                "ims": [
+                    "D3AMCJNM7"
+                ], 
+                "preview": "## Pickling Objects\n\nLet's say we have a model like the following:\n\n```python", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/ewellinger/F49KZ7HMH/pickling.md/edit", 
+                "username": "", 
+                "timestamp": 1487886911, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F49KZ7HMH/download/pickling.md", 
+                "user": "U1XEGP6GZ", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Markdown (raw)", 
+                "name": "pickling.md", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F49KZ7HMH-fd16b08bf3", 
+                "permalink": "https://gstudents.slack.com/files/ewellinger/F49KZ7HMH/pickling.md", 
+                "is_external": false, 
+                "created": 1487886911, 
+                "lines": 95, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-header cm-header-2\">## </span><span class=\"cm-header cm-header-2\">Pickling</span><span class=\"cm-header cm-header-2\"> </span><span class=\"cm-header cm-header-2\">Objects</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre>Let's say we have a model like the following:</pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-comment\">```</span><span class=\"cm-comment\">python</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "word.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487886481.000006"
+        }, 
+        {
+            "text": "Whew, not sure on that front.  I\u2019ll be right in", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487886469.000005"
+        }, 
+        {
+            "text": "and `pipeline.save('data/model.h5')` gave me a `'Pipeline' object has no attribute 'save'` error", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487884805.000004"
+        }, 
+        {
+            "text": "`joblib.dump(pipeline, 'data/model.pkl')` gave me a `maximum recursion depth exceeded` error", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487884772.000003"
+        }, 
+        {
+            "text": "hey, is there a good way to save a keras NN which is part of a pipeline?", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487884615.000002"
+        }, 
+        {
+            "text": "You still having issues with mongo?", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487276875.000002"
+        }, 
+        {
+            "text": "Ha, nice.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487274362.000011"
+        }, 
+        {
+            "text": "&gt;.. because many of our nation\u2019s reporters and folks will not tell you the ?&gt;truth and will not treat the wonderful people of our country with the &gt;respect they deserve,\u201d", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487274356.000010"
+        }, 
+        {
+            "text": "Fucking absurd", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487274174.000009"
+        }, 
+        {
+            "text": "Did you see anything about that press conference?", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487274168.000008"
+        }, 
+        {
+            "text": "No worries", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487274153.000007"
+        }, 
+        {
+            "text": "If that doesn't work, try clearing any lock files in `/data/db`", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487274151.000006"
+        }, 
+        {
+            "text": "Cool, sorry to interupt.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487274139.000005"
+        }, 
+        {
+            "text": "On the template, try running `sudo mongod` and see what happens", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487274134.000004"
+        }, 
+        {
+            "text": "We are in a meeting", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487274122.000003"
+        }, 
+        {
+            "text": "Yo homie, you around?  We are having some troubles with mongod...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487274083.000002"
+        }, 
+        {
+            "text": "Right?  That place is dope", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1486671826.000003"
+        }, 
+        {
+            "text": "Oh sweet Cheesus! Good call on the food truck...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1486671634.000002"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F3Y4XT7MM/donald-dump-dribbble_1x.png|donald-dump-dribbble_1x.png>", 
+            "upload": true, 
+            "ts": "1485531763.000003", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "groups": [], 
+                "filetype": "png", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3Y4XT7MM-68a4b25895/donald-dump-dribbble_1x_64.png", 
+                "size": 21486, 
+                "original_h": 300, 
+                "thumb_360_w": 360, 
+                "title": "donald-dump-dribbble_1x.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3Y4XT7MM/donald-dump-dribbble_1x.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3Y4XT7MM-68a4b25895/donald-dump-dribbble_1x_360.png", 
+                "id": "F3Y4XT7MM", 
+                "ims": [
+                    "D3AMCJNM7"
+                ], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3Y4XT7MM-68a4b25895/donald-dump-dribbble_1x_80.png", 
+                "thumb_360_h": 270, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1485531762, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3Y4XT7MM-68a4b25895/donald-dump-dribbble_1x_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3Y4XT7MM/download/donald-dump-dribbble_1x.png", 
+                "user": "U34BY2K3K", 
+                "image_exif_rotation": 1, 
+                "is_public": false, 
+                "pretty_type": "PNG", 
+                "name": "donald-dump-dribbble_1x.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3Y4XT7MM-570e08c846", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F3Y4XT7MM/donald-dump-dribbble_1x.png", 
+                "is_external": false, 
+                "created": 1485531762, 
+                "original_w": 400, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "_Clearly. A. Doctored. Photo.  It was the most attended and glorious event mankind has ever witnessed. It was beautiful._", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1485531748.000002"
+        }, 
+        {
+            "text": "Looks like an alternative picture to me!", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1485484021.000002"
+        }, 
+        {
+            "username": "whsky", 
+            "ts": "1485483319.000002", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F3XT94S7R/image_uploaded_from_ios.jpg|Image uploaded from iOS>", 
+            "upload": true, 
+            "upload_reply_to": "B6DDA8D7-090A-418B-9843-6197E7C50608", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3XT94S7R-f07ba0c1c2/image_uploaded_from_ios_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3XT94S7R-f07ba0c1c2/image_uploaded_from_ios_64.jpg", 
+                "size": 71030, 
+                "original_h": 258, 
+                "thumb_360_w": 360, 
+                "title": "Image uploaded from iOS", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3XT94S7R/image_uploaded_from_ios.jpg", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3XT94S7R-f07ba0c1c2/image_uploaded_from_ios_360.jpg", 
+                "id": "F3XT94S7R", 
+                "ims": [
+                    "D3AMCJNM7"
+                ], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3XT94S7R-f07ba0c1c2/image_uploaded_from_ios_80.jpg", 
+                "thumb_360_h": 192, 
+                "thumb_480_h": 256, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1485483320, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3XT94S7R-f07ba0c1c2/image_uploaded_from_ios_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3XT94S7R/download/image_uploaded_from_ios.jpg", 
+                "user": "U34BY2K3K", 
+                "image_exif_rotation": 1, 
+                "is_public": false, 
+                "pretty_type": "JPEG", 
+                "name": "Image uploaded from iOS.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3XT94S7R-46ce13f281", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F3XT94S7R/image_uploaded_from_ios.jpg", 
+                "is_external": false, 
+                "created": 1485483320, 
+                "original_w": 483, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<http://www.babysuggs.com/quotes.php>", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1485449488.000004", 
+            "attachments": [
+                {
+                    "title": "Selected Quotes", 
+                    "text": "The quoted bear no relation", 
+                    "title_link": "http://www.babysuggs.com/quotes.php", 
+                    "service_name": "babysuggs.com", 
+                    "id": 1, 
+                    "fallback": "Selected Quotes", 
+                    "service_icon": "http://www.babysuggs.com/favicon.ico", 
+                    "from_url": "http://www.babysuggs.com/quotes.php"
+                }
+            ]
+        }, 
+        {
+            "text": "<http://www.babysuggs.com/nerds.php>", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1485449416.000002", 
+            "attachments": [
+                {
+                    "title": "Why I Flipping Hate Nerds", 
+                    "text": "they just don't 'get it'!", 
+                    "title_link": "http://www.babysuggs.com/nerds.php", 
+                    "service_name": "babysuggs.com", 
+                    "id": 1, 
+                    "fallback": "Why I Flipping Hate Nerds", 
+                    "service_icon": "http://www.babysuggs.com/favicon.ico", 
+                    "from_url": "http://www.babysuggs.com/nerds.php"
+                }
+            ]
+        }, 
+        {
+            "text": "No worries, see you in 30", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1481052737.000005"
+        }, 
+        {
+            "text": "Perfect, I'll be back in 30 or so", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1481052718.000004"
+        }, 
+        {
+            "text": "Snoozing like a boss", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1481052686.000003"
+        }, 
+        {
+            "text": "How's she doing?", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1481052363.000002"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U1XEGP6GZ", 
+            "U34BY2K3K"
+        ]
+    }
+}

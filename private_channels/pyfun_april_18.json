@@ -1,0 +1,2772 @@
+{
+    "messages": [
+        {
+            "text": "<@U2JQYPPTN|brad.miller> has left the group", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1498838163.819357", 
+            "subtype": "group_leave"
+        }, 
+        {
+            "text": "<@U1WHHHQ7N|frank-w-b> has left the group", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1497044949.329434", 
+            "subtype": "group_leave"
+        }, 
+        {
+            "text": "<@U4ZJS5WRE|markusamador> has left the group", 
+            "type": "message", 
+            "user": "U4ZJS5WRE", 
+            "ts": "1496867072.392206", 
+            "subtype": "group_leave"
+        }, 
+        {
+            "username": "whsky", 
+            "ts": "1496079226.268732", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F5L8W4W5D/image_uploaded_from_ios.jpg|Image uploaded from iOS>", 
+            "upload": true, 
+            "upload_reply_to": "4C472436-EB8E-4E15-ACF9-4D214BC02259", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "filetype": "jpg", 
+                "thumb_800_h": 600, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5L8W4W5D-115fd5570d/image_uploaded_from_ios_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5L8W4W5D-115fd5570d/image_uploaded_from_ios_64.jpg", 
+                "size": 1805854, 
+                "original_h": 3024, 
+                "thumb_360_w": 360, 
+                "title": "Image uploaded from iOS", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5L8W4W5D/image_uploaded_from_ios.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5L8W4W5D-115fd5570d/image_uploaded_from_ios_360.jpg", 
+                "id": "F5L8W4W5D", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5L8W4W5D-115fd5570d/image_uploaded_from_ios_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5L8W4W5D-115fd5570d/image_uploaded_from_ios_800.jpg", 
+                "timestamp": 1496079222, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5L8W4W5D-115fd5570d/image_uploaded_from_ios_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5L8W4W5D/download/image_uploaded_from_ios.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5L8W4W5D-115fd5570d/image_uploaded_from_ios_1024.jpg", 
+                "user": "U34BY2K3K", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5L8W4W5D-115fd5570d/image_uploaded_from_ios_960.jpg", 
+                "is_public": false, 
+                "pretty_type": "JPEG", 
+                "name": "Image uploaded from iOS.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5L8W4W5D-9eaf43d830", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F5L8W4W5D/image_uploaded_from_ios.jpg", 
+                "is_external": false, 
+                "created": 1496079222, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 4032, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5L8W4W5D-115fd5570d/image_uploaded_from_ios_720.jpg", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Thanks everybody for a great Python Fundamentals class!!\n\nAlso, someone left a water bottle behind. We will leave it on the bookcase in the class in case you want it back...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496079203.265864"
+        }, 
+        {
+            "text": "<https://www.codewars.com/>\n<https://www.hackerrank.com/>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495765359.866895", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://www.codewars.com/favicon.ico", 
+                    "thumb_width": 200, 
+                    "title": "Codewars: Train your coding skills", 
+                    "service_name": "Codewars", 
+                    "title_link": "https://www.codewars.com/", 
+                    "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.", 
+                    "id": 1, 
+                    "fallback": "Codewars: Codewars: Train your coding skills", 
+                    "thumb_url": "http://www.codewars.com/assets/logos/logo-square-paper-bg.jpg", 
+                    "from_url": "https://www.codewars.com/"
+                }, 
+                {
+                    "thumb_height": 629, 
+                    "service_icon": "https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-f3a05ded63a04623e70f9809d4de3fb0.png", 
+                    "thumb_width": 1200, 
+                    "title": "HackerRank", 
+                    "text": "Join over 2 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews.", 
+                    "title_link": "https://www.hackerrank.com/", 
+                    "service_name": "hackerrank.com", 
+                    "id": 2, 
+                    "fallback": "HackerRank", 
+                    "thumb_url": "https://hrcdn.net/og/default.jpg", 
+                    "from_url": "https://www.hackerrank.com/"
+                }
+            ]
+        }, 
+        {
+            "text": "42: The Answer to the Ultimate Question of Life, The Universe, and Everything.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495763852.665905"
+        }, 
+        {
+            "text": "<@U34BY2K3K> ", 
+            "type": "message", 
+            "user": "U51390CTU", 
+            "ts": "1495760711.231842"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U50SXKFAA", 
+            "ts": "1495758777.951979"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1495758764.950096"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U50BPHQ5S", 
+            "ts": "1495758760.949520"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U50DAM0DS", 
+            "ts": "1495758758.949244"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U50D8RMR7", 
+            "ts": "1495758436.900948"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U4ZHT9A9W", 
+            "ts": "1495758384.893159"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U508RMAF6", 
+            "ts": "1495758382.892974"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U509AFZD0", 
+            "ts": "1495758334.885514"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U50TS530W", 
+            "ts": "1495758254.873597"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U506EBN7M", 
+            "ts": "1495758247.872613"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U4ZHJ9JC9", 
+            "ts": "1495758232.870490"
+        }, 
+        {
+            "text": "<@U34BY2K3K>", 
+            "type": "message", 
+            "user": "U3P4FPNTA", 
+            "ts": "1495758227.869733"
+        }, 
+        {
+            "text": "<@U34BY2K3K> :100:", 
+            "type": "message", 
+            "user": "U3PQ7C50A", 
+            "ts": "1495758217.868300"
+        }, 
+        {
+            "text": "<https://github.com/jp-wright/dating_data>", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1495593856.466820", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://fst.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "jp-wright/dating_data", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/jp-wright/dating_data", 
+                    "text": "dating_data - Real People. Real dates. Real results... My life. In Data.", 
+                    "id": 1, 
+                    "fallback": "GitHub: jp-wright/dating_data", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/14065301?v=3&s=400", 
+                    "from_url": "https://github.com/jp-wright/dating_data"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/jp-wright/for_teaching_python_class>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495155351.145551", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://fst.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "jp-wright/for_teaching_python_class", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/jp-wright/for_teaching_python_class", 
+                    "text": "for_teaching_python_class - Stuff for the students.", 
+                    "id": 1, 
+                    "fallback": "GitHub: jp-wright/for_teaching_python_class", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/14065301?v=3&s=400", 
+                    "from_url": "https://github.com/jp-wright/for_teaching_python_class"
+                }
+            ]
+        }, 
+        {
+            "text": "<http://www.alcula.com/calculators/rpn/> -", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1495072682.350240", 
+            "attachments": [
+                {
+                    "title": "Reverse Polish Notation (RPN) Calculator", 
+                    "text": "Free online RPN Calculator. Use this calculator to practice Reverse Polish Notation.", 
+                    "title_link": "http://www.alcula.com/calculators/rpn/", 
+                    "service_name": "alcula.com", 
+                    "id": 1, 
+                    "fallback": "Reverse Polish Notation (RPN) Calculator", 
+                    "service_icon": "http://www.alcula.com/favicon.ico", 
+                    "from_url": "http://www.alcula.com/calculators/rpn/"
+                }
+            ]
+        }, 
+        {
+            "username": "nthomas", 
+            "display_as_bot": false, 
+            "text": "<@U513U6YJ1|nthomas> uploaded a file: <https://gstudents.slack.com/files/nthomas/F5EAWD6Q1/polish_calc.py|Polish Calc> and commented: Seems to work. Function.", 
+            "upload": true, 
+            "ts": "1495072640.344018", 
+            "subtype": "file_share", 
+            "user": "U513U6YJ1", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Seems to work. Function.", 
+                    "created": 1495072636, 
+                    "timestamp": 1495072636, 
+                    "is_intro": true, 
+                    "user": "U513U6YJ1", 
+                    "id": "Fc5FMUELQN"
+                }, 
+                "filetype": "python", 
+                "lines_more": 24, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5EAWD6Q1", 
+                "size": 737, 
+                "title": "Polish Calc", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5EAWD6Q1/polish_calc.py", 
+                "ims": [], 
+                "preview": "def rev_polish(my_list):\r\n    stack = []\r\n\r\n    for n in my_list.split(','):\r\n        if n in ['-', '+', '*', '/', '^']:\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/nthomas/F5EAWD6Q1/polish_calc.py/edit", 
+                "username": "", 
+                "timestamp": 1495072636, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5EAWD6Q1/download/polish_calc.py", 
+                "user": "U513U6YJ1", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "Polish_Calc.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5EAWD6Q1-59b77eb3fb", 
+                "permalink": "https://gstudents.slack.com/files/nthomas/F5EAWD6Q1/polish_calc.py", 
+                "is_external": false, 
+                "created": 1495072636, 
+                "lines": 29, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">def</span> <span class=\"cm-def\">rev_polish</span>(<span class=\"cm-variable\">my_list</span>):</pre></div>\n<div><pre>    <span class=\"cm-variable\">stack</span> = []</pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre>    <span class=\"cm-keyword\">for</span> <span class=\"cm-variable\">n</span> <span class=\"cm-keyword\">in</span> <span class=\"cm-variable\">my_list</span>.<span class=\"cm-property\">split</span>(<span class=\"cm-string\">','</span>):</pre></div>\n<div><pre>        <span class=\"cm-keyword\">if</span> <span class=\"cm-variable\">n</span> <span class=\"cm-keyword\">in</span> [<span class=\"cm-string\">'-'</span>, <span class=\"cm-string\">'+'</span>, <span class=\"cm-string\">'*'</span>, <span class=\"cm-string\">'/'</span>, <span class=\"cm-string\">'^'</span>]:</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Hey David, sorry about taking so long to get back to you.  Did you get this solved last night?  If not, I'll check it out and get back to you.", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1494608916.625899", 
+            "attachments": [
+                {
+                    "footer": "Posted in #pyfun_april_18", 
+                    "channel_id": "G50SSTBL6", 
+                    "color": "D0D0D0", 
+                    "text": "<@U33BKEP9Q> - I'm trying to run 'our_class.py' from the solutions you posted and continue to get the error below.  Any idea why I would be getting this or how to solve?  Thanks! \n\nTraceback (most recent call last):\n  File \"day7_hard.py\", line 103, in &lt;module&gt;\n    oc = OurClass('thing', 'stuff')\n  File \"day7_hard.py\", line 27, in __init__\n    self.size = len(members)\nTypeError: object of type 'NoneType' has no len()", 
+                    "author_link": "https://gstudents.slack.com/team/dsudduth", 
+                    "ts": "1494454391.666953", 
+                    "author_name": "David Sudduth", 
+                    "is_share": true, 
+                    "channel_name": "pyfun_april_18", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "dsudduth", 
+                    "fallback": "[May 10th, 2017 4:13 PM] dsudduth: <@U33BKEP9Q> - I'm trying to run 'our_class.py' from the solutions you posted and continue to get the error below.  Any idea why I would be getting this or how to solve?  Thanks! \n\nTraceback (most recent call last):\n  File \"day7_hard.py\", line 103, in &lt;module&gt;\n    oc = OurClass('thing', 'stuff')\n  File \"day7_hard.py\", line 27, in __init__\n    self.size = len(members)\nTypeError: object of type 'NoneType' has no len()", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-05-10/182599480231_8e67434a34b49667bc02_48.jpg", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/pyfun_april_18/p1494454391666953"
+                }
+            ]
+        }, 
+        {
+            "username": "frank-w-b", 
+            "display_as_bot": false, 
+            "text": "<@U1WHHHQ7N|frank-w-b> uploaded a file: <https://gstudents.slack.com/files/frank-w-b/F5CE58WTC/if-name-main-example.zip|if-name-main-example.zip> and commented: Another classes example, and looking at if-name-main blocks again.", 
+            "upload": true, 
+            "ts": "1494550924.537893", 
+            "subtype": "file_share", 
+            "user": "U1WHHHQ7N", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Another classes example, and looking at if-name-main blocks again.", 
+                    "created": 1494550920, 
+                    "timestamp": 1494550920, 
+                    "is_intro": true, 
+                    "user": "U1WHHHQ7N", 
+                    "id": "Fc5CC0BC3D"
+                }, 
+                "filetype": "zip", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5CE58WTC", 
+                "size": 1498, 
+                "title": "if-name-main-example.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5CE58WTC/if-name-main-example.zip", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1494550920, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5CE58WTC/download/if-name-main-example.zip", 
+                "user": "U1WHHHQ7N", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Zip", 
+                "name": "if-name-main-example.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5CE58WTC-a49d6ee2f9", 
+                "permalink": "https://gstudents.slack.com/files/frank-w-b/F5CE58WTC/if-name-main-example.zip", 
+                "is_external": false, 
+                "created": 1494550920, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U33BKEP9Q> - I'm trying to run 'our_class.py' from the solutions you posted and continue to get the error below.  Any idea why I would be getting this or how to solve?  Thanks! \n\nTraceback (most recent call last):\n  File \"day7_hard.py\", line 103, in &lt;module&gt;\n    oc = OurClass('thing', 'stuff')\n  File \"day7_hard.py\", line 27, in __init__\n    self.size = len(members)\nTypeError: object of type 'NoneType' has no len()", 
+            "type": "message", 
+            "user": "U4ZHJ9JC9", 
+            "ts": "1494454391.666953", 
+            "edited": {
+                "user": "U4ZHJ9JC9", 
+                "ts": "1494454534.000000"
+            }
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U4ZHJ9JC9"
+                    ]
+                }
+            ], 
+            "text": "Also, solutions are posted", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1494430416.964909"
+        }, 
+        {
+            "username": "brent.lemieux", 
+            "display_as_bot": false, 
+            "text": "<@U33BKEP9Q|brent.lemieux> uploaded a file: <https://gstudents.slack.com/files/brent.lemieux/F5BFBPNHG/day7_lecture_material_oop.zip|day7_lecture_material_oop.zip> and commented: Yesterdays lecture material", 
+            "upload": true, 
+            "ts": "1494430402.958548", 
+            "subtype": "file_share", 
+            "user": "U33BKEP9Q", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Yesterdays lecture material", 
+                    "created": 1494430399, 
+                    "timestamp": 1494430399, 
+                    "is_intro": true, 
+                    "user": "U33BKEP9Q", 
+                    "id": "Fc5AU2NA9X"
+                }, 
+                "filetype": "zip", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5BFBPNHG", 
+                "size": 55152, 
+                "title": "day7_lecture_material_oop.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5BFBPNHG/day7_lecture_material_oop.zip", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1494430399, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5BFBPNHG/download/day7_lecture_material_oop.zip", 
+                "user": "U33BKEP9Q", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Zip", 
+                "name": "day7_lecture_material_oop.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5BFBPNHG-1c2f4366aa", 
+                "permalink": "https://gstudents.slack.com/files/brent.lemieux/F5BFBPNHG/day7_lecture_material_oop.zip", 
+                "is_external": false, 
+                "created": 1494430399, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "ajrichards", 
+            "display_as_bot": false, 
+            "text": "<@U1Z90HJG3|ajrichards> uploaded a file: <https://gstudents.slack.com/files/ajrichards/F5AFMETBJ/fruit.py|fruit.py> and commented: Fixed version of Fruit", 
+            "upload": true, 
+            "ts": "1494381202.647309", 
+            "subtype": "file_share", 
+            "user": "U1Z90HJG3", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Fixed version of Fruit", 
+                    "created": 1494381199, 
+                    "timestamp": 1494381199, 
+                    "is_intro": true, 
+                    "user": "U1Z90HJG3", 
+                    "id": "Fc5B3QNZ9R"
+                }, 
+                "filetype": "python", 
+                "lines_more": 46, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5AFMETBJ", 
+                "size": 1025, 
+                "title": "fruit.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5AFMETBJ/fruit.py", 
+                "ims": [], 
+                "preview": "#!/usr/bin/env python\n\"\"\"\nA generic template\n\"\"\"\n", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/ajrichards/F5AFMETBJ/fruit.py/edit", 
+                "username": "", 
+                "timestamp": 1494381199, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5AFMETBJ/download/fruit.py", 
+                "user": "U1Z90HJG3", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "fruit.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5AFMETBJ-69d09a4f3f", 
+                "permalink": "https://gstudents.slack.com/files/ajrichards/F5AFMETBJ/fruit.py", 
+                "is_external": false, 
+                "created": 1494381199, 
+                "lines": 51, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\">#!/usr/bin/env python</span></pre></div>\n<div><pre><span class=\"cm-string\">&quot;&quot;&quot;</span></pre></div>\n<div><pre><span class=\"cm-string\">A generic template</span></pre></div>\n<div><pre><span class=\"cm-string\">&quot;&quot;&quot;</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "ajrichards", 
+            "display_as_bot": false, 
+            "text": "<@U1Z90HJG3|ajrichards> uploaded a file: <https://gstudents.slack.com/files/ajrichards/F5B75H1M2/bad_function_arg.py|bad_function_arg.py>", 
+            "upload": true, 
+            "ts": "1494380034.479523", 
+            "subtype": "file_share", 
+            "user": "U1Z90HJG3", 
+            "file": {
+                "filetype": "python", 
+                "lines_more": 20, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5B75H1M2", 
+                "size": 273, 
+                "title": "bad_function_arg.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5B75H1M2/bad_function_arg.py", 
+                "ims": [], 
+                "preview": "\n\n# bad function argument\ndef f1(x, y=[]):\n    y.append(x)", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/ajrichards/F5B75H1M2/bad_function_arg.py/edit", 
+                "username": "", 
+                "timestamp": 1494380030, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5B75H1M2/download/bad_function_arg.py", 
+                "user": "U1Z90HJG3", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "bad_function_arg.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5B75H1M2-08dcfb53b4", 
+                "permalink": "https://gstudents.slack.com/files/ajrichards/F5B75H1M2/bad_function_arg.py", 
+                "is_external": false, 
+                "created": 1494380030, 
+                "lines": 25, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&#8203;</pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-comment\"># bad function argument</span></pre></div>\n<div><pre><span class=\"cm-keyword\">def</span> <span class=\"cm-def\">f1</span>(<span class=\"cm-variable\">x</span>, <span class=\"cm-variable\">y</span>=[]):</pre></div>\n<div><pre>    <span class=\"cm-variable\">y</span>.<span class=\"cm-property\">append</span>(<span class=\"cm-variable\">x</span>)</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "ajrichards", 
+            "display_as_bot": false, 
+            "text": "<@U1Z90HJG3|ajrichards> uploaded a file: <https://gstudents.slack.com/files/ajrichards/F5AFFAN5N/fruit.py|fruit.py>", 
+            "upload": true, 
+            "ts": "1494379822.449047", 
+            "subtype": "file_share", 
+            "user": "U1Z90HJG3", 
+            "file": {
+                "filetype": "python", 
+                "lines_more": 45, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5AFFAN5N", 
+                "size": 999, 
+                "title": "fruit.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5AFFAN5N/fruit.py", 
+                "ims": [], 
+                "preview": "#!/usr/bin/env python\n\"\"\"\nA generic template\n\"\"\"\n", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/ajrichards/F5AFFAN5N/fruit.py/edit", 
+                "username": "", 
+                "timestamp": 1494379819, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5AFFAN5N/download/fruit.py", 
+                "user": "U1Z90HJG3", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "fruit.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5AFFAN5N-40da6cad5c", 
+                "permalink": "https://gstudents.slack.com/files/ajrichards/F5AFFAN5N/fruit.py", 
+                "is_external": false, 
+                "created": 1494379819, 
+                "lines": 50, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\">#!/usr/bin/env python</span></pre></div>\n<div><pre><span class=\"cm-string\">&quot;&quot;&quot;</span></pre></div>\n<div><pre><span class=\"cm-string\">A generic template</span></pre></div>\n<div><pre><span class=\"cm-string\">&quot;&quot;&quot;</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "*  Message passing - objects communicate by sending and receiving messages (methods)\n*  Polymorphism - also called subtype polymorphism (can create instances of classes)\n*  Encapsulation - A language construct that facilitates the bundling of data with the methods operating on that data\n*  Inheritance - reuse of base classes to form derived classes.", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1494379482.399056"
+        }, 
+        {
+            "text": "<https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms>", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1494376579.955280", 
+            "attachments": [
+                {
+                    "author_link": "http://en.wikipedia.org/", 
+                    "text": "This article attempts to set out the various similarities and differences between the various programming paradigms as a summary in both graphical and tabular format with links to the separate discussions concerning these similarities and differences in extant Wikipedia articles.", 
+                    "title": "Comparison of programming paradigms", 
+                    "author_name": "Wikipedia", 
+                    "title_link": "https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms", 
+                    "fallback": "wikipedia: Comparison of programming paradigms", 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/wikipedia.png", 
+                    "id": 1
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "+1", 
+                    "users": [
+                        "U34BY2K3K", 
+                        "U4ZHJ9JC9", 
+                        "U50D8RMR7"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "beers", 
+                    "users": [
+                        "U50SXKFAA"
+                    ]
+                }
+            ], 
+            "text": "Solutions are posted for the day6 assignments", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1494076742.771654"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "beers", 
+                    "users": [
+                        "U50SXKFAA"
+                    ]
+                }
+            ], 
+            "text": "No worries, just try to work through it on your own and bring any questions next week.", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1493938407.624027"
+        }, 
+        {
+            "text": "Not sure who to tell but baby sitter just gave a ten minute no show notice so I won't be able to make it tonight", 
+            "type": "message", 
+            "user": "U50SXKFAA", 
+            "ts": "1493938175.573139"
+        }, 
+        {
+            "text": "In case you need it. Parking is pretty open by GT. Everything around campus is 2-hour parking for free. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1493920278.097988"
+        }, 
+        {
+            "username": "kelly.kawa", 
+            "display_as_bot": false, 
+            "text": "<@U1TTQUYEQ|kelly.kawa> uploaded a file: <https://gstudents.slack.com/files/kelly.kawa/F59LH3MEK/parking_near_gt.png|Parking Near GT.png>", 
+            "upload": true, 
+            "ts": "1493920254.086861", 
+            "subtype": "file_share", 
+            "user": "U1TTQUYEQ", 
+            "file": {
+                "thumb_480_w": 480, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "raised_hands", 
+                        "users": [
+                            "U3QD2B3PW"
+                        ]
+                    }, 
+                    {
+                        "count": 1, 
+                        "name": "+1", 
+                        "users": [
+                            "U34BY2K3K"
+                        ]
+                    }
+                ], 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F59LH3MEK-edcef69e3a/parking_near_gt_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F59LH3MEK-edcef69e3a/parking_near_gt_64.png", 
+                "size": 154497, 
+                "original_h": 454, 
+                "thumb_360_w": 360, 
+                "title": "Parking Near GT.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F59LH3MEK/parking_near_gt.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F59LH3MEK-edcef69e3a/parking_near_gt_360.png", 
+                "id": "F59LH3MEK", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F59LH3MEK-edcef69e3a/parking_near_gt_80.png", 
+                "thumb_360_h": 260, 
+                "thumb_480_h": 347, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1493920249, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F59LH3MEK-edcef69e3a/parking_near_gt_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F59LH3MEK/download/parking_near_gt.png", 
+                "user": "U1TTQUYEQ", 
+                "image_exif_rotation": 1, 
+                "is_public": false, 
+                "pretty_type": "PNG", 
+                "name": "Parking Near GT.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F59LH3MEK-31c741c68a", 
+                "permalink": "https://gstudents.slack.com/files/kelly.kawa/F59LH3MEK/parking_near_gt.png", 
+                "is_external": false, 
+                "created": 1493920249, 
+                "original_w": 628, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Awesome thank you!", 
+            "type": "message", 
+            "user": "U50GQK7HB", 
+            "ts": "1493913468.168952"
+        }, 
+        {
+            "text": "<@U50GQK7HB> 1062 Delaware St, Denver, CO 80204", 
+            "type": "message", 
+            "user": "U3PQ7C50A", 
+            "ts": "1493911338.153849"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U34BY2K3K", 
+                        "U4ZHJ9JC9"
+                    ]
+                }
+            ], 
+            "text": "its at the golden triangle location", 
+            "type": "message", 
+            "user": "U3PQ7C50A", 
+            "ts": "1493911291.131294"
+        }, 
+        {
+            "text": "Does anyone know the location for class today? ", 
+            "type": "message", 
+            "user": "U50GQK7HB", 
+            "ts": "1493911187.082295"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 4, 
+                    "name": "+1", 
+                    "users": [
+                        "U50AHBL13", 
+                        "U513U6YJ1", 
+                        "U4ZHJ9JC9", 
+                        "U34BY2K3K"
+                    ]
+                }
+            ], 
+            "text": "Solutions for last night are added", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1493835794.483918"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "beers", 
+                    "users": [
+                        "U50SXKFAA"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+                    "thumb_width": 316, 
+                    "title": "What does if __name__ == \"__main__\": do?", 
+                    "text": "What does the if __name__ == \"__main__\": do? # Threading example import time, thread def myfunction(string, sleeptime, lock, *args): while 1: lock.acquire() time.sleep(sleepti...", 
+                    "title_link": "http://stackoverflow.com/questions/419163/what-does-if-name-main-do", 
+                    "service_name": "stackoverflow.com", 
+                    "id": 1, 
+                    "fallback": "What does if __name__ == \"__main__\": do?", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+                    "from_url": "http://stackoverflow.com/questions/419163/what-does-if-name-main-do"
+                }
+            ], 
+            "text": "<http://stackoverflow.com/questions/419163/what-does-if-name-main-do>", 
+            "ts": "1493774618.712504", 
+            "user": "U1WHHHQ7N", 
+            "type": "message"
+        }, 
+        {
+            "username": "ajrichards", 
+            "display_as_bot": false, 
+            "text": "<@U1Z90HJG3|ajrichards> uploaded a file: <https://gstudents.slack.com/files/ajrichards/F57S1M7B6/list_comprehensions_primer.ipynb|list_comprehensions_primer.ipynb> and commented: list comprehensions", 
+            "upload": true, 
+            "ts": "1493773364.547398", 
+            "subtype": "file_share", 
+            "user": "U1Z90HJG3", 
+            "file": {
+                "initial_comment": {
+                    "comment": "list comprehensions", 
+                    "created": 1493773361, 
+                    "timestamp": 1493773361, 
+                    "is_intro": true, 
+                    "user": "U1Z90HJG3", 
+                    "id": "Fc577XNB6V"
+                }, 
+                "filetype": "text", 
+                "lines_more": 357, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F57S1M7B6", 
+                "size": 7394, 
+                "title": "list_comprehensions_primer.ipynb", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F57S1M7B6/list_comprehensions_primer.ipynb", 
+                "ims": [], 
+                "preview": "{\n \"cells\": [\n  {\n   \"cell_type\": \"markdown\",\n   \"metadata\": {},", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/ajrichards/F57S1M7B6/list_comprehensions_primer.ipynb/edit", 
+                "username": "", 
+                "timestamp": 1493773361, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F57S1M7B6/download/list_comprehensions_primer.ipynb", 
+                "user": "U1Z90HJG3", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Plain Text", 
+                "name": "list_comprehensions_primer.ipynb", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F57S1M7B6-455d6ff71a", 
+                "permalink": "https://gstudents.slack.com/files/ajrichards/F57S1M7B6/list_comprehensions_primer.ipynb", 
+                "is_external": false, 
+                "created": 1493773361, 
+                "lines": 362, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>{</pre></div>\n<div><pre> &quot;cells&quot;: [</pre></div>\n<div><pre>  {</pre></div>\n<div><pre>   &quot;cell_type&quot;: &quot;markdown&quot;,</pre></div>\n<div><pre>   &quot;metadata&quot;: {},</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "frank-w-b", 
+            "display_as_bot": false, 
+            "text": "<@U1WHHHQ7N|frank-w-b> uploaded a file: <https://gstudents.slack.com/files/frank-w-b/F57T4MYQM/day5_files.zip|day5_files.zip> and commented: The files for the first part of the lecture.", 
+            "upload": true, 
+            "ts": "1493771357.263313", 
+            "subtype": "file_share", 
+            "user": "U1WHHHQ7N", 
+            "file": {
+                "initial_comment": {
+                    "comment": "The files for the first part of the lecture.", 
+                    "created": 1493771354, 
+                    "timestamp": 1493771354, 
+                    "is_intro": true, 
+                    "user": "U1WHHHQ7N", 
+                    "id": "Fc58JGSCS2"
+                }, 
+                "filetype": "zip", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F57T4MYQM", 
+                "size": 257476, 
+                "title": "day5_files.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F57T4MYQM/day5_files.zip", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1493771354, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F57T4MYQM/download/day5_files.zip", 
+                "user": "U1WHHHQ7N", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Zip", 
+                "name": "day5_files.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F57T4MYQM-4deb602ffa", 
+                "permalink": "https://gstudents.slack.com/files/frank-w-b/F57T4MYQM/day5_files.zip", 
+                "is_external": false, 
+                "created": 1493771354, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "100", 
+                    "users": [
+                        "U3QD2B3PW"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "beers", 
+                    "users": [
+                        "U50SXKFAA"
+                    ]
+                }
+            ], 
+            "text": "<!channel> Hope to see you all at the Happy Hour today! We will be in Gold Coin + the Balcony from 5-6pm with snacks &amp; drinks. Gold Coin is the large conference room facing Platte Street on the 4th floor. :beers: :wine_glass: :pizzaspin:", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1493761907.266944"
+        }, 
+        {
+            "text": "It's a generator if you are running Python 3. Cast it as a list --- list(zip(a,b))", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1493581059.970119"
+        }, 
+        {
+            "username": "nthomas", 
+            "display_as_bot": false, 
+            "text": "<@U513U6YJ1|nthomas> uploaded a file: <https://gstudents.slack.com/files/nthomas/F57FHSC14/-.py|Untitled> and commented: Think I got this problem when not using the Zip function but when using the Zip function I get a generator? Do you display these somehow?", 
+            "upload": true, 
+            "ts": "1493578887.820172", 
+            "subtype": "file_share", 
+            "user": "U513U6YJ1", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Think I got this problem when not using the Zip function but when using the Zip function I get a generator? Do you display these somehow?", 
+                    "created": 1493578883, 
+                    "timestamp": 1493578883, 
+                    "is_intro": true, 
+                    "user": "U513U6YJ1", 
+                    "id": "Fc57FVUG79"
+                }, 
+                "filetype": "python", 
+                "lines_more": 22, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F57FHSC14", 
+                "size": 479, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F57FHSC14/-.py", 
+                "ims": [], 
+                "preview": "s = []\r\ns2 =[]\r\n\r\nfor i in range(5):\r\n    user1 = int(input(\"input numbers with a , \"))\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/nthomas/F57FHSC14/-.py/edit", 
+                "username": "", 
+                "timestamp": 1493578883, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F57FHSC14/download/-.py", 
+                "user": "U513U6YJ1", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "-.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F57FHSC14-8ce27fda72", 
+                "permalink": "https://gstudents.slack.com/files/nthomas/F57FHSC14/-.py", 
+                "is_external": false, 
+                "created": 1493578883, 
+                "lines": 27, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">s</span> = []</pre></div>\n<div><pre><span class=\"cm-variable\">s2</span> =[]</pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-keyword\">for</span> <span class=\"cm-variable\">i</span> <span class=\"cm-keyword\">in</span> <span class=\"cm-builtin\">range</span>(<span class=\"cm-number\">5</span>):</pre></div>\n<div><pre>    <span class=\"cm-variable\">user1</span> = <span class=\"cm-builtin\">int</span>(<span class=\"cm-builtin\">input</span>(<span class=\"cm-string\">&quot;input numbers with a , &quot;</span>))</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "ok thank you. I was just trying to break everything down.", 
+            "type": "message", 
+            "user": "U3PQ7C50A", 
+            "ts": "1493573740.461634"
+        }, 
+        {
+            "text": "`.strip()` removes any specified `char` from the beginning and end of a string.  If you don't specify a `char`, it removes any white spaces. So I used it to delete spaces that I had between my `in_string`.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493573589.450693"
+        }, 
+        {
+            "text": "<@U34BY2K3K> just curious why you used .strip?", 
+            "type": "message", 
+            "user": "U3PQ7C50A", 
+            "ts": "1493569732.183142"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F56LL7SCW/-.py|Untitled>", 
+            "upload": true, 
+            "ts": "1493347713.839770", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "filetype": "python", 
+                "lines_more": 2, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F56LL7SCW", 
+                "size": 189, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F56LL7SCW/-.py", 
+                "ims": [], 
+                "preview": "#Part 2, Question 1:\r\nin_string = '1 - 5 - 8'\r\nin_split = in_string.split('-')\r\nsq_dict = {}\r\nfor element in in_split:\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/whsky/F56LL7SCW/-.py/edit", 
+                "username": "", 
+                "timestamp": 1493347710, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F56LL7SCW/download/-.py", 
+                "user": "U34BY2K3K", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "-.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F56LL7SCW-1479dcf203", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F56LL7SCW/-.py", 
+                "is_external": false, 
+                "created": 1493347710, 
+                "lines": 7, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\">#Part 2, Question 1:</span></pre></div>\n<div><pre><span class=\"cm-variable\">in_string</span> = <span class=\"cm-string\">'1 - 5 - 8'</span></pre></div>\n<div><pre><span class=\"cm-variable\">in_split</span> = <span class=\"cm-variable\">in_string</span>.<span class=\"cm-property\">split</span>(<span class=\"cm-string\">'-'</span>)</pre></div>\n<div><pre><span class=\"cm-variable\">sq_dict</span> = {}</pre></div>\n<div><pre><span class=\"cm-keyword\">for</span> <span class=\"cm-variable\">element</span> <span class=\"cm-keyword\">in</span> <span class=\"cm-variable\">in_split</span>:</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F55TM1AAY/-.py|Untitled>", 
+            "upload": true, 
+            "ts": "1493346824.722876", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "filetype": "python", 
+                "lines_more": 2, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F55TM1AAY", 
+                "size": 186, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F55TM1AAY/-.py", 
+                "ims": [], 
+                "preview": "in_string = '1, 2, 3, 4, 5, 6'\r\nin_split = in_string.split(',')\r\nin_split = [int(element.strip()) for element in in_split]\r\nl1 = in_split[0::2]\r\nl2 = in_split[1::2]\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/whsky/F55TM1AAY/-.py/edit", 
+                "username": "", 
+                "timestamp": 1493346821, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F55TM1AAY/download/-.py", 
+                "user": "U34BY2K3K", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "-.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F55TM1AAY-31d426c5a8", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F55TM1AAY/-.py", 
+                "is_external": false, 
+                "created": 1493346821, 
+                "lines": 7, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">in_string</span> = <span class=\"cm-string\">'1, 2, 3, 4, 5, 6'</span></pre></div>\n<div><pre><span class=\"cm-variable\">in_split</span> = <span class=\"cm-variable\">in_string</span>.<span class=\"cm-property\">split</span>(<span class=\"cm-string\">','</span>)</pre></div>\n<div><pre><span class=\"cm-variable\">in_split</span> = [<span class=\"cm-builtin\">int</span>(<span class=\"cm-variable\">element</span>.<span class=\"cm-property\">strip</span>()) <span class=\"cm-keyword\">for</span> <span class=\"cm-variable\">element</span> <span class=\"cm-keyword\">in</span> <span class=\"cm-variable\">in_split</span>]</pre></div>\n<div><pre><span class=\"cm-variable\">l1</span> = <span class=\"cm-variable\">in_split</span>[<span class=\"cm-number\">0</span>::<span class=\"cm-number\">2</span>]</pre></div>\n<div><pre><span class=\"cm-variable\">l2</span> = <span class=\"cm-variable\">in_split</span>[<span class=\"cm-number\">1</span>::<span class=\"cm-number\">2</span>]</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "I was making it harder than it was. I was having trouble after the loop found the elements in the list with a len above 4, I couldn't get it to create a new list. I got it.", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1493319207.556533"
+        }, 
+        {
+            "text": "Hi <@U513U6YJ1>, do you mean how to put new variables in a list?  To do this you can use `my_list.append(item_to_add)` to add variable s to the end of the list.", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1493317039.614559"
+        }, 
+        {
+            "comment": {
+                "comment": "**** I was just seeing what the various outputs were going to be btw but like the solutions before I'm just hung up on when you use a variable with an open list or even an open string. Thanks", 
+                "created": 1493267630, 
+                "timestamp": 1493267630, 
+                "is_intro": false, 
+                "user": "U513U6YJ1", 
+                "id": "Fc562QTTNK"
+            }, 
+            "text": "<@U513U6YJ1|nthomas> commented on <@U513U6YJ1|nthomas>\u2019s file <https://gstudents.slack.com/files/nthomas/F559F2936/-.py|Untitled>: **** I was just seeing what the various outputs were going to be btw but like the solutions before I'm just hung up on when you use a variable with an open list or even an open string. Thanks", 
+            "ts": "1493267630.486486", 
+            "subtype": "file_comment", 
+            "is_intro": false, 
+            "file": {
+                "initial_comment": {
+                    "comment": "Now, instead of just printing the elements to the console, change the script so that it adds the elements that are longer than 4 characters to a new list, called longer_elements. This means that you will have to create an empty list with that name before the list. Print longer_elements at the end of the script.", 
+                    "created": 1493267024, 
+                    "timestamp": 1493267024, 
+                    "is_intro": true, 
+                    "user": "U513U6YJ1", 
+                    "id": "Fc5580S9EE"
+                }, 
+                "filetype": "python", 
+                "lines_more": 8, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F559F2936", 
+                "size": 341, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F559F2936/-.py", 
+                "ims": [], 
+                "preview": "my_list = ['hello', 'there', 'python', list('list'), '!']\r\nfor index, item in enumerate(my_list):\r\n    if index % 2 != 0:\r\n        index + 1\r\n        print(index, item)\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/nthomas/F559F2936/-.py/edit", 
+                "username": "", 
+                "timestamp": 1493267024, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F559F2936/download/-.py", 
+                "user": "U513U6YJ1", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "-.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F559F2936-8392b287ec", 
+                "permalink": "https://gstudents.slack.com/files/nthomas/F559F2936/-.py", 
+                "is_external": false, 
+                "created": 1493267024, 
+                "lines": 13, 
+                "comments_count": 2, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">my_list</span> = [<span class=\"cm-string\">'hello'</span>, <span class=\"cm-string\">'there'</span>, <span class=\"cm-string\">'python'</span>, <span class=\"cm-builtin\">list</span>(<span class=\"cm-string\">'list'</span>), <span class=\"cm-string\">'!'</span>]</pre></div>\n<div><pre><span class=\"cm-keyword\">for</span> <span class=\"cm-variable\">index</span>, <span class=\"cm-variable\">item</span> <span class=\"cm-keyword\">in</span> <span class=\"cm-builtin\">enumerate</span>(<span class=\"cm-variable\">my_list</span>):</pre></div>\n<div><pre>    <span class=\"cm-keyword\">if</span> <span class=\"cm-variable\">index</span> <span class=\"cm-operator\">%</span> <span class=\"cm-number\">2</span> <span class=\"cm-operator\">!</span>= <span class=\"cm-number\">0</span>:</pre></div>\n<div><pre>        <span class=\"cm-variable\">index</span> <span class=\"cm-operator\">+</span> <span class=\"cm-number\">1</span></pre></div>\n<div><pre>        <span class=\"cm-keyword\">print</span>(<span class=\"cm-variable\">index</span>, <span class=\"cm-variable\">item</span>)</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message"
+        }, 
+        {
+            "text": "I'm getting pretty confident in using enumerate and for loops but i'm kind of lost on how to push the data into an open list? It's the only thing really hanging me up. Can you explain it by chance?", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1493267079.415872", 
+            "edited": {
+                "user": "U513U6YJ1", 
+                "ts": "1493267319.000000"
+            }
+        }, 
+        {
+            "username": "nthomas", 
+            "display_as_bot": false, 
+            "text": "<@U513U6YJ1|nthomas> uploaded a file: <https://gstudents.slack.com/files/nthomas/F559F2936/-.py|Untitled> and commented: Now, instead of just printing the elements to the console, change the script so that it adds the elements that are longer than 4 characters to a new list, called longer_elements. This means that you will have to create an empty list with that name before the list. Print longer_elements at the end of the script.", 
+            "upload": true, 
+            "ts": "1493267029.409740", 
+            "subtype": "file_share", 
+            "user": "U513U6YJ1", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Now, instead of just printing the elements to the console, change the script so that it adds the elements that are longer than 4 characters to a new list, called longer_elements. This means that you will have to create an empty list with that name before the list. Print longer_elements at the end of the script.", 
+                    "created": 1493267024, 
+                    "timestamp": 1493267024, 
+                    "is_intro": true, 
+                    "user": "U513U6YJ1", 
+                    "id": "Fc5580S9EE"
+                }, 
+                "filetype": "python", 
+                "lines_more": 8, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F559F2936", 
+                "size": 341, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F559F2936/-.py", 
+                "ims": [], 
+                "preview": "my_list = ['hello', 'there', 'python', list('list'), '!']\r\nfor index, item in enumerate(my_list):\r\n    if index % 2 != 0:\r\n        index + 1\r\n        print(index, item)\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/nthomas/F559F2936/-.py/edit", 
+                "username": "", 
+                "timestamp": 1493267024, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F559F2936/download/-.py", 
+                "user": "U513U6YJ1", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "-.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F559F2936-8392b287ec", 
+                "permalink": "https://gstudents.slack.com/files/nthomas/F559F2936/-.py", 
+                "is_external": false, 
+                "created": 1493267024, 
+                "lines": 13, 
+                "comments_count": 2, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">my_list</span> = [<span class=\"cm-string\">'hello'</span>, <span class=\"cm-string\">'there'</span>, <span class=\"cm-string\">'python'</span>, <span class=\"cm-builtin\">list</span>(<span class=\"cm-string\">'list'</span>), <span class=\"cm-string\">'!'</span>]</pre></div>\n<div><pre><span class=\"cm-keyword\">for</span> <span class=\"cm-variable\">index</span>, <span class=\"cm-variable\">item</span> <span class=\"cm-keyword\">in</span> <span class=\"cm-builtin\">enumerate</span>(<span class=\"cm-variable\">my_list</span>):</pre></div>\n<div><pre>    <span class=\"cm-keyword\">if</span> <span class=\"cm-variable\">index</span> <span class=\"cm-operator\">%</span> <span class=\"cm-number\">2</span> <span class=\"cm-operator\">!</span>= <span class=\"cm-number\">0</span>:</pre></div>\n<div><pre>        <span class=\"cm-variable\">index</span> <span class=\"cm-operator\">+</span> <span class=\"cm-number\">1</span></pre></div>\n<div><pre>        <span class=\"cm-keyword\">print</span>(<span class=\"cm-variable\">index</span>, <span class=\"cm-variable\">item</span>)</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Here is the solutions repo: <https://github.com/zipfian/solns-python-fundamentals-den7>.\n\ngit clone this if you haven't already", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1493172826.994465"
+        }, 
+        {
+            "thread_ts": "1493155811.643960", 
+            "text": "Also, is there a 'class()' function like in R, where if I wanted to know what a variable's class was I could find out?", 
+            "ts": "1493164225.647062", 
+            "user": "U50D8RMR7", 
+            "parent_user_id": "U50D8RMR7", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493155811.643960", 
+            "text": "Thank you!", 
+            "ts": "1493164195.641509", 
+            "user": "U50D8RMR7", 
+            "parent_user_id": "U50D8RMR7", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U55AAGPGX|tanyaarnt> has joined the group", 
+            "type": "message", 
+            "user": "U55AAGPGX", 
+            "ts": "1493162749.363688", 
+            "subtype": "group_join"
+        }, 
+        {
+            "username": "kelly.kawa", 
+            "display_as_bot": false, 
+            "text": "<@U1TTQUYEQ|kelly.kawa> uploaded a file: <https://gstudents.slack.com/files/kelly.kawa/F559R77JA/pt_course_hh__2_.jpg|You're Invited!>", 
+            "upload": true, 
+            "ts": "1493161558.124928", 
+            "subtype": "file_share", 
+            "user": "U1TTQUYEQ", 
+            "file": {
+                "thumb_480_w": 339, 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "filetype": "jpg", 
+                "thumb_800_h": 1131, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F559R77JA-e5e804e457/pt_course_hh__2__480.jpg", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F559R77JA-e5e804e457/pt_course_hh__2__64.jpg", 
+                "size": 1266038, 
+                "original_h": 2246, 
+                "thumb_360_w": 255, 
+                "title": "You're Invited!", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F559R77JA/pt_course_hh__2_.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F559R77JA-e5e804e457/pt_course_hh__2__360.jpg", 
+                "id": "F559R77JA", 
+                "ims": [], 
+                "thumb_720_w": 509, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F559R77JA-e5e804e457/pt_course_hh__2__80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F559R77JA-e5e804e457/pt_course_hh__2__800.jpg", 
+                "timestamp": 1493161554, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F559R77JA-e5e804e457/pt_course_hh__2__160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F559R77JA/download/pt_course_hh__2_.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F559R77JA-e5e804e457/pt_course_hh__2__1024.jpg", 
+                "user": "U1TTQUYEQ", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F559R77JA-e5e804e457/pt_course_hh__2__960.jpg", 
+                "is_public": false, 
+                "pretty_type": "JPEG", 
+                "name": "PT Course HH (2).jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F559R77JA-68bc535451", 
+                "permalink": "https://gstudents.slack.com/files/kelly.kawa/F559R77JA/pt_course_hh__2_.jpg", 
+                "is_external": false, 
+                "created": 1493161554, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 1588, 
+                "thumb_960_w": 679, 
+                "thumb_1024_w": 724, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F559R77JA-e5e804e457/pt_course_hh__2__720.jpg", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel> We are hosting a *Happy Hour* on May 2 to celebrate all of your hardwork in the evening program. Please join us for light snacks and a drink before class.", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1493161408.092085"
+        }, 
+        {
+            "thread_ts": "1493155811.643960", 
+            "text": "<@U50D8RMR7> it depends on the situation... you definitely want to know how to use for loops. We will touch on how today. Here's an article you may find helpful: <http://leadsift.com/loop-map-list-comprehension/>", 
+            "ts": "1493160269.838250", 
+            "user": "U33BKEP9Q", 
+            "parent_user_id": "U50D8RMR7", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493155811.643960", 
+            "attachments": [
+                {
+                    "thumb_height": 371, 
+                    "thumb_width": 600, 
+                    "title": "Loop vs Map vs List Comprehension - LeadSift", 
+                    "service_name": "LeadSift", 
+                    "ts": 1410997103, 
+                    "title_link": "http://leadsift.com/loop-map-list-comprehension/", 
+                    "text": "As a Python developer I have seen lots of different preferences in this topic. These preferences aside, I was set to find which of them is faster in which", 
+                    "id": 1, 
+                    "fallback": "LeadSift: Loop vs Map vs List Comprehension - LeadSift", 
+                    "thumb_url": "http://leadsift.com/wp-content/uploads/2014/09/on3-loops.png", 
+                    "from_url": "http://leadsift.com/loop-map-list-comprehension/"
+                }
+            ], 
+            "text": "<@U50D8RMR7> it depends on the situation... you definitely want to know how to use for loops. We will touch on how today. Here's an article you may find helpful: <http://leadsift.com/loop-map-list-comprehension/>", 
+            "ts": "1493159292.615346", 
+            "user": "U33BKEP9Q", 
+            "parent_user_id": "U50D8RMR7", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493155811.643960", 
+            "subscribed": false, 
+            "text": "Regarding for loops: I've been told by R programmers that I should never use for loop, especially when there are *apply functions. Is there a similar sentiment within the Python community?", 
+            "ts": "1493155811.643960", 
+            "unread_count": 4, 
+            "reply_count": 4, 
+            "user": "U50D8RMR7", 
+            "replies": [
+                {
+                    "user": "U33BKEP9Q", 
+                    "ts": "1493159292.615346"
+                }, 
+                {
+                    "user": "U33BKEP9Q", 
+                    "ts": "1493160269.838250"
+                }, 
+                {
+                    "user": "U50D8RMR7", 
+                    "ts": "1493164195.641509"
+                }, 
+                {
+                    "user": "U50D8RMR7", 
+                    "ts": "1493164225.647062"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "oh ill check that out! Thank you!", 
+            "type": "message", 
+            "user": "U3PQ7C50A", 
+            "ts": "1493152640.491547"
+        }, 
+        {
+            "text": "Hi Allison - Not sure if it's the code or the calculation that's got you....for me it was the calculation since it's been a hot minute since I've had to figure out a Greatest Common Divisor. This may be helpful: <https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-greatest-common-divisor/v/greatest-common-divisor>", 
+            "type": "message", 
+            "user": "U511AQ1P0", 
+            "ts": "1493152581.468558", 
+            "attachments": [
+                {
+                    "footer": "Posted in #pyfun_april_18", 
+                    "channel_id": "G50SSTBL6", 
+                    "color": "D0D0D0", 
+                    "text": "I am very stuck on problem five. Does anyone have any clues? ", 
+                    "author_link": "https://gstudents.slack.com/team/acleppe1223", 
+                    "ts": "1493002810.459518", 
+                    "author_name": "Allison Cleppe", 
+                    "is_share": true, 
+                    "channel_name": "pyfun_april_18", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "acleppe1223", 
+                    "fallback": "[April 23rd, 2017 9:00 PM] acleppe1223: I am very stuck on problem five. Does anyone have any clues? ", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-01-10/125942116421_9dc94421404b63ce5957_48.png", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/pyfun_april_18/p1493002810459518"
+                }, 
+                {
+                    "image_bytes": 22599, 
+                    "title": "Greatest common factor explained", 
+                    "service_name": "Khan Academy", 
+                    "image_width": 333, 
+                    "title_link": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-greatest-common-divisor/v/greatest-common-divisor", 
+                    "image_height": 250, 
+                    "image_url": "http://img.youtube.com/vi/jFd-6EPfnec/0.jpg", 
+                    "text": "Here's a nice explanation of greatest common factor (or greatest common divisor) along with a few practice example exercises. Let's roll.", 
+                    "id": 1, 
+                    "fallback": "Khan Academy: Greatest common factor explained", 
+                    "service_icon": "https://cdn.kastatic.org/images/apple-touch-icon-57x57-precomposed.png", 
+                    "from_url": "https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-greatest-common-divisor/v/greatest-common-divisor"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U50SXKFAA"
+                    ]
+                }
+            ], 
+            "text": "Solutions are posted for Thursday if anyone is still stuck.  Go into the solutions repo on your local machine and type `git pull`", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1493047638.808637"
+        }, 
+        {
+            "username": "nthomas", 
+            "display_as_bot": false, 
+            "text": "<@U513U6YJ1|nthomas> uploaded a file: <https://gstudents.slack.com/files/nthomas/F52L6G1L0/-.py|Untitled> and commented: Add a while loop.  %", 
+            "upload": true, 
+            "ts": "1493011869.328296", 
+            "subtype": "file_share", 
+            "user": "U513U6YJ1", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Add a while loop.  %", 
+                    "created": 1493011869, 
+                    "timestamp": 1493011869, 
+                    "is_intro": true, 
+                    "user": "U513U6YJ1", 
+                    "id": "Fc545393JT"
+                }, 
+                "filetype": "python", 
+                "lines_more": 12, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F52L6G1L0", 
+                "size": 889, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F52L6G1L0/-.py", 
+                "ims": [], 
+                "preview": "\"\"\"\r\nhttps://github.com/zipfian/python-fundamentals/blob/master/week1/day2-intro_python/intro_python_assignment.md\r\nWrite a script that computes and prints all of the divisors of a user inputted number. If you don't know what a divisor is or need a review, check out this link. Things to think about:\r\n\r\nHow do you determine if a single number is a divisor of another?\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/nthomas/F52L6G1L0/-.py/edit", 
+                "username": "", 
+                "timestamp": 1493011869, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F52L6G1L0/download/-.py", 
+                "user": "U513U6YJ1", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "-.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F52L6G1L0-fceb9cc8b7", 
+                "permalink": "https://gstudents.slack.com/files/nthomas/F52L6G1L0/-.py", 
+                "is_external": false, 
+                "created": 1493011869, 
+                "lines": 17, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-string\">&quot;&quot;&quot;</span></pre></div>\n<div><pre><span class=\"cm-string\">https://github.com/zipfian/python-fundamentals/blob/master/week1/day2-intro_python/intro_python_assignment.md</span></pre></div>\n<div><pre><span class=\"cm-string\">Write a script that computes and prints all of the divisors of a user inputted number. If you don't know what a divisor is or need a review, check out this link. Things to think about:</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-string\">How do you determine if a single number is a divisor of another?</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "I am very stuck on problem five. Does anyone have any clues? ", 
+            "type": "message", 
+            "user": "U3PQ7C50A", 
+            "ts": "1493002810.459518"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U50AHBL13"
+                    ]
+                }
+            ], 
+            "text": "Rather than directing the output to a csv file with '&gt;' try piping the output straight to the python script '| python plot_stock_prices.py'", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1492874722.798855"
+        }, 
+        {
+            "text": "Hi everyone.  I'm following up on the intermediate Unix exercises and am struggling with #5.  5.) The Python script plot_stock_prices.py knows how to plot stock price data files. Run that script, and use bash file redirection to input the file 2015_goog_sorted.csv into the script's stdin.  Does anyone have a great explanation they can share?  Thanks.", 
+            "type": "message", 
+            "user": "U50AHBL13", 
+            "ts": "1492828890.491410"
+        }, 
+        {
+            "text": "<https://learnpythonthehardway.org/book/>  --- A great free resource if you want more practice/challenge", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1492733543.075532"
+        }, 
+        {
+            "text": "<@U4ZHJ9JC9> Unfortunately we do not have them.  Those should be viewed as extra credit.  If you have cd, ls, mv, and cp down you are in a really good spot with Unix commands.", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1492729688.393902"
+        }, 
+        {
+            "text": "Hey Brent.  I'm not seeing the solutions to the \"Intermediate Practicing with Unix\".  Are these somewhere else?  Thanks!", 
+            "type": "message", 
+            "user": "U4ZHJ9JC9", 
+            "ts": "1492727718.983564"
+        }, 
+        {
+            "text": "6'2 with black pullover and osprey backpack", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1492727331.895982"
+        }, 
+        {
+            "text": "i'm at Denver Beer Company. I'll tab out and meet you in 10 min", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1492727288.886131"
+        }, 
+        {
+            "text": "I'm in BriDer if anyone wants to join.", 
+            "type": "message", 
+            "user": "U50D8RMR7", 
+            "ts": "1492727093.841553"
+        }, 
+        {
+            "text": "Think about the stdin like you do the stdout. But make sure your arrow is facing the right way. ", 
+            "type": "message", 
+            "user": "U515F6YFQ", 
+            "ts": "1492724871.267088", 
+            "attachments": [
+                {
+                    "footer": "Posted in #pyfun_april_18", 
+                    "channel_id": "G50SSTBL6", 
+                    "color": "D0D0D0", 
+                    "text": "So close I can taste it. Finally got it to print one line to stdout, still having trouble.", 
+                    "author_link": "https://gstudents.slack.com/team/nthomas", 
+                    "ts": "1492720977.954146", 
+                    "author_name": "Nicholas Thomas", 
+                    "is_share": true, 
+                    "channel_name": "pyfun_april_18", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "nthomas", 
+                    "fallback": "[April 20th, 2017 1:42 PM] nthomas: So close I can taste it. Finally got it to print one line to stdout, still having trouble.", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-04-18/171106258900_129adf9a09eb33f5b63e_48.jpg", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/pyfun_april_18/p1492720977954146"
+                }
+            ]
+        }, 
+        {
+            "text": "I'll be at Galvanize around 4 if anyone wants to work on the HW.", 
+            "type": "message", 
+            "user": "U50D8RMR7", 
+            "ts": "1492722098.377691"
+        }, 
+        {
+            "thread_ts": "1492643820.077205", 
+            "text": "Same here", 
+            "ts": "1492721081.993104", 
+            "user": "U50SXKFAA", 
+            "parent_user_id": "U513U6YJ1", 
+            "type": "message"
+        }, 
+        {
+            "text": "So close I can taste it. Finally got it to print one line to stdout, still having trouble.", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1492720977.954146", 
+            "attachments": [
+                {
+                    "footer": "Thread in #pyfun_april_18", 
+                    "channel_id": "G50SSTBL6", 
+                    "is_thread_root_unfurl": true, 
+                    "text": "I'm curious also. I have the csv sorted and able to redirect and made the new sorted csv, but can't seem to get it to work in the python script? Doh", 
+                    "author_link": "https://gstudents.slack.com/team/nthomas", 
+                    "ts": "1492643820.077205", 
+                    "author_name": "Nicholas Thomas", 
+                    "is_share": true, 
+                    "channel_name": "pyfun_april_18", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "nthomas", 
+                    "fallback": "[April 19th, 2017 7:17 PM] nthomas: I'm curious also. I have the csv sorted and able to redirect and made the new sorted csv, but can't seem to get it to work in the python script? Doh", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-04-18/171106258900_129adf9a09eb33f5b63e_48.jpg", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/pyfun_april_18/p1492643820077205?thread_ts=1492643820077205&cid=G50SSTBL6", 
+                    "color": "D0D0D0"
+                }
+            ]
+        }, 
+        {
+            "thread_ts": "1492704612.343982", 
+            "text": "I will see y'all there!", 
+            "ts": "1492712016.427536", 
+            "user": "U511AQ1P0", 
+            "parent_user_id": "U513U6YJ1", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1492704612.343982", 
+            "text": "Great! ", 
+            "ts": "1492711439.188824", 
+            "user": "U4ZHT9A9W", 
+            "parent_user_id": "U513U6YJ1", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1492704612.343982", 
+            "text": "I Might be there as well.", 
+            "ts": "1492711297.127913", 
+            "user": "U50SXKFAA", 
+            "parent_user_id": "U513U6YJ1", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1492704612.343982", 
+            "text": "Sure thing. I'll be there.", 
+            "ts": "1492705338.649688", 
+            "user": "U513U6YJ1", 
+            "parent_user_id": "U513U6YJ1", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1492704612.343982", 
+            "text": "<@U513U6YJ1> sweet! Want to say 5:30 on the 3rd floor? ", 
+            "ts": "1492705133.565509", 
+            "user": "U4ZHT9A9W", 
+            "parent_user_id": "U513U6YJ1", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1492704612.343982", 
+            "attachments": [
+                {
+                    "footer": "Posted in #pyfun_april_18", 
+                    "channel_id": "G50SSTBL6", 
+                    "color": "D0D0D0", 
+                    "text": "Anyone up for meeting a bit before class tomorrow? I'm struggling with the assignments, and could use some help.", 
+                    "author_link": "https://gstudents.slack.com/team/erindesmond", 
+                    "ts": "1492665883.156581", 
+                    "author_name": "Erin Desmond", 
+                    "is_share": true, 
+                    "channel_name": "pyfun_april_18", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "erindesmond", 
+                    "fallback": "[April 20th, 2017 1:24 AM] erindesmond: Anyone up for meeting a bit before class tomorrow? I'm struggling with the assignments, and could use some help.", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-04-17/170466823989_a115b0e7fca0d8f55c63_48.jpg", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/pyfun_april_18/p1492665883156581"
+                }
+            ], 
+            "subscribed": false, 
+            "text": "I missed the first day so would be ok with meeting up. I think I have it down. I can try and help.", 
+            "ts": "1492704612.343982", 
+            "unread_count": 5, 
+            "reply_count": 5, 
+            "user": "U513U6YJ1", 
+            "replies": [
+                {
+                    "user": "U4ZHT9A9W", 
+                    "ts": "1492705133.565509"
+                }, 
+                {
+                    "user": "U513U6YJ1", 
+                    "ts": "1492705338.649688"
+                }, 
+                {
+                    "user": "U50SXKFAA", 
+                    "ts": "1492711297.127913"
+                }, 
+                {
+                    "user": "U4ZHT9A9W", 
+                    "ts": "1492711439.188824"
+                }, 
+                {
+                    "user": "U511AQ1P0", 
+                    "ts": "1492712016.427536"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "Anyone up for meeting a bit before class tomorrow? I'm struggling with the assignments, and could use some help.", 
+            "type": "message", 
+            "user": "U4ZHT9A9W", 
+            "ts": "1492665883.156581"
+        }, 
+        {
+            "thread_ts": "1492643820.077205", 
+            "text": "That's where I am at too.", 
+            "ts": "1492656759.077993", 
+            "user": "U5145RX39", 
+            "parent_user_id": "U513U6YJ1", 
+            "type": "message"
+        }, 
+        {
+            "text": "<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1492645347.367927", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "adam-p/markdown-here", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet", 
+                    "text": "markdown-here - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.", 
+                    "id": 1, 
+                    "fallback": "GitHub: adam-p/markdown-here", 
+                    "thumb_url": "https://avatars1.githubusercontent.com/u/425687?v=3&s=400", 
+                    "from_url": "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+                }
+            ]
+        }, 
+        {
+            "thread_ts": "1492643820.077205", 
+            "subscribed": false, 
+            "edited": {
+                "user": "U513U6YJ1", 
+                "ts": "1492643861.000000"
+            }, 
+            "text": "I'm curious also. I have the csv sorted and able to redirect and made the new sorted csv, but can't seem to get it to work in the python script? Doh", 
+            "ts": "1492643820.077205", 
+            "unread_count": 2, 
+            "reply_count": 2, 
+            "user": "U513U6YJ1", 
+            "replies": [
+                {
+                    "user": "U5145RX39", 
+                    "ts": "1492656759.077993"
+                }, 
+                {
+                    "user": "U50SXKFAA", 
+                    "ts": "1492721081.993104"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "If we have questions about assignments, do you recommend posting them here in Slack or just waiting to bring them to the next class?", 
+            "type": "message", 
+            "user": "U5145RX39", 
+            "ts": "1492639844.180368"
+        }, 
+        {
+            "text": "Is there a posted solution for the Intermediate Practicing with Unix?", 
+            "type": "message", 
+            "user": "U5145RX39", 
+            "ts": "1492639807.170805"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U513U6YJ1"
+                    ]
+                }
+            ], 
+            "text": "You should have access now...", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1492636371.119501"
+        }, 
+        {
+            "username": "nthomas", 
+            "display_as_bot": false, 
+            "text": "<@U513U6YJ1|nthomas> uploaded a file: <https://gstudents.slack.com/files/nthomas/F52E92GJJ/screen_shot_2017-04-19_at_5.00.13_pm.png|Screen Shot 2017-04-19 at 5.00.13 PM.png> and commented: There a user and pwd we need to unlock the solutions for that clone?", 
+            "upload": true, 
+            "ts": "1492635954.973094", 
+            "subtype": "file_share", 
+            "user": "U513U6YJ1", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "initial_comment": {
+                    "comment": "There a user and pwd we need to unlock the solutions for that clone?", 
+                    "created": 1492635951, 
+                    "timestamp": 1492635951, 
+                    "is_intro": true, 
+                    "user": "U513U6YJ1", 
+                    "id": "Fc510AU256"
+                }, 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F52E92GJJ-0ccddb618f/screen_shot_2017-04-19_at_5.00.13_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F52E92GJJ-0ccddb618f/screen_shot_2017-04-19_at_5.00.13_pm_64.png", 
+                "size": 116741, 
+                "original_h": 380, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-04-19 at 5.00.13 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F52E92GJJ/screen_shot_2017-04-19_at_5.00.13_pm.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F52E92GJJ-0ccddb618f/screen_shot_2017-04-19_at_5.00.13_pm_360.png", 
+                "id": "F52E92GJJ", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F52E92GJJ-0ccddb618f/screen_shot_2017-04-19_at_5.00.13_pm_80.png", 
+                "thumb_360_h": 230, 
+                "thumb_480_h": 307, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1492635951, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F52E92GJJ-0ccddb618f/screen_shot_2017-04-19_at_5.00.13_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F52E92GJJ/download/screen_shot_2017-04-19_at_5.00.13_pm.png", 
+                "user": "U513U6YJ1", 
+                "image_exif_rotation": 1, 
+                "is_public": false, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-04-19 at 5.00.13 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F52E92GJJ-57ab3462e9", 
+                "permalink": "https://gstudents.slack.com/files/nthomas/F52E92GJJ/screen_shot_2017-04-19_at_5.00.13_pm.png", 
+                "is_external": false, 
+                "created": 1492635951, 
+                "original_w": 594, 
+                "comments_count": 1, 
+                "mode": "hosted", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Hey guys - last time I'll bug you about Galvanize gear, but if you'd like a t-shirt, please complete this order form by Noon MST tomorrow so I can put the order in. Thanks! <https://goo.gl/forms/d7PSkg7iQqExR3Zr2>", 
+            "type": "message", 
+            "user": "U3QD2B3PW", 
+            "ts": "1492617704.477177", 
+            "attachments": [
+                {
+                    "image_bytes": 98242, 
+                    "title": "Intro to Python: Galvanize T-Shirt Request", 
+                    "service_name": "Google Docs", 
+                    "image_width": 333, 
+                    "title_link": "https://goo.gl/forms/d7PSkg7iQqExR3Zr2", 
+                    "image_height": 250, 
+                    "image_url": "https://lh6.googleusercontent.com/VeQFf2Av2RlVULSNTM539MPW0LTXTttJV_f-KCLVAbWjC9Am5gE08RbvdPAq-7L6-A4", 
+                    "text": "Hello everyone - welcome to Galvanize! We are looking forward to a fun six weeks of learning and problem solving. Please fill out the form below to request a t-shirt that you will receive later in the course.", 
+                    "id": 1, 
+                    "fallback": "Google Docs: Intro to Python: Galvanize T-Shirt Request", 
+                    "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png", 
+                    "from_url": "https://goo.gl/forms/d7PSkg7iQqExR3Zr2"
+                }
+            ]
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "G50SSTBL6", 
+                    "is_thread_root_unfurl": true, 
+                    "text": "<https://github.com/zipfian/solns-python-fundamentals-den7>\n\nThis link is to the repo for the solutions to the assignments.  This will be updated after each class to reflect the solutions for the most recent assignments.\n\nPlease read the below carefully to avoid issues:\n1. Clone the repo on GitHub *(don't fork it!)*\n2. Open your terminal, and navigate using `cd` to where you want to store the solutions to be stored *(don't put it inside of the python-fundamentals repo -- this will cause you problems)*\n3. Type `git clone <https://github.com/zipfian/solns-python-fundamentals-den7.git> `  &lt;--- This should be the link you cloned on github\n\nIf you are uncomfortable cloning this, you can just look at the files online and ask us how to do it properly next class.  See you all on Thursday!", 
+                    "author_link": "https://gstudents.slack.com/team/brent.lemieux", 
+                    "ts": "1492616809.054915", 
+                    "author_name": "Brent Lemieux", 
+                    "channel_name": "pyfun_april_18", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "brent.lemieux", 
+                    "fallback": "[April 19th, 2017 9:46 AM] brent.lemieux: <https://github.com/zipfian/solns-python-fundamentals-den7>\n\nThis link is to the repo for the solutions to the assignments.  This will be updated after each class to reflect the solutions for the most recent assignments.\n\nPlease read the below carefully to avoid issues:\n1. Clone the repo on GitHub *(don't fork it!)*\n2. Open your terminal, and navigate using `cd` to where you want to store the solutions to be stored *(don't put it inside of the python-fundamentals repo -- this will cause you problems)*\n3. Type `git clone <https://github.com/zipfian/solns-python-fundamentals-den7.git> `  &lt;--- This should be the link you cloned on github\n\nIf you are uncomfortable cloning this, you can just look at the files online and ask us how to do it properly next class.  See you all on Thursday!", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-03-23/157982586992_35599ea2459837b6362b_48.jpg", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "G", 
+            "text": "<@U33BKEP9Q|brent.lemieux> pinned a message to this channel.", 
+            "ts": "1492616818.059241", 
+            "subtype": "pinned_item", 
+            "user": "U33BKEP9Q", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1492616809.054915", 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U50SXKFAA"
+                    ]
+                }
+            ], 
+            "text": "<https://github.com/zipfian/solns-python-fundamentals-den7>\n\nThis link is to the repo for the solutions to the assignments.  This will be updated after each class to reflect the solutions for the most recent assignments.\n\nPlease read the below carefully to avoid issues:\n1. Clone the repo on GitHub *(don't fork it!)*\n2. Open your terminal, and navigate using `cd` to where you want to store the solutions to be stored *(don't put it inside of the python-fundamentals repo -- this will cause you problems)*\n3. Type `git clone <https://github.com/zipfian/solns-python-fundamentals-den7.git> `  &lt;--- This should be the link you cloned on github\n\nIf you are uncomfortable cloning this, you can just look at the files online and ask us how to do it properly next class.  See you all on Thursday!", 
+            "ts": "1492616809.054915", 
+            "pinned_to": [
+                "G50SSTBL6"
+            ], 
+            "reply_count": 0, 
+            "user": "U33BKEP9Q", 
+            "replies": [], 
+            "type": "message"
+        }, 
+        {
+            "text": "Mike:\n1) Anaconda is python (for programming), git is version control software.  One does not require the other.  They are separate programs. When you type `$ git` at your terminal you are running git.\n2) Just because you uninstalled git doesn't mean that all the repos you previously cloned to your machine disappear.  So you uninstalled and reinstalled git, but the `python-fundamentals` repo that you previously cloned from your fork still exists on your computer.\n3) Git error messages are usually very clear.  In this case it told you `python-fundamentals` already exists.  So that means that your previously cloned repo is still there and git isn't going to let you copy over it.\n4) That said, you should find your existing `python-fundamentals` folder, cd into it, and then type `git remote -v`.  It should show you the urls associated with your remote origin.  If those say `zipfian` instead of your github name then you cloned zipfians repo, not your forked version on Github, and you will not have permission to `git push` to the zipfian repo.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1492615891.626413", 
+            "edited": {
+                "user": "U1WHHHQ7N", 
+                "ts": "1492615917.000000"
+            }
+        }, 
+        {
+            "text": "^ Here are the lecture slides for you reference when finishing up the assigments", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1492615661.513812"
+        }, 
+        {
+            "username": "brent.lemieux", 
+            "display_as_bot": false, 
+            "text": "<@U33BKEP9Q|brent.lemieux> uploaded a file: <https://gstudents.slack.com/files/brent.lemieux/F50RZ1G49/unix_and_cli.pdf|Unix and CLI.pdf>", 
+            "upload": true, 
+            "ts": "1492615623.494628", 
+            "subtype": "file_share", 
+            "user": "U33BKEP9Q", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F50RZ1G49", 
+                "size": 237986, 
+                "title": "Unix and CLI.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F50RZ1G49/unix_and_cli.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1492615622, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F50RZ1G49/download/unix_and_cli.pdf", 
+                "user": "U33BKEP9Q", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "Unix and CLI.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F50RZ1G49-43c82c8a29", 
+                "permalink": "https://gstudents.slack.com/files/brent.lemieux/F50RZ1G49/unix_and_cli.pdf", 
+                "is_external": false, 
+                "created": 1492615622, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "brent.lemieux", 
+            "display_as_bot": false, 
+            "text": "<@U33BKEP9Q|brent.lemieux> uploaded a file: <https://gstudents.slack.com/files/brent.lemieux/F51DAGWMQ/intro_to_git.pdf|Intro to Git.pdf>", 
+            "upload": true, 
+            "ts": "1492615617.491990", 
+            "subtype": "file_share", 
+            "user": "U33BKEP9Q", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F51DAGWMQ", 
+                "size": 189942, 
+                "title": "Intro to Git.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F51DAGWMQ/intro_to_git.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1492615616, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F51DAGWMQ/download/intro_to_git.pdf", 
+                "user": "U33BKEP9Q", 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "Intro to Git.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F51DAGWMQ-5931fb022a", 
+                "permalink": "https://gstudents.slack.com/files/brent.lemieux/F51DAGWMQ/intro_to_git.pdf", 
+                "is_external": false, 
+                "created": 1492615616, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U3PUUF5GV|wbellows> has joined the group", 
+            "ts": "1492614368.895539", 
+            "subtype": "group_join", 
+            "user": "U3PUUF5GV", 
+            "type": "message", 
+            "inviter": "U3QD2B3PW"
+        }, 
+        {
+            "thread_ts": "1492566683.980846", 
+            "text": "Sorry, I was logged in a differant git username I resolved this.", 
+            "ts": "1492598364.575098", 
+            "user": "U513U6YJ1", 
+            "parent_user_id": "U513U6YJ1", 
+            "type": "message"
+        }, 
+        {
+            "text": "GIT Tutorials playlist. <https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx>", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1492597786.444987", 
+            "attachments": [
+                {
+                    "thumb_height": 94, 
+                    "service_icon": "https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico", 
+                    "thumb_width": 168, 
+                    "title": "Git Tutorials Playlist - YouTube", 
+                    "service_name": "YouTube", 
+                    "title_link": "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx", 
+                    "text": "thenewboston Official Git Tutorials Playlist", 
+                    "id": 1, 
+                    "fallback": "YouTube: Git Tutorials Playlist - YouTube", 
+                    "thumb_url": "https://i.ytimg.com/vi/cEGIFZDyszA/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tGNc3XFMbFAB4ah_t2wK42A7aC0", 
+                    "from_url": "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx"
+                }
+            ]
+        }, 
+        {
+            "text": "Frank,  in case you do not have my email in your records, it is:  <mailto:epigonigrp@gmail.com|epigonigrp@gmail.com>  My phone number is <tel:720.257.3091|720.257.3091>  Thank you in advance for your help getting me straightened out.", 
+            "type": "message", 
+            "user": "U50SZGMTQ", 
+            "ts": "1492577600.332033"
+        }, 
+        {
+            "text": "Frank, So I'd have to say that I still do not have a cloned path with which to work with.  I don't know what to do.  I want this resolved before class on Thurs, so that I do not lose any more class time trying to get the software straight.  Please advise.  Mike Conger", 
+            "type": "message", 
+            "user": "U50SZGMTQ", 
+            "ts": "1492577534.324158"
+        }, 
+        {
+            "text": "Frank,  I've downloaded the correct version of Anaconda.  I deleted Git, &amp; reinstalled it.  Anaconda is on my machine correctly, but when I attempt: git clone.... the message I get is thus: fatal: destination path 'python fundamentals' already exists and is not an empty directory", 
+            "type": "message", 
+            "user": "U50SZGMTQ", 
+            "ts": "1492577370.305377"
+        }, 
+        {
+            "text": "Here is a great, *free* git tutorial:\n<https://www.codecademy.com/learn/learn-git>", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1492568501.237556", 
+            "attachments": [
+                {
+                    "thumb_height": 1200, 
+                    "service_icon": "https://www.codecademy.com/favicon.ico", 
+                    "thumb_width": 1200, 
+                    "title": "Learn Git", 
+                    "service_name": "Codecademy", 
+                    "title_link": "https://www.codecademy.com/learn/learn-git", 
+                    "text": "Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends.", 
+                    "id": 1, 
+                    "fallback": "Codecademy: Learn Git", 
+                    "thumb_url": "https://production.cdmycdn.com/assets/logo-codecademy-social-abfd8450722d675bddedde689f8af624.png", 
+                    "from_url": "https://www.codecademy.com/learn/learn-git"
+                }
+            ]
+        }, 
+        {
+            "thread_ts": "1492564992.737456", 
+            "text": "Nice. Thanks.", 
+            "ts": "1492567894.154928", 
+            "user": "U50BPHQ5S", 
+            "parent_user_id": "U50D8RMR7", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1492566683.980846", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "Zipfian Academy", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/zipfian", 
+                    "text": "GitHub is where people build software. More than 21 million people use GitHub to discover, fork, and contribute to over 57 million projects.", 
+                    "id": 1, 
+                    "fallback": "GitHub: Zipfian Academy", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/5132781?v=3&s=280", 
+                    "from_url": "https://github.com/zipfian"
+                }
+            ], 
+            "subscribed": false, 
+            "text": "<@U33BKEP9Q> Link is a 404 error? I didn't see that in the <https://github.com/zipfian>", 
+            "ts": "1492566683.980846", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U513U6YJ1", 
+            "replies": [
+                {
+                    "user": "U513U6YJ1", 
+                    "ts": "1492598364.575098"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "username": "rdelapp87", 
+            "display_as_bot": false, 
+            "text": "<@U50D8RMR7|rdelapp87> uploaded a file: <https://gstudents.slack.com/files/rdelapp87/F516SKE4D/image.png|image.png> and commented: Be wary of the power of command lines...and command line literate parents!", 
+            "upload": true, 
+            "ts": "1492566225.916497", 
+            "subtype": "file_share", 
+            "user": "U50D8RMR7", 
+            "file": {
+                "thumb_480_w": 480, 
+                "reactions": [
+                    {
+                        "count": 2, 
+                        "name": "+1", 
+                        "users": [
+                            "U50BPHQ5S", 
+                            "U50SXKFAA"
+                        ]
+                    }
+                ], 
+                "groups": [
+                    "G50SSTBL6"
+                ], 
+                "initial_comment": {
+                    "comment": "Be wary of the power of command lines...and command line literate parents!", 
+                    "created": 1492566222, 
+                    "timestamp": 1492566222, 
+                    "is_intro": true, 
+                    "user": "U50D8RMR7", 
+                    "id": "Fc515GHR8U"
+                }, 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F516SKE4D-43357e774b/image_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F516SKE4D-43357e774b/image_64.png", 
+                "size": 66792, 
+                "original_h": 205, 
+                "thumb_360_w": 360, 
+                "title": "image.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F516SKE4D/image.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F516SKE4D-43357e774b/image_360.png", 
+                "id": "F516SKE4D", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F516SKE4D-43357e774b/image_80.png", 
+                "thumb_360_h": 111, 
+                "thumb_480_h": 148, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1492566222, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F516SKE4D-43357e774b/image_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F516SKE4D/download/image.png", 
+                "user": "U50D8RMR7", 
+                "image_exif_rotation": 1, 
+                "is_public": false, 
+                "pretty_type": "PNG", 
+                "name": "image.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F516SKE4D-92b9e66cf5", 
+                "permalink": "https://gstudents.slack.com/files/rdelapp87/F516SKE4D/image.png", 
+                "is_external": false, 
+                "created": 1492566222, 
+                "original_w": 666, 
+                "comments_count": 1, 
+                "mode": "hosted", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "for Unix commands", 
+            "type": "message", 
+            "user": "U50D8RMR7", 
+            "ts": "1492565000.738890"
+        }, 
+        {
+            "thread_ts": "1492564992.737456", 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U50SXKFAA"
+                    ]
+                }
+            ], 
+            "text": "I found a cheat sheet: <https://files.fosswire.com/2007/08/fwunixref.pdf>", 
+            "ts": "1492564992.737456", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U50D8RMR7", 
+            "replies": [
+                {
+                    "user": "U50BPHQ5S", 
+                    "ts": "1492567894.154928"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U3QD2B3PW> &lt;--- If you have any questions, concerns regarding financing options, admissions process, scholarships, or Galvanize in general. Remember the cost of this course can be applied as a tuition credit to the Immersive, I'd suggest you apply about half-way through this part time course. Enjoy!", 
+            "type": "message", 
+            "user": "U3QD2B3PW", 
+            "ts": "1492563723.550050"
+        }, 
+        {
+            "text": "FREE T-SHIRT! <https://goo.gl/forms/d7PSkg7iQqExR3Zr2>", 
+            "type": "message", 
+            "user": "U3QD2B3PW", 
+            "ts": "1492563369.494729", 
+            "attachments": [
+                {
+                    "image_bytes": 98242, 
+                    "title": "Intro to Python: Galvanize T-Shirt Request", 
+                    "service_name": "Google Docs", 
+                    "image_width": 333, 
+                    "title_link": "https://goo.gl/forms/d7PSkg7iQqExR3Zr2", 
+                    "image_height": 250, 
+                    "image_url": "https://lh6.googleusercontent.com/VeQFf2Av2RlVULSNTM539MPW0LTXTttJV_f-KCLVAbWjC9Am5gE08RbvdPAq-7L6-A4", 
+                    "text": "Hello everyone - welcome to Galvanize! We are looking forward to a fun six weeks of learning and problem solving. Please fill out the form below to request a t-shirt that you will receive later in the course.", 
+                    "id": 1, 
+                    "fallback": "Google Docs: Intro to Python: Galvanize T-Shirt Request", 
+                    "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png", 
+                    "from_url": "https://goo.gl/forms/d7PSkg7iQqExR3Zr2"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U514Z9VAQ|goforitpal> has joined the group", 
+            "type": "message", 
+            "user": "U514Z9VAQ", 
+            "ts": "1492562587.379226", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<https://github.com/zipfian/python-fundamentals>", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1492560696.079739"
+        }, 
+        {
+            "text": "<@U51390CTU|sgreylewis> has joined the group", 
+            "type": "message", 
+            "user": "U51390CTU", 
+            "ts": "1492560339.019941", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U513U6YJ1> check out the repo week1/day1.  Read through the lectures and complete the assignments...  Bring any questions you have on Thursday!", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1492559383.849355"
+        }, 
+        {
+            "text": "<@U510N7KFD|benjamineverett> has joined the group", 
+            "type": "message", 
+            "user": "U510N7KFD", 
+            "ts": "1492557452.491734", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U512DFZGS|tombe> has joined the group", 
+            "type": "message", 
+            "user": "U512DFZGS", 
+            "ts": "1492555151.000630", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "Anything to work on, just let me know and i'll put the time in.", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1492550600.747281"
+        }, 
+        {
+            "text": "Sorry, I got held up in Kansas City and not going to be able to make it tonight. :disappointed: I have anaconda, GIT, and Atom all setup though. I'll be ready for Thursday. Sorry. :disappointed:", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1492550291.643341"
+        }, 
+        {
+            "text": "<@U513U6YJ1|nthomas> has joined the group", 
+            "type": "message", 
+            "user": "U513U6YJ1", 
+            "ts": "1492549700.440704", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U50D8RMR7|rdelapp87> has joined the group", 
+            "type": "message", 
+            "user": "U50D8RMR7", 
+            "ts": "1492547848.736338", 
+            "subtype": "group_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "raised_hands", 
+                    "users": [
+                        "U3QD2B3PW"
+                    ]
+                }
+            ], 
+            "text": "<https://github.com/zipfian/python-fundamentals>", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1492528801.054912"
+        }, 
+        {
+            "text": "<@U5145RX39> The installation instructions are in the repository labeled python-fundamentals, within the introduction folder.", 
+            "type": "message", 
+            "user": "U3QD2B3PW", 
+            "ts": "1492528721.004525"
+        }, 
+        {
+            "text": "Hi Travis- where do I find the installation instructions for Atom, Anaconda, and Git? Thanks!", 
+            "type": "message", 
+            "user": "U5145RX39", 
+            "ts": "1492527665.330666"
+        }, 
+        {
+            "text": "<@U515F6YFQ|agoellner> has joined the group", 
+            "type": "message", 
+            "user": "U515F6YFQ", 
+            "ts": "1492490690.115480", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U50GQK7HB|joshkern> has joined the group", 
+            "type": "message", 
+            "user": "U50GQK7HB", 
+            "ts": "1492490225.011135", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U5145RX39|cailyn_craven> has joined the group", 
+            "type": "message", 
+            "user": "U5145RX39", 
+            "ts": "1492482310.319798", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U50DAM0DS|mfaley> has joined the group", 
+            "type": "message", 
+            "user": "U50DAM0DS", 
+            "ts": "1492478691.790431", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U3QNC8WBV|jimingo> has joined the group", 
+            "ts": "1492472254.442963", 
+            "subtype": "group_join", 
+            "user": "U3QNC8WBV", 
+            "type": "message", 
+            "inviter": "U3QD2B3PW"
+        }, 
+        {
+            "text": "<@U511AQ1P0|kanorado23> has joined the group", 
+            "type": "message", 
+            "user": "U511AQ1P0", 
+            "ts": "1492471057.113008", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U5116UG9L|neilalmy> has joined the group", 
+            "type": "message", 
+            "user": "U5116UG9L", 
+            "ts": "1492470602.983469", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U50BPHQ5S|dtarasi> has joined the group", 
+            "type": "message", 
+            "user": "U50BPHQ5S", 
+            "ts": "1492470221.874677", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U4ZJS5WRE|markusamador> has joined the group", 
+            "type": "message", 
+            "user": "U4ZJS5WRE", 
+            "ts": "1492466861.018960", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U509AFZD0|alyserecord> has joined the group", 
+            "type": "message", 
+            "user": "U509AFZD0", 
+            "ts": "1492463954.217436", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U50V37QSJ|dbnorthrop> has joined the group", 
+            "type": "message", 
+            "user": "U50V37QSJ", 
+            "ts": "1492463609.110952", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U4ZHT9A9W|erindesmond> has joined the group", 
+            "type": "message", 
+            "user": "U4ZHT9A9W", 
+            "ts": "1492462641.793059", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U506EBN7M|ryanduman> has joined the group", 
+            "type": "message", 
+            "user": "U506EBN7M", 
+            "ts": "1492460182.946516", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U4ZJ6L7JM|johnphillips> has joined the group", 
+            "type": "message", 
+            "user": "U4ZJ6L7JM", 
+            "ts": "1492459230.618353", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U50TS530W|julie.belleza> has joined the group", 
+            "type": "message", 
+            "user": "U50TS530W", 
+            "ts": "1492458662.416629", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U3P4FPNTA|dslachar> has joined the group", 
+            "ts": "1492458602.395687", 
+            "subtype": "group_join", 
+            "user": "U3P4FPNTA", 
+            "type": "message", 
+            "inviter": "U3QD2B3PW"
+        }, 
+        {
+            "text": "<@U3PQ7C50A|acleppe1223> has joined the group", 
+            "ts": "1492458520.366743", 
+            "subtype": "group_join", 
+            "user": "U3PQ7C50A", 
+            "type": "message", 
+            "inviter": "U3QD2B3PW"
+        }, 
+        {
+            "text": "<@U3PQ7C50A|acleppe1223> has left the group", 
+            "type": "message", 
+            "user": "U3PQ7C50A", 
+            "ts": "1492458506.362061", 
+            "subtype": "group_leave"
+        }, 
+        {
+            "text": "<@U3PQ7C50A|acleppe1223> has joined the group", 
+            "ts": "1492458500.360063", 
+            "subtype": "group_join", 
+            "user": "U3PQ7C50A", 
+            "type": "message", 
+            "inviter": "U3QD2B3PW"
+        }, 
+        {
+            "text": "<@U50AHBL13|dan.edstrom> has joined the group", 
+            "type": "message", 
+            "user": "U50AHBL13", 
+            "ts": "1492458087.218078", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U508RMAF6|emilymccullough> has joined the group", 
+            "type": "message", 
+            "user": "U508RMAF6", 
+            "ts": "1492457998.188228", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U4ZHJ9JC9|dsudduth> has joined the group", 
+            "type": "message", 
+            "user": "U4ZHJ9JC9", 
+            "ts": "1492456809.786864", 
+            "subtype": "group_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1TTQUYEQ"
+                    ]
+                }
+            ], 
+            "text": "Hey everyone - If you haven't created a git-hub account through the initial Getting Started e-mail please do so we can get you all set up! Thank you!", 
+            "type": "message", 
+            "user": "U3QD2B3PW", 
+            "ts": "1492456809.786749"
+        }, 
+        {
+            "text": "<@U50SZGMTQ|mikeconger> has joined the group", 
+            "type": "message", 
+            "user": "U50SZGMTQ", 
+            "ts": "1492455782.436688", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "<@U50SXKFAA|wblakecannon> has joined the group", 
+            "type": "message", 
+            "user": "U50SXKFAA", 
+            "ts": "1492455585.363052", 
+            "subtype": "group_join"
+        }, 
+        {
+            "text": "*Greetings from the Galvanize team!*\n\nWe\u2019re happy to welcome you to the Galvanize Platte campus and excited to have you join us tomorrow night for our Python Fundamentals part-time course!  We\u2019re looking forward to a fun six weeks of learning and problem solving.\n\nHere are some things you need to know about your workshop:\n\n*Campus &amp; Workshop Location*\nThe Platte campus is located at 1644 Platte St. Denver, CO 80202. The classroom is on the _3rd Floor in the Data Science Classroom_. The elevators will be unlocked on your workshop days. You will be able to see the classroom when you exit the elevators.\n\n*Parking*\nWe recommend using Spot Hero to help you find parking lots that are open. The Galvanize campus parking lot becomes a public paid lot at night that is managed by our property management company. There is some metered street parking off Platte Street &amp; free 2-hour &amp; all-day parking available in the Lower Highlands neighborhood.\n\n*What to Bring*\nBring your laptop with you. You are also welcome to bring drinks and snacks into the classroom. There is a microwave and fridge available for your use in the 3rd floor kitchen.\n\n*Class Communication*\nUsing this slack channel is an easy way for your class to communicate and is much better than email. You will have this access until the end of your course.\n\nWe are looking forward to seeing you all tomorrow!", 
+            "type": "message", 
+            "user": "U3QD2B3PW", 
+            "ts": "1492455507.334114"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> has joined the group", 
+            "ts": "1492455172.212680", 
+            "subtype": "group_join", 
+            "user": "U1TTQUYEQ", 
+            "type": "message", 
+            "inviter": "U3QD2B3PW"
+        }, 
+        {
+            "text": "<@U34BY2K3K|whsky> has joined the group", 
+            "ts": "1492455171.212648", 
+            "subtype": "group_join", 
+            "user": "U34BY2K3K", 
+            "type": "message", 
+            "inviter": "U3QD2B3PW"
+        }, 
+        {
+            "text": "<@U2JQYPPTN|brad.miller> has joined the group", 
+            "ts": "1492455171.212621", 
+            "subtype": "group_join", 
+            "user": "U2JQYPPTN", 
+            "type": "message", 
+            "inviter": "U3QD2B3PW"
+        }, 
+        {
+            "text": "<@U33BKEP9Q|brent.lemieux> has joined the group", 
+            "ts": "1492455171.212597", 
+            "subtype": "group_join", 
+            "user": "U33BKEP9Q", 
+            "type": "message", 
+            "inviter": "U3QD2B3PW"
+        }, 
+        {
+            "text": "<@U1WHHHQ7N|frank-w-b> has joined the group", 
+            "ts": "1492455171.212573", 
+            "subtype": "group_join", 
+            "user": "U1WHHHQ7N", 
+            "type": "message", 
+            "inviter": "U3QD2B3PW"
+        }, 
+        {
+            "text": "<@U1Z90HJG3|ajrichards> has joined the group", 
+            "ts": "1492455171.212543", 
+            "subtype": "group_join", 
+            "user": "U1Z90HJG3", 
+            "type": "message", 
+            "inviter": "U3QD2B3PW"
+        }, 
+        {
+            "text": "<@U3QD2B3PW|traviskoe> set the channel's purpose: Data Science Fundamentals: Intro to Python (Denver 4/18)", 
+            "ts": "1492455096.185687", 
+            "subtype": "group_purpose", 
+            "user": "U3QD2B3PW", 
+            "type": "message", 
+            "purpose": "Data Science Fundamentals: Intro to Python (Denver 4/18)"
+        }, 
+        {
+            "text": "<@U3QD2B3PW|traviskoe> has joined the group", 
+            "type": "message", 
+            "user": "U3QD2B3PW", 
+            "ts": "1492455096.185573", 
+            "subtype": "group_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "name_normalized": "pyfun_april_18", 
+        "name": "pyfun_april_18", 
+        "last_read": "1497044949.329434", 
+        "creator": "U3QD2B3PW", 
+        "is_mpim": false, 
+        "is_archived": false, 
+        "created": 1492455096, 
+        "is_group": true, 
+        "members": [
+            "U1TTQUYEQ", 
+            "U1Z90HJG3", 
+            "U33BKEP9Q", 
+            "U34BY2K3K", 
+            "U3P4FPNTA", 
+            "U3PQ7C50A", 
+            "U3PUUF5GV", 
+            "U3QD2B3PW", 
+            "U3QNC8WBV", 
+            "U4ZHJ9JC9", 
+            "U4ZHT9A9W", 
+            "U4ZJ6L7JM", 
+            "U506EBN7M", 
+            "U508RMAF6", 
+            "U509AFZD0", 
+            "U50AHBL13", 
+            "U50BPHQ5S", 
+            "U50D8RMR7", 
+            "U50DAM0DS", 
+            "U50GQK7HB", 
+            "U50SXKFAA", 
+            "U50SZGMTQ", 
+            "U50TS530W", 
+            "U50V37QSJ", 
+            "U510N7KFD", 
+            "U5116UG9L", 
+            "U511AQ1P0", 
+            "U512DFZGS", 
+            "U51390CTU", 
+            "U513U6YJ1", 
+            "U514Z9VAQ", 
+            "U515F6YFQ", 
+            "U55AAGPGX"
+        ], 
+        "unread_count": 1, 
+        "is_open": true, 
+        "purpose": {
+            "last_set": 1492455096, 
+            "value": "Data Science Fundamentals: Intro to Python (Denver 4/18)", 
+            "creator": "U3QD2B3PW"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G50SSTBL6", 
+        "latest": {
+            "text": "<@U2JQYPPTN|brad.miller> has left the group", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1498838163.819357", 
+            "subtype": "group_leave"
+        }
+    }
+}

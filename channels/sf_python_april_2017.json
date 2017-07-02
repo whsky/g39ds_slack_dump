@@ -1,0 +1,301 @@
+{
+    "messages": [
+        {
+            "username": "philc92", 
+            "display_as_bot": false, 
+            "text": "<@U4VUASUN5|philc92> uploaded a file: <https://gstudents.slack.com/files/philc92/F5CHJU7EZ/salary_data.txt|salary_data.txt>", 
+            "upload": true, 
+            "ts": "1494555700.080267", 
+            "subtype": "file_share", 
+            "user": "U4VUASUN5", 
+            "file": {
+                "filetype": "text", 
+                "channels": [
+                    "C4UCCHPPE"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5CHJU7EZ", 
+                "size": 2478065, 
+                "title": "salary_data.txt", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5CHJU7EZ/salary_data.txt", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1494555697, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5CHJU7EZ/download/salary_data.txt", 
+                "user": "U4VUASUN5", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "salary_data.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5CHJU7EZ-804c5d75f3", 
+                "permalink": "https://gstudents.slack.com/files/philc92/F5CHJU7EZ/salary_data.txt", 
+                "is_external": false, 
+                "created": 1494555697, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://github.com/zipfian/miniquizzes/blob/master/data/salary_data.csv>", 
+            "type": "message", 
+            "user": "U1UCMPKPU", 
+            "ts": "1494555106.029970"
+        }, 
+        {
+            "text": "<@U591PQ2BD|bruce.suehiro> has joined the channel", 
+            "type": "message", 
+            "user": "U591PQ2BD", 
+            "ts": "1493958275.184252", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U593M18EN|zoelin> has joined the channel", 
+            "type": "message", 
+            "user": "U593M18EN", 
+            "ts": "1493955689.020284", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "```\nfrom __future__ import print_function\nfrom getpass import getpass\n\nclass Hangman(object):\n\n    def __init__(self, word):\n        self.word = word.upper()\n        self.past_guesses = set()\n        self.playing = True\n        self.guesses_left = 6\n\n    def guess(self):\n        letter = raw_input('please guess a letter: ').upper()\n        if letter in self.past_guesses or len(letter) &gt; 1:\n            return self.guess()\n        self.past_guesses.add(letter)\n        if letter not in self.word:\n            self.guesses_left -= 1\n\n    def check_word(self):\n        for letter in self.word:\n            if letter not in self.past_guesses:\n                return\n        self.playing = False\n\n    def display_word(self):\n        for letter in self.word:\n            if letter in self.past_guesses:\n                print(letter, end=' ')\n            else:\n                print('_', end=' ')\n        print('')\n        print(' '.join(sorted(self.past_guesses)), end='\\n')\n\n    def play(self):\n        while self.playing and self.guesses_left &gt; 0:\n            self.display_word()\n            self.guess()\n            self.check_word()\n        if self.playing:\n            print('You lost!')\n        else:\n            print('You won!')\n        print(self.word)\n\n\nif __name__ == '__main__':\n    word = getpass(prompt='Please enter word to guess: ')\n    hm = Hangman(word)\n    hm.play()\n```", 
+            "type": "message", 
+            "user": "U1UCMPKPU", 
+            "ts": "1493955361.999789", 
+            "edited": {
+                "user": "U1UCMPKPU", 
+                "ts": "1493955397.000000"
+            }
+        }, 
+        {
+            "text": "[y for x in range(3) for y in [x, x]]", 
+            "type": "message", 
+            "user": "U1UCMPKPU", 
+            "ts": "1493176204.610976"
+        }, 
+        {
+            "text": "<@U513YLMSL|mukherjee> has joined the channel", 
+            "type": "message", 
+            "user": "U513YLMSL", 
+            "ts": "1492657652.304129", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U507ETBC7|jackwestbrook> has joined the channel", 
+            "type": "message", 
+            "user": "U507ETBC7", 
+            "ts": "1492199007.484220", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4YEFASBE|jcompostella> has joined the channel", 
+            "type": "message", 
+            "user": "U4YEFASBE", 
+            "ts": "1492021830.317255", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4X9YGZCH|tennydesign> has joined the channel", 
+            "type": "message", 
+            "user": "U4X9YGZCH", 
+            "ts": "1491960832.908859", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4X947A8G|ericpaik> has joined the channel", 
+            "type": "message", 
+            "user": "U4X947A8G", 
+            "ts": "1491960772.903664", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4YJALNTZ|olivercheng> has joined the channel", 
+            "type": "message", 
+            "user": "U4YJALNTZ", 
+            "ts": "1491946092.043150", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4X6KPBU1|usher> has joined the channel", 
+            "type": "message", 
+            "user": "U4X6KPBU1", 
+            "ts": "1491942970.342188", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4XV11JTF|dave.sirey> has joined the channel", 
+            "type": "message", 
+            "user": "U4XV11JTF", 
+            "ts": "1491942543.238017", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4Y3T3K6K|bangpan4> has joined the channel", 
+            "type": "message", 
+            "user": "U4Y3T3K6K", 
+            "ts": "1491887705.056065", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4WMNSUQZ|tpancier> has joined the channel", 
+            "type": "message", 
+            "user": "U4WMNSUQZ", 
+            "ts": "1491880909.550912", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4X9QTJRL|lanchelbrutus> has joined the channel", 
+            "type": "message", 
+            "user": "U4X9QTJRL", 
+            "ts": "1491714192.073264", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4VUASUN5|philc92> has joined the channel", 
+            "type": "message", 
+            "user": "U4VUASUN5", 
+            "ts": "1491707075.891349", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4WGSDX8V|ireddysona> has joined the channel", 
+            "type": "message", 
+            "user": "U4WGSDX8V", 
+            "ts": "1491617092.723428", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U28SL7CLR|danwiesenthal> has joined the channel", 
+            "ts": "1491604231.812240", 
+            "subtype": "channel_join", 
+            "user": "U28SL7CLR", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U1UC9NH9Q|darren_reger> has joined the channel", 
+            "ts": "1491604231.812233", 
+            "subtype": "channel_join", 
+            "user": "U1UC9NH9Q", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U1UBYJQM6|moses.marsh> has joined the channel", 
+            "ts": "1491604213.809844", 
+            "subtype": "channel_join", 
+            "user": "U1UBYJQM6", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U1UCK7AAW|ultramann> has joined the channel", 
+            "ts": "1491604213.809839", 
+            "subtype": "channel_join", 
+            "user": "U1UCK7AAW", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U1VA45RE2|ivan> has joined the channel", 
+            "ts": "1491604213.809833", 
+            "subtype": "channel_join", 
+            "user": "U1VA45RE2", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U4B699Z7D|caroline> has joined the channel", 
+            "ts": "1491604213.809826", 
+            "subtype": "channel_join", 
+            "user": "U4B699Z7D", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U1V8JJSF6|pamela> has joined the channel", 
+            "ts": "1491604213.809824", 
+            "subtype": "channel_join", 
+            "user": "U1V8JJSF6", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U1YEKSK45|isaac.laughlin> has joined the channel", 
+            "ts": "1491604213.809817", 
+            "subtype": "channel_join", 
+            "user": "U1YEKSK45", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U1UCMPKPU|lee> has joined the channel", 
+            "ts": "1491604213.809809", 
+            "subtype": "channel_join", 
+            "user": "U1UCMPKPU", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> has joined the channel", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1491327014.170490", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "sf_python_april_2017", 
+        "name": "sf_python_april_2017", 
+        "is_channel": true, 
+        "created": 1491327014, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U3F1AHRHT", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U1UBYJQM6", 
+            "U1UC9NH9Q", 
+            "U1UCK7AAW", 
+            "U1UCMPKPU", 
+            "U1V8JJSF6", 
+            "U1VA45RE2", 
+            "U1YEKSK45", 
+            "U28SL7CLR", 
+            "U3F1AHRHT", 
+            "U4B699Z7D", 
+            "U4VUASUN5", 
+            "U4WGSDX8V", 
+            "U4WMNSUQZ", 
+            "U4X6KPBU1", 
+            "U4X947A8G", 
+            "U4X9YGZCH", 
+            "U4XV11JTF", 
+            "U4Y3T3K6K", 
+            "U4YEFASBE", 
+            "U4YJALNTZ", 
+            "U507ETBC7", 
+            "U513YLMSL", 
+            "U591PQ2BD", 
+            "U593M18EN"
+        ], 
+        "id": "C4UCCHPPE", 
+        "is_shared": false
+    }
+}

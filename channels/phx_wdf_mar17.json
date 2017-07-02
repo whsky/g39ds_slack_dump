@@ -1,0 +1,3291 @@
+{
+    "messages": [
+        {
+            "text": "<@U36F34RGA|merylkrich> archived the channel", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1496711961.026987", 
+            "subtype": "channel_archive"
+        }, 
+        {
+            "text": "<@U4NUV30UA|thomaselkins> has left the channel", 
+            "type": "message", 
+            "user": "U4NUV30UA", 
+            "ts": "1496711465.967153", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "emailed you!", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496190650.064590"
+        }, 
+        {
+            "text": "okay thanks", 
+            "type": "message", 
+            "user": "U4P0RKWH5", 
+            "ts": "1496176381.062620"
+        }, 
+        {
+            "text": "<@U4P0RKWH5> please email this to john at <mailto:john.armbruster@galvanize.com|john.armbruster@galvanize.com> since this channel will be closing today.  Thank you!", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1496176266.026059"
+        }, 
+        {
+            "text": "<@U3MB79VMG>  Could you or one of the TA's put together a simple word doc that explains all the npm, node.js, git bash, live-server stuff is and how to get it and set it up? Since we didn't go over that in class I don't really understand what any of it is and can't set it up again if I had to. Thank you,", 
+            "type": "message", 
+            "user": "U4P0RKWH5", 
+            "ts": "1496176077.963954", 
+            "edited": {
+                "user": "U4P0RKWH5", 
+                "ts": "1496176110.000000"
+            }
+        }, 
+        {
+            "text": "Copy and paste or screen shot it", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1495769310.005924"
+        }, 
+        {
+            "text": "Is there a way to export a Slack conversation string? Or just copy and paste?", 
+            "type": "message", 
+            "user": "U4PP2P95J", 
+            "ts": "1495759361.844053"
+        }, 
+        {
+            "text": "<!channel> If anyone needs anything from this group please post it soon.  The channel will be closing Tuesday, May 30.  Thank you all and please stay in touch!", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1495746494.356037"
+        }, 
+        {
+            "text": "<https://www.startupschool.org/> I know some people were interested in startups, I've found these classes pretty informative", 
+            "type": "message", 
+            "user": "U4P0RKWH5", 
+            "ts": "1495571017.318428"
+        }, 
+        {
+            "text": "In case anyone wants to start a \"keep in touch\" list, you can reach me at <mailto:wendy@wendyshill.com|wendy@wendyshill.com> or <tel:602-920-6289|602-920-6289>. It was great learning with you all!", 
+            "type": "message", 
+            "user": "U4PQNF2F2", 
+            "ts": "1495224884.560067"
+        }, 
+        {
+            "text": "<@U36F34RGA> Thank you!", 
+            "type": "message", 
+            "user": "U4QHG3Z3N", 
+            "ts": "1495220181.134159"
+        }, 
+        {
+            "text": "<!channel>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1495208298.063226"
+        }, 
+        {
+            "username": "merylkrich", 
+            "display_as_bot": false, 
+            "text": "<@U36F34RGA|merylkrich> uploaded a file: <https://gstudents.slack.com/files/merylkrich/F5F0FS4SC/img_1886.jpg|IMG_1886.JPG>", 
+            "upload": true, 
+            "ts": "1495208277.055186", 
+            "subtype": "file_share", 
+            "user": "U36F34RGA", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5F0FS4SC-6b964b9442/img_1886_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5F0FS4SC-6b964b9442/img_1886_64.jpg", 
+                "size": 102418, 
+                "original_h": 480, 
+                "thumb_360_w": 360, 
+                "title": "IMG_1886.JPG", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5F0FS4SC/img_1886.jpg", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5F0FS4SC-6b964b9442/img_1886_360.jpg", 
+                "id": "F5F0FS4SC", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5F0FS4SC-6b964b9442/img_1886_80.jpg", 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495208272, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5F0FS4SC-6b964b9442/img_1886_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5F0FS4SC/download/img_1886.jpg", 
+                "user": "U36F34RGA", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_1886.JPG", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5F0FS4SC-f539ad3bc2", 
+                "permalink": "https://gstudents.slack.com/files/merylkrich/F5F0FS4SC/img_1886.jpg", 
+                "is_external": false, 
+                "created": 1495208272, 
+                "original_w": 640, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C4L4TCBA6"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "merylkrich", 
+            "display_as_bot": false, 
+            "text": "<@U36F34RGA|merylkrich> uploaded a file: <https://gstudents.slack.com/files/merylkrich/F5GECES4W/img_1884.jpg|IMG_1884.JPG>", 
+            "upload": true, 
+            "ts": "1495208261.049254", 
+            "subtype": "file_share", 
+            "user": "U36F34RGA", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5GECES4W-f7631870ac/img_1884_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5GECES4W-f7631870ac/img_1884_64.jpg", 
+                "size": 103347, 
+                "original_h": 480, 
+                "thumb_360_w": 360, 
+                "title": "IMG_1884.JPG", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5GECES4W/img_1884.jpg", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5GECES4W-f7631870ac/img_1884_360.jpg", 
+                "id": "F5GECES4W", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5GECES4W-f7631870ac/img_1884_80.jpg", 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495208255, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5GECES4W-f7631870ac/img_1884_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5GECES4W/download/img_1884.jpg", 
+                "user": "U36F34RGA", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_1884.JPG", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5GECES4W-b7f3c6e746", 
+                "permalink": "https://gstudents.slack.com/files/merylkrich/F5GECES4W/img_1884.jpg", 
+                "is_external": false, 
+                "created": 1495208255, 
+                "original_w": 640, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C4L4TCBA6"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U4QHG3Z3N> I will post it shortly!", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1495208091.985113"
+        }, 
+        {
+            "text": "How did the group picture come out? Would like to see it.", 
+            "type": "message", 
+            "user": "U4QHG3Z3N", 
+            "ts": "1495165820.793476"
+        }, 
+        {
+            "text": "we missed you last night Jesse &amp; Clarissa (we ate your share of the pizza)\u2026looking forward to seeing you on campus again soon!", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1495134393.893339"
+        }, 
+        {
+            "text": "sorry we couldn\u2019t make it last night, we had a last minute family thing come up, Clarissa and I really enjoyed learning javascript with you and if any of you are decide to do the immersive starting next month I\u2019ll hopefully see you there! I\u2019m sure I\u2019ll see you around John but thanks for all the help and good job! the class was very fun and we learned a lot!", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1495132950.353134"
+        }, 
+        {
+            "text": "I'm going to try to come at least 30 minutes early", 
+            "type": "message", 
+            "user": "U4P0RKWH5", 
+            "ts": "1495059114.105935"
+        }, 
+        {
+            "text": "I most likely am not though I wouldn't mind doing so just to talk it over a bit first. It really depends on my ride in how early I will be.", 
+            "type": "message", 
+            "user": "U4P4R4PHC", 
+            "ts": "1495058752.021104"
+        }, 
+        {
+            "text": "Is anyone coming early for help before their presentation?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1495055102.003564"
+        }, 
+        {
+            "text": "The takehome of this video: Even YOU are senior to someone learning to code. If you can explain something to them, you're using a part of your brain that is very strongly attached to learning!", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494998884.513534"
+        }, 
+        {
+            "text": "<https://youtu.be/RleN-6uMF04>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494997811.402938", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://fst.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q", 
+                    "service_name": "YouTube", 
+                    "title": "Top 8 developer habits: Teaching - Fun Fun Function", 
+                    "video_html_height": 225, 
+                    "author_name": "funfunfunction", 
+                    "title_link": "https://youtu.be/RleN-6uMF04", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/RleN-6uMF04?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Top 8 developer habits: Teaching - Fun Fun Function", 
+                    "thumb_url": "https://i.ytimg.com/vi/RleN-6uMF04/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/RleN-6uMF04"
+                }
+            ]
+        }, 
+        {
+            "text": "++", 
+            "type": "message", 
+            "user": "U4MNNDDG8", 
+            "ts": "1494715998.356083"
+        }, 
+        {
+            "text": "Hi! I won't be making it tonight but will post to Slack if/when I have questions!", 
+            "type": "message", 
+            "user": "U4PP2P95J", 
+            "ts": "1494465320.512945"
+        }, 
+        {
+            "text": "No. Alerts are native browser methods", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494460756.909910"
+        }, 
+        {
+            "text": "When im using window.alert, is there ways of using css to make it more \"Stylish\"?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1494457485.383780"
+        }, 
+        {
+            "text": "<@U4PQ2737T|xyxrt256> has left the channel", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1494367773.799604", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<http://getbootstrap.com/css/>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494296161.821397", 
+            "attachments": [
+                {
+                    "title": " CSS \u00b7 Bootstrap ", 
+                    "text": "Bootstrap, a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.", 
+                    "title_link": "http://getbootstrap.com/css/", 
+                    "service_name": "getbootstrap.com", 
+                    "id": 1, 
+                    "fallback": " CSS \u00b7 Bootstrap ", 
+                    "service_icon": "http://getbootstrap.com/favicon.ico", 
+                    "from_url": "http://getbootstrap.com/css/"
+                }
+            ]
+        }, 
+        {
+            "text": "<http://html9responsiveboilerstrapjs.com/>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494295711.772380", 
+            "attachments": [
+                {
+                    "title": "HTML9 Responsive Boilerstrap JS", 
+                    "text": "HTML9 Responsive Boilerstrap JS", 
+                    "title_link": "http://html9responsiveboilerstrapjs.com/", 
+                    "service_name": "html9responsiveboilerstrapjs.com", 
+                    "id": 1, 
+                    "fallback": "HTML9 Responsive Boilerstrap JS", 
+                    "service_icon": "http://html9responsiveboilerstrapjs.com/favicon.ico", 
+                    "from_url": "http://html9responsiveboilerstrapjs.com/"
+                }
+            ]
+        }, 
+        {
+            "text": "Bootstrap ^^^^^^^^^^^", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494295341.729831"
+        }, 
+        {
+            "text": "<https://www.youtube.com/playlist?list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494295334.729056"
+        }, 
+        {
+            "text": "<http://materializecss.com/showcase.html>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494293125.463101", 
+            "attachments": [
+                {
+                    "title": "Showcase - Materialize", 
+                    "text": "Materialize is a modern responsive CSS framework based on Material Design by Google.", 
+                    "title_link": "http://materializecss.com/showcase.html", 
+                    "service_name": "materializecss.com", 
+                    "id": 1, 
+                    "fallback": "Showcase - Materialize", 
+                    "service_icon": "http://materializecss.com/images/favicon/apple-touch-icon-152x152.png", 
+                    "from_url": "http://materializecss.com/showcase.html"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.awwwards.com/>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494292996.446773", 
+            "attachments": [
+                {
+                    "image_bytes": 398348, 
+                    "title": "Awwwards - Website Awards - Best Web Design Trends", 
+                    "text": "Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.", 
+                    "image_width": 250, 
+                    "title_link": "https://www.awwwards.com/", 
+                    "image_height": 250, 
+                    "image_url": "https://assets.awwwards.com/bundles/tvweb/images/pages/about-certificates/awwwards.jpg", 
+                    "service_name": "awwwards.com", 
+                    "id": 1, 
+                    "fallback": "Awwwards - Website Awards - Best Web Design Trends", 
+                    "service_icon": "https://www.awwwards.com/favicon.ico", 
+                    "from_url": "https://www.awwwards.com/"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://dribbble.com/tags/ui>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494292932.439101"
+        }, 
+        {
+            "text": "<!channel> Remember everybody! If you haven't chosen your final project yet make a decision before class so we can get started if you haven't already!", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494278724.947470"
+        }, 
+        {
+            "text": "```\nfunction addStuff(x, y) {\n    return x + y;\n}\n\nconsole.log(addStuff(1, 2));\n```\nThis will print \"3\" after you run it.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494210927.913289", 
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1494210942.000000"
+            }
+        }, 
+        {
+            "text": "For example:", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494210874.908663"
+        }, 
+        {
+            "text": "It won't print out anything, though, if you don't console.log whatever you want to see.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494209938.826714"
+        }, 
+        {
+            "text": "If you create a file and run that file using ```node (whatever the filename is)```, it will run the file for you.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494209900.823511"
+        }, 
+        {
+            "text": "is there a way to run my function through the terminal?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1494209853.819144"
+        }, 
+        {
+            "text": "ah ok ill give it a try, thanks", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1494208916.735584"
+        }, 
+        {
+            "text": "You can run ``` node (whatever filename) ``` if you're in the same directory in the terminal that the file is in.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494208488.693444", 
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1494208494.000000"
+            }
+        }, 
+        {
+            "text": "<https://atom.io/packages/platformio-ide-terminal>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1494208444.689313", 
+            "attachments": [
+                {
+                    "image_bytes": 26770, 
+                    "title": "platformio-ide-terminal", 
+                    "service_name": "Atom", 
+                    "image_width": 314, 
+                    "title_link": "https://atom.io/packages/platformio-ide-terminal", 
+                    "image_height": 250, 
+                    "image_url": "https://github.com/jeremyramin/terminal-plus/raw/master/resources/demo.gif", 
+                    "text": "A terminal package for Atom, complete with themes, API and more for PlatformIO IDE. Fork of terminal-plus.", 
+                    "id": 1, 
+                    "fallback": "Atom: platformio-ide-terminal", 
+                    "service_icon": "https://atom.io/favicon.ico", 
+                    "from_url": "https://atom.io/packages/platformio-ide-terminal"
+                }
+            ]
+        }, 
+        {
+            "text": "is there an atom package that has a console for js?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1494208114.658855"
+        }, 
+        {
+            "text": "<!channel> if you'd like more practice around writing functions for handling click events, work through exercises 1 and 2 here: <https://gist.github.com/lizTheDeveloper/627c0c515e14f9d701a5e6328b08f307>", 
+            "type": "message", 
+            "user": "U4UAAD20K", 
+            "ts": "1493860089.912334", 
+            "edited": {
+                "user": "U4UAAD20K", 
+                "ts": "1493860703.000000"
+            }
+        }, 
+        {
+            "text": "<!channel> for tonight's workshop, refer the following: <https://gist.github.com/lizTheDeveloper/38704fe9d6882caf04e226ea4261cd44>", 
+            "type": "message", 
+            "user": "U4UAAD20K", 
+            "ts": "1493859990.901349"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U4PQNF2F2", 
+            "ts": "1493843235.338993"
+        }, 
+        {
+            "text": "<!channel> DO NOT OPEN the email sent out by Meryl linking to a shared google doc, it is a phishing scam.", 
+            "type": "message", 
+            "user": "U4UAAD20K", 
+            "ts": "1493843183.321063"
+        }, 
+        {
+            "text": "I started to do that last night, but I got sidetracked. As soon as I get settled in, I'll put it up.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493754403.719328"
+        }, 
+        {
+            "text": "<@U3MB79VMG> Hey John, you mentioned last night that you would put your code on Git and send us the link. I don't see that yet.", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1493754138.630633"
+        }, 
+        {
+            "text": "'This' as a Keyword came up in Jeff's Breakout Group. Here is an article I ran across that further describes its use.\n<https://hackernoon.com/javascript-the-keyword-this-for-beginners-fb5238d99f85>", 
+            "type": "message", 
+            "user": "U4P0P3YLE", 
+            "ts": "1493729763.692764", 
+            "edited": {
+                "user": "U4P0P3YLE", 
+                "ts": "1493729781.000000"
+            }
+        }, 
+        {
+            "text": "<http://codepen.io/jtklier/pen/YVQKvj>", 
+            "type": "message", 
+            "user": "U4UAAD20K", 
+            "ts": "1493694631.219895", 
+            "attachments": [
+                {
+                    "image_bytes": 14343, 
+                    "title": "Task List Solution", 
+                    "service_name": "CodePen", 
+                    "image_width": 427, 
+                    "title_link": "http://codepen.io/jtklier/pen/YVQKvj", 
+                    "image_height": 250, 
+                    "image_url": "http://s3-us-west-2.amazonaws.com/i.cdpn.io/1222741.YVQKvj.8f4e9e81-a1ee-47b0-93d0-5efef9e5f818.png", 
+                    "text": "...", 
+                    "id": 1, 
+                    "fallback": "CodePen: Task List Solution", 
+                    "service_icon": "https://production-assets.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+                    "from_url": "http://codepen.io/jtklier/pen/YVQKvj"
+                }
+            ]
+        }, 
+        {
+            "text": "```&lt;p&gt;Add a food: &lt;input id=\"new-food\" type=\"text\"&gt;&lt;/p&gt;\n    &lt;button id=\"submit-button\"&gt;Submit&lt;/button&gt;\n\n    &lt;h3&gt;List of foods&lt;/h3&gt;\n    &lt;ul id=\"food-list\"&gt;&lt;/ul&gt;```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493692469.997542"
+        }, 
+        {
+            "text": "```&lt;script\n  src=\"http://code.jquery.com/jquery-3.2.1.min.js\"\n  integrity=\"sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=\"\n  crossorigin=\"anonymous\"&gt;&lt;/script&gt;\n\n  \n    &lt;script src=\"app.js\" charset=\"utf-8\"&gt;&lt;/script&gt;```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493692205.970005"
+        }, 
+        {
+            "text": "<https://github.com/jtklier/jquery_tasklist_exercise/blob/master/jquery%20Tasklist%20Exercise.md>", 
+            "type": "message", 
+            "user": "U4UAAD20K", 
+            "ts": "1493691496.897904", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "jtklier/jquery_tasklist_exercise", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/jtklier/jquery_tasklist_exercise/blob/master/jquery%20Tasklist%20Exercise.md", 
+                    "text": "Contribute to jquery_tasklist_exercise development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: jtklier/jquery_tasklist_exercise", 
+                    "thumb_url": "https://avatars1.githubusercontent.com/u/2717132?v=3&s=400", 
+                    "from_url": "https://github.com/jtklier/jquery_tasklist_exercise/blob/master/jquery%20Tasklist%20Exercise.md"
+                }
+            ]
+        }, 
+        {
+            "text": "<http://codepen.io/jtklier/pen/vmZYNP>", 
+            "type": "message", 
+            "user": "U4UAAD20K", 
+            "ts": "1493691401.888515", 
+            "edited": {
+                "user": "U4UAAD20K", 
+                "ts": "1493691436.000000"
+            }
+        }, 
+        {
+            "text": "regarding the tab action on pages: <https://www.w3schools.com/tags/att_global_tabindex.asp>", 
+            "type": "message", 
+            "user": "U4UAAD20K", 
+            "ts": "1493689156.642392", 
+            "attachments": [
+                {
+                    "title": "HTML Global tabindex Attribute", 
+                    "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.", 
+                    "title_link": "https://www.w3schools.com/tags/att_global_tabindex.asp", 
+                    "service_name": "w3schools.com", 
+                    "id": 1, 
+                    "fallback": "HTML Global tabindex Attribute", 
+                    "service_icon": "https://www.w3schools.com/favicon.ico", 
+                    "from_url": "https://www.w3schools.com/tags/att_global_tabindex.asp"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://codepen.io/johnazre/pen/rmwamb>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493689119.638378", 
+            "attachments": [
+                {
+                    "image_bytes": 5789, 
+                    "title": "rmwamb", 
+                    "service_name": "CodePen", 
+                    "image_width": 427, 
+                    "title_link": "https://codepen.io/johnazre/pen/rmwamb", 
+                    "image_height": 250, 
+                    "image_url": "http://s3-us-west-2.amazonaws.com/i.cdpn.io/401769.rmwamb.a1dec87d-45bd-4299-8a86-decaf712b15e.png", 
+                    "text": "...", 
+                    "id": 1, 
+                    "fallback": "CodePen: rmwamb", 
+                    "service_icon": "https://production-assets.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+                    "from_url": "https://codepen.io/johnazre/pen/rmwamb"
+                }
+            ]
+        }, 
+        {
+            "text": "Clarissa and I won't be able to make it tonight, sorry guys:white_frowning_face:", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1493685908.257980"
+        }, 
+        {
+            "thread_ts": "1493659494.770446", 
+            "text": "john.armbruster: LOVE this guy! Thanks for the direction!", 
+            "ts": "1493684936.136339", 
+            "user": "U4PQNF2F2", 
+            "parent_user_id": "U3MB79VMG", 
+            "type": "message"
+        }, 
+        {
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1493662369.000000"
+            }, 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/TEDtalksDirector", 
+                    "service_name": "YouTube", 
+                    "title": "Grit: the power of passion and perseverance | Angela Lee Duckworth", 
+                    "video_html_height": 225, 
+                    "author_name": "TED", 
+                    "title_link": "https://youtu.be/H14bBuluwB8", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/H14bBuluwB8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Grit: the power of passion and perseverance | Angela Lee Duckworth", 
+                    "thumb_url": "https://i.ytimg.com/vi/H14bBuluwB8/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/H14bBuluwB8"
+                }
+            ], 
+            "text": "Last video of the day: (the TED talk he was referring to) <https://youtu.be/H14bBuluwB8>", 
+            "ts": "1493662355.678395", 
+            "user": "U3MB79VMG", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493659494.770446", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q", 
+                    "service_name": "YouTube", 
+                    "title": "Top 8 developer Habits: Perseverance - Fun Fun Function", 
+                    "video_html_height": 225, 
+                    "author_name": "funfunfunction", 
+                    "title_link": "https://youtu.be/DwQ7psiU23I", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/DwQ7psiU23I?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Top 8 developer Habits: Perseverance - Fun Fun Function", 
+                    "thumb_url": "https://i.ytimg.com/vi/DwQ7psiU23I/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/DwQ7psiU23I"
+                }
+            ], 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U4PQNF2F2"
+                    ]
+                }
+            ], 
+            "text": "It's seriously worth watching this video. He talks about how frustration is normal and how important perseverance is, as well as some other aggregated data and some perspective on the matter from an experienced developer. (He works for Spotify) <https://youtu.be/DwQ7psiU23I>", 
+            "ts": "1493659494.770446", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U3MB79VMG", 
+            "replies": [
+                {
+                    "user": "U4PQNF2F2", 
+                    "ts": "1493684936.136339"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "The first thing I notice is that your groceries variable is a jquery element, but the unorderedList appears to be a vanilla javascript element AND is currently commented out. Remember: jquery elements and vanilla javascript elements DO NOT MIX! While they appear similar and exhibit similar behavior, they don't play well with each other when you try to put them together. When you have groceries.append() above your for loop, it's expecting a jquery element as input, which is not what you're currently passing in", 
+            "type": "message", 
+            "user": "U4UAAD20K", 
+            "ts": "1493315100.867839"
+        }, 
+        {
+            "text": "```// var groceries= document.getElementsByClassName('groceries');\nvar groceries = $('.groceries')\n$('.groceries').append('&lt;ul&gt;&lt;/ul&gt;')\n$('ul').attr(\"class\", \"unorderedList\");\n\n\n//var unorderedList = document.createElement('ul');\ngroceries.append(unorderedList);\n\nfor (i=0; i &lt; groceryList.length; i++){\n  // var listItem = document.createElement('li');\n  $('unorderList').append('&lt;li&gt;&lt;/li&gt;');\n  $('li').attr(\"class\", \"listItem\");\n  $('.listItem').text(groceryList[i].name + \" (\" + groceryList[i].qty + \"))\n // groceryList[i].name + \" (\" + groceryList[i].qty + \")\";\n  // unorderedList.appendChild(listItem);\n  $('unorderList').append('&lt;li&gt;&lt;/li&gt;'); \n}```", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1493313707.356906"
+        }, 
+        {
+            "text": "So im trying to get this, but Im obviously not. Im trying to change all the JS to jquery from that grocery list problem", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1493313702.354867"
+        }, 
+        {
+            "text": "<!channel>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493261260.818022"
+        }, 
+        {
+            "text": "<https://gist.github.com/lizTheDeveloper/c6cd9e0423a06d25a5bcfff93a98386b>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493261252.817050"
+        }, 
+        {
+            "text": "<https://codepen.io/jtklier/pen/Qvdpae>", 
+            "type": "message", 
+            "user": "U4UAAD20K", 
+            "ts": "1493257505.347154", 
+            "attachments": [
+                {
+                    "title": "Qvdpae", 
+                    "service_name": "CodePen", 
+                    "title_link": "https://codepen.io/jtklier/pen/Qvdpae", 
+                    "text": "...", 
+                    "id": 1, 
+                    "fallback": "CodePen: Qvdpae", 
+                    "service_icon": "https://production-assets.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+                    "from_url": "https://codepen.io/jtklier/pen/Qvdpae"
+                }
+            ]
+        }, 
+        {
+            "text": "sorry we missed monday, can\u2019t wait to see you all tonight!", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1493246319.614241"
+        }, 
+        {
+            "text": "For the map project, its making me create an acount to download a map? is that necessary?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1493164677.437135"
+        }, 
+        {
+            "text": "lol! Glad to hear it!", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493098215.288152"
+        }, 
+        {
+            "text": "John, its crazy, every time i ask you something, before i even read your answer i figure it out. Thanks for the help!", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1493097776.248196"
+        }, 
+        {
+            "text": "If you want to return 2 of anything, you have to do one of two things: return an array or return a string of joined array values.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493097090.189439"
+        }, 
+        {
+            "text": "Im trying to return 2 index's of an array, any tips on methods I should use?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1493096820.166616"
+        }, 
+        {
+            "text": "<https://gist.github.com/lizTheDeveloper/2cd0e1d4d6e1348fce310f2988afdb17> <!channel>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493085882.154231"
+        }, 
+        {
+            "text": "<https://gist.github.com/lizTheDeveloper/ba94a761379ea10c8d75d5dceadb6c41>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493085681.133492"
+        }, 
+        {
+            "text": "<https://gist.github.com/lizTheDeveloper/dc87232f4010f8cd596f488c570d2b73>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493085628.127437"
+        }, 
+        {
+            "text": "<https://gist.github.com/lizTheDeveloper/05380473c4c6fca934301d1d00a970e3>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493085615.125666"
+        }, 
+        {
+            "text": "<@U4UAAD20K|jeffrey.klier> has joined the channel", 
+            "type": "message", 
+            "user": "U4UAAD20K", 
+            "ts": "1493085173.078356", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "```\nvar body = document.getElementsByTagName('body')[0];\n\nSteps to appending elements to the DOM:\n1. var someDiv = document.createElement('div');\n2. (Add whatever attributes or styling or ...) someDiv.style.color = \"red\";\n3. body.appendChild(someDiv);\n```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493084539.011463", 
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1493084664.000000"
+            }
+        }, 
+        {
+            "text": "\"So far\" being the key words.", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1493001994.186377"
+        }, 
+        {
+            "text": "Depends on who you talk to :wink:", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493001913.179292"
+        }, 
+        {
+            "text": "Wait, there's more than one way to code things? :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1493001890.177374"
+        }, 
+        {
+            "text": "There's actually more than one way to do it and different people like to do it different ways.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493001848.173849"
+        }, 
+        {
+            "text": "Float seems to work so far.", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1493001798.169775"
+        }, 
+        {
+            "text": "Ok.", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1493001689.160917"
+        }, 
+        {
+            "text": "Also, maybe search Google for \"how to put divs next to each other\".", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493001634.156265"
+        }, 
+        {
+            "text": "Research 2 CSS things: \"display\" and \"float\" and see which one of those you can use.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493001524.147083", 
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1493001553.000000"
+            }
+        }, 
+        {
+            "text": "Getting them on the same line.", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1493001482.143290"
+        }, 
+        {
+            "text": "What is causing you trouble?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493001461.141376"
+        }, 
+        {
+            "text": "Still working on the 3rd HTML/CSS exercise.", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1493001314.129062"
+        }, 
+        {
+            "text": "<!channel> Normally, I wouldn't send out the slides, but I think this really gives you a heads up of exactly what you need to study/familiar yourself with for the class tomorrow: <http://slides.com/lizh/the-document-object-model#/>\n\n;TLDR Learn how to do the following using Javascript:\n- Find/acquire an element using Javascript.\n- Change an attribute of that element.\n- Create and append a new element into the HTML using Javascript.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1493001285.126491", 
+            "attachments": [
+                {
+                    "image_bytes": 18969, 
+                    "title": "The Document Object Model by LizTheDeveloper", 
+                    "service_name": "Slides", 
+                    "image_width": 250, 
+                    "title_link": "http://slides.com/lizh/the-document-object-model#/", 
+                    "image_height": 250, 
+                    "image_url": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/9fff475242fdc9dc452b915f10ef6e59/thumb.jpg", 
+                    "text": "A presentation created with Slides.", 
+                    "id": 1, 
+                    "fallback": "Slides: The Document Object Model by LizTheDeveloper", 
+                    "service_icon": "http://slides.com/favicon.ico", 
+                    "from_url": "http://slides.com/lizh/the-document-object-model#/"
+                }
+            ]
+        }, 
+        {
+            "text": "Hey everyone! If you're finished watching the video and/or you want some practice with HTML, try cloning the layout of this website: <https://blackrockdigital.github.io/startbootstrap-freelancer/>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492987084.129779"
+        }, 
+        {
+            "text": "<!channel>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492926696.388435"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U4PL3N29K"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg", 
+                    "service_name": "YouTube", 
+                    "title": "JavaScript Tutorial For Beginners #32 - What is the DOM in JavaScript?", 
+                    "video_html_height": 225, 
+                    "author_name": "The Net Ninja", 
+                    "title_link": "https://youtu.be/H63dVFDuJDM", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/H63dVFDuJDM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: JavaScript Tutorial For Beginners #32 - What is the DOM in JavaScript?", 
+                    "thumb_url": "https://i.ytimg.com/vi/H63dVFDuJDM/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/H63dVFDuJDM"
+                }
+            ], 
+            "text": "There's a number of good ones in this series, as well: <https://youtu.be/H63dVFDuJDM>", 
+            "ts": "1492926675.387805", 
+            "user": "U3MB79VMG", 
+            "type": "message"
+        }, 
+        {
+            "text": "Make sure you guys review and research the DOM for Monday! Here are a couple of resources:\n\n<https://youtu.be/Bkc7AUQ6uU4>\n<https://youtu.be/SCYUzGJ0EmY>\n<https://youtu.be/hM9h1wN4rfU>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492926599.385613", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/derekbanas", 
+                    "service_name": "YouTube", 
+                    "title": "JavaScript Video Tutorial Pt 5", 
+                    "video_html_height": 225, 
+                    "author_name": "Derek Banas", 
+                    "title_link": "https://youtu.be/Bkc7AUQ6uU4", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/Bkc7AUQ6uU4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: JavaScript Video Tutorial Pt 5", 
+                    "thumb_url": "https://i.ytimg.com/vi/Bkc7AUQ6uU4/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/Bkc7AUQ6uU4"
+                }, 
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/DoingITeasyChannel", 
+                    "service_name": "YouTube", 
+                    "title": "JavaScript Lesson 13 DOM Manipulation", 
+                    "video_html_height": 225, 
+                    "author_name": "DoingITeasyChannel", 
+                    "title_link": "https://youtu.be/SCYUzGJ0EmY", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/SCYUzGJ0EmY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 2, 
+                    "fallback": "YouTube Video: JavaScript Lesson 13 DOM Manipulation", 
+                    "thumb_url": "https://i.ytimg.com/vi/SCYUzGJ0EmY/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/SCYUzGJ0EmY"
+                }, 
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/DevTipsForDesigners", 
+                    "service_name": "YouTube", 
+                    "title": "JavaScript and the DOM (Part 1 of 2)", 
+                    "video_html_height": 225, 
+                    "author_name": "DevTips", 
+                    "title_link": "https://youtu.be/hM9h1wN4rfU", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/hM9h1wN4rfU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 3, 
+                    "fallback": "YouTube Video: JavaScript and the DOM (Part 1 of 2)", 
+                    "thumb_url": "https://i.ytimg.com/vi/hM9h1wN4rfU/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/hM9h1wN4rfU"
+                }
+            ]
+        }, 
+        {
+            "text": "did anyone ever finish the cakesToBake combining functions problems on repl?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492903454.561106"
+        }, 
+        {
+            "text": "<https://codepen.io/johnazre/pen/BRjGxa>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492657204.980978", 
+            "attachments": [
+                {
+                    "title": "BRjGxa", 
+                    "service_name": "CodePen", 
+                    "title_link": "https://codepen.io/johnazre/pen/BRjGxa", 
+                    "text": "...", 
+                    "id": 1, 
+                    "fallback": "CodePen: BRjGxa", 
+                    "service_icon": "https://production-assets.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+                    "from_url": "https://codepen.io/johnazre/pen/BRjGxa"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.w3schools.com/cssref/css_websafe_fonts.asp>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492655122.748285", 
+            "attachments": [
+                {
+                    "title": "CSS Web Safe Fonts", 
+                    "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.", 
+                    "title_link": "https://www.w3schools.com/cssref/css_websafe_fonts.asp", 
+                    "service_name": "w3schools.com", 
+                    "id": 1, 
+                    "fallback": "CSS Web Safe Fonts", 
+                    "service_icon": "https://www.w3schools.com/favicon.ico", 
+                    "from_url": "https://www.w3schools.com/cssref/css_websafe_fonts.asp"
+                }
+            ]
+        }, 
+        {
+            "text": "<http://w3schools.com|w3schools.com>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492655012.736117"
+        }, 
+        {
+            "text": "<http://javascriptissexy.com|javascriptissexy.com>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492653927.612756"
+        }, 
+        {
+            "text": "<http://css-tricks.com|css-tricks.com>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492653919.611880"
+        }, 
+        {
+            "text": "<!channel> <https://gist.github.com/lizTheDeveloper/be2197c124037345d6ad016ae5d6af39>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492653805.598604"
+        }, 
+        {
+            "text": "I am out unexpectedly late from work today and will not be able to make it in time today for class. ", 
+            "type": "message", 
+            "user": "U4PP2P95J", 
+            "ts": "1492651068.256332"
+        }, 
+        {
+            "text": "even console.log() comes up undefined", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492566449.129289"
+        }, 
+        {
+            "text": "ok, Ill go give it a try rn.", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492566361.118723"
+        }, 
+        {
+            "text": "You might also want to have an else statement in that top function, just in case it doesn't fit the first condition", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492566329.114612"
+        }, 
+        {
+            "text": "that undefined doesn't mean anything. If you want to see the value, try ```console.log(leftoverSlices(60, 5))```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492566295.110318"
+        }, 
+        {
+            "text": "yes", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492566206.099592"
+        }, 
+        {
+            "text": "in repl?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492566201.099013"
+        }, 
+        {
+            "text": "console.", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492566160.094242"
+        }, 
+        {
+            "text": "Where is it showing undefined?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492566153.093397"
+        }, 
+        {
+            "text": "keeps showing undefined. any ideas?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492566136.091163"
+        }, 
+        {
+            "text": "```function leftoverSlices(attendees, cakes){\n  if(cakesToBake(attendees, cakes) &lt; 0){\n    return true;\n  }\n}\n  leftoverSlices(60, 5);```", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492566122.089682"
+        }, 
+        {
+            "text": "do i need to put in arguement in cakesToBake, or does it know them already from the last function?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492566048.080998"
+        }, 
+        {
+            "text": "```function leftOverSlices(attendees, cakes){\n  cakesToBakes(whatever);\n  \n}```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492565394.000356"
+        }, 
+        {
+            "text": "how*", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492564838.931466"
+        }, 
+        {
+            "text": "Can someone explain to me hot to call cakesToBake function in my leftOverSlices function", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492564835.931059"
+        }, 
+        {
+            "text": "```function cakesToBake(attendees, cakes){\n  if(attendees&gt;(cakes*slicesPerCake)){\n    return Math.ceil((attendees-(cakes*slicesPerCake))/6);\n  }\n}\nfunction leftOverSlices(attendees, cakes){\n  \n  \n}```", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492564815.928463"
+        }, 
+        {
+            "text": "Normally, I'd just give you a github link, but this is private in Galvanize's repo, so...haha.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492563264.724010"
+        }, 
+        {
+            "username": "john.armbruster", 
+            "display_as_bot": false, 
+            "text": "<@U3MB79VMG|john.armbruster> uploaded a file: <https://gstudents.slack.com/files/john.armbruster/F511HQ6NP/lodash.zip|lodash.zip>", 
+            "upload": true, 
+            "ts": "1492563229.719497", 
+            "subtype": "file_share", 
+            "user": "U3MB79VMG", 
+            "file": {
+                "filetype": "zip", 
+                "channels": [
+                    "C4L4TCBA6"
+                ], 
+                "display_as_bot": false, 
+                "id": "F511HQ6NP", 
+                "size": 6043796, 
+                "title": "lodash.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F511HQ6NP/lodash.zip", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1492563229, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F511HQ6NP/download/lodash.zip", 
+                "user": "U3MB79VMG", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Zip", 
+                "name": "lodash.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F511HQ6NP-e3183e1b62", 
+                "permalink": "https://gstudents.slack.com/files/john.armbruster/F511HQ6NP/lodash.zip", 
+                "is_external": false, 
+                "created": 1492563229, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Yes please, <@U3MB79VMG> That would be fantastic", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1492561740.528375"
+        }, 
+        {
+            "text": "Also, I found the old lodash project I did, so if you want to see it, let me know.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492487006.662840"
+        }, 
+        {
+            "text": "<!channel> Here's a schedule of what the rest of the workshop will look like. <https://docs.google.com/spreadsheets/d/1D1LtldiLvp7hshq4Ob3vHmKJS0W7RxCnB57ZeZPiEWg/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492486859.637893"
+        }, 
+        {
+            "text": "<!channel> <https://github.com/gSchool/lodash>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492484552.287946"
+        }, 
+        {
+            "text": ".indexOf = function(array, el) {\n  var index = -1;\n\n  for(var i = 0; i &lt; array.length; i++) {\n    if (array[i] === el) {\n      index = i;\n      break;\n    }\n  }\n\n  return index;\n};", 
+            "type": "message", 
+            "user": "U4P4R4PHC", 
+            "ts": "1492482507.993704"
+        }, 
+        {
+            "text": "sbarnes27", 
+            "type": "message", 
+            "user": "U4R6TJ422", 
+            "ts": "1492481460.844468"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "+1", 
+                    "users": [
+                        "U4PQNF2F2", 
+                        "U4PL3N29K", 
+                        "U4NC3PLN8"
+                    ]
+                }
+            ], 
+            "text": "I would highly recommend reading Chapter 7 before you get here tonight so you know what is going on and what you will be building. The whole chapter is about building the game. <!channel>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492446620.150690"
+        }, 
+        {
+            "text": ":carlton: ", 
+            "type": "message", 
+            "user": "U4QG71JR0", 
+            "ts": "1492409248.317839"
+        }, 
+        {
+            "text": "It should take most, if not all, of the class time to build, so try to be on time, if you can! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492401691.716585"
+        }, 
+        {
+            "text": "<!channel>! Tomorrow, we're going to be building a game called Hangman. The activity is in your book, so if you want to glance at it beforehand, it's on page 105.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492401653.712837"
+        }, 
+        {
+            "text": "Make it work and finish lodash, then come back and refactor it if you want. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492398453.460311"
+        }, 
+        {
+            "text": "Like I've said before, the best way to code is get it working at all, then refactor later.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492398435.458854"
+        }, 
+        {
+            "text": "I know, but I feel like thats the easy scapegoat way, I was just trying something new and seeing if it was feasible.", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492398255.444106"
+        }, 
+        {
+            "text": "<@U4PL3N29K>, using if and else if in this situation would be definitely a possible solution.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492398216.440972"
+        }, 
+        {
+            "text": "<@U4PQ2737T>, message me your solution", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492398175.437569"
+        }, 
+        {
+            "text": "<@U4PL3N29K>", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1492398146.435180"
+        }, 
+        {
+            "text": "I got this one working in <http://repl.it|repl.it> but cannot get it to work in lodash testing", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1492398120.432873"
+        }, 
+        {
+            "text": "ok im going to reattempt it with each individually", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492398046.426750"
+        }, 
+        {
+            "text": "rewriting the array[i] !== .... would totally be an option, but you have to make sure the operator that you use to separate those is the right one.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492397934.416808"
+        }, 
+        {
+            "text": "No. I also tried re-writing the array[i] !== part for each one individually and it didnt run either, after the first one its stopped", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492397861.410904"
+        }, 
+        {
+            "text": "Does it work when you run \"npm test\"?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492397737.400399"
+        }, 
+        {
+            "text": "am i being naive thinking this would work?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492397629.390877"
+        }, 
+        {
+            "text": "```if(array[i] !== (false || null || 0 || \" \" || undefined || NaN) )\n      newArr.push(array[i]);\n  }```", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492397620.390135"
+        }, 
+        {
+            "text": "ohhh, good explanation Tom!", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492396858.325818"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U3MB79VMG", 
+                        "U4PL3N29K"
+                    ]
+                }
+            ], 
+            "text": "A function can only return a value once. If the return statement is inside a loop, then it is trying to return something every time the loop iterates.", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1492396623.305545"
+        }, 
+        {
+            "text": "Just in case anyone else had/is having this problem, why would having a return statement inside of a loop not work? <!channel>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492396487.294315"
+        }, 
+        {
+            "text": "No problem :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492396440.290305"
+        }, 
+        {
+            "text": "it worked! yay! thanks John", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492396427.289309"
+        }, 
+        {
+            "text": "works for me", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492396361.283855"
+        }, 
+        {
+            "text": "You're solution is right on, though, minus the .join", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492396356.283500"
+        }, 
+        {
+            "text": "In repl, yeah, go ahead", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492396339.281982"
+        }, 
+        {
+            "text": "I meant in <http://repl.it|repl.it> cause it says the \"_.\" draws an error", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492396303.278957"
+        }, 
+        {
+            "text": "No. You shouldn't have to do anything but change the contents of every function.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492396264.275587"
+        }, 
+        {
+            "text": "that ^^^ part of the function keeps getting me errors so I cant run it. should i create some fake function to fix that?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492396226.272340"
+        }, 
+        {
+            "text": "``` _.takeRight = function(array, n) {```", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492396196.269481"
+        }, 
+        {
+            "text": "That would make it easier", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492396177.268016"
+        }, 
+        {
+            "text": "yes it is the last part of the function", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492396175.267906"
+        }, 
+        {
+            "text": "Yeah, move it into repl", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492396172.267651"
+        }, 
+        {
+            "text": "i moved the return statement out of the loop and back in the function, still no fix though.", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492396134.264472"
+        }, 
+        {
+            "text": "im not realy sure how I could test in repl its being kind of freaky because how the function is set", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492396111.262605"
+        }, 
+        {
+            "text": "in my loop. damm ima gonna try to console.log it instead", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492395892.244573"
+        }, 
+        {
+            "text": "If that is the case, where is the return statement in your solution?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492395840.240111", 
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1492395865.000000"
+            }
+        }, 
+        {
+            "text": "only once.", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492395824.238731"
+        }, 
+        {
+            "text": "One question for you, though. How many times can a function return something?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492395801.236776"
+        }, 
+        {
+            "text": "I'm not sure. ill throw it in <http://repl.it|repl.it> to see.", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492395723.230430"
+        }, 
+        {
+            "text": "What does it return?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492395673.226320"
+        }, 
+        {
+            "text": "maybe (array.length)-n?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492395491.210977"
+        }, 
+        {
+            "text": "Im trying to get the function to display the last 4 elements in an array, i have a feeling that my loop might be wrong, any ideas?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492395465.208969"
+        }, 
+        {
+            "text": "```var arr=[];\n  if(!n){\n    n = 1;\n  }\n  for(var i = array.length-n; i &lt; array.length; i++){\n    arr.push(array[i]);\n    return arr.join();\n  }\n\n};```", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492395434.206389"
+        }, 
+        {
+            "text": "<https://github.com/gSchool/lodash>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492049103.172087"
+        }, 
+        {
+            "text": "``` function stringCapitalize(str) {\n  var newStr = \"\";\n  for(var i = 0; i &lt; str.length; i++) {\n    if (str[i - 1] === \" \" || str[i] === str.charAt(0)) {\n      newStr += str[i].toUpperCase()\n    } else {\n      newStr += str[i]\n    }\n  }\n  return newStr;\n}\n\nstringCapitalize(\"the quick brown fox\") ```", 
+            "type": "message", 
+            "user": "U3100JZUY", 
+            "ts": "1492048120.057380", 
+            "edited": {
+                "user": "U3100JZUY", 
+                "ts": "1492049608.000000"
+            }
+        }, 
+        {
+            "text": "stringCapitalized function without splitting str into an array (another option):", 
+            "type": "message", 
+            "user": "U3100JZUY", 
+            "ts": "1492048117.057008"
+        }, 
+        {
+            "text": "<!channel>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492047847.025042"
+        }, 
+        {
+            "text": "```var stringCapitalized = function(str) {\n  var splitStr = str.split(' ');\n  for(var i = 0; i &lt; splitStr.length; i++) {\n    splitStr[i] = splitStr[i][0].toUpperCase() + splitStr[i].slice(1);\n  }\n  console.log(splitStr.join(' '))\n}\n\nstringCapitalized(\"hello world\");```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492047839.024229"
+        }, 
+        {
+            "text": "```function evensAndOdds(arr) {\n  var containerArr = [];\n  var evensArr = [];\n  var oddsArr = [];\n  \n  for(var i = 0; i &lt; arr.length; i++) {\n    if(arr[i]%2 === 0) {\n      evensArr.push(arr[i]);\n    } else {\n      oddsArr.push(arr[i]);\n    }\n  }\n  containerArr.push(evensArr, oddsArr);\n  return containerArr;\n}\n\nvar x = [1, 2, 3, 4, 5];\nevensAndOdds(x)```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492047084.934953"
+        }, 
+        {
+            "text": "has anyone else got the capitalization one?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492041449.204632"
+        }, 
+        {
+            "text": "why when I console.log it says undefined?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492040588.075111"
+        }, 
+        {
+            "text": "```function stringCapitalize(str){\n  var splitStr= str.split(\" \");\n  splitStr[0];\n  console.log(splitStr[0])\n}```", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492040576.073398"
+        }, 
+        {
+            "text": "a string.length 's worth of loops?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492039687.931598"
+        }, 
+        {
+            "text": "but how do i get the loop to get the first letter then move to the next word?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492039672.929145"
+        }, 
+        {
+            "text": "if you split the string into words, getting a hold of the first character isn't too big of a deal", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492038914.802199"
+        }, 
+        {
+            "text": "remember, all you're doing is looking for the first character of each word", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492038887.797971"
+        }, 
+        {
+            "text": "If you loop over it, you won't need indexOf", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492038861.793238"
+        }, 
+        {
+            "text": "integrate*", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492038746.773869"
+        }, 
+        {
+            "text": "how would i inegrate an indexOf and a loop?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492038738.772386"
+        }, 
+        {
+            "text": "ahhhh, okay. So, a couple of things. Your'e going to want to put all that logic inside of the function because the purpose of the function is to go through ANY string, not just something hardcoded. The other thing is that you'll never know how many letters/spaces/etc that it's going to have, so maybe using a loop would make things a little easier. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492038500.731497"
+        }, 
+        {
+            "text": "more*", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492038318.699071"
+        }, 
+        {
+            "text": "also, i tried indexOf on the string but everytime it found the first of the string i was looking for it stopped looking for me", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492038313.698226"
+        }, 
+        {
+            "text": "with the double [] i can get the index of an index but it will only work for this specific string", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492038269.690409"
+        }, 
+        {
+            "text": "``` var str= \"there is so much more\"\nvar arrStr = str.split(\" \")\n  console.log(arrStr[0][0]);\nfunction stringCapitalize(str){\n  \n}```", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492038218.681348"
+        }, 
+        {
+            "text": "yes one second.", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492038196.677355"
+        }, 
+        {
+            "text": "<@U4PL3N29K> I'm not sure I understand \"if the string changes, it won't work\". Can you copy/paste what you have with three backticks before and three backticks after?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492038180.674510"
+        }, 
+        {
+            "text": "<@U4NC3PLN8> You're checking for just the first character of the array that you create. You need to capitalize the first letter of every word, so maybe look for something that separates words to be able to identify where to capitalize.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492038102.659468"
+        }, 
+        {
+            "text": "<@U3MB79VMG> So im able to individually get each first letter but if the string changes then it wont work. How would I select the first index of a word regardless of the length of the string", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492038028.644832"
+        }, 
+        {
+            "text": "well I\u2019m stuck on that one as well and what I have currently is:```function stringCapitalize(str) {\n  var changedStr = str.split(\"\");\n  str.toUppercase(changedStr[0]);\n  return str.join(\"\");\n}```", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1492036232.303062"
+        }, 
+        {
+            "text": "Totally. What do you have?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1492027734.953298"
+        }, 
+        {
+            "text": "can anyone help me with the stringCapitalize?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1492024506.906695"
+        }, 
+        {
+            "text": "Looks great. No problem", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491953173.157899"
+        }, 
+        {
+            "text": "function discountPercentage(amount,discount){\n  if ((discount) &gt; 100 || (discount) &lt; 0)\n    return \"error\"\n  else\n    return amount * (discount/100);\n}\n\nyeah, that's what I got, made the difference, thanks", 
+            "type": "message", 
+            "user": "U4P0RKWH5", 
+            "ts": "1491953147.153995"
+        }, 
+        {
+            "text": "So your total discount would look something like originalAmount * (discountPercent / 100)", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491953074.142862"
+        }, 
+        {
+            "text": "Well, in order to keep it dynamic, you want to pass in the discount percentage (along with the original amount) and use the variables, rather than a specific percentage", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491953033.136589"
+        }, 
+        {
+            "text": "I switched it to converting a number to a decimal and that made it work", 
+            "type": "message", 
+            "user": "U4P0RKWH5", 
+            "ts": "1491953027.135709"
+        }, 
+        {
+            "text": "If you want, you can send me your code and I'll take a look at it.", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491952977.128082"
+        }, 
+        {
+            "text": "I was skipping that and just putting in the proper decimal for a percentage", 
+            "type": "message", 
+            "user": "U4P0RKWH5", 
+            "ts": "1491952970.126903"
+        }, 
+        {
+            "text": "Are you dividing the discount percentage by 100? For instance, if it is a 20% discount, you would multiply the original amount by .2, not 20.", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491952767.093922"
+        }, 
+        {
+            "text": "The discount function I have works but keeps failing the test for some reason. Keeps telling me \"expected 2000 to be 20\"", 
+            "type": "message", 
+            "user": "U4P0RKWH5", 
+            "ts": "1491952725.087512"
+        }, 
+        {
+            "text": "Thanks Tom, that's the one I used actually, very handy", 
+            "type": "message", 
+            "user": "U4P0RKWH5", 
+            "ts": "1491952662.077510"
+        }, 
+        {
+            "text": "For the capitalization of words, that is", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491952648.075243"
+        }, 
+        {
+            "text": "Another method you might want to look at is a combination of \"charAt\" and slice ", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491952604.067649"
+        }, 
+        {
+            "text": "the \"S\" in javaScript comes capitalized in the test, so you only need to focus on how to get the first letter of each word to capitalize.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491951848.939152"
+        }, 
+        {
+            "text": "It doesn't actually have any tests that make you find any letters in the middle of the sentence.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491951808.932429"
+        }, 
+        {
+            "text": "You could also use the String method \"indexOf\", also.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491951664.907055"
+        }, 
+        {
+            "text": "For the stringCapitalize, I would consider playing with an Array method called \"indexOf\"", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491951607.895897"
+        }, 
+        {
+            "text": "It looks like it is asking for the amount, in dollars, that the discount is. For example, a 20% discount of $100 would be a $20 discount.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491951527.881117"
+        }, 
+        {
+            "text": "<@U3MB79VMG>  Hello,  on the \"Functions with Returns\" problem can you give more info on the answers you're looking for in the discountPercentage and stringCapitalize functions? for discount it says \"expecting 2000 to be 20\" so that should be 2000 value with a 1% (.01) discount right? and for stringCapitalize it wants \"about javascript\" to be \"About JavaScript\" how do I capitalize the \"S\" in \"script\" when I can't tell it it is a separate word? I could write it to change all S's or all 5th integers I guess but then it would only work for this specific problem.", 
+            "type": "message", 
+            "user": "U4P0RKWH5", 
+            "ts": "1491951132.810909"
+        }, 
+        {
+            "text": "Awesome!", 
+            "type": "message", 
+            "user": "U4PP2P95J", 
+            "ts": "1491928975.927668"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "100", 
+                    "users": [
+                        "U4PL3N29K"
+                    ]
+                }
+            ], 
+            "text": "<!channel> Vets In Tech is launching in Phoenix and they are kicking it off with a great event here at Galvanize!  Check out the details and we hope to see you all here next Thursday, April 20th, at 530pm!\n<https://www.eventbrite.com/e/the-launch-of-vetsintech-phx-tickets-33438710082>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1491928728.844128"
+        }, 
+        {
+            "text": "<@U31GQDHEX|dianav> has joined the channel", 
+            "ts": "1491928245.674886", 
+            "subtype": "channel_join", 
+            "user": "U31GQDHEX", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U31GQDHEX>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1491928243.673788"
+        }, 
+        {
+            "text": "I will thanks", 
+            "type": "message", 
+            "user": "U4R6TJ422", 
+            "ts": "1491887329.784299"
+        }, 
+        {
+            "text": "Oh no! So sorry to hear about that! Make sure you study up on functions before Wednesday!", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491883253.403126"
+        }, 
+        {
+            "text": "sorry I was forced to miss class tonight my son broke his arm. I have been with him all night", 
+            "type": "message", 
+            "user": "U4R6TJ422", 
+            "ts": "1491883150.391360"
+        }, 
+        {
+            "text": "<https://youtu.be/yQaAGmHNn9s?list=PL46F0A159EC02DF82>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491875332.582252", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/thenewboston", 
+                    "service_name": "YouTube", 
+                    "title": "Beginner JavaScript Tutorial - 1 - Introduction to JavaScript", 
+                    "video_html_height": 225, 
+                    "author_name": "thenewboston", 
+                    "title_link": "https://youtu.be/yQaAGmHNn9s?", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/yQaAGmHNn9s?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Beginner JavaScript Tutorial - 1 - Introduction to JavaScript", 
+                    "thumb_url": "https://i.ytimg.com/vi/yQaAGmHNn9s/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/yQaAGmHNn9s?"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.youtube.com/watch?annotation_id=annotation_1913778441&amp;feature=iv&amp;index=1&amp;list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V&amp;src_vid=vZBCTc9zHtI&amp;v=fGdd9qNwQdQ>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491875311.579934", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/learncodeacademy", 
+                    "service_name": "YouTube", 
+                    "title": "Javascript Tutorial For Beginners - Free JS Course - Web Development Tutorial", 
+                    "video_html_height": 225, 
+                    "author_name": "LearnCode.academy", 
+                    "title_link": "https://www.youtube.com/watch?annotation_id=annotation_1913778441&amp;feature=iv&amp;index=1&amp;src_vid=vZBCTc9zHtI&amp;v=fGdd9qNwQdQ", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/fGdd9qNwQdQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Javascript Tutorial For Beginners - Free JS Course - Web Development Tutorial", 
+                    "thumb_url": "https://i.ytimg.com/vi/fGdd9qNwQdQ/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?annotation_id=annotation_1913778441&amp;feature=iv&amp;index=1&amp;src_vid=vZBCTc9zHtI&amp;v=fGdd9qNwQdQ"
+                }
+            ]
+        }, 
+        {
+            "text": "opps", 
+            "type": "message", 
+            "user": "U4N914NQ1", 
+            "ts": "1491872294.217874"
+        }, 
+        {
+            "text": ":parrot_fastparrot:", 
+            "type": "message", 
+            "user": "U4N914NQ1", 
+            "ts": "1491872280.216214"
+        }, 
+        {
+            "text": "<!channel>, Please remember to do the reading for tomorrow! We're going to be going over \"functions\" and that's one the core Javascript concepts that you really want to understand!", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491800451.623726", 
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1491800460.000000"
+            }
+        }, 
+        {
+            "text": "If it is, then you are calling a function that is not defined anywhere; pickRandomWord", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491796423.270561"
+        }, 
+        {
+            "text": "Is that all your code?", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491796374.266097"
+        }, 
+        {
+            "text": "Why is this returning \"pickRandomWord is not defined\"? Page 134, Ch. 8.\n\n```generateRandomInsult = function () {\n  var randomBodyParts = [\"Face\", \"Nose\", \"Hair\"];\n  var randomAdjectives = [\"Smelly\", \"Boring\", \"Stupid\"];\n  var randomWords = [\"Fly\", \"Marmot\", \"Stick\", \"Monkey\", \"Rat\"];\n// Join all the random strings into a sentence:\nvar randomString = \"Your \" + pickRandomWord(randomBodyParts) +   \" is like a \" + pickRandomWord(randomAdjectives) +  \n\" \" + pickRandomWord(randomWords) + \"!!!\";\n  return randomString;\n};\ngenerateRandomInsult();```", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1491793764.037985", 
+            "edited": {
+                "user": "U4Q0NJ2UC", 
+                "ts": "1491793795.000000"
+            }
+        }, 
+        {
+            "text": "Functions, per the syllabus", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491762758.017600"
+        }, 
+        {
+            "text": "What are we supposed to be reading for tomorrow?", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1491759010.819296"
+        }, 
+        {
+            "text": "Are you talking about searching an object or an array?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491532126.108591"
+        }, 
+        {
+            "text": "A string is all \"string\"", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491532096.105353"
+        }, 
+        {
+            "text": "date or data?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491532056.101161"
+        }, 
+        {
+            "text": "nvm, i got it. New question, is there a way to search a string for a certain date type?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1491526227.388624"
+        }, 
+        {
+            "text": "can someone remind me how to turn a string into an array", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1491525621.314992"
+        }, 
+        {
+            "text": "If you want just 2017 year vehicles\n```for(var i = 0; i &lt; cars.length; i++) {\n  for(var key in cars[i]) {\n    if(key === \"year\" &amp;&amp; cars[i][key] === 2017) {\n      console.log(cars[i])\n    }\n  }\n}```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491443984.800589"
+        }, 
+        {
+            "text": "```var cars = [\n  {\n    make: \"ford\",\n    model: \"taurus\",\n    year: 1995,\n    color: \"bright yellow with flames\"\n  },\n  {\n    make: \"tesla\",\n    model: \"t\",\n    year: 2017,\n    color: \"silver\"\n  },\n  {\n    make: \"honda\",\n    model: \"civic\",\n    year: 2017,\n    color: \"purple\"\n  }\n]\n\n\n// Print only the makes\nfor(var i = 0; i &lt; cars.length; i++) {\n  for(var key in cars[i]) {\n    if(key === \"make\") {\n      console.log(cars[i][key])\n    }\n  }\n}\n\n```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491443825.781554", 
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1491444003.000000"
+            }
+        }, 
+        {
+            "text": "```paste```", 
+            "type": "message", 
+            "user": "U4RA69U04", 
+            "ts": "1491443303.720421"
+        }, 
+        {
+            "text": "```\nvar cars = [\n  {\n    make: \"ford\",\n    model: \"taurus\",\n    year: 1995,\n    color: \"bright yellow with flames\"\n  },\n  {\n    make: \"tesla\",\n    model: \"t\",\n    year: 2017,\n    color: \"silver\"\n  },\n  {\n    make: \"honda\",\n    model: \"civic\",\n    year: 2017,\n    color: \"purple\"\n  }\n]\n\nvar theCivic = cars[2];\nconsole.log(`${theCivic.year} some random text ${theCivic.make} ${theCivic.model} ${theCivic.color}`)\n```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491443252.714370"
+        }, 
+        {
+            "text": "That was the fix. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491361375.985610"
+        }, 
+        {
+            "text": "<@U4Q0NJ2UC> Do you have the array being output to the console?", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491361309.978520"
+        }, 
+        {
+            "text": "No", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1491359736.800836"
+        }, 
+        {
+            "text": "Does the test not pass?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491359724.799458", 
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1491359732.000000"
+            }
+        }, 
+        {
+            "text": "I used pop and shift.", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1491359499.773697"
+        }, 
+        {
+            "text": "Push, pop, shift, unshift", 
+            "type": "message", 
+            "user": "U4MJUMREU", 
+            "ts": "1491359446.767458"
+        }, 
+        {
+            "text": "I get [ 2, 3 ] when it runs.", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1491359356.756330"
+        }, 
+        {
+            "text": "<@U4Q0NJ2UC> Just using the methods that we mentioned in class. <!channel> Who remembers what those are?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491359095.726297"
+        }, 
+        {
+            "text": "On assignment Array Fundamentals 3, are you looking for one specific way?", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1491358873.701566"
+        }, 
+        {
+            "text": "I just tested it right now and it seems to fail when you label 2 as prime, so let's just skip this one.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491184142.226506"
+        }, 
+        {
+            "text": "I'll do the practice assignments first and come back to this one then. It is now a challenge that cannot be ignored!", 
+            "type": "message", 
+            "user": "U4PQNF2F2", 
+            "ts": "1491184077.221108"
+        }, 
+        {
+            "text": "Honestly, if you can do the For-Loop Practice 1 without too much trouble, move on to learning Arrays.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491184007.215181"
+        }, 
+        {
+            "text": "Haven't got that far yet, but I know it's more complicated then the \"wrong\" correct answer, so I don't want to waste my time on mathematically correct if it will just fail.", 
+            "type": "message", 
+            "user": "U4PQNF2F2", 
+            "ts": "1491183870.203120"
+        }, 
+        {
+            "text": "Do you have the mathematically right answer and it's not passing the tests?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491183768.194105"
+        }, 
+        {
+            "text": "And 1 is not. If I get the mathematically correct answer will it \"judge\" it as correct, or not?", 
+            "type": "message", 
+            "user": "U4PQNF2F2", 
+            "ts": "1491183496.171110"
+        }, 
+        {
+            "text": "Yes! 2 is a prime number. I notified the people who wrote those exercises about that. haha.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491183423.164782"
+        }, 
+        {
+            "text": "Has anyone else noticed that the \"answer\" shown for the For Loops assignment is not mathematically correct? It shows 1 as prime, which it is not, and 2 as not prime, which it is. It should read \" even, odd, even - prime, odd - prime, even, odd - prime, ....\"", 
+            "type": "message", 
+            "user": "U4PQNF2F2", 
+            "ts": "1491181796.029352"
+        }, 
+        {
+            "text": "<@U4QJQ2U4D> You can do it a couple different ways. You could start your incrementor (in your case, i) at 2 and then increment it by 2 each time through the loop. Or, you could leave your for loop alone and have an if statement that checks for even numbers (i % 2 == 0).", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1491170801.354195"
+        }, 
+        {
+            "text": "<@U4QJQ2U4D> You don't necessarily need an \"else if\". An \"else\" would work.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491164217.001550"
+        }, 
+        {
+            "text": "That is how I got that part to work.", 
+            "type": "message", 
+            "user": "U4P0P3YLE", 
+            "ts": "1491163595.965705"
+        }, 
+        {
+            "text": "for (var i = 0; i &lt; 10 ; i++) {\n  console.log(\"even\")\n}   So essentially got to the point where the REPL prompts a user for a number, and then prints. However for this particular statement it only prints even. Would a ELSE IF statement be needed for this to work?", 
+            "type": "message", 
+            "user": "U4QJQ2U4D", 
+            "ts": "1491159469.728358"
+        }, 
+        {
+            "text": "Also, if you look on page 116 of the PDF or page 96 of the book there are examples there, as well as a great reference on MDN. <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491152970.353371", 
+            "attachments": [
+                {
+                    "thumb_height": 600, 
+                    "service_icon": "https://developer.cdn.mozilla.net/static/img/favicon144.a6e4162070f4.png", 
+                    "thumb_width": 600, 
+                    "title": "Loops and iteration", 
+                    "service_name": "Mozilla Developer Network", 
+                    "title_link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration", 
+                    "text": "Loops offer a quick and easy way to do something repeatedly. This chapter of the JavaScript Guide introduces the different iteration statements available to JavaScript.", 
+                    "id": 1, 
+                    "fallback": "Mozilla Developer Network: Loops and iteration", 
+                    "thumb_url": "https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png", 
+                    "from_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U4QJQ2U4D> Remember that the middle part of the for loop initialization is \"go until this point\". I posted another for-loop practice problem that is good for the fundamentals of for loops.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1491152890.348734"
+        }, 
+        {
+            "text": "I got this far 'for (var i = 0; i % 2 ; i++) {\n  console.log(\"even\")\n}'", 
+            "type": "message", 
+            "user": "U4QJQ2U4D", 
+            "ts": "1491152504.326061"
+        }, 
+        {
+            "text": "Anyone finish the prime number for loop?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1491075402.219978"
+        }, 
+        {
+            "text": "when nesting a for loop in another for loop is it before the if else statements or after?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1490919097.395544"
+        }, 
+        {
+            "text": "Do a stack overflow search and you should be able to find something. The easiest way to look at it would be nested loops. :slightly_smiling_face: ", 
+            "type": "message", 
+            "user": "U4QK36K7F", 
+            "ts": "1490911444.018384"
+        }, 
+        {
+            "text": "To clarify, I'm looking for the first instance of % === 0 being true...  The WHILE loop is only run on odds, evens are identified in the outer loop.", 
+            "type": "message", 
+            "user": "U4P44BAHL", 
+            "ts": "1490910660.824461"
+        }, 
+        {
+            "text": "Is the Prime Number exercise solved by creating an array?  I can't figure out how else to divide all of the previous numbers into the current number without pushing them one by one (as it loops) into an array...  But that method means I have to do a while loop, because I'm only looking for the first instance of true to know it's not a prime.  Seems like that's too complicated an answer, tho...", 
+            "type": "message", 
+            "user": "U4P44BAHL", 
+            "ts": "1490910346.746144"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "dougie", 
+                    "users": [
+                        "U30UDCYF2", 
+                        "U4QK36K7F"
+                    ]
+                }
+            ], 
+            "text": "Full disclosure, these are MUCH more straightforward than the loop ones. :wink:", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490906663.678805"
+        }, 
+        {
+            "text": ":sob:", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1490905777.389932"
+        }, 
+        {
+            "text": ":+1: ", 
+            "type": "message", 
+            "user": "U4QK36K7F", 
+            "ts": "1490905746.379971"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U4PHS71SQ", 
+            "ts": "1490905733.375661"
+        }, 
+        {
+            "text": "<!channel>, I personally wrote 2 assignments for the if/else concepts. Please go to <http://repl.it/student|repl.it/student> and complete those before Monday. If you have feedback for us about the assignments, please message me! Thank you!!", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490905704.366067"
+        }, 
+        {
+            "thread_ts": "1490899095.134384", 
+            "text": "Let me know if that helps ", 
+            "ts": "1490902257.232842", 
+            "user": "U4QK36K7F", 
+            "parent_user_id": "U4QK36K7F", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1490899095.134384", 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+                    "thumb_width": 316, 
+                    "title": "How to find prime factors using a for loop in Javascript?", 
+                    "text": "I'm new to javascript and was trying to find the prime factors of a number, recorded below as 'integer' using a for loop in javascript. I can't seem to get it working and I'm not sure whether it's my", 
+                    "title_link": "http://stackoverflow.com/questions/39899072/how-to-find-prime-factors-using-a-for-loop-in-javascript", 
+                    "service_name": "stackoverflow.com", 
+                    "id": 1, 
+                    "fallback": "How to find prime factors using a for loop in Javascript?", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+                    "from_url": "http://stackoverflow.com/questions/39899072/how-to-find-prime-factors-using-a-for-loop-in-javascript"
+                }
+            ], 
+            "text": "<http://stackoverflow.com/questions/39899072/how-to-find-prime-factors-using-a-for-loop-in-javascript> \n\nTake a look at this stack overflow post. It should answer your question", 
+            "ts": "1490902227.222912", 
+            "user": "U4QK36K7F", 
+            "parent_user_id": "U4QK36K7F", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1490899095.134384", 
+            "text": "so i have the loop that logs my even and odds. im not sure how i would used another for loop to find prime numbers", 
+            "ts": "1490901900.113470", 
+            "user": "U4PL3N29K", 
+            "parent_user_id": "U4QK36K7F", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1490899095.134384", 
+            "text": "Once you have determined whether the number is even or odd, test to see if any of the numbers prior to that number can be evenly divided into the current number (test if the number is Prime). If so, append \" - prime\" to the output for that number. You will need a second for loop inside the first, some extra variables, and some if statements to accomplish this.\n\nIf you enter 10 into the prompt, you should see:\neven\nodd - prime\neven\nodd - prime\neven\nodd - prime\neven\nodd - prime\neven\nodd\neven", 
+            "ts": "1490901866.102144", 
+            "user": "U4PL3N29K", 
+            "parent_user_id": "U4QK36K7F", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1490899095.134384", 
+            "text": "Lol no I haven't started yet. If you copy and paste the question in here and I can quickly look at it", 
+            "ts": "1490901785.074880", 
+            "user": "U4QK36K7F", 
+            "parent_user_id": "U4QK36K7F", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1490899095.134384", 
+            "text": "Yes, i figured you did because your example solved my first part.", 
+            "ts": "1490901389.946601", 
+            "user": "U4PL3N29K", 
+            "parent_user_id": "U4QK36K7F", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1490899095.134384", 
+            "text": "Is that for the homework? ", 
+            "ts": "1490901298.916698", 
+            "user": "U4QK36K7F", 
+            "parent_user_id": "U4QK36K7F", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1490899095.134384", 
+            "text": "Were you able to figure out the 2nd part of the for loop, for getting prime numbers?", 
+            "ts": "1490900553.664921", 
+            "user": "U4PL3N29K", 
+            "parent_user_id": "U4QK36K7F", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1490899095.134384", 
+            "subscribed": false, 
+            "text": "Lol I can definitely understand that ", 
+            "ts": "1490899095.134384", 
+            "unread_count": 8, 
+            "reply_count": 8, 
+            "user": "U4QK36K7F", 
+            "replies": [
+                {
+                    "user": "U4PL3N29K", 
+                    "ts": "1490900553.664921"
+                }, 
+                {
+                    "user": "U4QK36K7F", 
+                    "ts": "1490901298.916698"
+                }, 
+                {
+                    "user": "U4PL3N29K", 
+                    "ts": "1490901389.946601"
+                }, 
+                {
+                    "user": "U4QK36K7F", 
+                    "ts": "1490901785.074880"
+                }, 
+                {
+                    "user": "U4PL3N29K", 
+                    "ts": "1490901866.102144"
+                }, 
+                {
+                    "user": "U4PL3N29K", 
+                    "ts": "1490901900.113470"
+                }, 
+                {
+                    "user": "U4QK36K7F", 
+                    "ts": "1490902227.222912"
+                }, 
+                {
+                    "user": "U4QK36K7F", 
+                    "ts": "1490902257.232842"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "Ya I'm on it, its kinda hard making something out of the information if youve never written the script before though :confused: its like trying to learn a language reading a book in that language", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1490899068.124907"
+        }, 
+        {
+            "text": "The MDN is the holy Grail of resources for problems like this ", 
+            "type": "message", 
+            "user": "U4QK36K7F", 
+            "ts": "1490898951.083121"
+        }, 
+        {
+            "text": "<@U4QK36K7F> ahh got it. i wasnt being descriptive enough", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1490898820.035749"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "taco", 
+                    "users": [
+                        "U36F34RGA", 
+                        "U30UDCYF2"
+                    ]
+                }
+            ], 
+            "text": "Here is an example of one. \n\nfor(var i = 0; i &lt;=30; i++) {\n    if( i % 3 == 0) { \n       console.log(i);\n   }else{ \n       console.log(\"tacos are amazing\");\n}\n}\n", 
+            "type": "message", 
+            "user": "U4QK36K7F", 
+            "ts": "1490897901.699083"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "100", 
+                    "users": [
+                        "U4PL3N29K"
+                    ]
+                }
+            ], 
+            "text": "<@U4PL3N29K> Absolutely! Most problems are solved by doing exactly that :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U30UDCYF2", 
+            "ts": "1490896679.244348"
+        }, 
+        {
+            "text": "Is it possible to put an \"if else\"statement in a for loop?", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1490896383.134351"
+        }, 
+        {
+            "text": "<!channel> :point_up:", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1490896048.014147"
+        }, 
+        {
+            "text": "Don\u2019t miss out on today\u2019s meetup on \u201cA Tour of Artificial Intelligence and It\u2019s Limitations\u201d. Aneesh Karve has presented at several large data science conferences such as Pandemonio and Strata ~&gt; <https://www.youtube.com/watch?v=ddCEgJKdDLk> :rocket:\n\n<https://www.meetup.com/Learn-To-Code-PHX/events/237993779/> :robot_face:", 
+            "type": "message", 
+            "user": "U30UDCYF2", 
+            "ts": "1490896030.007343", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/channel/UCXLWt8ccrp2BmJuJ5odT3RA", 
+                    "service_name": "YouTube", 
+                    "title": "Visualization is distortion: how to lie less", 
+                    "video_html_height": 225, 
+                    "author_name": "Quilt Data", 
+                    "title_link": "https://www.youtube.com/watch?v=ddCEgJKdDLk", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/ddCEgJKdDLk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Visualization is distortion: how to lie less", 
+                    "thumb_url": "https://i.ytimg.com/vi/ddCEgJKdDLk/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=ddCEgJKdDLk"
+                }, 
+                {
+                    "thumb_height": 1260, 
+                    "service_icon": "https://a248.e.akamai.net/secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+                    "thumb_width": 1260, 
+                    "title": "Learn To Code Phoenix", 
+                    "service_name": "Meetup", 
+                    "title_link": "https://www.meetup.com/Learn-To-Code-PHX/events/237993779/", 
+                    "text": "Description::&amp;nbsp; Society tends to depict machines as objective. In this talk we'll reveal that intelligent machines can never be objective. In fact both machine and human intelligence fundamentall", 
+                    "id": 2, 
+                    "fallback": "Meetup: Learn To Code Phoenix", 
+                    "thumb_url": "https://a248.e.akamai.net/secure.meetupstatic.com/s/img/786824251364989575000/logo/swarm/m_swarm_630x630.png", 
+                    "from_url": "https://www.meetup.com/Learn-To-Code-PHX/events/237993779/"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U30UDCYF2>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1490895399.782077"
+        }, 
+        {
+            "text": "<@U30UDCYF2|chrishuie> has joined the channel", 
+            "ts": "1490895331.758014", 
+            "subtype": "channel_join", 
+            "user": "U30UDCYF2", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U30UDCYF2|chrishuie> has left the channel", 
+            "type": "message", 
+            "user": "U30UDCYF2", 
+            "ts": "1490895315.752099", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "dancing_penguin", 
+                    "users": [
+                        "U3MB79VMG"
+                    ]
+                }
+            ], 
+            "text": "well I got it.", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1490849157.215336"
+        }, 
+        {
+            "text": "```var num = 6;\n\nif (num &gt; 3) {\n  console.log(\"that's a big number\")\n} \n\nelse if (num &lt;= 3 &amp;&amp; num &gt; 1) {\n  console.log('mid range')\n} \n\nelse {\n  console.log('lowball')\n}```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490842248.526723"
+        }, 
+        {
+            "text": "<!channel> Go to <http://repl.it/student|repl.it/student>. There is a While loop and For Loop problem. If you get done with that, let us know.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490839739.244070"
+        }, 
+        {
+            "text": "Conditionals: <https://docs.google.com/forms/d/e/1FAIpQLSdh530d6r_r2N8PTH3d1xDBsA8y5fVmCPcd7pZguOTFiJqeUg/viewform?usp=sf_link>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490835961.789729"
+        }, 
+        {
+            "text": "<!channel> <https://docs.google.com/forms/d/e/1FAIpQLSeW7SUgr6TPwXSG4M1Kw3Mg63VR_gW39XpiTJ9qK7k-MtIYMw/viewform?usp=sf_link>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490835733.759621"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 4, 
+                    "name": "mask", 
+                    "users": [
+                        "U4PQNF2F2", 
+                        "U4P44BAHL", 
+                        "U4PQ2737T", 
+                        "U30UDCYF2"
+                    ]
+                }
+            ], 
+            "text": "Dang. I had to go home sick from work today. Don't want to miss class but am sneezy, drippy mess and don't want to spread it to others. I'm way ahead on reading... Any provisions for a sick day?", 
+            "type": "message", 
+            "user": "U4P44BAHL", 
+            "ts": "1490817477.609980"
+        }, 
+        {
+            "text": "Chris, I'm going to try and get there a little early today.", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1490803827.697735"
+        }, 
+        {
+            "text": "<@U4RA69U04|abigailadams> has joined the channel", 
+            "type": "message", 
+            "user": "U4RA69U04", 
+            "ts": "1490777410.127129", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "No problem :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490756038.233348"
+        }, 
+        {
+            "text": "Thanks John.", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1490755984.227489"
+        }, 
+        {
+            "text": "<@U4Q0NJ2UC>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490755936.221594"
+        }, 
+        {
+            "text": "Here's a phenomenal video series on how to set up and use Atom. <https://youtu.be/WWwBQQOGllo?list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490755891.216858", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/LevelUpTuts", 
+                    "service_name": "YouTube", 
+                    "title": "Atom Editor Tutorials - Series Introduction", 
+                    "video_html_height": 225, 
+                    "author_name": "LevelUpTuts", 
+                    "title_link": "https://youtu.be/WWwBQQOGllo?", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/WWwBQQOGllo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Atom Editor Tutorials - Series Introduction", 
+                    "thumb_url": "https://i.ytimg.com/vi/WWwBQQOGllo/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/WWwBQQOGllo?"
+                }
+            ]
+        }, 
+        {
+            "text": "Need a hand getting <http://atom.io|atom.io> running. I used it before but can't remember how to open my project in a browser. When I save the project, right click \"open in browser\", Komodo opens.", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1490755792.205741"
+        }, 
+        {
+            "text": "Great!! I'll be seeing you.", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1490755645.189608"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U3MB79VMG", 
+                        "U4QK36K7F"
+                    ]
+                }
+            ], 
+            "text": "I'll also be available to help anyone out before class!", 
+            "type": "message", 
+            "user": "U3100JZUY", 
+            "ts": "1490754499.063354"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U3100JZUY", 
+                        "U3MB79VMG"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U30UDCYF2", 
+                "ts": "1490751915.000000"
+            }, 
+            "text": ":point_up_2: Any questions on the assignments please feel free to come in early and talk to me!!", 
+            "ts": "1490751873.757670", 
+            "user": "U30UDCYF2", 
+            "type": "message"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U4QJQ2U4D", 
+            "ts": "1490751845.754296"
+        }, 
+        {
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1490751823.000000"
+            }, 
+            "attachments": [
+                {
+                    "image_bytes": 2520, 
+                    "title": "repl.it", 
+                    "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Write, run, save, and share code from your browser!", 
+                    "image_width": 240, 
+                    "title_link": "https://repl.it/classroom/invite/EFrIXqg", 
+                    "image_height": 240, 
+                    "image_url": "https://repl.it/public/images/logo-small-square.png", 
+                    "service_name": "repl.it", 
+                    "id": 1, 
+                    "fallback": "repl.it", 
+                    "service_icon": "https://repl.it/public/images/apple-touch-icon.png", 
+                    "from_url": "https://repl.it/classroom/invite/EFrIXqg"
+                }
+            ], 
+            "text": "If you haven't signed up for <http://Repl.it|Repl.it> and completed your assignments yet, please follow this link and do so before class tomorrow! <https://repl.it/classroom/invite/EFrIXqg>\n\n<!channel>", 
+            "ts": "1490751810.750171", 
+            "user": "U3MB79VMG", 
+            "type": "message"
+        }, 
+        {
+            "text": "no problem!", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490744600.782090"
+        }, 
+        {
+            "text": "ok thanks", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1490744486.764387"
+        }, 
+        {
+            "text": "If you use <http://repl.it|repl.it>, you can just click the \"run\" button above the text area and it will run the code for you.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490744357.743537"
+        }, 
+        {
+            "text": "mac, and should i write the code in <http://repl.it|repl.it> cause im using atom right now.", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1490744305.735182"
+        }, 
+        {
+            "text": "That way, you don't have to run anything in your terminal.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490744271.729828", 
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1490744274.000000"
+            }
+        }, 
+        {
+            "text": "Or, actually, it might be easier to use your <http://Repl.it|Repl.it> account", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490744259.727815"
+        }, 
+        {
+            "text": "Are you using Windows or Mac?", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490744244.725314"
+        }, 
+        {
+            "text": "Hey guys, so im doing the reading and trying to do the practice problems (writing out the code and executing) but im not sure how to execute it. Can someone tell me how? I know you use the terminal but im not sure how too.", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1490744158.711265"
+        }, 
+        {
+            "text": "*program not programming", 
+            "type": "message", 
+            "user": "U4QK36K7F", 
+            "ts": "1490727408.150413"
+        }, 
+        {
+            "text": "there are some great tools for validation to help with errors. I'm sure will cover later in the course.", 
+            "type": "message", 
+            "user": "U4QK36K7F", 
+            "ts": "1490727291.108135"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U4QK36K7F", 
+            "ts": "1490727125.048675"
+        }, 
+        {
+            "text": "Best of luck. Syntax is one of the most common mistakes made when you start learning to programming.", 
+            "type": "message", 
+            "user": "U4QK36K7F", 
+            "ts": "1490727117.045760"
+        }, 
+        {
+            "text": "<@U4QK36K7F> Hopefully they won't again!  :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U4PHS71SQ", 
+            "ts": "1490726906.971226"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3MB79VMG"
+                    ]
+                }
+            ], 
+            "text": "Those will always creep up on you lol", 
+            "type": "message", 
+            "user": "U4QK36K7F", 
+            "ts": "1490725766.559166"
+        }, 
+        {
+            "text": "Cool!", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490725543.477280"
+        }, 
+        {
+            "text": "<@U3MB79VMG> I'm good now.  Found some missing semi-colons :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U4PHS71SQ", 
+            "ts": "1490725501.461956"
+        }, 
+        {
+            "text": "For example: \n```var x = 2;\nconsole.log(x); // will show 2 in the browser or the command line, depending on where you run the file.\n```", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490725111.323217", 
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1490725124.000000"
+            }
+        }, 
+        {
+            "text": "The way I explain it to people is a \"sanity check\". It's not required in any circumstance, but it is a tool that you can use to log (print, show, etc.) something to the browser console or terminal to know what it is at that point in your code.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490725021.290279", 
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1490725031.000000"
+            }
+        }, 
+        {
+            "text": "Can anyone explain in super basic terms the whole idea of console.log?", 
+            "type": "message", 
+            "user": "U4QGG5U02", 
+            "ts": "1490724490.101247"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U4PHS71SQ"
+                    ]
+                }
+            ], 
+            "text": "I can check yours if you would like. I got them all already.", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1490723493.729817"
+        }, 
+        {
+            "text": "<@U3MB79VMG> I'm 99% sure I got these right, but when I submit, it's telling me that it's wrong.  Not sure if I completely got these wrong or not.  Is it possible to for you to have a look and let me know?  - Thanks!", 
+            "type": "message", 
+            "user": "U4PHS71SQ", 
+            "ts": "1490719507.282414", 
+            "edited": {
+                "user": "U4PHS71SQ", 
+                "ts": "1490719524.000000"
+            }
+        }, 
+        {
+            "text": "atcabot in all", 
+            "type": "message", 
+            "user": "U4P44BAHL", 
+            "ts": "1490682940.659342"
+        }, 
+        {
+            "text": "<@U3MB79VMG> ciscobaez in github and ciscob in repl", 
+            "type": "message", 
+            "user": "U4PP2P95J", 
+            "ts": "1490675917.964208"
+        }, 
+        {
+            "edited": {
+                "user": "U3MB79VMG", 
+                "ts": "1490673909.000000"
+            }, 
+            "attachments": [
+                {
+                    "image_bytes": 2520, 
+                    "title": "repl.it", 
+                    "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Write, run, save, and share code from your browser!", 
+                    "image_width": 240, 
+                    "title_link": "https://repl.it/classroom/invite/EFrIXqg", 
+                    "image_height": 240, 
+                    "image_url": "https://repl.it/public/images/logo-small-square.png", 
+                    "service_name": "repl.it", 
+                    "id": 1, 
+                    "fallback": "repl.it", 
+                    "service_icon": "https://repl.it/public/images/apple-touch-icon.png", 
+                    "from_url": "https://repl.it/classroom/invite/EFrIXqg"
+                }
+            ], 
+            "text": "<!channel> Hello everyone! Please click this link to add yourself as a student for our <http://repl.it|repl.it> classroom. <https://repl.it/classroom/invite/EFrIXqg>\n\nThere are 3 assignments waiting for you! Please complete them before Wednesday at 6pm! If you have any troubles or questions, let me know!", 
+            "ts": "1490673755.767264", 
+            "user": "U3MB79VMG", 
+            "type": "message"
+        }, 
+        {
+            "text": "<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490667148.085987", 
+            "attachments": [
+                {
+                    "thumb_height": 600, 
+                    "service_icon": "https://developer.cdn.mozilla.net/static/img/favicon144.a6e4162070f4.png", 
+                    "thumb_width": 600, 
+                    "title": "JavaScript data types and data structures", 
+                    "service_name": "Mozilla Developer Network", 
+                    "title_link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures", 
+                    "text": "Programming languages all have built-in data structures, but these often differ from one language to another. This article attempts to list the built-in data structures available in JavaScript and what properties they have; these can be used to build other data structures. When possible, comparisons with other languages are drawn.", 
+                    "id": 1, 
+                    "fallback": "Mozilla Developer Network: JavaScript data types and data structures", 
+                    "thumb_url": "https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png", 
+                    "from_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U3MB79VMG> collincrowley both github and repl", 
+            "type": "message", 
+            "user": "U4QGG5U02", 
+            "ts": "1490666098.966780"
+        }, 
+        {
+            "text": "<@U3MB79VMG> mgold30 both in github and repl-", 
+            "type": "message", 
+            "user": "U4NU7UVEF", 
+            "ts": "1490666040.960349"
+        }, 
+        {
+            "text": "<@U4QGG5U02|collincrowley> has joined the channel", 
+            "type": "message", 
+            "user": "U4QGG5U02", 
+            "ts": "1490665872.941709", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4QK36K7F|brad.moule> has joined the channel", 
+            "type": "message", 
+            "user": "U4QK36K7F", 
+            "ts": "1490665824.936338", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4QHG3Z3N|trevorfreeman> has joined the channel", 
+            "type": "message", 
+            "user": "U4QHG3Z3N", 
+            "ts": "1490664693.807129", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4QJV31B7|clarissastafford> has joined the channel", 
+            "type": "message", 
+            "user": "U4QJV31B7", 
+            "ts": "1490663985.723792", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4PQUEVT2|moyer> has joined the channel", 
+            "type": "message", 
+            "user": "U4PQUEVT2", 
+            "ts": "1490663809.702461", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4QG72350|michaelbaab> has joined the channel", 
+            "type": "message", 
+            "user": "U4QG72350", 
+            "ts": "1490663800.701318", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4QG71JR0|facehug> has joined the channel", 
+            "type": "message", 
+            "user": "U4QG71JR0", 
+            "ts": "1490663794.700669", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4R6TJ422|stevenbarnes> has joined the channel", 
+            "type": "message", 
+            "user": "U4R6TJ422", 
+            "ts": "1490663653.682708", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4QJRLNF7|joeq22> has joined the channel", 
+            "type": "message", 
+            "user": "U4QJRLNF7", 
+            "ts": "1490663248.632920", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4QJR6CKX|jkander4> has joined the channel", 
+            "type": "message", 
+            "user": "U4QJR6CKX", 
+            "ts": "1490663151.620759", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4QJQ2U4D|brendoxp> has joined the channel", 
+            "type": "message", 
+            "user": "U4QJQ2U4D", 
+            "ts": "1490662917.591056", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4PQNF2F2|wendy.wickwire> has joined the channel", 
+            "type": "message", 
+            "user": "U4PQNF2F2", 
+            "ts": "1490662557.542847", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4QFL92TC|livinginphoenix> has joined the channel", 
+            "type": "message", 
+            "user": "U4QFL92TC", 
+            "ts": "1490659500.130372", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3100JZUY|lnamba> has joined the channel", 
+            "ts": "1490659280.096695", 
+            "subtype": "channel_join", 
+            "user": "U3100JZUY", 
+            "type": "message", 
+            "inviter": "U3MB79VMG"
+        }, 
+        {
+            "text": "<@U3MB79VMG|john.armbruster> has joined the channel", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1490658646.999302", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4PQ2737T|xyxrt256> has joined the channel", 
+            "type": "message", 
+            "user": "U4PQ2737T", 
+            "ts": "1490653490.078610", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4Q0NJ2UC|wrtrblk> has joined the channel", 
+            "type": "message", 
+            "user": "U4Q0NJ2UC", 
+            "ts": "1490591370.634044", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4PP2P95J|ciscobaez> has joined the channel", 
+            "type": "message", 
+            "user": "U4PP2P95J", 
+            "ts": "1490469243.109392", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4PL3N29K|itsrobin_> has joined the channel", 
+            "type": "message", 
+            "user": "U4PL3N29K", 
+            "ts": "1490395783.155592", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4PHS71SQ|joseangelgarciajr> has joined the channel", 
+            "type": "message", 
+            "user": "U4PHS71SQ", 
+            "ts": "1490390921.244581", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4NR8CB32|tcooley> has joined the channel", 
+            "type": "message", 
+            "user": "U4NR8CB32", 
+            "ts": "1490390901.239988", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4NU7UVEF|michelle_goldsmith> has joined the channel", 
+            "type": "message", 
+            "user": "U4NU7UVEF", 
+            "ts": "1490311660.680505", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "100", 
+                    "users": [
+                        "U4QG71JR0"
+                    ]
+                }
+            ], 
+            "text": "<@U4N914NQ1|stepheneversole> has joined the channel", 
+            "ts": "1490305182.337361", 
+            "subtype": "channel_join", 
+            "user": "U4N914NQ1", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U4NUV30UA|thomaselkins> has joined the channel", 
+            "type": "message", 
+            "user": "U4NUV30UA", 
+            "ts": "1490304789.232732", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3FV9E35W|laraboogie> has joined the channel", 
+            "ts": "1490301657.286953", 
+            "subtype": "channel_join", 
+            "user": "U3FV9E35W", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U3FV9E35W>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1490301653.285699"
+        }, 
+        {
+            "text": "<@U1UUFQMED|nmuta> has joined the channel", 
+            "ts": "1490301643.282485", 
+            "subtype": "channel_join", 
+            "user": "U1UUFQMED", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U1UUFQMED>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1490301641.281739"
+        }, 
+        {
+            "text": "<@U30UDCYF2|chrishuie> has joined the channel", 
+            "ts": "1490301636.280106", 
+            "subtype": "channel_join", 
+            "user": "U30UDCYF2", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U30UDCYF2>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1490301633.279159"
+        }, 
+        {
+            "text": "<@U4P4R4PHC|rosenrot89> has joined the channel", 
+            "type": "message", 
+            "user": "U4P4R4PHC", 
+            "ts": "1490243472.968890", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4MNNDDG8|tylervanderburg> has joined the channel", 
+            "type": "message", 
+            "user": "U4MNNDDG8", 
+            "ts": "1490242587.886439", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4P44BAHL|andy_cabot> has joined the channel", 
+            "type": "message", 
+            "user": "U4P44BAHL", 
+            "ts": "1490237709.384804", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4NC3PLN8|jessestafford> has joined the channel", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1490221161.937637", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4MJUMREU|randy_pratt> has joined the channel", 
+            "type": "message", 
+            "user": "U4MJUMREU", 
+            "ts": "1490218024.121278", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4P0P3YLE|lukemontoya> has joined the channel", 
+            "type": "message", 
+            "user": "U4P0P3YLE", 
+            "ts": "1490217436.946502", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4P0RKWH5|cjraaz> has joined the channel", 
+            "type": "message", 
+            "user": "U4P0RKWH5", 
+            "ts": "1490216509.658590", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3MB79VMG>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1489783356.185991"
+        }, 
+        {
+            "text": "<@U36F34RGA|merylkrich> set the channel purpose: Javascript Foundations", 
+            "ts": "1489779358.064088", 
+            "subtype": "channel_purpose", 
+            "user": "U36F34RGA", 
+            "type": "message", 
+            "purpose": "Javascript Foundations"
+        }, 
+        {
+            "text": "<@U36F34RGA|merylkrich> has joined the channel", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1489779357.063907", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "phx_wdf_mar17", 
+        "name": "phx_wdf_mar17", 
+        "is_channel": true, 
+        "created": 1489779358, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U36F34RGA", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1489779358, 
+            "value": "Javascript Foundations", 
+            "creator": "U36F34RGA"
+        }, 
+        "members": [], 
+        "id": "C4L4TCBA6", 
+        "is_shared": false
+    }
+}

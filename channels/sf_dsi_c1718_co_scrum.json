@@ -1,0 +1,555 @@
+{
+    "messages": [
+        {
+            "text": "<@U253BP9K7|chris.overton> archived the channel", 
+            "ts": "1481670743.000002", 
+            "subtype": "channel_archive", 
+            "user": "U253BP9K7", 
+            "members": [
+                "U21U7JQEN", 
+                "U239RFQ78", 
+                "U253BP9K7", 
+                "U27T2U48Y", 
+                "U29LJ4LBH", 
+                "U2A876HJ5", 
+                "U2AASS1JQ"
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1UCK7AAW|ultramann> has left the channel", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1480968586.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "Hi - sorry I went late with the other class. Can we start now?", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1480451917.000006"
+        }, 
+        {
+            "text": "<!channel>: I\u2019m going to hop in on this. If anyone in this scrum group wants to do a practice presentation in 312. I\u2019m there now.", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1480443350.000005"
+        }, 
+        {
+            "text": "<@U1UCK7AAW|ultramann> has joined the channel", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1480443230.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "ok", 
+            "type": "message", 
+            "user": "U27T2U48Y", 
+            "ts": "1480442032.000003"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U239RFQ78"
+                    ]
+                }
+            ], 
+            "text": "Yu may have received other information about multiple presentations. As we said before, let's meet at 12:30 (on time, because I lecture again at 1) and preview brief presentations - 5 minutes each!", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1480438099.000002"
+        }, 
+        {
+            "text": "What's today's schedule?", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1480435170.000002"
+        }, 
+        {
+            "text": "Rest and feel better soon.", 
+            "type": "message", 
+            "user": "U27T2U48Y", 
+            "ts": "1480359822.000004"
+        }, 
+        {
+            "text": "Wish you a speedy recovery", 
+            "type": "message", 
+            "user": "U21U7JQEN", 
+            "ts": "1480351641.000003"
+        }, 
+        {
+            "text": "Sorry to hear that. Hope you feel better soon!", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1480351600.000002"
+        }, 
+        {
+            "text": "I am sorry, but I am not feeling well today, and do not expect to come in. I have asked the other scrum leads to arrange a meeting with you today - hopefully that will happen. Meanwhile, please continue to transition from development work to presenting your results, which we will do as a scrum tomorrow (Tuesday) at 12:30.", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1480343967.000002"
+        }, 
+        {
+            "text": "<https://github.com/zipfian/project-proposals/blob/master/presentation.md> This helps", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1480008656.000003"
+        }, 
+        {
+            "text": "Where\u2019s a good place to see slidedecks from past presentations?", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1480007993.000002"
+        }, 
+        {
+            "text": "Whoops\u2026..just saw Chris\u2019s message.  OK, see you there.", 
+            "type": "message", 
+            "user": "U2A876HJ5", 
+            "ts": "1479938420.000004"
+        }, 
+        {
+            "text": "Do we have a scrum today or did I miss it already?  :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U2A876HJ5", 
+            "ts": "1479938398.000003"
+        }, 
+        {
+            "text": "We will have our scrum today at 2pm. This is our last scrum before the holiday, so let's plan ahead on how we will albe ready to present in scrum on Tuesday!", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479936872.000002"
+        }, 
+        {
+            "text": "Finally got my (initial!) data! May be a couple minutes late to scrum as I run over ...", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1479840619.000009"
+        }, 
+        {
+            "text": "Today's scrum can be at the regular time. See you near room 312 at 11:00.", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479838641.000008"
+        }, 
+        {
+            "text": "Although you have all done pull requests on this repo, I noticed one file that a student has flagged in another scrum:\n<https://github.com/zipfian/project-proposals/blob/master/presentation.md>", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479769041.000007"
+        }, 
+        {
+            "text": "It looks like we located everyone except Manasa (who is out today.) We're meeting at 11:40 in room 312.", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479757066.000006"
+        }, 
+        {
+            "text": "I\u2019m in the pair programming area by the window in the back.  Ready to meet when Chris arrives.", 
+            "type": "message", 
+            "user": "U2A876HJ5", 
+            "ts": "1479754943.000005"
+        }, 
+        {
+            "text": "(It looks like Chris isn't here yet?)", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1479754908.000004"
+        }, 
+        {
+            "text": "Hey! Are we meeting?", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1479754887.000003"
+        }, 
+        {
+            "text": "Hi team - are we meeting at 11 am today?", 
+            "type": "message", 
+            "user": "U2A876HJ5", 
+            "ts": "1479754336.000002"
+        }, 
+        {
+            "text": "Made my first commit. Woo-hoo!", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1479697017.000002"
+        }, 
+        {
+            "text": "<!channel> - sure enough, plans have changed: at 5pm, we meet in room 311, not on the 5th floor. As before, let's try to get there on time so we can have Yiwen present first. Thanks!", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479515664.000016"
+        }, 
+        {
+            "text": "<https://github.com/yohannesaf/Computational-Approach-to-Analyze-and-Visualize-Rap-Lyrics>", 
+            "type": "message", 
+            "user": "U21U7JQEN", 
+            "ts": "1479513696.000014", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "yohannesaf/Computational-Approach-to-Analyze-and-Visualize-Rap-Lyrics", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/yohannesaf/Computational-Approach-to-Analyze-and-Visualize-Rap-Lyrics", 
+                    "text": "Computational-Approach-to-Analyze-and-Visualize-Rap-Lyrics - Identify, analyze and visualize rhymes in rap lyrics", 
+                    "id": 1, 
+                    "fallback": "GitHub: yohannesaf/Computational-Approach-to-Analyze-and-Visualize-Rap-Lyrics", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/21042946?v=3&s=400", 
+                    "from_url": "https://github.com/yohannesaf/Computational-Approach-to-Analyze-and-Visualize-Rap-Lyrics"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/thomzi12/education-machine-learning>", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1479512853.000012", 
+            "attachments": [
+                {
+                    "thumb_height": 400, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 400, 
+                    "title": "thomzi12/education-machine-learning", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/thomzi12/education-machine-learning", 
+                    "text": "Contribute to education-machine-learning development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: thomzi12/education-machine-learning", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/8431251?v=3&s=400", 
+                    "from_url": "https://github.com/thomzi12/education-machine-learning"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/drakulic/Capstone>", 
+            "type": "message", 
+            "user": "U27T2U48Y", 
+            "ts": "1479512812.000010", 
+            "attachments": [
+                {
+                    "thumb_height": 400, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 400, 
+                    "title": "drakulic/Capstone", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/drakulic/Capstone", 
+                    "text": "Contribute to Capstone development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: drakulic/Capstone", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/4402685?v=3&s=400", 
+                    "from_url": "https://github.com/drakulic/Capstone"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/Florence17/GCapstone>", 
+            "type": "message", 
+            "user": "U2AASS1JQ", 
+            "ts": "1479512488.000008", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "Florence17/GCapstone", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/Florence17/GCapstone", 
+                    "text": "GCapstone - Galvanize Capstone Project 11/2016-12/2016", 
+                    "id": 1, 
+                    "fallback": "GitHub: Florence17/GCapstone", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/11835579?v=3&s=400", 
+                    "from_url": "https://github.com/Florence17/GCapstone"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel>: Can you please all slack to *this* channel your current capstone repo? (This has changed for at least one of you!) Also, please be sure to have committed your recent work! Thanks!", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479512356.000007"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U21U7JQEN", 
+            "ts": "1479507136.000006"
+        }, 
+        {
+            "text": "(y)", 
+            "type": "message", 
+            "user": "U21U7JQEN", 
+            "ts": "1479507130.000005"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U29LJ4LBH", 
+                        "U2AASS1JQ"
+                    ]
+                }
+            ], 
+            "text": "(Conceivably, these plans may be subject to change :slightly_smiling_face: )", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479507123.000004"
+        }, 
+        {
+            "text": "<!channel>: I'm not sure how smoothly it will work for a total of four cohorts to all be on the 5th floor from 5 to 5:30. But given that Yiwen has to leave shortly after 5, can we be ready to start our scrum at 5 pm? I expect it will take a few minutes for everyone to arrive and get started. But if we collect some of the first students from the new cohorts who show up, we could walk down to the 4th floor and do our half-hour scrum with them (before returning for the happy hour.)", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479507069.000003"
+        }, 
+        {
+            "text": "Hey chris , Yohannes, Zach and I are near  312", 
+            "type": "message", 
+            "user": "U29LJ4LBH", 
+            "ts": "1479495802.000002"
+        }, 
+        {
+            "text": "Why don't we meet in room 312 say at 11:10", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479409284.000025"
+        }, 
+        {
+            "text": "Running a few minutes late", 
+            "type": "message", 
+            "user": "U29LJ4LBH", 
+            "ts": "1479409164.000024"
+        }, 
+        {
+            "text": "Are we meeting at the same place and time today for our scrum?", 
+            "type": "message", 
+            "user": "U2A876HJ5", 
+            "ts": "1479408620.000023"
+        }, 
+        {
+            "text": "I have a check-in with Pira at 11 today.", 
+            "type": "message", 
+            "user": "U27T2U48Y", 
+            "ts": "1479407221.000022"
+        }, 
+        {
+            "text": "At 11, let's try to meet near the '3rd floor kitchen' - at the opposite end of the floor from your former lab area.", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479322774.000021"
+        }, 
+        {
+            "text": "Good morning - confirming that our scrum is at 11 am today near our old classrooms?", 
+            "type": "message", 
+            "user": "U2A876HJ5", 
+            "ts": "1479320322.000020"
+        }, 
+        {
+            "text": "Confirmed ", 
+            "type": "message", 
+            "user": "U27T2U48Y", 
+            "ts": "1479172340.000019"
+        }, 
+        {
+            "text": "confirmed", 
+            "type": "message", 
+            "user": "U21U7JQEN", 
+            "ts": "1479169323.000018"
+        }, 
+        {
+            "text": "Can you please confirm the following schedule change?\nTomorrow (Tuesday) only: scrum at 10:30\nI got scheduled to do an interview at 11.", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479169304.000017"
+        }, 
+        {
+            "text": "For those of who who haven't done this yet, can you please do a pull request of an updated .md summary file to the shared repo:\n<https://github.com/zipfian/project-proposals>\n\nThis is in addition to ongoing commits of summary, code, (and *maybe* limited sample data) to your own repo.", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479168916.000016"
+        }, 
+        {
+            "text": "<https://github.com/Florence17/project-proposals>", 
+            "type": "message", 
+            "user": "U2AASS1JQ", 
+            "ts": "1479168077.000015"
+        }, 
+        {
+            "username": "gdrakulic", 
+            "display_as_bot": false, 
+            "text": "<@U27T2U48Y|gdrakulic> uploaded a file: <https://gstudents.slack.com/files/gdrakulic/F31MKHM1P/hi._null_|Hi>", 
+            "upload": true, 
+            "ts": "1479150808.000014", 
+            "subtype": "file_share", 
+            "user": "U27T2U48Y", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F31MKHM1P-8712c91f62/hi_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F31MKHM1P-8712c91f62/hi_64.jpg", 
+                "size": 170987, 
+                "original_h": 750, 
+                "thumb_360_w": 360, 
+                "title": "Hi", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F31MKHM1P/hi._null_", 
+                "thumb_720_h": 405, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F31MKHM1P-8712c91f62/hi_360.jpg", 
+                "id": "F31MKHM1P", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F31MKHM1P-8712c91f62/hi_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 202, 
+                "thumb_480_h": 270, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1479150805, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F31MKHM1P-8712c91f62/hi_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F31MKHM1P/download/hi._null_", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F31MKHM1P-8712c91f62/hi_1024.jpg", 
+                "user": "U27T2U48Y", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F31MKHM1P-8712c91f62/hi_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Hi.(null)", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F31MKHM1P-66a2428b16", 
+                "permalink": "https://gstudents.slack.com/files/gdrakulic/F31MKHM1P/hi._null_", 
+                "is_external": false, 
+                "created": 1479150805, 
+                "thumb_1024_h": 576, 
+                "thumb_960_h": 540, 
+                "original_w": 1334, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F31MKHM1P-8712c91f62/hi_720.jpg", 
+                "channels": [
+                    "C32DFDK7W"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "SURE", 
+            "type": "message", 
+            "user": "U2AASS1JQ", 
+            "ts": "1479148580.000013"
+        }, 
+        {
+            "text": "cool. See you all in ~30 min", 
+            "type": "message", 
+            "user": "U21U7JQEN", 
+            "ts": "1479148445.000012"
+        }, 
+        {
+            "text": "Sure!", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1479148374.000011"
+        }, 
+        {
+            "text": "See you at 11 - how about near our classroom?", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479147991.000010"
+        }, 
+        {
+            "text": "Following the example of 3 other scrums, I made a channel (rather than direct message list) to continue messages for our scrum.", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479147962.000009"
+        }, 
+        {
+            "text": "<@U27T2U48Y|gdrakulic> has joined the channel", 
+            "ts": "1479147884.000008", 
+            "subtype": "channel_join", 
+            "user": "U27T2U48Y", 
+            "type": "message", 
+            "inviter": "U253BP9K7"
+        }, 
+        {
+            "text": "<@U29LJ4LBH|manasa41087> has joined the channel", 
+            "ts": "1479147884.000007", 
+            "subtype": "channel_join", 
+            "user": "U29LJ4LBH", 
+            "type": "message", 
+            "inviter": "U253BP9K7"
+        }, 
+        {
+            "text": "<@U2A876HJ5|nauman> has joined the channel", 
+            "ts": "1479147884.000006", 
+            "subtype": "channel_join", 
+            "user": "U2A876HJ5", 
+            "type": "message", 
+            "inviter": "U253BP9K7"
+        }, 
+        {
+            "text": "<@U2AASS1JQ|yiwen17> has joined the channel", 
+            "ts": "1479147884.000005", 
+            "subtype": "channel_join", 
+            "user": "U2AASS1JQ", 
+            "type": "message", 
+            "inviter": "U253BP9K7"
+        }, 
+        {
+            "text": "<@U21U7JQEN|yohannes.af> has joined the channel", 
+            "ts": "1479147883.000004", 
+            "subtype": "channel_join", 
+            "user": "U21U7JQEN", 
+            "type": "message", 
+            "inviter": "U253BP9K7"
+        }, 
+        {
+            "text": "<@U239RFQ78|zachary_thomas> has joined the channel", 
+            "ts": "1479147883.000003", 
+            "subtype": "channel_join", 
+            "user": "U239RFQ78", 
+            "type": "message", 
+            "inviter": "U253BP9K7"
+        }, 
+        {
+            "text": "<@U253BP9K7|chris.overton> has joined the channel", 
+            "type": "message", 
+            "user": "U253BP9K7", 
+            "ts": "1479147882.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "sf_dsi_c1718_co_scrum", 
+        "name": "sf_dsi_c1718_co_scrum", 
+        "is_channel": true, 
+        "created": 1479147883, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U253BP9K7", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [], 
+        "id": "C32DFDK7W", 
+        "is_shared": false
+    }
+}

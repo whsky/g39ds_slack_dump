@@ -1,0 +1,749 @@
+{
+    "messages": [
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> archived the channel", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1493478832.028195", 
+            "subtype": "channel_archive"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> has joined the channel", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1493478827.027836", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V31SFNJ|brooks> has left the channel", 
+            "type": "message", 
+            "user": "U1V31SFNJ", 
+            "ts": "1487362703.000014", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 5, 
+                    "name": "champagne", 
+                    "users": [
+                        "U2DA72XR7", 
+                        "U1W9GQ50V", 
+                        "U2GL20ANT", 
+                        "U2J95ADU4", 
+                        "U2D9SMXBQ"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "star_mario", 
+                    "users": [
+                        "U2DD2LRG9"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 32, 
+                    "service_icon": "https://www.google.com/images/icons/product/chrome_web_store-32.png", 
+                    "thumb_width": 32, 
+                    "title": "Roomify", 
+                    "text": "This extesion adds chat capability to every page", 
+                    "title_link": "https://chrome.google.com/webstore/detail/roomify/oankjnelihieicpglkbahkcbojfpeigg", 
+                    "service_name": "chrome.google.com", 
+                    "id": 1, 
+                    "fallback": "Roomify", 
+                    "thumb_url": "https://ssl.gstatic.com/chrome/webstore/images/thumb.png", 
+                    "from_url": "https://chrome.google.com/webstore/detail/roomify/oankjnelihieicpglkbahkcbojfpeigg"
+                }
+            ], 
+            "text": "link to download Roomify chat extension. (drop a line on the Galvanize Learn page!) <https://chrome.google.com/webstore/detail/roomify/oankjnelihieicpglkbahkcbojfpeigg>", 
+            "ts": "1487362507.000012", 
+            "user": "U2D9W499Q", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1V31SFNJ|brooks> has joined the channel", 
+            "ts": "1485878274.000011", 
+            "subtype": "channel_join", 
+            "user": "U1V31SFNJ", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U2MLAC3JL|ikobdk> has joined the channel", 
+            "ts": "1485184058.000010", 
+            "subtype": "channel_join", 
+            "user": "U2MLAC3JL", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U2D9W499Q|jordan-storz> has joined the channel", 
+            "ts": "1485184058.000009", 
+            "subtype": "channel_join", 
+            "user": "U2D9W499Q", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U2GKWMB7E|guillermomoratorio> has joined the channel", 
+            "ts": "1485184058.000008", 
+            "subtype": "channel_join", 
+            "user": "U2GKWMB7E", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U2QCXL1M3|mikedowd> has joined the channel", 
+            "ts": "1485184058.000007", 
+            "subtype": "channel_join", 
+            "user": "U2QCXL1M3", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U2MKZ0Z9V|darren> has joined the channel", 
+            "ts": "1485184058.000006", 
+            "subtype": "channel_join", 
+            "user": "U2MKZ0Z9V", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U2DA72XR7|amgoodman5> has joined the channel", 
+            "ts": "1485184058.000005", 
+            "subtype": "channel_join", 
+            "user": "U2DA72XR7", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U2GL20ANT|andy_herzog> has joined the channel", 
+            "ts": "1485184058.000004", 
+            "subtype": "channel_join", 
+            "user": "U2GL20ANT", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U2DD2LRG9|abiv23> has joined the channel", 
+            "ts": "1485184058.000003", 
+            "subtype": "channel_join", 
+            "user": "U2DD2LRG9", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U2D814J2X|lukemccrae> has joined the channel", 
+            "ts": "1485184058.000002", 
+            "subtype": "channel_join", 
+            "user": "U2D814J2X", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<http://lifehacker.com/the-most-popular-programming-languages-based-on-jobs-s-1790286049>", 
+            "type": "message", 
+            "user": "U2DBHN4DV", 
+            "ts": "1482260589.000002", 
+            "attachments": [
+                {
+                    "image_bytes": 79561, 
+                    "title": "The Most Popular Programming Languages Based On Jobs, Search Engines, and More", 
+                    "service_name": "Lifehacker", 
+                    "image_width": 444, 
+                    "title_link": "http://lifehacker.com/the-most-popular-programming-languages-based-on-jobs-s-1790286049", 
+                    "image_height": 250, 
+                    "image_url": "https://i.kinja-img.com/gawker-media/image/upload/s--DnL4Nbtk--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/vlt45vrveupxpqj2snpz.jpg", 
+                    "text": "There\u2019s no rule that says you have to learn the most popular programming languages, but if you want to code for a living it might be beneficial to know what\u2019s in demand and trending.", 
+                    "id": 1, 
+                    "fallback": "Lifehacker: The Most Popular Programming Languages Based On Jobs, Search Engines, and More", 
+                    "service_icon": "https://i.kinja-img.com/gawker-media/image/upload/s--OqAhAoNZ--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/u0939doeuioaqhspkjyc.png", 
+                    "from_url": "http://lifehacker.com/the-most-popular-programming-languages-based-on-jobs-s-1790286049"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.bennadel.com/blog/2400-handling-forbidden-restful-requests-401-vs-403-vs-404.htm> cool 401 vs. 403 vs. 404 explanation w. law and order analogy DUN DUNNNNN", 
+            "type": "message", 
+            "user": "U2DBHN4DV", 
+            "ts": "1482169588.000002", 
+            "attachments": [
+                {
+                    "title": "Handling Forbidden RESTful Requests: 401 vs. 403 vs. 404", 
+                    "text": "Ben Nadel talks about denying RESTful API requests and when using a 404 Not Found HTTP status code response may make more sense than a 401 Unauthorized or 403 Forbidden response.", 
+                    "title_link": "https://www.bennadel.com/blog/2400-handling-forbidden-restful-requests-401-vs-403-vs-404.htm", 
+                    "service_name": "bennadel.com", 
+                    "id": 1, 
+                    "fallback": "Handling Forbidden RESTful Requests: 401 vs. 403 vs. 404", 
+                    "service_icon": "https://www.bennadel.com/favicon.png", 
+                    "from_url": "https://www.bennadel.com/blog/2400-handling-forbidden-restful-requests-401-vs-403-vs-404.htm"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.erjjqdy40>", 
+            "type": "message", 
+            "user": "U2DBHN4DV", 
+            "ts": "1481745948.000009", 
+            "attachments": [
+                {
+                    "image_bytes": 339944, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "10 min read", 
+                            "title": "Reading time"
+                        }
+                    ], 
+                    "title": "Top JavaScript Frameworks &amp; Topics to Learn in 2017 \u2013 JavaScript Scene", 
+                    "service_name": "Medium", 
+                    "ts": 1481340122, 
+                    "title_link": "https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.erjjqdy40", 
+                    "image_height": 250, 
+                    "image_url": "https://cdn-images-1.medium.com/max/1200/1*U57FQqHw9eCVlS26M2fxmw.jpeg", 
+                    "image_width": 375, 
+                    "text": "The popularity of JavaScript has led to a very vibrant ecosystem of technologies, frameworks, and libraries. Along with all the amazing\u2026", 
+                    "id": 1, 
+                    "fallback": "Medium: Top JavaScript Frameworks &amp; Topics to Learn in 2017 \u2013 JavaScript Scene", 
+                    "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*fegbK6HDD8crwrwARuMhaQ.png", 
+                    "from_url": "https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.erjjqdy40"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "fire", 
+                    "users": [
+                        "U2J95ADU4", 
+                        "U2DPG1PST"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 931225, 
+                    "title": "JavaScript 30", 
+                    "text": "Build 30 things with vanilla JS in 30 days with 30 tutorials", 
+                    "image_width": 526, 
+                    "title_link": "https://JavaScript30.com/", 
+                    "image_height": 250, 
+                    "image_url": "https://javascript30.com/images/JS3-social-share.png", 
+                    "service_name": "JavaScript30.com", 
+                    "id": 1, 
+                    "fallback": "JavaScript 30", 
+                    "service_icon": "https://JavaScript30.com/images/favion-JS3.png", 
+                    "from_url": "https://JavaScript30.com/"
+                }
+            ], 
+            "text": "free awesome course <https://javascript30.com/>", 
+            "ts": "1481253513.000007", 
+            "user": "U2DBHN4DV", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-2", 
+                    "users": [
+                        "U2DBHN4DV"
+                    ]
+                }
+            ], 
+            "text": "<https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi>", 
+            "type": "message", 
+            "user": "U2MNVL31V", 
+            "ts": "1481231162.000006"
+        }, 
+        {
+            "text": "the linked article is interesting - basically we have to remember that  if we aren\u2019t specifically designing for developers, no one else actually knows how to use a computer! fun! <http://lifehacker.com/this-chart-shows-how-computer-literate-most-people-are-1789761598>", 
+            "type": "message", 
+            "user": "U2DBHN4DV", 
+            "ts": "1481225668.000004", 
+            "attachments": [
+                {
+                    "image_bytes": 47643, 
+                    "title": "This Chart Shows How Computer Literate Most People Are", 
+                    "service_name": "Lifehacker", 
+                    "image_width": 444, 
+                    "title_link": "http://lifehacker.com/this-chart-shows-how-computer-literate-most-people-are-1789761598", 
+                    "image_height": 250, 
+                    "image_url": "https://i.kinja-img.com/gawker-media/image/upload/s--2sKmkvd4--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/y83sl5w3wwqmojzlatkl.png", 
+                    "text": "If you\u2019ve ever gotten the impression that most people aren\u2019t as skilled with computers as you are, you finally have some data to back it up. The above chart shows the distribution of tech skills, and there\u2019s a pretty narrow pool at the top almost everywhere.", 
+                    "id": 1, 
+                    "fallback": "Lifehacker: This Chart Shows How Computer Literate Most People Are", 
+                    "service_icon": "https://i.kinja-img.com/gawker-media/image/upload/s--OqAhAoNZ--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/u0939doeuioaqhspkjyc.png", 
+                    "from_url": "http://lifehacker.com/this-chart-shows-how-computer-literate-most-people-are-1789761598"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "skull", 
+                    "users": [
+                        "U2J95ADU4"
+                    ]
+                }
+            ], 
+            "text": "<@U2J95ADU4> lol nope! those puzzles are hard", 
+            "type": "message", 
+            "user": "U2DBHN4DV", 
+            "ts": "1480977180.000003"
+        }, 
+        {
+            "text": "did you get the first advent puzzle?! ...beginner my butt", 
+            "type": "message", 
+            "user": "U2J95ADU4", 
+            "ts": "1480906460.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "raised_hands", 
+                    "users": [
+                        "U2GLX2T3K", 
+                        "U2J95ADU4"
+                    ]
+                }
+            ], 
+            "text": "I\u2019m going to be trying to keep up with this coding advent calendar this month!! <http://adventofcode.com/>", 
+            "type": "message", 
+            "user": "U2DBHN4DV", 
+            "ts": "1480637545.000002"
+        }, 
+        {
+            "text": "<http://void.hi-res.net/>", 
+            "type": "message", 
+            "user": "U2G1LNAG5", 
+            "ts": "1478639857.000011", 
+            "attachments": [
+                {
+                    "image_bytes": 88067, 
+                    "title": "V O I D", 
+                    "text": "A playground for us to experiment with new visual and sonic concepts and technology...or Soulbath version 2.0 (15 years late).", 
+                    "image_width": 476, 
+                    "title_link": "http://void.hi-res.net/", 
+                    "image_height": 250, 
+                    "image_url": "http://void.hi-res.net/img/social/void0.jpg", 
+                    "service_name": "void.hi-res.net", 
+                    "id": 1, 
+                    "fallback": "V O I D", 
+                    "service_icon": "http://void.hi-res.net/apple-touch-icon.png", 
+                    "from_url": "http://void.hi-res.net/"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://threejs.org/>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1478639825.000010"
+        }, 
+        {
+            "username": "mairinbailey", 
+            "display_as_bot": false, 
+            "text": "<@U1W9GQ50V|mairinbailey> uploaded a file: <https://gstudents.slack.com/files/mairinbailey/F3026HMK4/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1478639801.000009", 
+            "subtype": "file_share", 
+            "user": "U1W9GQ50V", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 18, 
+                "channels": [
+                    "C2U4J1NMC"
+                ], 
+                "display_as_bot": false, 
+                "id": "F3026HMK4", 
+                "size": 561, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3026HMK4/-.txt", 
+                "ims": [], 
+                "preview": "Take aways:\r\n\r\nSwift doesn't seem too different from JS\r\n  - arrays, looping, objects\r\n  - reads similarly\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/mairinbailey/F3026HMK4/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1478639800, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3026HMK4/download/-.txt", 
+                "user": "U1W9GQ50V", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3026HMK4-74fc3630e2", 
+                "permalink": "https://gstudents.slack.com/files/mairinbailey/F3026HMK4/-.txt", 
+                "is_external": false, 
+                "created": 1478639800, 
+                "lines": 23, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Take aways:</pre></div>\n<div><pre></pre></div>\n<div><pre>Swift doesn't seem too different from JS</pre></div>\n<div><pre>  - arrays, looping, objects</pre></div>\n<div><pre>  - reads similarly</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "this youtube walks you through it: <https://www.youtube.com/watch?v=7yk1bWT8ulA>", 
+            "type": "message", 
+            "user": "U2DDW5C8G", 
+            "ts": "1478639640.000007", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/TheCreatorsProject", 
+                    "service_name": "YouTube", 
+                    "title": "How To Make WebGL Animations", 
+                    "video_html_height": 225, 
+                    "author_name": "The Creators Project", 
+                    "title_link": "https://www.youtube.com/watch?v=7yk1bWT8ulA", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/7yk1bWT8ulA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: How To Make WebGL Animations", 
+                    "thumb_url": "https://i.ytimg.com/vi/7yk1bWT8ulA/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=7yk1bWT8ulA"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-3", 
+                    "users": [
+                        "U1W9GQ50V"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "title": "_playGnd", 
+                    "text": "description", 
+                    "title_link": "http://threejsplaygnd.brangerbriz.net/", 
+                    "service_name": "threejsplaygnd.brangerbriz.net", 
+                    "id": 1, 
+                    "fallback": "_playGnd", 
+                    "from_url": "http://threejsplaygnd.brangerbriz.net/"
+                }
+            ], 
+            "text": "<http://threejsplaygnd.brangerbriz.net/>", 
+            "ts": "1478639630.000005", 
+            "user": "U2DDW5C8G", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U2GLX2T3K|dcorkran> has joined the channel", 
+            "type": "message", 
+            "user": "U2GLX2T3K", 
+            "ts": "1478637378.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "username": "mairinbailey", 
+            "display_as_bot": false, 
+            "text": "<@U1W9GQ50V|mairinbailey> uploaded a file: <https://gstudents.slack.com/files/mairinbailey/F2ZB1BF41/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1478637118.000003", 
+            "subtype": "file_share", 
+            "user": "U1W9GQ50V", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 21, 
+                "channels": [
+                    "C2U4J1NMC"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2ZB1BF41", 
+                "size": 370, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2ZB1BF41/-.txt", 
+                "ims": [], 
+                "preview": "Courage Time Suggestions:\r\n\r\nMonetizing an app\r\nWearables\r\nMicrocontrollers\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/mairinbailey/F2ZB1BF41/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1478637118, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2ZB1BF41/download/-.txt", 
+                "user": "U1W9GQ50V", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2ZB1BF41-39ef84f130", 
+                "permalink": "https://gstudents.slack.com/files/mairinbailey/F2ZB1BF41/-.txt", 
+                "is_external": false, 
+                "created": 1478637118, 
+                "lines": 26, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Courage Time Suggestions:</pre></div>\n<div><pre></pre></div>\n<div><pre>Monetizing an app</pre></div>\n<div><pre>Wearables</pre></div>\n<div><pre>Microcontrollers</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U1USK393L|berto> has joined the channel", 
+            "type": "message", 
+            "user": "U1USK393L", 
+            "ts": "1478637088.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2DDW5C8G|mgrainger> has joined the channel", 
+            "type": "message", 
+            "user": "U2DDW5C8G", 
+            "ts": "1478029798.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V044Y58|matthewmalecki> has left the channel", 
+            "type": "message", 
+            "user": "U1V044Y58", 
+            "ts": "1477958208.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "hey all if you want something to do more consistent JS practice at your \u201clevel\u201d check out this website! <http://www.codewars.com/r/eboY0A|www.codewars.com/r/eboY0A>", 
+            "type": "message", 
+            "user": "U2DBHN4DV", 
+            "ts": "1477928355.000002"
+        }, 
+        {
+            "text": "<@U2DE7BK2Q|petahcole> has joined the channel", 
+            "type": "message", 
+            "user": "U2DE7BK2Q", 
+            "ts": "1477511174.000011", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2GLC9S5C|hana> has joined the channel", 
+            "type": "message", 
+            "user": "U2GLC9S5C", 
+            "ts": "1477511170.000010", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2D8BFKTM|seatonm123> has joined the channel", 
+            "type": "message", 
+            "user": "U2D8BFKTM", 
+            "ts": "1477511164.000009", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": ":wave:", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1477511157.000008"
+        }, 
+        {
+            "text": "<@U1USJGEG2|cj> has joined the channel", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1477511152.000007", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "those are the links to python and pygames book i was reading", 
+            "type": "message", 
+            "user": "U2DE91J8Z", 
+            "ts": "1477496766.000006"
+        }, 
+        {
+            "text": "<https://inventwithpython.com/makinggames.pdf>", 
+            "type": "message", 
+            "user": "U2DE91J8Z", 
+            "ts": "1477496751.000005"
+        }, 
+        {
+            "text": "<https://bitbucket.org/pygame/pygame/issues/82/homebrew-on-leopard-fails-to-install#comment-627494>", 
+            "type": "message", 
+            "user": "U2DE91J8Z", 
+            "ts": "1477496729.000003", 
+            "attachments": [
+                {
+                    "title": "homebrew on Leopard fails to install", 
+                    "text": "There is a report of homebrew failing to install on OS X Leopard. Following the directions at this url there is an error: <http://www.daskrachen.com/2011/03/installing-pygame-using-homebrew.html>", 
+                    "title_link": "https://bitbucket.org/pygame/pygame/issues/82/homebrew-on-leopard-fails-to-install#comment-627494", 
+                    "service_name": "Bitbucket", 
+                    "id": 1, 
+                    "fallback": "homebrew on Leopard fails to install", 
+                    "service_icon": "https://d301sr5gafysq2.cloudfront.net/a70a3d56bdb1/img/bitbucket_avatar/192/bitbucket.png", 
+                    "from_url": "https://bitbucket.org/pygame/pygame/issues/82/homebrew-on-leopard-fails-to-install#comment-627494"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U2DE91J8Z|zacjocelyn> has joined the channel", 
+            "type": "message", 
+            "user": "U2DE91J8Z", 
+            "ts": "1477496675.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2E9N17DG|tylerbriskie> has joined the channel", 
+            "type": "message", 
+            "user": "U2E9N17DG", 
+            "ts": "1477431144.000018", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2N1ZH11U|omegamark> has joined the channel", 
+            "type": "message", 
+            "user": "U2N1ZH11U", 
+            "ts": "1477428753.000017", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2J95ADU4|philc> has joined the channel", 
+            "type": "message", 
+            "user": "U2J95ADU4", 
+            "ts": "1477428067.000016", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2DNXE2LA|hnefatafl01> has joined the channel", 
+            "type": "message", 
+            "user": "U2DNXE2LA", 
+            "ts": "1477427716.000015", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V044Y58|matthewmalecki> has joined the channel", 
+            "type": "message", 
+            "user": "U1V044Y58", 
+            "ts": "1477427688.000014", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2DBHN4DV|choudlette> has joined the channel", 
+            "type": "message", 
+            "user": "U2DBHN4DV", 
+            "ts": "1477427614.000013", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2G1LNAG5|matt.winzer> has joined the channel", 
+            "type": "message", 
+            "user": "U2G1LNAG5", 
+            "ts": "1477427523.000012", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Build your own Progressive Web App from scratch (and more); <https://codelabs.developers.google.com/polymer-summit-2016>", 
+            "type": "message", 
+            "user": "U2MNVL31V", 
+            "ts": "1477427517.000010", 
+            "attachments": [
+                {
+                    "title": "Polymer Summit 2016", 
+                    "text": "Google Codelabs", 
+                    "title_link": "https://codelabs.developers.google.com/polymer-summit-2016", 
+                    "service_name": "Polymer Summit 2016", 
+                    "id": 1, 
+                    "fallback": "Polymer Summit 2016", 
+                    "service_icon": "https://codelabs.developers.google.com/images/touch/icon_144.png", 
+                    "from_url": "https://codelabs.developers.google.com/polymer-summit-2016"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U2MNVL31V|dash> has joined the channel", 
+            "type": "message", 
+            "user": "U2MNVL31V", 
+            "ts": "1477427464.000009", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2H4F4R9B|cassandra.torske> has joined the channel", 
+            "type": "message", 
+            "user": "U2H4F4R9B", 
+            "ts": "1477427373.000008", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<http://kidscancode.org/blog/2015/09/pygame_install/>\npygame installation instructions for using python to write games", 
+            "type": "message", 
+            "user": "U2DPG1PST", 
+            "ts": "1477427298.000007"
+        }, 
+        {
+            "text": "<@U2DPG1PST|jeremyclayton> has joined the channel", 
+            "type": "message", 
+            "user": "U2DPG1PST", 
+            "ts": "1477427245.000006", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2D9SMXBQ|mycroquet> has joined the channel", 
+            "type": "message", 
+            "user": "U2D9SMXBQ", 
+            "ts": "1477426976.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2DBLCH7T|stevencastroverde> has joined the channel", 
+            "type": "message", 
+            "user": "U2DBLCH7T", 
+            "ts": "1477426829.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W9GQ50V|mairinbailey> set the channel purpose: Share cool resources for Courage Time!", 
+            "ts": "1477426643.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1W9GQ50V", 
+            "type": "message", 
+            "purpose": "Share cool resources for Courage Time!"
+        }, 
+        {
+            "text": "<@U1W9GQ50V|mairinbailey> has joined the channel", 
+            "type": "message", 
+            "user": "U1W9GQ50V", 
+            "ts": "1477426643.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g38_courage_time", 
+        "name": "g38_courage_time", 
+        "is_channel": true, 
+        "created": 1477426643, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U1W9GQ50V", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1477426643, 
+            "value": "Share cool resources for Courage Time!", 
+            "creator": "U1W9GQ50V"
+        }, 
+        "members": [], 
+        "id": "C2U4J1NMC", 
+        "is_shared": false
+    }
+}

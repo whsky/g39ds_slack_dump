@@ -1,0 +1,51 @@
+{
+    "messages": [
+        {
+            "text": "<@U1VN4QD29|miles> has left the channel", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1489803186.512851", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1VN4QD29|miles> set the channel purpose: Seattle Spark Fundamentals 3", 
+            "ts": "1489803130.509337", 
+            "subtype": "channel_purpose", 
+            "user": "U1VN4QD29", 
+            "type": "message", 
+            "purpose": "Seattle Spark Fundamentals 3"
+        }, 
+        {
+            "text": "<@U1VN4QD29|miles> has joined the channel", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1489803129.509301", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "sparkfun3", 
+        "name": "sparkfun3", 
+        "is_channel": true, 
+        "created": 1489803129, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1VN4QD29", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1489803130, 
+            "value": "Seattle Spark Fundamentals 3", 
+            "creator": "U1VN4QD29"
+        }, 
+        "members": [], 
+        "id": "C4LB196MB", 
+        "is_shared": false
+    }
+}

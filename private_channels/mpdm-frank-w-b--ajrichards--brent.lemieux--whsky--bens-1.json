@@ -1,0 +1,129 @@
+{
+    "messages": [
+        {
+            "username": "bens", 
+            "display_as_bot": false, 
+            "text": "<@U3SVB50MB|bens> uploaded a file: <https://gstudents.slack.com/files/bens/F5G6BJ71N/b_siverly_project_proposal.md|Benjamin Siverly Project Proposal>", 
+            "upload": true, 
+            "ts": "1495554197.026745", 
+            "subtype": "file_share", 
+            "user": "U3SVB50MB", 
+            "file": {
+                "filetype": "markdown", 
+                "lines_more": 21, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5G6BJ71N", 
+                "size": 2251, 
+                "title": "Benjamin Siverly Project Proposal", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5G6BJ71N/b_siverly_project_proposal.md", 
+                "ims": [], 
+                "preview": "#### Benjamin Siverly, May 22 2017\n\n__Question:__\n* Can you determine the average viewer response to a comedic television series by analyzing the language/locations/character combinations used in the scripts of that show?\n    Analysis will be done on 600 episodes of the Simpsons, ranging from 1989 to 2015, with engineered features being added (political cycle, Democratic or Republican president in office, position in season, viewership upon initial airing, prevalence of the major characters as a ratio to minor characters)", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/bens/F5G6BJ71N/b_siverly_project_proposal.md/edit", 
+                "username": "", 
+                "timestamp": 1495554196, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5G6BJ71N/download/b_siverly_project_proposal.md", 
+                "user": "U3SVB50MB", 
+                "groups": [
+                    "G5G6AMJ0G"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Markdown (raw)", 
+                "name": "b_siverly_project_proposal.md", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5G6BJ71N-8b81aaae18", 
+                "permalink": "https://gstudents.slack.com/files/bens/F5G6BJ71N/b_siverly_project_proposal.md", 
+                "is_external": false, 
+                "created": 1495554196, 
+                "lines": 26, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-header cm-header-4\">#### </span><span class=\"cm-header cm-header-4\">Benjamin</span><span class=\"cm-header cm-header-4\"> </span><span class=\"cm-header cm-header-4\">Siverly,</span><span class=\"cm-header cm-header-4\"> </span><span class=\"cm-header cm-header-4\">May</span><span class=\"cm-header cm-header-4\"> </span><span class=\"cm-header cm-header-4\">22</span><span class=\"cm-header cm-header-4\"> </span><span class=\"cm-header cm-header-4\">2017</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-strong\">__</span><span class=\"cm-strong\">Question:</span><span class=\"cm-strong\">__</span></pre></div>\n<div><pre>* Can you determine the average viewer response to a comedic television series by analyzing the language/locations/character combinations used in the scripts of that show?</pre></div>\n<div><pre>    Analysis will be done on 600 episodes of the Simpsons, ranging from 1989 to 2015, with engineered features being added (political cycle, Democratic or Republican president in office, position in season, viewership upon initial airing, prevalence of the major characters as a ratio to minor characters)</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1495554105, 
+            "value": "Group messaging", 
+            "creator": "U3SVB50MB"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--bens-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--bens-1", 
+        "last_read": "1495554197.026745", 
+        "creator": "U3SVB50MB", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1495554105, 
+        "is_group": true, 
+        "members": [
+            "U3SVB50MB", 
+            "U33BKEP9Q", 
+            "U34BY2K3K", 
+            "U1WHHHQ7N", 
+            "U1Z90HJG3"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1495554105, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky @bens", 
+            "creator": "U3SVB50MB"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5G6AMJ0G", 
+        "latest": {
+            "username": "bens", 
+            "display_as_bot": false, 
+            "text": "<@U3SVB50MB|bens> uploaded a file: <https://gstudents.slack.com/files/bens/F5G6BJ71N/b_siverly_project_proposal.md|Benjamin Siverly Project Proposal>", 
+            "upload": true, 
+            "ts": "1495554197.026745", 
+            "subtype": "file_share", 
+            "user": "U3SVB50MB", 
+            "file": {
+                "filetype": "markdown", 
+                "lines_more": 21, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5G6BJ71N", 
+                "size": 2251, 
+                "title": "Benjamin Siverly Project Proposal", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5G6BJ71N/b_siverly_project_proposal.md", 
+                "ims": [], 
+                "preview": "#### Benjamin Siverly, May 22 2017\n\n__Question:__\n* Can you determine the average viewer response to a comedic television series by analyzing the language/locations/character combinations used in the scripts of that show?\n    Analysis will be done on 600 episodes of the Simpsons, ranging from 1989 to 2015, with engineered features being added (political cycle, Democratic or Republican president in office, position in season, viewership upon initial airing, prevalence of the major characters as a ratio to minor characters)", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/bens/F5G6BJ71N/b_siverly_project_proposal.md/edit", 
+                "username": "", 
+                "timestamp": 1495554196, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5G6BJ71N/download/b_siverly_project_proposal.md", 
+                "user": "U3SVB50MB", 
+                "groups": [
+                    "G5G6AMJ0G"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Markdown (raw)", 
+                "name": "b_siverly_project_proposal.md", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5G6BJ71N-8b81aaae18", 
+                "permalink": "https://gstudents.slack.com/files/bens/F5G6BJ71N/b_siverly_project_proposal.md", 
+                "is_external": false, 
+                "created": 1495554196, 
+                "lines": 26, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-header cm-header-4\">#### </span><span class=\"cm-header cm-header-4\">Benjamin</span><span class=\"cm-header cm-header-4\"> </span><span class=\"cm-header cm-header-4\">Siverly,</span><span class=\"cm-header cm-header-4\"> </span><span class=\"cm-header cm-header-4\">May</span><span class=\"cm-header cm-header-4\"> </span><span class=\"cm-header cm-header-4\">22</span><span class=\"cm-header cm-header-4\"> </span><span class=\"cm-header cm-header-4\">2017</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-strong\">__</span><span class=\"cm-strong\">Question:</span><span class=\"cm-strong\">__</span></pre></div>\n<div><pre>* Can you determine the average viewer response to a comedic television series by analyzing the language/locations/character combinations used in the scripts of that show?</pre></div>\n<div><pre>    Analysis will be done on 600 episodes of the Simpsons, ranging from 1989 to 2015, with engineered features being added (political cycle, Democratic or Republican president in office, position in season, viewership upon initial airing, prevalence of the major characters as a ratio to minor characters)</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    }
+}

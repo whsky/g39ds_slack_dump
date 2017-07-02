@@ -1,0 +1,1079 @@
+{
+    "messages": [
+        {
+            "text": "<@U58AAL11T|renaissance> has left the channel", 
+            "type": "message", 
+            "user": "U58AAL11T", 
+            "ts": "1495745280.713392", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U58AAL11T|renaissance> has joined the channel", 
+            "type": "message", 
+            "user": "U58AAL11T", 
+            "ts": "1495674660.228440", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3QFMUJ15|maria> has left the channel", 
+            "type": "message", 
+            "user": "U3QFMUJ15", 
+            "ts": "1495143186.638237", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3QFMUJ15|maria> has joined the channel", 
+            "type": "message", 
+            "user": "U3QFMUJ15", 
+            "ts": "1495143071.601108", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3Z7JPZTP|ghetto_geek> has left the channel", 
+            "type": "message", 
+            "user": "U3Z7JPZTP", 
+            "ts": "1489356187.672952", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3Z7JPZTP|ghetto_geek> has joined the channel", 
+            "type": "message", 
+            "user": "U3Z7JPZTP", 
+            "ts": "1489355918.652027", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3R0RJ5|ozwal> has left the channel", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1487105077.252064", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W1CDFHR|jaimielogan> has left the channel", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1481586059.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "I was working on some front end stuff for it when I realized there is no password recovery feature\u2026. I am happy to sit down and keep plugging away at it.", 
+            "type": "message", 
+            "user": "U1W22MND9", 
+            "ts": "1476124227.000002"
+        }, 
+        {
+            "text": "Stripe is a good payment processing provider.", 
+            "type": "message", 
+            "user": "U1US4N6A0", 
+            "ts": "1475872588.000002"
+        }, 
+        {
+            "text": "We have to seat down and see what type of e-commerce we can incorporate. GnarCar is a good idea an people would actually use it!", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1475801413.000002"
+        }, 
+        {
+            "text": "An article about carpooling and peer-to-peer car rental services. Looks like there\u2019s a couple in europe that are similar to gnar car (<https://www.blablacar.fr/> and <https://amovens.com/>)  <http://www.bloomberg.com/news/articles/2016-10-05/would-you-rent-your-car-to-a-total-stranger>", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1475774671.000002", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://d1ovtcjitiy70m.cloudfront.net/vi-1/apple-touch-icon-57x57.png", 
+                    "thumb_width": 200, 
+                    "title": "Voyagez moins cher en covoiturage", 
+                    "service_name": "BlaBlaCar", 
+                    "title_link": "https://www.blablacar.fr/", 
+                    "text": "BlaBlaCar met en relation des conducteurs qui voyagent avec des places libres avec des passagers recherchant un trajet sur le premier site europ\u00e9en de covoiturage.", 
+                    "id": 1, 
+                    "fallback": "BlaBlaCar: Voyagez moins cher en covoiturage", 
+                    "thumb_url": "https://www.blablacar.fr/images/logo-bbc-fb.png", 
+                    "from_url": "https://www.blablacar.fr/"
+                }, 
+                {
+                    "image_bytes": 43997, 
+                    "title": "Compartir coche y alquiler de coches entre particulares", 
+                    "service_name": "Amovens", 
+                    "image_width": 476, 
+                    "title_link": "https://amovens.com/", 
+                    "image_height": 250, 
+                    "image_url": "https://dgaqgnnkkz5ef.cloudfront.net/assets/og_image_smile-8e22f5b0c73303a9be6aef94d665eb58956a6eab966c4d25abf83ac06011671a.png", 
+                    "text": "Amovens es el \u00fanico portal que combine compartir coche y alquiler de coches entre particulares. Busca u ofrece plazas para compartir trayectos en coche, o alquila coches de otros usuarios con seguro y asistencia en carretera.", 
+                    "id": 2, 
+                    "fallback": "Amovens: Compartir coche y alquiler de coches entre particulares", 
+                    "service_icon": "https://dgaqgnnkkz5ef.cloudfront.net/assets/icon_smile_76-922444e9245179f19c9a4e7be52f100aebfbb169c25cc7f6c68d088a2cf8842b.png", 
+                    "from_url": "https://amovens.com/"
+                }, 
+                {
+                    "thumb_height": 1333, 
+                    "service_icon": "https://assets.bwbx.io/business/public/images/favicons/apple-touch-icon-57x57-b572ef8093.png", 
+                    "thumb_width": 2200, 
+                    "title": "Would You Rent Your Car to a Total Stranger?", 
+                    "service_name": "Bloomberg.com", 
+                    "title_link": "http://www.bloomberg.com/news/articles/2016-10-05/would-you-rent-your-car-to-a-total-stranger", 
+                    "text": "Airbnb like services for car owners are expanding in Europe.", 
+                    "id": 3, 
+                    "fallback": "Bloomberg.com: Would You Rent Your Car to a Total Stranger?", 
+                    "thumb_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBQHHXm92A5o/v0/-1x-1.jpg", 
+                    "from_url": "http://www.bloomberg.com/news/articles/2016-10-05/would-you-rent-your-car-to-a-total-stranger"
+                }
+            ]
+        }, 
+        {
+            "text": "snacks outside!", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1475250765.000002"
+        }, 
+        {
+            "text": "Thanks <@U1W3R0RJ5>", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1475240760.000002"
+        }, 
+        {
+            "text": "If there\u2019s any more polishing we might be able to do it tomorrow, including editing the text in the Driver/Rider/Group part of the homepage.", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1475196051.000004"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1W1CDFHR"
+                    ]
+                }
+            ], 
+            "text": "hey brogrammers! I put the link in the user name and added the icons as discussed with Valerie. Also added a few icons on the buttons and made them the same color. We had three different button colors.", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1475195889.000003"
+        }, 
+        {
+            "text": "Sonic Room (3rd Floor) for Thursday, September 29, 2016 9:45-11:45", 
+            "type": "message", 
+            "user": "U1W22MND9", 
+            "ts": "1475161932.000002"
+        }, 
+        {
+            "text": "Hey Os, just brought your changes in, didn't seem to affect anything we already had..", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1475156767.000002"
+        }, 
+        {
+            "text": "I saw on github that there are conflicts with my pull request. I made a comment with an explanation of the changes I made to the rendering and the hbs.", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1475120031.000007"
+        }, 
+        {
+            "text": "It took me a while to figure out the button or comment part on the ride page. I had problems with handlebars and rendering, that would screw up the template. I will work on the leave ride as a rider tomorrow.", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1475119652.000006"
+        }, 
+        {
+            "text": "I\u201dm gonna do another pull", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1475080805.000005"
+        }, 
+        {
+            "text": "Hey Stephen, looks like my changes get updated on that last pull request", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1475080800.000004"
+        }, 
+        {
+            "text": "```        &lt;h3&gt;Car Details&lt;/h3&gt;\n        &lt;div class=\"form-group\"&gt;\n          &lt;label for=\"carMake\" class=\"col-lg-2 control-label\"&gt;Car Make&lt;/label&gt;\n          &lt;div class=\"col-lg-10\"&gt;\n            &lt;input type=\"text\" class=\"form-control\" placeholder=\"carMake\" name=\"carMake\"&gt;\n          &lt;/div&gt;\n        &lt;/div&gt;\n        &lt;div class=\"form-group\"&gt;\n          &lt;label for=\"carModel\" class=\"col-lg-2 control-label\"&gt;Car Model&lt;/label&gt;\n          &lt;div class=\"col-lg-10\"&gt;\n            &lt;input type=\"text\" class=\"form-control\" placeholder=\"carModel\" name=\"carModel\"&gt;\n          &lt;/div&gt;\n        &lt;/div&gt;\n        &lt;div class=\"form-group\"&gt;\n        &lt;label class=\"col-lg-2 control-label\"&gt;Transmission&lt;/label&gt;\n        &lt;div class=\"col-lg-10\"&gt;\n          &lt;div class=\"radio\"&gt;\n            &lt;label&gt;\n              &lt;input type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios1\" value=\"option1\" checked=\"\"&gt;AWD\n            &lt;/label&gt;\n          &lt;/div&gt;\n        &lt;div class=\"radio\"&gt;\n          &lt;label&gt;\n            &lt;input type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios2\" value=\"option2\"&gt;4WD\n          &lt;/label&gt;\n        &lt;/div&gt;\n        &lt;div class=\"radio\"&gt;\n          &lt;label&gt;\n            &lt;input type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios3\" value=\"option3\"&gt;FWD\n          &lt;/label&gt;\n        &lt;/div&gt;\n      &lt;/div&gt;\n      &lt;label class=\"col-lg-2 control-label\"&gt;Smoking&lt;/label&gt;\n      &lt;div class=\"col-lg-10\"&gt;\n        &lt;div class=\"radio\"&gt;\n          &lt;label&gt;\n            &lt;input type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios1\" value=\"option1\" checked=\"\"&gt;\n            No\n          &lt;/label&gt;\n        &lt;/div&gt;\n        &lt;div class=\"radio\"&gt;\n          &lt;label&gt;\n            &lt;input type=\"radio\" name=\"optionsRadios\" id=\"optionsRadios2\" value=\"option2\"&gt;Yes\n          &lt;/label&gt;\n        &lt;/div&gt;\n      &lt;/div&gt;\n    &lt;/div&gt;```", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1475011691.000006"
+        }, 
+        {
+            "text": "pacman room reserved for video 9/30/16 @ 1pm-3pm", 
+            "type": "message", 
+            "user": "U1W22MND9", 
+            "ts": "1475011349.000005"
+        }, 
+        {
+            "text": "Winter Park ... <http://www.myweather2.com/developer/weather.ashx?uac=46L59RDMP5&amp;uref=b6b8363c-4fa1-4b87-9a54-bdd4c730a3eb>", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1474994324.000004"
+        }, 
+        {
+            "text": "<http://www.myweather2.com/developer/forecast.ashx?uac=XiHzZlNoi7&amp;output=xml&amp;query=SW1>", 
+            "type": "message", 
+            "user": "U1W22MND9", 
+            "ts": "1474994280.000003"
+        }, 
+        {
+            "username": "colin", 
+            "display_as_bot": false, 
+            "text": "<@U1W22MND9|colin> uploaded a file: <https://gstudents.slack.com/files/colin/F2GJ2RZ6C/screen_shot_2016-09-27_at_10.36.16_am.png|Screen Shot 2016-09-27 at 10.36.16 AM.png>", 
+            "upload": true, 
+            "ts": "1474994236.000002", 
+            "subtype": "file_share", 
+            "user": "U1W22MND9", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2GJ2RZ6C-0676ff845c/screen_shot_2016-09-27_at_10.36.16_am_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2GJ2RZ6C-0676ff845c/screen_shot_2016-09-27_at_10.36.16_am_64.png", 
+                "size": 52775, 
+                "original_h": 270, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2016-09-27 at 10.36.16 AM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2GJ2RZ6C/screen_shot_2016-09-27_at_10.36.16_am.png", 
+                "thumb_720_h": 164, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2GJ2RZ6C-0676ff845c/screen_shot_2016-09-27_at_10.36.16_am_360.png", 
+                "id": "F2GJ2RZ6C", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2GJ2RZ6C-0676ff845c/screen_shot_2016-09-27_at_10.36.16_am_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 82, 
+                "thumb_480_h": 109, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1474994233, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2GJ2RZ6C-0676ff845c/screen_shot_2016-09-27_at_10.36.16_am_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2GJ2RZ6C/download/screen_shot_2016-09-27_at_10.36.16_am.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F2GJ2RZ6C-0676ff845c/screen_shot_2016-09-27_at_10.36.16_am_1024.png", 
+                "user": "U1W22MND9", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F2GJ2RZ6C-0676ff845c/screen_shot_2016-09-27_at_10.36.16_am_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2016-09-27 at 10.36.16 AM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2GJ2RZ6C-55b6ce3199", 
+                "permalink": "https://gstudents.slack.com/files/colin/F2GJ2RZ6C/screen_shot_2016-09-27_at_10.36.16_am.png", 
+                "is_external": false, 
+                "created": 1474994233, 
+                "thumb_1024_h": 233, 
+                "thumb_960_h": 218, 
+                "original_w": 1188, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F2GJ2RZ6C-0676ff845c/screen_shot_2016-09-27_at_10.36.16_am_720.png", 
+                "channels": [
+                    "C2FCLM77Y"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "jaimielogan", 
+            "display_as_bot": false, 
+            "text": "<@U1W1CDFHR|jaimielogan> uploaded a file: <https://gstudents.slack.com/files/jaimielogan/F2G8CJXGC/-.js|Untitled>", 
+            "upload": true, 
+            "ts": "1474934920.000005", 
+            "subtype": "file_share", 
+            "user": "U1W1CDFHR", 
+            "file": {
+                "filetype": "javascript", 
+                "lines_more": 1, 
+                "channels": [
+                    "C2FCLM77Y"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2G8CJXGC", 
+                "size": 166, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2G8CJXGC/-.js", 
+                "ims": [], 
+                "preview": " for (var j = 0; j < weatherCodes.length; j++) {\r\n\tmountain.getWeatherIcon(weatherCodes[j])\r\n\t.then(function(weatherIcon){\r\n\t\tweatherIcons.push(weatherIcon);\r\n\t});\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/jaimielogan/F2G8CJXGC/-.js/edit", 
+                "username": "", 
+                "timestamp": 1474934919, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2G8CJXGC/download/-.js", 
+                "user": "U1W1CDFHR", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "JavaScript/JSON", 
+                "name": "-.js", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2G8CJXGC-b8d36cf112", 
+                "permalink": "https://gstudents.slack.com/files/jaimielogan/F2G8CJXGC/-.js", 
+                "is_external": false, 
+                "created": 1474934919, 
+                "lines": 6, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre> <span class=\"cm-keyword\">for</span> (<span class=\"cm-keyword\">var</span> <span class=\"cm-def\">j</span> <span class=\"cm-operator\">=</span> <span class=\"cm-number\">0</span>; <span class=\"cm-variable\">j</span> <span class=\"cm-operator\">&lt;</span> <span class=\"cm-variable\">weatherCodes</span>.<span class=\"cm-property\">length</span>; <span class=\"cm-variable\">j</span><span class=\"cm-operator\">++</span>) {</pre></div>\n<div><pre>\t<span class=\"cm-variable\">mountain</span>.<span class=\"cm-property\">getWeatherIcon</span>(<span class=\"cm-variable\">weatherCodes</span>[<span class=\"cm-variable\">j</span>])</pre></div>\n<div><pre>\t.<span class=\"cm-property\">then</span>(<span class=\"cm-keyword\">function</span>(<span class=\"cm-def\">weatherIcon</span>){</pre></div>\n<div><pre>\t\t<span class=\"cm-variable\">weatherIcons</span>.<span class=\"cm-property\">push</span>(<span class=\"cm-variable-2\">weatherIcon</span>);</pre></div>\n<div><pre>\t});</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Hey guys, does anyone have any thoughts/ideas on the best way to return an array from running multiple queries on values in array rather than using a for loop? For example on the mountain page for the weather, I want to get the icons associated with their respective codes. I have an array [0,0,0,0,92,0] of the codes that I want to look up in the icons table to find their respective icon route, which would also be best returned in an array. The only ideas I have is a for loop, but then the results are inaccessible because the query results are in a .then function. No worries if you guys don\u2019t have any thoughts on this, I\u2019ll bring it to one of the instructors tomorrow!", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474934876.000004"
+        }, 
+        {
+            "text": "<https://quiet-forest-25771.herokuapp.com/>", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474928148.000003"
+        }, 
+        {
+            "text": "Reminder: stories get accepted when they are deployed.", 
+            "type": "message", 
+            "user": "U1US4N6A0", 
+            "ts": "1474918050.000002"
+        }, 
+        {
+            "text": "Wow! Looks amazing ", 
+            "type": "message", 
+            "user": "U1W22MND9", 
+            "ts": "1474857542.000003"
+        }, 
+        {
+            "text": "<@U1W1CDFHR> <@U1W3R0RJ5> <@U1W22MND9> Hey Colin not much, just now accepted a new pull request,  got the wireframes mocked up pretty well and should be in a good spot to start adding some functionality", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1474856769.000002"
+        }, 
+        {
+            "text": "Hey gang! I'll be jumping in to get caught up an put in work. Any new info or... ?", 
+            "type": "message", 
+            "user": "U1W22MND9", 
+            "ts": "1474854815.000002"
+        }, 
+        {
+            "text": "<@U1W1CDFHR> <@U1W3R0RJ5> <@U1W22MND9> added logged in user page.", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1474853763.000004"
+        }, 
+        {
+            "text": "added logged in user page", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1474853730.000003"
+        }, 
+        {
+            "text": "<@U1W1CDFHR> <@U1W3R0RJ5> <@U1W22MND9> Hi All, just pushed some changes", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1474847298.000002"
+        }, 
+        {
+            "text": "<@U1W1CDFHR> <@U1W3R0RJ5> <@U1W22MND9> Just merged a new pull request", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1474839626.000023"
+        }, 
+        {
+            "text": "this looks like it will parse xml to json ... <https://github.com/abdmob/x2js>", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1474828110.000020", 
+            "attachments": [
+                {
+                    "thumb_height": 400, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 400, 
+                    "title": "abdmob/x2js", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/abdmob/x2js", 
+                    "text": "x2js - XML to JSON and back for JavaScript", 
+                    "id": 1, 
+                    "fallback": "GitHub: abdmob/x2js", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/1316837?v=3&s=400", 
+                    "from_url": "https://github.com/abdmob/x2js"
+                }
+            ]
+        }, 
+        {
+            "text": "Here\u2019s the url to request Breck\u2019s for example if anyone wants to mess around with it <http://www.myweather2.com/developer/weather.ashx?uac=lWSw6eGT9t&amp;uref=0700f08f-f9d9-4bb0-86a6-d51a4a89266a>", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474827871.000019"
+        }, 
+        {
+            "text": "It only returns xml format, but you can get specific urls for each mountain, which is nice. Have any of you worked with xml format before? It looks like theres a few way to convert it to json", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474827750.000018"
+        }, 
+        {
+            "text": "<@U1W1CDFHR> <@U1W3R0RJ5> <@U1W22MND9>  Just merged a new pull request; Free weather API looks good to me", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1474826483.000017"
+        }, 
+        {
+            "text": "<http://www.myweather2.com/developer/apis.aspx?uref=f8add9ec-fe95-4001-b822-df8680e49dce>", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474825841.000015", 
+            "attachments": [
+                {
+                    "title": "  Free weather API | snow report and ski resort forecast feeds ", 
+                    "text": "Free forecast weather API providing ski snow reports and ski forecasts. Data available via our weather XML and weather JSON feed services. Choose resorts from our extensive global listing.", 
+                    "title_link": "http://www.myweather2.com/developer/apis.aspx?uref=f8add9ec-fe95-4001-b822-df8680e49dce", 
+                    "service_name": "myweather2.com", 
+                    "id": 1, 
+                    "fallback": "  Free weather API | snow report and ski resort forecast feeds ", 
+                    "service_icon": "http://dev.myweather2.com/images/favicon.ico", 
+                    "from_url": "http://www.myweather2.com/developer/apis.aspx?uref=f8add9ec-fe95-4001-b822-df8680e49dce"
+                }
+            ]
+        }, 
+        {
+            "text": "Are we still thinking about using the weatherunderground api to get the snow reports and weather forecast? I also found this one that might be a good option.", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474825840.000014"
+        }, 
+        {
+            "text": "Eek just added a couple more things so I had to do another pull request. It\u2019s all just for the mountain information page. I may need to update it again to get your nav bar in there instead of the one I created", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474825463.000013"
+        }, 
+        {
+            "text": "<@U1W1CDFHR> <@U1W22MND9> <@U1W3R0RJ5> Hey All, I justed accepted Jaimie's pull request and pushed some updates of my own to auth/sign up page; also note in the app.js file I registered a handlebars partial and made one for the navbar in views/partials/navbar.hbs; to use it in a file just type {{&gt; navbar}}; Lastly I added bcrypt so &gt;npm install after you pull down", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1474825356.000012"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "woowoo-dan", 
+                    "users": [
+                        "U1W3KL3S9", 
+                        "U1W22MND9"
+                    ]
+                }
+            ], 
+            "text": "gnar car meets candy van", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474825331.000011"
+        }, 
+        {
+            "username": "stephen-knutter", 
+            "display_as_bot": false, 
+            "text": "<@U1W3KL3S9|stephen-knutter> shared a file: <https://gstudents.slack.com/files/stephen-knutter/F2FMKSJMS/gnar-car-van.png|gnar-car-van.png>", 
+            "upload": false, 
+            "ts": "1474824727.000010", 
+            "subtype": "file_share", 
+            "user": "U1W3KL3S9", 
+            "file": {
+                "thumb_480_w": 350, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1", 
+                        "users": [
+                            "U1W22MND9"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2FMKSJMS-5b284a6ce4/gnar-car-van_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2FMKSJMS-5b284a6ce4/gnar-car-van_64.png", 
+                "size": 411875, 
+                "original_h": 549, 
+                "thumb_360_w": 262, 
+                "title": "gnar-car-van.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2FMKSJMS/gnar-car-van.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2FMKSJMS-5b284a6ce4/gnar-car-van_360.png", 
+                "id": "F2FMKSJMS", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2FMKSJMS-5b284a6ce4/gnar-car-van_80.png", 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1474824578, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2FMKSJMS-5b284a6ce4/gnar-car-van_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2FMKSJMS/download/gnar-car-van.png", 
+                "user": "U1W3KL3S9", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "gnar-car-van.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2FMKSJMS-356b262afd", 
+                "permalink": "https://gstudents.slack.com/files/stephen-knutter/F2FMKSJMS/gnar-car-van.png", 
+                "is_external": false, 
+                "created": 1474824578, 
+                "original_w": 400, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C2FCLM77Y"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "I started working a little bit on the mountain detail pages. I did have to create just one new class for the home page nav bar that holds the login so that the nav-bar-default styling isn\u2019t affected when we use it on other pages!", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474823697.000009"
+        }, 
+        {
+            "text": "if we go witht he caroussel, I already fixed that on my local by making one class the same height.", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1474821175.000008"
+        }, 
+        {
+            "text": "yes, that\u2019s an easy fix, I\u2019ll include that image", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1474821139.000007"
+        }, 
+        {
+            "text": "Hey <@U1W3R0RJ5> I noticed on the carousel that all 3 images have a different height. Can we get images that are the  same height? Or if not,  just do 1 photo like we talked about with a ski route map? <https://skimap.org/data/510/7/1209336166.jpg>", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1474819993.000005", 
+            "attachments": [
+                {
+                    "image_bytes": 1929175, 
+                    "image_width": 2000, 
+                    "id": 1, 
+                    "image_height": 1022, 
+                    "image_url": "https://skimap.org/data/510/7/1209336166.jpg", 
+                    "from_url": "https://skimap.org/data/510/7/1209336166.jpg", 
+                    "fallback": "2000x1022px image"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U1W3R0RJ5> <@U1W1CDFHR> <@U1W22MND9> Hi All, I just merged a pull request from Os, looking good all!", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1474818476.000004"
+        }, 
+        {
+            "text": "That logo is sweet!", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474815749.000003"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1W3R0RJ5"
+                    ]
+                }
+            ], 
+            "text": "<@U1W3R0RJ5>: I'll mess with spacing and see if it works.", 
+            "type": "message", 
+            "user": "U1W22MND9", 
+            "ts": "1474771966.000017"
+        }, 
+        {
+            "text": "It looks great! I was wondering if you can put skis or a snowboard on top, if it\u2019s not too difficult.", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1474771333.000016"
+        }, 
+        {
+            "username": "colin", 
+            "display_as_bot": false, 
+            "text": "<@U1W22MND9|colin> uploaded a file: <https://gstudents.slack.com/files/colin/F2FKDCSTS/gnarcar.jpg|GnarCar.jpg>", 
+            "upload": true, 
+            "ts": "1474771033.000015", 
+            "subtype": "file_share", 
+            "user": "U1W22MND9", 
+            "file": {
+                "thumb_480_w": 449, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "clap", 
+                        "users": [
+                            "U1W1CDFHR"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2FKDCSTS-cf168d5326/gnarcar_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2FKDCSTS-cf168d5326/gnarcar_64.jpg", 
+                "size": 910014, 
+                "original_h": 5518, 
+                "thumb_360_w": 336, 
+                "title": "GnarCar.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2FKDCSTS/gnarcar.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2FKDCSTS-cf168d5326/gnarcar_360.jpg", 
+                "id": "F2FKDCSTS", 
+                "ims": [], 
+                "thumb_720_w": 673, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2FKDCSTS-cf168d5326/gnarcar_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1474771023, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2FKDCSTS-cf168d5326/gnarcar_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2FKDCSTS/download/gnarcar.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F2FKDCSTS-cf168d5326/gnarcar_1024.jpg", 
+                "user": "U1W22MND9", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F2FKDCSTS-cf168d5326/gnarcar_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "GnarCar.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2FKDCSTS-2e7bebae16", 
+                "permalink": "https://gstudents.slack.com/files/colin/F2FKDCSTS/gnarcar.jpg", 
+                "is_external": false, 
+                "created": 1474771023, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 5157, 
+                "thumb_960_w": 897, 
+                "thumb_1024_w": 957, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F2FKDCSTS-cf168d5326/gnarcar_720.jpg", 
+                "channels": [
+                    "C2FCLM77Y"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "How about some logo feedback?  I know the GnarCar name needs to go on the bottom of the logo and I need to import the color swatches, but...", 
+            "type": "message", 
+            "user": "U1W22MND9", 
+            "ts": "1474770997.000014"
+        }, 
+        {
+            "text": "Thanks Steve. I followed the steps on this pages:\n<https://help.github.com/articles/configuring-a-remote-for-a-fork/>\n<https://help.github.com/articles/syncing-a-fork/>\nand now I have my master updated to your remote master", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1474768271.000012", 
+            "attachments": [
+                {
+                    "title": "               Configuring a remote for a fork - User Documentation           ", 
+                    "text": "To [sync changes you make in a fork](/articles/syncing-a-fork) with the original repository, you must configure a remote that points to the upstream repository in Git.\u2026", 
+                    "title_link": "https://help.github.com/articles/configuring-a-remote-for-a-fork/", 
+                    "service_name": "help.github.com", 
+                    "id": 1, 
+                    "fallback": "               Configuring a remote for a fork - User Documentation           ", 
+                    "service_icon": "https://help.github.com/assets/images/site/favicon.ico", 
+                    "from_url": "https://help.github.com/articles/configuring-a-remote-for-a-fork/"
+                }, 
+                {
+                    "title": "               Syncing a fork - User Documentation           ", 
+                    "text": "Sync a fork of a repository to keep it up-to-date with the upstream repository.\u2026", 
+                    "title_link": "https://help.github.com/articles/syncing-a-fork/", 
+                    "service_name": "help.github.com", 
+                    "id": 2, 
+                    "fallback": "               Syncing a fork - User Documentation           ", 
+                    "service_icon": "https://help.github.com/assets/images/site/favicon.ico", 
+                    "from_url": "https://help.github.com/articles/syncing-a-fork/"
+                }
+            ]
+        }, 
+        {
+            "text": "Hey All I had to update the migration and seed files, for some reason it wasn't working on mine, pull down the repo and check my changes, I also added timestamps.", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1474767372.000009"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1W3R0RJ5"
+                    ]
+                }
+            ], 
+            "text": "Sounds good. I plan on crafting a couple of logos. No more than 30 min each and possibly getting a loose html/bs template together. ", 
+            "type": "message", 
+            "user": "U1W22MND9", 
+            "ts": "1474760133.000008"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1W3R0RJ5"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 276, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 276, 
+                    "title": "stephen-knutter/gnar-car", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/stephen-knutter/gnar-car", 
+                    "text": "Contribute to gnar-car development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: stephen-knutter/gnar-car", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/10223290?v=3&s=400", 
+                    "from_url": "https://github.com/stephen-knutter/gnar-car"
+                }
+            ], 
+            "text": "<@U1W1CDFHR>  <@U1W3R0RJ5> <@U1W22MND9> Hey thanks all! I am going to dig into this soon, Also I just accepted that latest pull request from Jaimie into the repo... I believe this is where you guys would run `git pull upstream ` given having the upstream remote set to <https://github.com/stephen-knutter/gnar-car>?", 
+            "ts": "1474754290.000006", 
+            "user": "U1W3KL3S9", 
+            "type": "message"
+        }, 
+        {
+            "text": "Excellent Jaime! thank you. I was thinking about starting to work on the homepage and the \u2018current rides\u2019 after log in page tonight. I\u2019ll work on a branch :thinking_face:", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1474753418.000005"
+        }, 
+        {
+            "username": "jaimielogan", 
+            "display_as_bot": false, 
+            "text": "<@U1W1CDFHR|jaimielogan> uploaded a file: <https://gstudents.slack.com/files/jaimielogan/F2FJH16H4/gnarcar_v3.pdf|gnarcar_v3.pdf> and commented: Here\u2019s the most updated version of the ERD with some of the updates that I made. You can still find the online version if you want to make edits here (<https://www.lucidchart.com/documents/edit/e5ea9b7d-814c-4900-b40d-1097e095233c>)", 
+            "upload": true, 
+            "ts": "1474750920.000004", 
+            "subtype": "file_share", 
+            "user": "U1W1CDFHR", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Here\u2019s the most updated version of the ERD with some of the updates that I made. You can still find the online version if you want to make edits here (<https://www.lucidchart.com/documents/edit/e5ea9b7d-814c-4900-b40d-1097e095233c>)", 
+                    "created": 1474750919, 
+                    "timestamp": 1474750919, 
+                    "is_intro": true, 
+                    "user": "U1W1CDFHR", 
+                    "id": "Fc2FH1F127"
+                }, 
+                "filetype": "pdf", 
+                "channels": [
+                    "C2FCLM77Y"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2FJH16H4", 
+                "size": 133945, 
+                "title": "gnarcar_v3.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2FJH16H4/gnarcar_v3.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1474750919, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2FJH16H4/download/gnarcar_v3.pdf", 
+                "user": "U1W1CDFHR", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "gnarcar_v3.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2FJH16H4-ef40d68cbb", 
+                "permalink": "https://gstudents.slack.com/files/jaimielogan/F2FJH16H4/gnarcar_v3.pdf", 
+                "is_external": false, 
+                "created": 1474750919, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "I just wanted to provide a quick update on what I worked on today. There\u2019s currently a pull request out! \n\n1. Created migrations and seed files for all of the tables\n\t- This may still need additional updating as we move foward and get a better understanding of all of the info we need\n2. Created some user stories based on the wireframes \n3. Created the db/knex.js file and updated the knexfile.js so that it should be good to go for deployment when the time comes\n\nI also had a few other thoughts on feautres when I was starting to go through the user stories:\n- Ability to register/remove vehicle from a profile\n\t- When the user creates a ride, they could have the ability to select from a drop down menu the cars they have registered to their profile\n- Nav Bar Additions\n\t- Messages, ride notifications (ride requests/ride cancelations)\n- Ability to cancel an offered ride\n- Ability to cancel from a ride joined", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474750707.000003"
+        }, 
+        {
+            "text": "Hey Team! First of all, thanks <@U1W3R0RJ5> for putting those wireframes together! They look awesome.", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1474750328.000002"
+        }, 
+        {
+            "username": "colin", 
+            "display_as_bot": false, 
+            "text": "<@U1W22MND9|colin> uploaded a file: <https://gstudents.slack.com/files/colin/F2FE4HHTK/slack_for_ios_upload.jpg|Slack for iOS Upload>", 
+            "upload": true, 
+            "ts": "1474668646.000015", 
+            "subtype": "file_share", 
+            "user": "U1W22MND9", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2FE4HHTK-15a4c6261c/slack_for_ios_upload_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2FE4HHTK-15a4c6261c/slack_for_ios_upload_64.jpg", 
+                "size": 1651569, 
+                "original_h": 2448, 
+                "thumb_360_w": 360, 
+                "title": "Slack for iOS Upload", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2FE4HHTK/slack_for_ios_upload.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2FE4HHTK-15a4c6261c/slack_for_ios_upload_360.jpg", 
+                "id": "F2FE4HHTK", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2FE4HHTK-15a4c6261c/slack_for_ios_upload_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1474668641, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2FE4HHTK-15a4c6261c/slack_for_ios_upload_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2FE4HHTK/download/slack_for_ios_upload.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F2FE4HHTK-15a4c6261c/slack_for_ios_upload_1024.jpg", 
+                "user": "U1W22MND9", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F2FE4HHTK-15a4c6261c/slack_for_ios_upload_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Slack for iOS Upload.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2FE4HHTK-cc51b1d7f9", 
+                "permalink": "https://gstudents.slack.com/files/colin/F2FE4HHTK/slack_for_ios_upload.jpg", 
+                "is_external": false, 
+                "created": 1474668641, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 3264, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F2FE4HHTK-15a4c6261c/slack_for_ios_upload_720.jpg", 
+                "channels": [
+                    "C2FCLM77Y"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "#C1BBAF, #454545, #01CBD9, #FFFEF3, #D2EFF5", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1474666914.000014"
+        }, 
+        {
+            "text": "the color combination from kuler: Sue bry plus la mer plus aesop", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1474666673.000013"
+        }, 
+        {
+            "text": "just a heads up: i do not have notifications on for this channel unless i\u2019m @\u2018ed. so if you need my attention, please do that.", 
+            "type": "message", 
+            "user": "U1US4N6A0", 
+            "ts": "1474665599.000012"
+        }, 
+        {
+            "text": "<https://github.com/stephen-knutter/gnar-car>", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1474665561.000010", 
+            "attachments": [
+                {
+                    "thumb_height": 276, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 276, 
+                    "title": "stephen-knutter/gnar-car", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/stephen-knutter/gnar-car", 
+                    "text": "Contribute to gnar-car development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: stephen-knutter/gnar-car", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/10223290?v=3&s=400", 
+                    "from_url": "https://github.com/stephen-knutter/gnar-car"
+                }
+            ]
+        }, 
+        {
+            "username": "colin", 
+            "display_as_bot": false, 
+            "text": "<@U1W22MND9|colin> uploaded a file: <https://gstudents.slack.com/files/colin/F2FD12LKF/slack_for_ios_upload.jpg|Slack for iOS Upload>", 
+            "upload": true, 
+            "ts": "1474663193.000009", 
+            "subtype": "file_share", 
+            "user": "U1W22MND9", 
+            "file": {
+                "thumb_480_w": 360, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2FD12LKF-5227d1523c/slack_for_ios_upload_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2FD12LKF-5227d1523c/slack_for_ios_upload_64.jpg", 
+                "size": 437280, 
+                "original_h": 1632, 
+                "thumb_360_w": 270, 
+                "title": "Slack for iOS Upload", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2FD12LKF/slack_for_ios_upload.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2FD12LKF-5227d1523c/slack_for_ios_upload_360.jpg", 
+                "id": "F2FD12LKF", 
+                "ims": [], 
+                "thumb_720_w": 540, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2FD12LKF-5227d1523c/slack_for_ios_upload_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1474663189, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2FD12LKF-5227d1523c/slack_for_ios_upload_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2FD12LKF/download/slack_for_ios_upload.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F2FD12LKF-5227d1523c/slack_for_ios_upload_1024.jpg", 
+                "user": "U1W22MND9", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F2FD12LKF-5227d1523c/slack_for_ios_upload_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Slack for iOS Upload.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2FD12LKF-2f08ba5c62", 
+                "permalink": "https://gstudents.slack.com/files/colin/F2FD12LKF/slack_for_ios_upload.jpg", 
+                "is_external": false, 
+                "created": 1474663189, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 1224, 
+                "thumb_960_w": 720, 
+                "thumb_1024_w": 768, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F2FD12LKF-5227d1523c/slack_for_ios_upload_720.jpg", 
+                "channels": [
+                    "C2FCLM77Y"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U1US4N6A0|vkraucunas> set the channel topic: :skier::ski::snowboarder::skier::ski::snowboarder::skier::ski::snowboarder:", 
+            "ts": "1474662088.000008", 
+            "topic": ":skier::ski::snowboarder::skier::ski::snowboarder::skier::ski::snowboarder:", 
+            "subtype": "channel_topic", 
+            "user": "U1US4N6A0", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1W22MND9|colin> has joined the channel", 
+            "ts": "1474662018.000007", 
+            "subtype": "channel_join", 
+            "user": "U1W22MND9", 
+            "type": "message", 
+            "inviter": "U1US4N6A0"
+        }, 
+        {
+            "text": "<@U1W3R0RJ5|ozwal> has joined the channel", 
+            "ts": "1474662018.000006", 
+            "subtype": "channel_join", 
+            "user": "U1W3R0RJ5", 
+            "type": "message", 
+            "inviter": "U1US4N6A0"
+        }, 
+        {
+            "text": "<@U1W3KL3S9|stephen-knutter> has joined the channel", 
+            "ts": "1474662018.000005", 
+            "subtype": "channel_join", 
+            "user": "U1W3KL3S9", 
+            "type": "message", 
+            "inviter": "U1US4N6A0"
+        }, 
+        {
+            "text": "<@U1US4N6A0|vkraucunas> set the channel purpose: g31 q2 project", 
+            "ts": "1474662018.000004", 
+            "subtype": "channel_purpose", 
+            "user": "U1US4N6A0", 
+            "type": "message", 
+            "purpose": "g31 q2 project"
+        }, 
+        {
+            "text": "<@U1W1CDFHR|jaimielogan> has joined the channel", 
+            "ts": "1474662018.000003", 
+            "subtype": "channel_join", 
+            "user": "U1W1CDFHR", 
+            "type": "message", 
+            "inviter": "U1US4N6A0"
+        }, 
+        {
+            "text": "<@U1US4N6A0|vkraucunas> has joined the channel", 
+            "type": "message", 
+            "user": "U1US4N6A0", 
+            "ts": "1474662017.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1474662088, 
+            "value": "\u26f7\ud83c\udfbf\ud83c\udfc2\u26f7\ud83c\udfbf\ud83c\udfc2\u26f7\ud83c\udfbf\ud83c\udfc2", 
+            "creator": "U1US4N6A0"
+        }, 
+        "is_general": false, 
+        "name_normalized": "brogrammers", 
+        "name": "brogrammers", 
+        "is_channel": true, 
+        "created": 1474662018, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1US4N6A0", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1474662018, 
+            "value": "g31 q2 project", 
+            "creator": "U1US4N6A0"
+        }, 
+        "members": [
+            "U1US4N6A0", 
+            "U1W22MND9", 
+            "U1W3KL3S9"
+        ], 
+        "id": "C2FCLM77Y", 
+        "is_shared": false
+    }
+}

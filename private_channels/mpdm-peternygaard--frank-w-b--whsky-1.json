@@ -1,0 +1,153 @@
+{
+    "messages": [
+        {
+            "text": "Got it ^", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1497965660.990774"
+        }, 
+        {
+            "username": "peternygaard", 
+            "display_as_bot": false, 
+            "text": "<@U3QK4HB45|peternygaard> uploaded a file: <https://gstudents.slack.com/files/peternygaard/F5WFNSM18/peter_nygaard_hooplicator_poster.pdf|peter_nygaard_hooplicator_poster.pdf> and commented: Appreciate it.", 
+            "upload": true, 
+            "ts": "1497965534.943081", 
+            "subtype": "file_share", 
+            "user": "U3QK4HB45", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Appreciate it.", 
+                    "created": 1497965533, 
+                    "timestamp": 1497965533, 
+                    "is_intro": true, 
+                    "user": "U3QK4HB45", 
+                    "id": "Fc5XAQUAB1"
+                }, 
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5WFNSM18", 
+                "size": 1530278, 
+                "title": "peter_nygaard_hooplicator_poster.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5WFNSM18/peter_nygaard_hooplicator_poster.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1497965533, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5WFNSM18/download/peter_nygaard_hooplicator_poster.pdf", 
+                "user": "U3QK4HB45", 
+                "groups": [
+                    "G5VPBPEGG"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "peter_nygaard_hooplicator_poster.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5WFNSM18-5a7198ae1c", 
+                "permalink": "https://gstudents.slack.com/files/peternygaard/F5WFNSM18/peter_nygaard_hooplicator_poster.pdf", 
+                "is_external": false, 
+                "created": 1497965533, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "I'll make the fix. Thanks.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497965374.882791"
+        }, 
+        {
+            "text": "Good catch Frank...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497962502.944301"
+        }, 
+        {
+            "text": "Hey Peter - under modeling you say \"XGBoost random forests\"  Is that a thing?  afaik, you either use a random forest, or you boost, but you don't do both...  I'll go with this version unless you give me a different one by 8 am.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1497961995.805990"
+        }, 
+        {
+            "username": "peternygaard", 
+            "display_as_bot": false, 
+            "text": "<@U3QK4HB45|peternygaard> uploaded a file: <https://gstudents.slack.com/files/peternygaard/F5VSL1DCZ/peter_nygaard_hooplicator_poster.pdf|peter_nygaard_hooplicator_poster.pdf>", 
+            "upload": true, 
+            "ts": "1497957357.750949", 
+            "subtype": "file_share", 
+            "user": "U3QK4HB45", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5VSL1DCZ", 
+                "size": 1530307, 
+                "title": "peter_nygaard_hooplicator_poster.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5VSL1DCZ/peter_nygaard_hooplicator_poster.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1497957356, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5VSL1DCZ/download/peter_nygaard_hooplicator_poster.pdf", 
+                "user": "U3QK4HB45", 
+                "groups": [
+                    "G5VPBPEGG"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "peter_nygaard_hooplicator_poster.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5VSL1DCZ-4e54e0ddee", 
+                "permalink": "https://gstudents.slack.com/files/peternygaard/F5VSL1DCZ/peter_nygaard_hooplicator_poster.pdf", 
+                "is_external": false, 
+                "created": 1497957356, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1497957230, 
+            "value": "Group messaging", 
+            "creator": "U3QK4HB45"
+        }, 
+        "name_normalized": "mpdm-peternygaard--frank-w-b--whsky-1", 
+        "name": "mpdm-peternygaard--frank-w-b--whsky-1", 
+        "last_read": "1497965660.990774", 
+        "creator": "U3QK4HB45", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1497957230, 
+        "is_group": true, 
+        "members": [
+            "U3QK4HB45", 
+            "U1WHHHQ7N", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1497957230, 
+            "value": "Group messaging with: @peternygaard @frank-w-b @whsky", 
+            "creator": "U3QK4HB45"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5VPBPEGG", 
+        "latest": {
+            "text": "Got it ^", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1497965660.990774"
+        }
+    }
+}

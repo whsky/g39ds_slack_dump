@@ -1,0 +1,2256 @@
+{
+    "messages": [
+        {
+            "text": "<http://www.redpoint.com/careers/>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498750810.375060", 
+            "attachments": [
+                {
+                    "thumb_height": 338, 
+                    "service_icon": "http://www.redpoint.com/apple-icon-57x57.png", 
+                    "image_bytes": 5852, 
+                    "thumb_width": 338, 
+                    "title": "Careers - Redpoint Ventures", 
+                    "service_name": "Redpoint Ventures", 
+                    "image_width": 338, 
+                    "title_link": "http://www.redpoint.com/careers/", 
+                    "image_height": 338, 
+                    "image_url": "http://www.redpoint.com/app/uploads/2015/09/peaks.png", 
+                    "id": 1, 
+                    "fallback": "Redpoint Ventures: Careers - Redpoint Ventures", 
+                    "thumb_url": "http://www.redpoint.com/app/uploads/2015/09/peaks.png", 
+                    "from_url": "http://www.redpoint.com/careers/"
+                }
+            ]
+        }, 
+        {
+            "username": "jamesvan", 
+            "display_as_bot": false, 
+            "text": "<@U263G1UET|jamesvan> shared a file: <https://gstudents.slack.com/files/jamesvan/F62DK9NQN/24|DSI Jobs List 6/24>", 
+            "upload": false, 
+            "ts": "1498748384.280837", 
+            "subtype": "file_share", 
+            "user": "U263G1UET", 
+            "file": {
+                "thumb_480_w": 371, 
+                "groups": [], 
+                "filetype": "gdoc", 
+                "thumb_800_h": 1035, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F62DK9NQN-d714c940bf/24_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F62DK9NQN-d714c940bf/24_64.png", 
+                "size": 1686, 
+                "original_h": 1035, 
+                "thumb_360_w": 278, 
+                "title": "DSI Jobs List 6/24", 
+                "url_private": "https://docs.google.com/document/d/1w9OE7bRKVetoouoy6BodX6UhYZUYxo1D5C2QQbEukrY/edit?usp=sharing", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F62DK9NQN-d714c940bf/24_360.png", 
+                "id": "F62DK9NQN", 
+                "ims": [], 
+                "thumb_720_w": 557, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F62DK9NQN-d714c940bf/24_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F62DK9NQN-d714c940bf/24_800.png", 
+                "timestamp": 1498748381, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F62DK9NQN-d714c940bf/24_160.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F62DK9NQN-d714c940bf/24_1024.png", 
+                "user": "U263G1UET", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F62DK9NQN-d714c940bf/24_960.png", 
+                "is_public": true, 
+                "pretty_type": "GDocs Document", 
+                "name": "24", 
+                "mimetype": "application/vnd.google-apps.document", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F62DK9NQN/24", 
+                "is_external": true, 
+                "created": 1498748381, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 800, 
+                "thumb_960_w": 742, 
+                "thumb_1024_w": 791, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F62DK9NQN-d714c940bf/24_720.png"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "an interesting read...^^^", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498584583.733076"
+        }, 
+        {
+            "text": "<https://www.fastcompany.com/40432834/what-if-the-data-science-skills-gap-is-just-a-hiring-hot-mess>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498584575.730090", 
+            "attachments": [
+                {
+                    "image_bytes": 313001, 
+                    "title": "What If The Data Science \u201cSkills Gap\u201d Is Just A Hiring Hot Mess?", 
+                    "service_name": "Fast Company", 
+                    "ts": 1498582855, 
+                    "title_link": "https://www.fastcompany.com/40432834/what-if-the-data-science-skills-gap-is-just-a-hiring-hot-mess", 
+                    "image_height": 250, 
+                    "image_url": "https://assets.fastcompany.com/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2017/06/poster-skills-gap.jpg", 
+                    "image_width": 444, 
+                    "text": "One veteran data scientist explains why asking for advanced degrees and X years of experience is creating artificial scarcity.", 
+                    "id": 1, 
+                    "fallback": "Fast Company: What If The Data Science \u201cSkills Gap\u201d Is Just A Hiring Hot Mess?", 
+                    "service_icon": "https://www.fastcompany.com/apple-touch-icon.png?v=2", 
+                    "from_url": "https://www.fastcompany.com/40432834/what-if-the-data-science-skills-gap-is-just-a-hiring-hot-mess"
+                }
+            ]
+        }, 
+        {
+            "text": "mattermark", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498580700.232632"
+        }, 
+        {
+            "text": "crunchbase", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498580691.228896"
+        }, 
+        {
+            "text": "stackoverflow", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498580543.172092"
+        }, 
+        {
+            "text": "leetcode", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498580469.143729"
+        }, 
+        {
+            "text": "wealthfront", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498579569.783090"
+        }, 
+        {
+            "text": "breakoutlist (list of companies)", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498579555.777277"
+        }, 
+        {
+            "item": {
+                "thumb_480_w": 371, 
+                "groups": [], 
+                "filetype": "gdoc", 
+                "thumb_800_h": 1035, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_64.png", 
+                "size": 1861, 
+                "original_h": 1035, 
+                "thumb_360_w": 278, 
+                "title": "DS Equity Questions", 
+                "url_private": "https://docs.google.com/a/galvanize.com/document/d/1KQYi_HSHkQwNi05wEJSpm6j9CRorTz5-pCDYrGRjo5w/edit?usp=drive_web", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_360.png", 
+                "id": "F5YRZCGTY", 
+                "ims": [], 
+                "thumb_720_w": 557, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_800.png", 
+                "timestamp": 1498149030, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_160.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_1024.png", 
+                "user": "U263G1UET", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_960.png", 
+                "is_public": true, 
+                "pretty_type": "GDocs Document", 
+                "name": "DS Equity Questions", 
+                "mimetype": "application/vnd.google-apps.document", 
+                "channels": [
+                    "C1XTMEWV8", 
+                    "C5A87JAJC"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5YRZCGTY/ds_equity_questions", 
+                "is_external": true, 
+                "created": 1498149030, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 800, 
+                "thumb_960_w": 742, 
+                "thumb_1024_w": 791, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_720.png"
+            }, 
+            "text": "<@U263G1UET|jamesvan> pinned their GDocs Document <https://gstudents.slack.com/files/jamesvan/F5YRZCGTY/ds_equity_questions|DS Equity Questions> to this channel.", 
+            "ts": "1498496895.823998", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "username": "jamesvan", 
+            "display_as_bot": false, 
+            "text": "<@U263G1UET|jamesvan> shared a file: <https://gstudents.slack.com/files/jamesvan/F5YRZCGTY/ds_equity_questions|DS Equity Questions>", 
+            "upload": false, 
+            "ts": "1498496888.821349", 
+            "subtype": "file_share", 
+            "user": "U263G1UET", 
+            "file": {
+                "thumb_480_w": 371, 
+                "groups": [], 
+                "filetype": "gdoc", 
+                "thumb_800_h": 1035, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_64.png", 
+                "size": 1861, 
+                "original_h": 1035, 
+                "thumb_360_w": 278, 
+                "title": "DS Equity Questions", 
+                "url_private": "https://docs.google.com/a/galvanize.com/document/d/1KQYi_HSHkQwNi05wEJSpm6j9CRorTz5-pCDYrGRjo5w/edit?usp=drive_web", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_360.png", 
+                "id": "F5YRZCGTY", 
+                "ims": [], 
+                "thumb_720_w": 557, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_800.png", 
+                "timestamp": 1498149030, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_160.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_1024.png", 
+                "user": "U263G1UET", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_960.png", 
+                "is_public": true, 
+                "pretty_type": "GDocs Document", 
+                "name": "DS Equity Questions", 
+                "mimetype": "application/vnd.google-apps.document", 
+                "channels": [
+                    "C1XTMEWV8", 
+                    "C5A87JAJC"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5YRZCGTY/ds_equity_questions", 
+                "is_external": true, 
+                "created": 1498149030, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 800, 
+                "thumb_960_w": 742, 
+                "thumb_1024_w": 791, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5YRZCGTY-07f77f9c3d/ds_equity_questions_720.png"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "item": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "gpres", 
+                "thumb_800_h": 450, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_64.png", 
+                "size": 5687, 
+                "original_h": 450, 
+                "thumb_360_w": 360, 
+                "title": "DS 42 Salary Negotiations", 
+                "url_private": "https://docs.google.com/a/galvanize.com/presentation/d/1MshgcVMF1_e9IIEIH48nJfraXmMX3HdZpJOLnwKhxKQ/edit?usp=drive_web", 
+                "thumb_720_h": 405, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_360.png", 
+                "id": "F5XTK1U2X", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_80.png", 
+                "thumb_360_h": 203, 
+                "thumb_480_h": 270, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_800.png", 
+                "timestamp": 1498144626, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_160.png", 
+                "user": "U263G1UET", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "GDocs Presentation", 
+                "name": "DS 42 Salary Negotiations", 
+                "mimetype": "application/vnd.google-apps.presentation", 
+                "channels": [
+                    "C1XTMEWV8", 
+                    "C5A87JAJC"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5XTK1U2X/ds_42_salary_negotiations", 
+                "is_external": true, 
+                "created": 1498144626, 
+                "original_w": 800, 
+                "comments_count": 0, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_720.png"
+            }, 
+            "text": "<@U263G1UET|jamesvan> pinned their GDocs Presentation <https://gstudents.slack.com/files/jamesvan/F5XTK1U2X/ds_42_salary_negotiations|DS 42 Salary Negotiations> to this channel.", 
+            "ts": "1498496811.793683", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "username": "jamesvan", 
+            "display_as_bot": false, 
+            "text": "<@U263G1UET|jamesvan> shared a file: <https://gstudents.slack.com/files/jamesvan/F5XTK1U2X/ds_42_salary_negotiations|DS 42 Salary Negotiations>", 
+            "upload": false, 
+            "ts": "1498496803.790962", 
+            "subtype": "file_share", 
+            "user": "U263G1UET", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "gpres", 
+                "thumb_800_h": 450, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_64.png", 
+                "size": 5687, 
+                "original_h": 450, 
+                "thumb_360_w": 360, 
+                "title": "DS 42 Salary Negotiations", 
+                "url_private": "https://docs.google.com/a/galvanize.com/presentation/d/1MshgcVMF1_e9IIEIH48nJfraXmMX3HdZpJOLnwKhxKQ/edit?usp=drive_web", 
+                "thumb_720_h": 405, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_360.png", 
+                "id": "F5XTK1U2X", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_80.png", 
+                "thumb_360_h": 203, 
+                "thumb_480_h": 270, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_800.png", 
+                "timestamp": 1498144626, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_160.png", 
+                "user": "U263G1UET", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "GDocs Presentation", 
+                "name": "DS 42 Salary Negotiations", 
+                "mimetype": "application/vnd.google-apps.presentation", 
+                "channels": [
+                    "C1XTMEWV8", 
+                    "C5A87JAJC"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5XTK1U2X/ds_42_salary_negotiations", 
+                "is_external": true, 
+                "created": 1498144626, 
+                "original_w": 800, 
+                "comments_count": 0, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5XTK1U2X-a53cbdd36d/ds_42_salary_negotiations_720.png"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "item": {
+                "thumb_480_w": 371, 
+                "groups": [], 
+                "filetype": "gdoc", 
+                "thumb_800_h": 1035, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_64.png", 
+                "size": 11085, 
+                "original_h": 1035, 
+                "thumb_360_w": 278, 
+                "title": "DS-How to Write a Cover Letter", 
+                "url_private": "https://docs.google.com/a/galvanize.com/document/d/1qT1t5AhDeaXcVgEOtXZW8lqaVFXUCae13RGmu_Gg9Eo/edit?usp=drive_web", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_360.png", 
+                "id": "F5YQ9TDQF", 
+                "ims": [], 
+                "thumb_720_w": 557, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_800.png", 
+                "timestamp": 1498143265, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_160.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_1024.png", 
+                "user": "U263G1UET", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_960.png", 
+                "is_public": true, 
+                "pretty_type": "GDocs Document", 
+                "name": "DS-How to Write a Cover Letter", 
+                "mimetype": "application/vnd.google-apps.document", 
+                "channels": [
+                    "C1XTMEWV8", 
+                    "C5A87JAJC"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5YQ9TDQF/ds-how_to_write_a_cover_letter", 
+                "is_external": true, 
+                "created": 1498143265, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 800, 
+                "thumb_960_w": 742, 
+                "thumb_1024_w": 791, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_720.png"
+            }, 
+            "text": "<@U263G1UET|jamesvan> pinned their GDocs Document <https://gstudents.slack.com/files/jamesvan/F5YQ9TDQF/ds-how_to_write_a_cover_letter|DS-How to Write a Cover Letter> to this channel.", 
+            "ts": "1498143277.798341", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "username": "jamesvan", 
+            "display_as_bot": false, 
+            "text": "<@U263G1UET|jamesvan> shared a file: <https://gstudents.slack.com/files/jamesvan/F5YQ9TDQF/ds-how_to_write_a_cover_letter|DS-How to Write a Cover Letter>", 
+            "upload": false, 
+            "ts": "1498143268.794203", 
+            "subtype": "file_share", 
+            "user": "U263G1UET", 
+            "file": {
+                "thumb_480_w": 371, 
+                "groups": [], 
+                "filetype": "gdoc", 
+                "thumb_800_h": 1035, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_64.png", 
+                "size": 11085, 
+                "original_h": 1035, 
+                "thumb_360_w": 278, 
+                "title": "DS-How to Write a Cover Letter", 
+                "url_private": "https://docs.google.com/a/galvanize.com/document/d/1qT1t5AhDeaXcVgEOtXZW8lqaVFXUCae13RGmu_Gg9Eo/edit?usp=drive_web", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_360.png", 
+                "id": "F5YQ9TDQF", 
+                "ims": [], 
+                "thumb_720_w": 557, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_800.png", 
+                "timestamp": 1498143265, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_160.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_1024.png", 
+                "user": "U263G1UET", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_960.png", 
+                "is_public": true, 
+                "pretty_type": "GDocs Document", 
+                "name": "DS-How to Write a Cover Letter", 
+                "mimetype": "application/vnd.google-apps.document", 
+                "channels": [
+                    "C1XTMEWV8", 
+                    "C5A87JAJC"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5YQ9TDQF/ds-how_to_write_a_cover_letter", 
+                "is_external": true, 
+                "created": 1498143265, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 800, 
+                "thumb_960_w": 742, 
+                "thumb_1024_w": 791, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5YQ9TDQF-2d5b57a4d2/ds-how_to_write_a_cover_letter_720.png"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "item": {
+                "thumb_480_w": 371, 
+                "groups": [], 
+                "filetype": "gdoc", 
+                "thumb_800_h": 1035, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_64.png", 
+                "size": 4767, 
+                "original_h": 1035, 
+                "thumb_360_w": 278, 
+                "title": "DS42 Social Media Checklist", 
+                "url_private": "https://docs.google.com/a/galvanize.com/document/d/1iNxpsAcHXY3CZAW0bWBiZxtRVeiopwlwiCfhw6PlwSA/edit?usp=drive_web", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_360.png", 
+                "id": "F5Y2NLN8M", 
+                "ims": [], 
+                "thumb_720_w": 557, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_800.png", 
+                "timestamp": 1498143103, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_160.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_1024.png", 
+                "user": "U263G1UET", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_960.png", 
+                "is_public": true, 
+                "pretty_type": "GDocs Document", 
+                "name": "DS42 Social Media Checklist", 
+                "mimetype": "application/vnd.google-apps.document", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5Y2NLN8M/ds42_social_media_checklist", 
+                "is_external": true, 
+                "created": 1498143103, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 800, 
+                "thumb_960_w": 742, 
+                "thumb_1024_w": 791, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_720.png"
+            }, 
+            "text": "<@U263G1UET|jamesvan> pinned their GDocs Document <https://gstudents.slack.com/files/jamesvan/F5Y2NLN8M/ds42_social_media_checklist|DS42 Social Media Checklist> to this channel.", 
+            "ts": "1498143116.728309", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "username": "jamesvan", 
+            "display_as_bot": false, 
+            "text": "<@U263G1UET|jamesvan> shared a file: <https://gstudents.slack.com/files/jamesvan/F5Y2NLN8M/ds42_social_media_checklist|DS42 Social Media Checklist>", 
+            "upload": false, 
+            "ts": "1498143106.724296", 
+            "subtype": "file_share", 
+            "user": "U263G1UET", 
+            "file": {
+                "thumb_480_w": 371, 
+                "groups": [], 
+                "filetype": "gdoc", 
+                "thumb_800_h": 1035, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_64.png", 
+                "size": 4767, 
+                "original_h": 1035, 
+                "thumb_360_w": 278, 
+                "title": "DS42 Social Media Checklist", 
+                "url_private": "https://docs.google.com/a/galvanize.com/document/d/1iNxpsAcHXY3CZAW0bWBiZxtRVeiopwlwiCfhw6PlwSA/edit?usp=drive_web", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_360.png", 
+                "id": "F5Y2NLN8M", 
+                "ims": [], 
+                "thumb_720_w": 557, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_800.png", 
+                "timestamp": 1498143103, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_160.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_1024.png", 
+                "user": "U263G1UET", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_960.png", 
+                "is_public": true, 
+                "pretty_type": "GDocs Document", 
+                "name": "DS42 Social Media Checklist", 
+                "mimetype": "application/vnd.google-apps.document", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5Y2NLN8M/ds42_social_media_checklist", 
+                "is_external": true, 
+                "created": 1498143103, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 800, 
+                "thumb_960_w": 742, 
+                "thumb_1024_w": 791, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5Y2NLN8M-c83399cf28/ds42_social_media_checklist_720.png"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Zach Thomas: <https://www.linkedin.com/in/thomaszi/>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498142497.457669"
+        }, 
+        {
+            "text": "Peter Hughes: <https://www.linkedin.com/in/peter-j-hughes/>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498142454.439274"
+        }, 
+        {
+            "text": "Jenny Lu: <https://www.linkedin.com/in/jennyslu/>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498142432.429828"
+        }, 
+        {
+            "text": "Brian Balagot: <https://www.linkedin.com/in/briancbalagot/>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498142407.418719"
+        }, 
+        {
+            "text": "Alums that will be coming to the class next Tuesday:", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498142399.414941"
+        }, 
+        {
+            "item": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5WKXJQKF", 
+                "size": 147621, 
+                "title": "coverletter.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5WKXJQKF/coverletter.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1497969191, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5WKXJQKF/download/coverletter.pdf", 
+                "user": "U263G1UET", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "coverletter.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5WKXJQKF-d10e2f0f2a", 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5WKXJQKF/coverletter.pdf", 
+                "is_external": false, 
+                "created": 1497969191, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "text": "<@U263G1UET|jamesvan> pinned their PDF <https://gstudents.slack.com/files/jamesvan/F5WKXJQKF/coverletter.pdf|coverletter.pdf> to this channel.", 
+            "ts": "1498142373.404059", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "text": "^^^new analyst role at Rinse", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498066725.799232"
+        }, 
+        {
+            "text": "<https://www.rinse.com/careers/data-analyst/>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1498066695.787737"
+        }, 
+        {
+            "text": "There are more examples of cover letters in your workbook that i sent to you back in week 1", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1497969242.961654"
+        }, 
+        {
+            "text": "<!channel> example cover letter ^^^", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1497969210.947251"
+        }, 
+        {
+            "username": "jamesvan", 
+            "display_as_bot": false, 
+            "text": "<@U263G1UET|jamesvan> uploaded a file: <https://gstudents.slack.com/files/jamesvan/F5WKXJQKF/coverletter.pdf|coverletter.pdf>", 
+            "upload": true, 
+            "ts": "1497969192.939099", 
+            "subtype": "file_share", 
+            "user": "U263G1UET", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5WKXJQKF", 
+                "size": 147621, 
+                "title": "coverletter.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5WKXJQKF/coverletter.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1497969191, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5WKXJQKF/download/coverletter.pdf", 
+                "user": "U263G1UET", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "coverletter.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5WKXJQKF-d10e2f0f2a", 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5WKXJQKF/coverletter.pdf", 
+                "is_external": false, 
+                "created": 1497969191, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel> <http://www.redpoint.com/careers/> Redpoint Ventures is a VC firm...the link is a jobs page for their portfolio companies. Lot of stuff to sort through, but this could be a great resource for some interesting jobs. I found it easiest to sort by location, then go from there.", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1497399113.639031"
+        }, 
+        {
+            "text": "Apprentice Engagement Manager at Mu Sigma\n3d\nMu Sigma is hiring! We are the world\u2019s largest pure-play decision sciences company, working in a global team to engage with clients and take a data-driven approach to decision making with a new art of problem solving.\nAs part of Mu Sigma University you will travel to Bangalore, Mu Sigma\u2019s innovation hub, to learn the ways of Mu Sigma through immersive workshop-based learning with on-the-job mentoring.\n\nYou will face business challenges alongside your clients and work to solve muddy problems in a structured way. You will present this work to the client\u2019s senior management with actionable insights and recommendations which will have real impact on the business.\n\nIf you are interested, e-mail me your resume ( <mailto:elizabeth.jurgens@mu-sigma.com|elizabeth.jurgens@mu-sigma.com> ) with \u201cJunior Associate\u201d in the subject line.", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1497282810.709118"
+        }, 
+        {
+            "text": "<!channel> This could be a very interesting job:", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1497282806.707553"
+        }, 
+        {
+            "text": "meetup today at 4pm just down the street", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496868933.537060"
+        }, 
+        {
+            "text": "<https://www.meetup.com/bay-area-ai/events/240457597/>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496868915.530741", 
+            "attachments": [
+                {
+                    "thumb_height": 3000, 
+                    "service_icon": "https://secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+                    "thumb_width": 3000, 
+                    "title": "Bay Area AI", 
+                    "service_name": "Meetup", 
+                    "title_link": "https://www.meetup.com/bay-area-ai/events/240457597/", 
+                    "text": "This high-level event is hosted at IBM Watson West, the leader of industrial cognitive applications. It is the official launch of the Cognitive Frameworks Festival, focusing on the business of AI, as", 
+                    "id": 1, 
+                    "fallback": "Meetup: Bay Area AI", 
+                    "thumb_url": "https://secure.meetupstatic.com/photos/event/c/6/8/b/highres_433370827.jpeg", 
+                    "from_url": "https://www.meetup.com/bay-area-ai/events/240457597/"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> Today's interview slide deck: <https://docs.google.com/presentation/d/1Opdf5elqYoHN1DOXaLPVTbBvMd2LQdlicuEiLWxULlE/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496856008.733766"
+        }, 
+        {
+            "text": "Jeremy Grace\nWWDC Announcement: With `Core ML`, Apple is making available their APIs for Image recognition and Natural Language Processing for iOS app developers. Also, BIG upgrades to processors and graphics across the Mac line with a new iMac Pro (workhorse for video editing, ML, AR and VR development).\n\n<https://www.apple.com>\nPosted in #gu4_sfToday at 12:40 PM", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496690279.838700", 
+            "attachments": [
+                {
+                    "image_bytes": 374590, 
+                    "title": "Apple Events - WWDC Keynote, June 2017", 
+                    "service_name": "Apple", 
+                    "image_width": 476, 
+                    "title_link": "https://www.apple.com", 
+                    "image_height": 250, 
+                    "image_url": "https://www.apple.com/apple-events/june-2017/meta/og.png?201706050735", 
+                    "text": "Check out our WWDC 2017 event and get a close look at what\u2019s new. Watch the Apple keynote live stream on 6/5 10 a.m PDT.", 
+                    "id": 1, 
+                    "fallback": "Apple: Apple Events - WWDC Keynote, June 2017", 
+                    "service_icon": "https://www.apple.com/favicon.ico", 
+                    "from_url": "https://www.apple.com"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> : current events (apple). Reposting this from gU4 student:", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496690275.837535"
+        }, 
+        {
+            "text": "<!channel> : robust list of data science related blogs: <https://github.com/rushter/data-science-blogs>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496683496.277005", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "rushter/data-science-blogs", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/rushter/data-science-blogs", 
+                    "text": "data-science-blogs - A curated list of data science blogs", 
+                    "id": 1, 
+                    "fallback": "GitHub: rushter/data-science-blogs", 
+                    "thumb_url": "https://avatars1.githubusercontent.com/u/3187951?v=3&s=400", 
+                    "from_url": "https://github.com/rushter/data-science-blogs"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> Crunchbase database of tech companies (sort and filters)<https://www.crunchbase.com/app/search/companies/17a7bc02fb50b9a7bbfb228295d7da33e015a688>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496364358.255355"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> has joined the channel", 
+            "ts": "1496333865.191641", 
+            "subtype": "channel_join", 
+            "user": "U3F1AHRHT", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U3F1AHRHT>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496333584.084536"
+        }, 
+        {
+            "text": "<!channel> homework for Tuesday: <https://docs.google.com/presentation/d/10bgwOFVOtwmZVBC3tSG31PwHpG6vBWK-Gb5CBvURF5c/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496333543.069234"
+        }, 
+        {
+            "text": "Good work today everyone!", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496333516.058923"
+        }, 
+        {
+            "text": "Online Resources Link:\n\n[8:43] \n<https://docs.google.com/document/d/1stmWNESl_flT1eUlu1AWEQIYSqoDBkw3VzHShRDxCaE/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U513HN1GC", 
+            "ts": "1496331911.392590"
+        }, 
+        {
+            "username": "rickyboebel", 
+            "display_as_bot": false, 
+            "text": "<@U56C28J9J|rickyboebel> shared a file: <https://gstudents.slack.com/files/rickyboebel/F5M81AWV8/fill_me_up_pls|Event Resources>", 
+            "upload": false, 
+            "ts": "1496331911.392365", 
+            "subtype": "file_share", 
+            "user": "U56C28J9J", 
+            "file": {
+                "thumb_480_w": 339, 
+                "groups": [], 
+                "filetype": "gsheet", 
+                "thumb_800_h": 1132, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5M81AWV8-a40fbdf8d4/fill_me_up_pls_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5M81AWV8-a40fbdf8d4/fill_me_up_pls_64.png", 
+                "size": 56844, 
+                "original_h": 1449, 
+                "thumb_360_w": 254, 
+                "title": "Event Resources", 
+                "url_private": "https://docs.google.com/spreadsheets/d/1Ymbh7_mpcOmafpHAIfxb5SMiWdgQRApZG3KiuUKVvAk/edit?usp=sharing", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5M81AWV8-a40fbdf8d4/fill_me_up_pls_360.png", 
+                "id": "F5M81AWV8", 
+                "ims": [], 
+                "thumb_720_w": 509, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5M81AWV8-a40fbdf8d4/fill_me_up_pls_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5M81AWV8-a40fbdf8d4/fill_me_up_pls_800.png", 
+                "timestamp": 1496331908, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5M81AWV8-a40fbdf8d4/fill_me_up_pls_160.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5M81AWV8-a40fbdf8d4/fill_me_up_pls_1024.png", 
+                "user": "U56C28J9J", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5M81AWV8-a40fbdf8d4/fill_me_up_pls_960.png", 
+                "is_public": true, 
+                "pretty_type": "GDocs Spreadsheet", 
+                "name": "Fill me up pls", 
+                "mimetype": "application/vnd.google-apps.spreadsheet", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/rickyboebel/F5M81AWV8/fill_me_up_pls", 
+                "is_external": true, 
+                "created": 1496331908, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 1024, 
+                "thumb_960_w": 678, 
+                "thumb_1024_w": 724, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5M81AWV8-a40fbdf8d4/fill_me_up_pls_720.png"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://docs.google.com/spreadsheets/d/1Lwvj_-tzQgw1nleJql6yk70Fs8CKj8ylDbPADPb-doY/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1496331903.389019"
+        }, 
+        {
+            "username": "jamesvan", 
+            "display_as_bot": false, 
+            "text": "<@U263G1UET|jamesvan> uploaded a file: <https://gstudents.slack.com/files/jamesvan/F5LH62DFA/health-tech-sector-map.jpg|health-tech-sector-map.jpg>", 
+            "upload": true, 
+            "ts": "1496330227.657934", 
+            "subtype": "file_share", 
+            "user": "U263G1UET", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5LH62DFA-2bb79fad2b/health-tech-sector-map_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5LH62DFA-2bb79fad2b/health-tech-sector-map_64.jpg", 
+                "size": 170655, 
+                "original_h": 498, 
+                "thumb_360_w": 360, 
+                "title": "health-tech-sector-map.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5LH62DFA/health-tech-sector-map.jpg", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5LH62DFA-2bb79fad2b/health-tech-sector-map_360.jpg", 
+                "id": "F5LH62DFA", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5LH62DFA-2bb79fad2b/health-tech-sector-map_80.jpg", 
+                "thumb_360_h": 249, 
+                "thumb_480_h": 332, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1496330225, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5LH62DFA-2bb79fad2b/health-tech-sector-map_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5LH62DFA/download/health-tech-sector-map.jpg", 
+                "user": "U263G1UET", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "health-tech-sector-map.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5LH62DFA-27ca2f7dac", 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5LH62DFA/health-tech-sector-map.jpg", 
+                "is_external": false, 
+                "created": 1496330225, 
+                "original_w": 720, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C5A87JAJC"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "jamesvan", 
+            "display_as_bot": false, 
+            "text": "<@U263G1UET|jamesvan> uploaded a file: <https://gstudents.slack.com/files/jamesvan/F5M8URA1J/fintech-ecosystem-diagram.png|fintech-ecosystem-diagram.png>", 
+            "upload": true, 
+            "ts": "1496330225.656992", 
+            "subtype": "file_share", 
+            "user": "U263G1UET", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 600, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5M8URA1J-5d7aad5ffb/fintech-ecosystem-diagram_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5M8URA1J-5d7aad5ffb/fintech-ecosystem-diagram_64.png", 
+                "size": 716468, 
+                "original_h": 1440, 
+                "thumb_360_w": 360, 
+                "title": "fintech-ecosystem-diagram.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5M8URA1J/fintech-ecosystem-diagram.png", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5M8URA1J-5d7aad5ffb/fintech-ecosystem-diagram_360.png", 
+                "id": "F5M8URA1J", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5M8URA1J-5d7aad5ffb/fintech-ecosystem-diagram_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5M8URA1J-5d7aad5ffb/fintech-ecosystem-diagram_800.png", 
+                "timestamp": 1496330221, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5M8URA1J-5d7aad5ffb/fintech-ecosystem-diagram_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5M8URA1J/download/fintech-ecosystem-diagram.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5M8URA1J-5d7aad5ffb/fintech-ecosystem-diagram_1024.png", 
+                "user": "U263G1UET", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5M8URA1J-5d7aad5ffb/fintech-ecosystem-diagram_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "fintech-ecosystem-diagram.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5M8URA1J-108c4b9bdc", 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5M8URA1J/fintech-ecosystem-diagram.png", 
+                "is_external": false, 
+                "created": 1496330221, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 1920, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5M8URA1J-5d7aad5ffb/fintech-ecosystem-diagram_720.png", 
+                "channels": [
+                    "C5A87JAJC"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U263G1UET"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 394184, 
+                    "title": "Here's what you need to land America's best jobs", 
+                    "service_name": "USA TODAY", 
+                    "image_width": 476, 
+                    "title_link": "https://www.usatoday.com/story/tech/news/2017/05/30/heres-what-you-need-land-americas-best-jobs/101730006/", 
+                    "image_height": 250, 
+                    "image_url": "https://www.gannett-cdn.com/-mm-/6d81909f9583676659b5e05fce9844c7388fa7f9/c=0-279-5491-3381&r=x1683&c=3200x1680/local/-/media/2017/05/24/USATODAY/USATODAY/636312531646553198-Galv.jpeg", 
+                    "text": "Degrees and boot camp skills help, but data science workers mainly need passion for parsing numbers.", 
+                    "id": 1, 
+                    "fallback": "USA TODAY: Here's what you need to land America's best jobs", 
+                    "service_icon": "https://www.gannett-cdn.com/sites/usatoday/images/favicon.png", 
+                    "from_url": "https://www.usatoday.com/story/tech/news/2017/05/30/heres-what-you-need-land-americas-best-jobs/101730006/"
+                }
+            ], 
+            "text": "<https://www.usatoday.com/story/tech/news/2017/05/30/heres-what-you-need-land-americas-best-jobs/101730006/>\n\nGood article about the top jobs in America, with 4 of 5 being technical", 
+            "ts": "1496167484.997415", 
+            "user": "U51GZQGG3", 
+            "type": "message"
+        }, 
+        {
+            "text": "This Morning's slide deck: <https://docs.google.com/presentation/d/1Yz_tGtF5EYEQj2uuJzodgF_AwhUG6IGU8iXe_6Fs9fQ/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496161240.698089"
+        }, 
+        {
+            "text": "<https://docs.google.com/spreadsheets/d/1Lwvj_-tzQgw1nleJql6yk70Fs8CKj8ylDbPADPb-doY/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496155210.219338"
+        }, 
+        {
+            "text": "<!channel> Hi Everyone. the following link is a resource sheet. Please use and add to the list if you have more resources!", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1496155206.217927"
+        }, 
+        {
+            "text": "As always, please let me know if you have questions, or get stuck. Please seek me out and I can help you! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495816134.289267"
+        }, 
+        {
+            "text": "1. resume uploaded to career folder\n2. talent profile completed\n3. write up of informational interview\n4. company target list with at least 20 companies\n5. basic information sheet\n6. your rough drafts of blurb and value prop", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495816108.282353"
+        }, 
+        {
+            "text": "<!channel>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495816071.272532"
+        }, 
+        {
+            "text": "Good Morning and Happy Friday everyone! Just a quick reminder that we have some assignments due next Tuesday morning. Here is a list of the homework assignments for career services to date. I will be checking homework for completion. As a reminder, all career services homework is required!", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495816064.270768"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U263G1UET"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 35968, 
+                    "title": "11 technologies developers should explore now", 
+                    "service_name": "InfoWorld", 
+                    "image_width": 375, 
+                    "title_link": "http://www.infoworld.com/article/3191260/application-development/11-technologies-developers-should-explore-now.html", 
+                    "image_height": 250, 
+                    "image_url": "http://images.techhive.com/images/article/2017/03/future_what_is_next-100711982-large.3x2.jpg", 
+                    "text": "From machine learning to digital twins, opportunities abound in emerging (and converging) tech trends", 
+                    "id": 1, 
+                    "fallback": "InfoWorld: 11 technologies developers should explore now", 
+                    "service_icon": "http://idge.staticworld.net/ifw/IFW_logo_social_300x300.png", 
+                    "from_url": "http://www.infoworld.com/article/3191260/application-development/11-technologies-developers-should-explore-now.html"
+                }
+            ], 
+            "text": "<http://www.infoworld.com/article/3191260/application-development/11-technologies-developers-should-explore-now.html>\nInteresting read about the technologies that are \u201cThe Next Big Thing\u201d and what they mean for engineers", 
+            "ts": "1495741990.955687", 
+            "user": "U51GZQGG3", 
+            "type": "message"
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C5A87JAJC", 
+                    "text": "<!channel> : might use Crunchbase to grow your company target lists: can filter by location, size, etc.", 
+                    "author_link": "https://gstudents.slack.com/team/jamesvan", 
+                    "ts": "1495556905.539857", 
+                    "author_name": "James Van", 
+                    "channel_name": "ds_42_careerservices", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "jamesvan", 
+                    "fallback": "[May 23rd, 2017 10:28 AM] jamesvan: <!channel> : might use Crunchbase to grow your company target lists: can filter by location, size, etc.", 
+                    "author_icon": "https://secure.gravatar.com/avatar/c1170d49f558f7e801e11a0b6ddd9654.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0025-48.png", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U263G1UET|jamesvan> pinned a message to this channel.", 
+            "ts": "1495658797.904381", 
+            "subtype": "pinned_item", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C5A87JAJC", 
+                    "text": "<!channel> Link to Greg's slides from this morning: <https://docs.google.com/presentation/d/1bQLXlaGjolOO38TpYj0ahcqNWlWqGVs7iKBI2vxJaQg/edit?usp=sharing>", 
+                    "author_link": "https://gstudents.slack.com/team/jamesvan", 
+                    "ts": "1495488282.303557", 
+                    "author_name": "James Van", 
+                    "channel_name": "ds_42_careerservices", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "jamesvan", 
+                    "fallback": "[May 22nd, 2017 3:24 PM] jamesvan: <!channel> Link to Greg's slides from this morning: <https://docs.google.com/presentation/d/1bQLXlaGjolOO38TpYj0ahcqNWlWqGVs7iKBI2vxJaQg/edit?usp=sharing>", 
+                    "author_icon": "https://secure.gravatar.com/avatar/c1170d49f558f7e801e11a0b6ddd9654.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0025-48.png", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U263G1UET|jamesvan> pinned a message to this channel.", 
+            "ts": "1495658725.883853", 
+            "subtype": "pinned_item", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C5A87JAJC", 
+                    "text": "Greg\u2019s talk on youtube:\n<https://www.youtube.com/watch?v=3BRLGRqj8ps>", 
+                    "author_link": "https://gstudents.slack.com/team/j", 
+                    "ts": "1495470423.590719", 
+                    "author_name": "Jon \ud83c\udd96", 
+                    "channel_name": "ds_42_careerservices", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "j", 
+                    "fallback": "[May 22nd, 2017 10:27 AM] j: Greg\u2019s talk on youtube:\n<https://www.youtube.com/watch?v=3BRLGRqj8ps>", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-04-24/173841470082_e13216b6f4afbf5c1e28_48.jpg", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U263G1UET|jamesvan> pinned a message to this channel.", 
+            "ts": "1495658713.880406", 
+            "subtype": "pinned_item", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "item": {
+                "filetype": "docx", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5E3J7K6D", 
+                "size": 23663, 
+                "title": "DSIExampleResume3.docx", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5E3J7K6D/dsiexampleresume3.docx", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495034717, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5E3J7K6D/download/dsiexampleresume3.docx", 
+                "user": "U263G1UET", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Word Document", 
+                "name": "DSIExampleResume3.docx", 
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5E3J7K6D-0dfbe8f01b", 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5E3J7K6D/dsiexampleresume3.docx", 
+                "is_external": false, 
+                "created": 1495034717, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "text": "<@U263G1UET|jamesvan> pinned their Word Document <https://gstudents.slack.com/files/jamesvan/F5E3J7K6D/dsiexampleresume3.docx|DSIExampleResume3.docx> to this channel.", 
+            "ts": "1495658696.875295", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "item": {
+                "filetype": "docx", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5EP0JRN1", 
+                "size": 22953, 
+                "title": "DSIExampleResume2.docx", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5EP0JRN1/dsiexampleresume2.docx", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495034710, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5EP0JRN1/download/dsiexampleresume2.docx", 
+                "user": "U263G1UET", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Word Document", 
+                "name": "DSIExampleResume2.docx", 
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5EP0JRN1-8dd091495e", 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5EP0JRN1/dsiexampleresume2.docx", 
+                "is_external": false, 
+                "created": 1495034710, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "text": "<@U263G1UET|jamesvan> pinned their Word Document <https://gstudents.slack.com/files/jamesvan/F5EP0JRN1/dsiexampleresume2.docx|DSIExampleResume2.docx> to this channel.", 
+            "ts": "1495658686.872584", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "item": {
+                "filetype": "docx", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5EMNJWUC", 
+                "size": 170062, 
+                "title": "DSIExampleREsume.docx", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5EMNJWUC/dsiexampleresume.docx", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495034702, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5EMNJWUC/download/dsiexampleresume.docx", 
+                "user": "U263G1UET", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Word Document", 
+                "name": "DSIExampleREsume.docx", 
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5EMNJWUC-1536d79eac", 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5EMNJWUC/dsiexampleresume.docx", 
+                "is_external": false, 
+                "created": 1495034702, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "text": "<@U263G1UET|jamesvan> pinned their Word Document <https://gstudents.slack.com/files/jamesvan/F5EMNJWUC/dsiexampleresume.docx|DSIExampleREsume.docx> to this channel.", 
+            "ts": "1495658678.870445", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C5A87JAJC", 
+                    "text": "<!channel> Posting today's slide deck on resumes for you to review. We will pick up Resumes where we left off.", 
+                    "author_link": "https://gstudents.slack.com/team/jamesvan", 
+                    "ts": "1494951387.053473", 
+                    "author_name": "James Van", 
+                    "channel_name": "ds_42_careerservices", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "jamesvan", 
+                    "fallback": "[May 16th, 2017 10:16 AM] jamesvan: <!channel> Posting today's slide deck on resumes for you to review. We will pick up Resumes where we left off.", 
+                    "author_icon": "https://secure.gravatar.com/avatar/c1170d49f558f7e801e11a0b6ddd9654.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0025-48.png", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U263G1UET|jamesvan> pinned a message to this channel.", 
+            "ts": "1495658667.867346", 
+            "subtype": "pinned_item", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C5A87JAJC", 
+                    "text": "Informational Interview Form: <https://docs.google.com/document/d/1tTJKdKOIGCWHRJiOMj3zwuV0mq4wjIuwh-e3woB-AcE/edit?usp=sharing>", 
+                    "author_link": "https://gstudents.slack.com/team/jamesvan", 
+                    "ts": "1494868176.804835", 
+                    "author_name": "James Van", 
+                    "channel_name": "ds_42_careerservices", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "jamesvan", 
+                    "fallback": "[May 15th, 2017 11:09 AM] jamesvan: Informational Interview Form: <https://docs.google.com/document/d/1tTJKdKOIGCWHRJiOMj3zwuV0mq4wjIuwh-e3woB-AcE/edit?usp=sharing>", 
+                    "author_icon": "https://secure.gravatar.com/avatar/c1170d49f558f7e801e11a0b6ddd9654.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0025-48.png", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U263G1UET|jamesvan> pinned a message to this channel.", 
+            "ts": "1495658656.864334", 
+            "subtype": "pinned_item", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1UBYJQM6|moses.marsh> has joined the channel", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1495650951.665701", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<!channel> Value Prop Exercise: Please save a copy to your laptop to work on in class. Rough draft is due in your career folder by next Tuesday. <https://docs.google.com/document/d/1wTUUA59lKmIrktbtkJFtdAOPnJCOxHQoLUgGVDlJ_GU/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495639592.065054"
+        }, 
+        {
+            "text": "<!channel> Food for thought: <https://engineering.linkedin.com/blog/2017/03/announcing-the-economic-graph-research-program>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495636531.990526", 
+            "attachments": [
+                {
+                    "image_bytes": 290649, 
+                    "title": "Announcing the Economic Graph Research Program", 
+                    "text": "Roughly two years ago, we launched an ambitious project called the Economic Graph Challenge (EGC). The idea was simple: There are approximately 3 billion people in the global workforce, and LinkedIn's vision is to create economic opportunity for every one of them. By mapping economic relationships, developing the world's first Economic Graph, we can make that vision a reality. While it is easy to explain the vision, realizing it is extremely difficult. It is hard to imagine that those of us at LinkedIn could do it alone, so we decided to reach out to all of the brilliant minds in the world who shared our passion and wanted to work together to solve one of the most difficult problems of our times.", 
+                    "image_width": 540, 
+                    "title_link": "https://engineering.linkedin.com/blog/2017/03/announcing-the-economic-graph-research-program", 
+                    "image_height": 236, 
+                    "image_url": "https://engineering.linkedin.com/content/dam/engineering/site-assets/images/blog/posts/2017/03/EGR-Banner-Small.png", 
+                    "service_name": "LinkedIn", 
+                    "id": 1, 
+                    "fallback": "Announcing the Economic Graph Research Program", 
+                    "service_icon": "http://static.licdn.com/scds/common/u/img/icon/apple-touch-icon.png", 
+                    "from_url": "https://engineering.linkedin.com/blog/2017/03/announcing-the-economic-graph-research-program"
+                }
+            ]
+        }, 
+        {
+            "text": "A quick reminder, the resume you upload to your career folder does not need to be perfect, just incorporating some of the changes we talked about last week. I will provide feedback on your resume once I see it in the career folder. We will also continue to improve them in class.", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495559815.426008"
+        }, 
+        {
+            "text": "<https://www.crunchbase.com/app/search/companies>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495556942.551359"
+        }, 
+        {
+            "text": "<https://www.crunchbase.com/app/search/companies/64e9ef5dd9ed4eaad32dc42e6dced9d86f469f3f>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495556909.541229"
+        }, 
+        {
+            "text": "<!channel> : might use Crunchbase to grow your company target lists: can filter by location, size, etc.", 
+            "pinned_to": [
+                "C5A87JAJC"
+            ], 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495556905.539857"
+        }, 
+        {
+            "text": "Value Prop Exercise: <https://docs.google.com/presentation/d/1kZg9n1KMzEyKMhVftzC5IYYcMGDzrncDMukxASxd2B8/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495555135.960653"
+        }, 
+        {
+            "text": "<!channel> Link to Greg's slides from this morning: <https://docs.google.com/presentation/d/1bQLXlaGjolOO38TpYj0ahcqNWlWqGVs7iKBI2vxJaQg/edit?usp=sharing>", 
+            "pinned_to": [
+                "C5A87JAJC"
+            ], 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495488282.303557"
+        }, 
+        {
+            "text": "<!channel> Office hours start now, go until 2pm today. I am in the 2nd floor nook next to the stairs :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495480255.309063"
+        }, 
+        {
+            "text": "If anyone wants some extra feedback or an extra pair of eyes on your resume before submitting to James, I\u2019d be happy to sit down with you and look over your resume and give some feedback, even if it\u2019s not complete. Just ping me :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U54DGL631", 
+            "ts": "1495474434.713574"
+        }, 
+        {
+            "text": "<!channel> Will have my open office hours today from 12-2pm. I will make an announcement where I am once I find a spot! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495474075.612371"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U263G1UET"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://fst.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/channel/UC6CFuXHLJQ_30gOxUTEFj_g", 
+                    "service_name": "YouTube", 
+                    "title": "Lessons Learned the Hard Way: Hacking the Data Science Interview", 
+                    "video_html_height": 225, 
+                    "author_name": "Galvanize", 
+                    "title_link": "https://www.youtube.com/watch?v=3BRLGRqj8ps", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/3BRLGRqj8ps?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Lessons Learned the Hard Way: Hacking the Data Science Interview", 
+                    "thumb_url": "https://i.ytimg.com/vi/3BRLGRqj8ps/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=3BRLGRqj8ps"
+                }
+            ], 
+            "text": "Greg\u2019s talk on youtube:\n<https://www.youtube.com/watch?v=3BRLGRqj8ps>", 
+            "ts": "1495470423.590719", 
+            "pinned_to": [
+                "C5A87JAJC"
+            ], 
+            "user": "U54DGL631", 
+            "type": "message"
+        }, 
+        {
+            "text": "<https://www.linkedin.com/in/gregkamradt/>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495465593.078901"
+        }, 
+        {
+            "text": "Good morning everyone! Here is the Linkedin profile of our speaker this morning:", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495465589.077598"
+        }, 
+        {
+            "text": "Career Services Homework Due By Next Tuesday:\nFind interesting article related to Data Science: like and Re-Tweet\nStart Company Target Lists: 20 target companies (1st tab on career development tracker. Link to Google Doc: <https://docs.google.com/spreadsheets/d/1ZJ60V_1CyEtRnoQznT3nXG6eNAeYUMUvolRtOEmul1M/edit?usp=sharingWrite-up> of first informational interview due next Tuesday morning--write up in your career folder\nUpload your current resume in your career folder\nReminder: Follow 10 influencers on LI\nReminder: Complete Blurb/Summary of yourself on Talent\nReminder: Attend event and write up in career folder", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495124628.198615"
+        }, 
+        {
+            "text": "An interesting event tomorrow evening for anyone that can make it down to Palo Alto: hiring event for Houzz--a few of the team members will be there to talk about working in DS there. <https://www.eventbrite.com/e/career-in-data-analytics-tickets-34342745075?aff=es2>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495120310.722596"
+        }, 
+        {
+            "text": "<https://docs.google.com/presentation/d/1ON3WnVV93MjjfLgLYfIc88-z90l2VmgxOyR_slFBpqY/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495037147.374185"
+        }, 
+        {
+            "text": "Resume slide deck:", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1495037141.372534"
+        }, 
+        {
+            "username": "jamesvan", 
+            "display_as_bot": false, 
+            "text": "<@U263G1UET|jamesvan> uploaded a file: <https://gstudents.slack.com/files/jamesvan/F5E3J7K6D/dsiexampleresume3.docx|DSIExampleResume3.docx>", 
+            "upload": true, 
+            "ts": "1495034721.527815", 
+            "subtype": "file_share", 
+            "user": "U263G1UET", 
+            "file": {
+                "filetype": "docx", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5E3J7K6D", 
+                "size": 23663, 
+                "title": "DSIExampleResume3.docx", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5E3J7K6D/dsiexampleresume3.docx", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495034717, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5E3J7K6D/download/dsiexampleresume3.docx", 
+                "user": "U263G1UET", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Word Document", 
+                "name": "DSIExampleResume3.docx", 
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5E3J7K6D-0dfbe8f01b", 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5E3J7K6D/dsiexampleresume3.docx", 
+                "is_external": false, 
+                "created": 1495034717, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "jamesvan", 
+            "display_as_bot": false, 
+            "text": "<@U263G1UET|jamesvan> uploaded a file: <https://gstudents.slack.com/files/jamesvan/F5EP0JRN1/dsiexampleresume2.docx|DSIExampleResume2.docx>", 
+            "upload": true, 
+            "ts": "1495034715.525452", 
+            "subtype": "file_share", 
+            "user": "U263G1UET", 
+            "file": {
+                "filetype": "docx", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5EP0JRN1", 
+                "size": 22953, 
+                "title": "DSIExampleResume2.docx", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5EP0JRN1/dsiexampleresume2.docx", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495034710, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5EP0JRN1/download/dsiexampleresume2.docx", 
+                "user": "U263G1UET", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Word Document", 
+                "name": "DSIExampleResume2.docx", 
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5EP0JRN1-8dd091495e", 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5EP0JRN1/dsiexampleresume2.docx", 
+                "is_external": false, 
+                "created": 1495034710, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "jamesvan", 
+            "display_as_bot": false, 
+            "text": "<@U263G1UET|jamesvan> uploaded a file: <https://gstudents.slack.com/files/jamesvan/F5EMNJWUC/dsiexampleresume.docx|DSIExampleREsume.docx>", 
+            "upload": true, 
+            "ts": "1495034709.523505", 
+            "subtype": "file_share", 
+            "user": "U263G1UET", 
+            "file": {
+                "filetype": "docx", 
+                "channels": [
+                    "C5A87JAJC"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5EMNJWUC", 
+                "size": 170062, 
+                "title": "DSIExampleREsume.docx", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5EMNJWUC/dsiexampleresume.docx", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495034702, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5EMNJWUC/download/dsiexampleresume.docx", 
+                "user": "U263G1UET", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Word Document", 
+                "name": "DSIExampleREsume.docx", 
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5EMNJWUC-1536d79eac", 
+                "permalink": "https://gstudents.slack.com/files/jamesvan/F5EMNJWUC/dsiexampleresume.docx", 
+                "is_external": false, 
+                "created": 1495034702, 
+                "pinned_to": [
+                    "C5A87JAJC"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://docs.google.com/presentation/d/1ON3WnVV93MjjfLgLYfIc88-z90l2VmgxOyR_slFBpqY/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494951392.055011"
+        }, 
+        {
+            "text": "<!channel> Posting today's slide deck on resumes for you to review. We will pick up Resumes where we left off.", 
+            "pinned_to": [
+                "C5A87JAJC"
+            ], 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494951387.053473"
+        }, 
+        {
+            "text": "<!channel> A quick thought about informational interviewing: remember that people like to talk about themselves. Ask a lot of good questions, and let the other person do most of the talking. I look forward to reading and hearing about your encounters with interesting people. As always, please reach out with questions and/or challenges.", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494951191.991065"
+        }, 
+        {
+            "text": "<!channel> starting my 12-2pm office hours: 2nd floor nook next to the stairs! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494873985.505673"
+        }, 
+        {
+            "edited": {
+                "user": "U263G1UET", 
+                "ts": "1495658648.000000"
+            }, 
+            "text": "Informational Interview Form: <https://docs.google.com/document/d/1tTJKdKOIGCWHRJiOMj3zwuV0mq4wjIuwh-e3woB-AcE/edit?usp=sharing>", 
+            "ts": "1494868176.804835", 
+            "pinned_to": [
+                "C5A87JAJC"
+            ], 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "text": "<!channel> made a few changes to the informational interview form. please use this one going forward. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494868171.803557"
+        }, 
+        {
+            "text": "<!channel> Reminder that I will have open office hours from 12-2pm today. I will be sitting in the small nook on the 2nd floor next to the stairs.", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494864213.616474"
+        }, 
+        {
+            "text": "Here is the website for the free email signature generator in case any of you want it. It will put a small advertisment on the bottom of the signature unless you upgrade to premium. The signatures look pretty good and they have a lot of icons you can link to various accounts such as linkedin, twitter, github, etc. You link it to your gmail in chrome with an extension. Let me know if you guys have any questions.\n\n<https://www.wisestamp.com/>", 
+            "type": "message", 
+            "user": "U51GZQGG3", 
+            "ts": "1494862880.171745", 
+            "attachments": [
+                {
+                    "thumb_height": 439, 
+                    "service_icon": "https://www.wisestamp.com/favicon.ico", 
+                    "thumb_width": 656, 
+                    "title": "WiseStamp Email Signatures - Create Your Professional Email Signature Templates", 
+                    "text": "Close More Sales, Grow Your Followers, and Leave a Lasting Impression With WiseStamp Email Signatures. Design &amp;\u00a0Create Your Free Email Signature Today!", 
+                    "title_link": "https://www.wisestamp.com/", 
+                    "service_name": "wisestamp.com", 
+                    "id": 1, 
+                    "fallback": "WiseStamp Email Signatures - Create Your Professional Email Signature Templates", 
+                    "thumb_url": "http://lnd.wisestamp.com/images/og-img.jpg", 
+                    "from_url": "https://www.wisestamp.com/"
+                }
+            ]
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C5A87JAJC", 
+                    "text": "Happy Friday DS 42! Great to learn a little more about each of you yesterday. Going forward I will host office hours every Monday from 12-2pm, and Wednesdays from 4:30-5:30pm. I don't have an office, but I will make an announcement of where I will be sitting each day! :slightly_smiling_face:", 
+                    "author_link": "https://gstudents.slack.com/team/jamesvan", 
+                    "ts": "1494604433.986046", 
+                    "author_name": "James Van", 
+                    "channel_name": "ds_42_careerservices", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "jamesvan", 
+                    "fallback": "[May 12th, 2017 9:53 AM] jamesvan: Happy Friday DS 42! Great to learn a little more about each of you yesterday. Going forward I will host office hours every Monday from 12-2pm, and Wednesdays from 4:30-5:30pm. I don't have an office, but I will make an announcement of where I will be sitting each day! :slightly_smiling_face:", 
+                    "author_icon": "https://secure.gravatar.com/avatar/c1170d49f558f7e801e11a0b6ddd9654.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0025-48.png", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U263G1UET|jamesvan> pinned a message to this channel.", 
+            "ts": "1494604546.020955", 
+            "subtype": "pinned_item", 
+            "user": "U263G1UET", 
+            "type": "message"
+        }, 
+        {
+            "text": "<!channel> Also, please let me know if you would like for me to read your email invites to info interviews. As a reminder, please send emails directly to the recipient's work email :slightly_smiling_face: I look forward to hearing about many interesting conversations.", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494604508.009557"
+        }, 
+        {
+            "text": "Happy Friday DS 42! Great to learn a little more about each of you yesterday. Going forward I will host office hours every Monday from 12-2pm, and Wednesdays from 4:30-5:30pm. I don't have an office, but I will make an announcement of where I will be sitting each day! :slightly_smiling_face:", 
+            "pinned_to": [
+                "C5A87JAJC"
+            ], 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494604433.986046"
+        }, 
+        {
+            "text": "Info Interview Sheet: <https://docs.google.com/document/d/1tTJKdKOIGCWHRJiOMj3zwuV0mq4wjIuwh-e3woB-AcE/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494516166.840380"
+        }, 
+        {
+            "text": "Weekly DS newsletter: <https://www.datascienceweekly.org/>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494514836.372843", 
+            "attachments": [
+                {
+                    "thumb_height": 253, 
+                    "thumb_width": 319, 
+                    "title": "Data Science Weekly Newsletter | DataScienceWeekly.org", 
+                    "service_name": "DataScienceWeekly.org", 
+                    "title_link": "https://www.datascienceweekly.org/", 
+                    "text": "Data Science Weekly Newsletter: A free weekly newsletter featuring curated news, articles and jobs related to Data Science.", 
+                    "id": 1, 
+                    "fallback": "DataScienceWeekly.org: Data Science Weekly Newsletter | DataScienceWeekly.org", 
+                    "thumb_url": "https://www.datascienceweekly.org/assets/data-science-weekly-newsletter-logo_319x253-8dad83dd8d1826471c141022610871a9.png", 
+                    "from_url": "https://www.datascienceweekly.org/"
+                }
+            ]
+        }, 
+        {
+            "text": "Google now includes events in mobile search: <https://techcrunch.com/2017/05/10/google-search-will-now-help-you-find-nearby-events/>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494437874.256206", 
+            "attachments": [
+                {
+                    "thumb_height": 150, 
+                    "service_icon": "https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico", 
+                    "thumb_width": 150, 
+                    "title": "Google Search will now help you find nearby\u00a0events", 
+                    "service_name": "TechCrunch", 
+                    "author_name": "Sarah Perez", 
+                    "title_link": "https://techcrunch.com/2017/05/10/google-search-will-now-help-you-find-nearby-events/", 
+                    "service_url": "http://techcrunch.com", 
+                    "text": "Google today is updating its app and mobile web experience in the U.S. to help web searchers more easily find things to do &ndash; like concerts, art exhibits, lectures, festivals, meetups, sporting events, and more &ndash; which are happening nearby, either now or in the future.\nThe company says it&rsquo;s rolling out this new feature now because it sees millions of daily search queries related to finding local events and activities.\nHowever, what&rsquo;s left unsaid is that the public events space is something Facebook has grown to dominate &ndash; 100 million people use the feature daily, as of last fall, and 650 million use it across Facebook. Facebook Page owners often keep a running list of their upcoming events, which Facebook users can subscribe to, mark as interested in attending, or click to indicate&nbsp;they&rsquo;re going. Event activity then populates back to the News Feed, giving the events the potential to virally spread among users&rsquo; friends. Facebook even offers its own standalone Events app.\nIn addition, users also&nbsp;often turn to ticket sellers&rsquo; apps over web searches when looking to buy tickets to&nbsp;concerts or other sporting events &ndash; again, cutting Google out of the equation.\nGoogle&rsquo;s answer to these ongoing threats is to do what it does best: organize information and make it more easily accessible.\nThe company&nbsp;has worked with a number of event-related sites to make their content eligible to display in Google Search. The events will appear when users type in a related query, like &ldquo;jazz concerts in Austin&rdquo;&nbsp;or &ldquo;art events this weekend.&rdquo;\n\n&nbsp;\nAt launch, Google has pulled in data from Eventbrite, Ticketmaster, Meetup, Vividseats, Jambase, LiveNation, Burbio, , , StubHub, Bandsintown, Yext and Eventful. This list of supported sites will expand in time, Google says, and it has also created developer guidelines for anyone else who wants to make sure their own event listings are surfaced in a similar way through Google Search.\nIn the updated search experience, you&rsquo;ll be able to see the details about each event at glance &ndash; like its title, date, time, and location. You can also tap on &ldquo;more events&rdquo; to be taken to a screen with an expanded list of suggestions. When you find one you like, you can click through to buy tickets from the website directly.\nWhile Google is certainly giving these local events more exposure, the ultimate goal is to keep mobile users on Google, instead of other apps. The company&nbsp;hasn&rsquo;t officially partnered with any of the event sites, nor is it taking commission on ticket sales facilitated through its search engine.\n\nUsers will be able to use the new events listing like a weekly activity planner, too. You can tap on options like &ldquo;today,&rdquo; &ldquo;tomorrow,&rdquo; &ldquo;this weekend,&rdquo; &ldquo;next week&rdquo; and &ldquo;next weekend,&rdquo; in order to see which&nbsp;events are happening when.\nBeyond searching for a specific type of activity on Google, you can also trigger the events results to appear by typing in &ldquo;events near me&rdquo; into search.\nThe new feature is available starting today in the U.S. on mobile web and the Google app for both iOS and Android devices. Google does not yet have plans for an international expansion.\n&nbsp;", 
+                    "id": 1, 
+                    "fallback": "TechCrunch Link: Google Search will now help you find nearby&nbsp;events", 
+                    "thumb_url": "https://i0.wp.com/tctechcrunch2011.files.wordpress.com/2017/05/rendering-events-1.jpg?fit=200%2C150&ssl=1", 
+                    "from_url": "https://techcrunch.com/2017/05/10/google-search-will-now-help-you-find-nearby-events/"
+                }
+            ]
+        }, 
+        {
+            "text": "today's short slide deck. you can find examples of reach out emails in your workbook. <https://docs.google.com/presentation/d/1MwIwQ6LODdrvgehG8eDI_PE6_tKU4N0AhO7ZzZPxe64/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494432404.588670"
+        }, 
+        {
+            "text": "Lol", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1494432352.571488"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "stuck_out_tongue_winking_eye", 
+                    "users": [
+                        "U263G1UET"
+                    ]
+                }
+            ], 
+            "text": "Sorry Aamir, we have locked the doors already. James specifically singled you out for being late.", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1494430480.927830"
+        }, 
+        {
+            "text": "Good morning James, I'm running a little behind this morning. Sorry. Be there in 7 min", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1494430357.885391"
+        }, 
+        {
+            "text": "<@U55MBF5NU|chris.duzen> has joined the channel", 
+            "ts": "1494430222.836246", 
+            "subtype": "channel_join", 
+            "user": "U55MBF5NU", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U54DGL631|j> has joined the channel", 
+            "type": "message", 
+            "user": "U54DGL631", 
+            "ts": "1494430201.828600", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Clearbit email extension: <https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494429789.684485", 
+            "attachments": [
+                {
+                    "thumb_height": 128, 
+                    "service_icon": "https://www.google.com/images/icons/product/chrome_web_store-32.png", 
+                    "thumb_width": 128, 
+                    "title": "Clearbit Connect - Supercharge Gmail\u2122", 
+                    "text": "Find employee email addresses for any company and display useful contextual data for anyone who emails you.", 
+                    "title_link": "https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en", 
+                    "service_name": "chrome.google.com", 
+                    "id": 1, 
+                    "fallback": "Clearbit Connect - Supercharge Gmail\u2122", 
+                    "thumb_url": "https://lh3.googleusercontent.com/n2wC1RnhGsfzdZOdNr6-WZxc0_x0FNGWSibDZzgG_p8Cmwx5rwiiEdB0947PhjzogS_lpiFB9EA", 
+                    "from_url": "https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en"
+                }
+            ]
+        }, 
+        {
+            "text": "career buddy pairs sign up list: <https://docs.google.com/spreadsheets/d/1nPPfAjjogibPKpjMCd3rSomW9mpIvEEDT5LXwuDv7Mg/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494429465.572071"
+        }, 
+        {
+            "text": "Copy of job search workbook: <https://docs.google.com/document/d/1USQLMV_re-tNlMlRULPU15TXtEIKXED3uCcsB_vj0i8/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494429368.539337"
+        }, 
+        {
+            "text": "<!channel> : Homework for career services listed in slide posted above ^^^", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494429070.435225"
+        }, 
+        {
+            "text": "<https://docs.google.com/presentation/d/1ECQ-sdFC2iS7iH65ZyfUIAGYHUGRPq5uG8-nAL-z524/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494429047.427021"
+        }, 
+        {
+            "text": "<@U53KQ5SNN|thomas_young> has joined the channel", 
+            "ts": "1494350381.729284", 
+            "subtype": "channel_join", 
+            "user": "U53KQ5SNN", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U513HN1GC|pranati_sahu> has joined the channel", 
+            "ts": "1494350381.729241", 
+            "subtype": "channel_join", 
+            "user": "U513HN1GC", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U529S4W87|winston_lin> has joined the channel", 
+            "ts": "1494350381.729234", 
+            "subtype": "channel_join", 
+            "user": "U529S4W87", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U55TMUV8F|mariodiazdelarosa> has joined the channel", 
+            "ts": "1494350380.729173", 
+            "subtype": "channel_join", 
+            "user": "U55TMUV8F", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U51G3PN5R|wenqicheng> has joined the channel", 
+            "ts": "1494350380.729153", 
+            "subtype": "channel_join", 
+            "user": "U51G3PN5R", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U51ML44RE|cheungwz> has joined the channel", 
+            "ts": "1494350380.729116", 
+            "subtype": "channel_join", 
+            "user": "U51ML44RE", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U46UHKQL9|icvarkovic> has joined the channel", 
+            "ts": "1494350380.729090", 
+            "subtype": "channel_join", 
+            "user": "U46UHKQL9", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U53RDP1PD|goyosoyo> has joined the channel", 
+            "ts": "1494350380.729063", 
+            "subtype": "channel_join", 
+            "user": "U53RDP1PD", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U50817LQY|joyzeng> has joined the channel", 
+            "ts": "1494350380.729034", 
+            "subtype": "channel_join", 
+            "user": "U50817LQY", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U56C28J9J|rickyboebel> has joined the channel", 
+            "ts": "1494350380.729021", 
+            "subtype": "channel_join", 
+            "user": "U56C28J9J", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U51NEURRU|ernestpicato> has joined the channel", 
+            "ts": "1494350380.728950", 
+            "subtype": "channel_join", 
+            "user": "U51NEURRU", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U4A8U2U90|chris_q> has joined the channel", 
+            "ts": "1494350380.728934", 
+            "subtype": "channel_join", 
+            "user": "U4A8U2U90", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U51GZQGG3|daniellund14> has joined the channel", 
+            "ts": "1494350380.728923", 
+            "subtype": "channel_join", 
+            "user": "U51GZQGG3", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U511HKHJ9|kralc000> has joined the channel", 
+            "ts": "1494350380.728890", 
+            "subtype": "channel_join", 
+            "user": "U511HKHJ9", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U50QM0RQ8|drew.erickson> has joined the channel", 
+            "ts": "1494350380.728884", 
+            "subtype": "channel_join", 
+            "user": "U50QM0RQ8", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U51QAMN6A|aamir7117> has joined the channel", 
+            "ts": "1494350379.728779", 
+            "subtype": "channel_join", 
+            "user": "U51QAMN6A", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U263G1UET|jamesvan> set the channel purpose: Career Services Slack Channel For SFDS 42", 
+            "ts": "1494350379.728775", 
+            "subtype": "channel_purpose", 
+            "user": "U263G1UET", 
+            "type": "message", 
+            "purpose": "Career Services Slack Channel For SFDS 42"
+        }, 
+        {
+            "text": "<@U542N7J3H|bcline> has joined the channel", 
+            "ts": "1494350379.728771", 
+            "subtype": "channel_join", 
+            "user": "U542N7J3H", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U4DQ83RTN|sandimihaylova> has joined the channel", 
+            "ts": "1494350379.728712", 
+            "subtype": "channel_join", 
+            "user": "U4DQ83RTN", 
+            "type": "message", 
+            "inviter": "U263G1UET"
+        }, 
+        {
+            "text": "<@U263G1UET|jamesvan> has joined the channel", 
+            "type": "message", 
+            "user": "U263G1UET", 
+            "ts": "1494350378.728530", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "ds_42_careerservices", 
+        "name": "ds_42_careerservices", 
+        "is_channel": true, 
+        "created": 1494350378, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U263G1UET", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1494350379, 
+            "value": "Career Services Slack Channel For SFDS 42", 
+            "creator": "U263G1UET"
+        }, 
+        "members": [
+            "U1UBYJQM6", 
+            "U263G1UET", 
+            "U3F1AHRHT", 
+            "U46UHKQL9", 
+            "U4A8U2U90", 
+            "U4DQ83RTN", 
+            "U50817LQY", 
+            "U50QM0RQ8", 
+            "U511HKHJ9", 
+            "U513HN1GC", 
+            "U51G3PN5R", 
+            "U51GZQGG3", 
+            "U51ML44RE", 
+            "U51NEURRU", 
+            "U51QAMN6A", 
+            "U529S4W87", 
+            "U53KQ5SNN", 
+            "U53RDP1PD", 
+            "U542N7J3H", 
+            "U54DGL631", 
+            "U55MBF5NU", 
+            "U55TMUV8F", 
+            "U56C28J9J"
+        ], 
+        "id": "C5A87JAJC", 
+        "is_shared": false
+    }
+}

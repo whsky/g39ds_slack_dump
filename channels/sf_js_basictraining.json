@@ -1,0 +1,477 @@
+{
+    "messages": [
+        {
+            "text": "Glad to hear it :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1497459254.883438"
+        }, 
+        {
+            "text": "<@U1UCBDAMN> Thanks for the update. Looks like the LMS content I was looking at was HTML/CSS For Beginners\u2026 seemingly a different thing from the pre-course content. Got it all squared away now and the LMS content matches the work I did on the Github repo. Thanks!", 
+            "type": "message", 
+            "user": "U5FFHLRHP", 
+            "ts": "1497400827.790364"
+        }, 
+        {
+            "text": "<@U5FFHLRHP> thanks again for your patience on this matter. For 1: Yes, the precourse github repo completely overlaps with what you'll encounter in our LMS. In fact, the github repo largely powers the LMS content. \n\nfor 2, it depends a little bit, but typically you're added to the read-allowed list of students after you sign your contract. If that describes your situation then I would email the admissions officer that you've been in contact with and ask them to grant you access to the precourse work. your problem sounds a little more unique than that... \n\nAm I correct in saying that you've been added to the LMS and can see some of the precourse work, but cannot download files that are linked within the LMS precourse?", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1497398301.427929"
+        }, 
+        {
+            "text": "Thanks for the intro <@U3Z1PUBB2>.\n\nHello everyone! I'm really excited to be leading the next Web Development Immersive cohort at Galvanize SF.\n\nI have 17+ years of software engineering experience, a CS degree from MIT, and I have been a Chief Software Architect and CTO for many companies in SF/Silicon Valley (from up-and-coming startups to established corporations). I'm looking forward to sharing all of the skills, experience, wisdom and best practices I've developed over 2 decades with my students.", 
+            "type": "message", 
+            "user": "U59LA2656", 
+            "ts": "1497305044.837851"
+        }, 
+        {
+            "text": "Thanks for your patience :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1497303287.395975"
+        }, 
+        {
+            "text": "<@U5FFHLRHP> I am getting the answers to your questions -- they involve some people outside of instruction, so it may take a bit longer.", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1497303271.391512"
+        }, 
+        {
+            "text": "<@U59LA2656|nestor> has joined the channel", 
+            "ts": "1497296919.331752", 
+            "subtype": "channel_join", 
+            "user": "U59LA2656", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "And here's another one of our Lead Instructors (actually leading this upcoming July cohort), Nestor Toro. <@U59LA2656> please say hi and introduce yourself.", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1497296916.330598"
+        }, 
+        {
+            "text": "Thanks for the all-day Basic JS workshop. Super helpful and much appreciated!\n \nJust two quick questions about the pre-course web development work:\n\n1 - I see pre-course work on both the Learn LMS and in the Git repo that was linked to in the welcome email. Do they overlap? Or if not, should one be completed before the other?\n \n2 - On the Learn LMS side of things, there are a number of activities that require downloading files\u2026 but the links take me to a 404 page on Github. Is this an issue with the links, or is it still too early to have access to those files. Here\u2019s an example of one of the links: <https://github.com/gSchool/workshop-web-design-basics/blob/master/04-Github-Basics/2-Github-Setup/projects/pizza.zip?raw=true> (FYI, I\u2019ve accepted my invite to the Galvanize SFDC inc. on Github)", 
+            "type": "message", 
+            "user": "U5FFHLRHP", 
+            "ts": "1497277409.133474"
+        }, 
+        {
+            "text": "<@U1V8JJSF6|pamela> has joined the channel", 
+            "type": "message", 
+            "user": "U1V8JJSF6", 
+            "ts": "1496769854.547120", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Happy to be here. I'm looking forward to hearing from any/all of you and fielding your questions as you begin to explore programming and web development! :smile:", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1496429919.236323"
+        }, 
+        {
+            "text": "<@U4B699Z7D|caroline> has joined the channel", 
+            "type": "message", 
+            "user": "U4B699Z7D", 
+            "ts": "1496429538.110443", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1UCBDAMN|teb> has joined the channel", 
+            "ts": "1496428839.881275", 
+            "subtype": "channel_join", 
+            "user": "U1UCBDAMN", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<!channel>, also here to support you in your work is the Galvanize Web Development Immersive Principle Lead Instructor Tyler Bettilyon. Welcome to the channel <@U1UCBDAMN>!", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1496428835.880152"
+        }, 
+        {
+            "text": "<!channel> Thanks so much for your attentive participation in the basic training a couple Saturdays ago. It was great to meet you all and learn more about how you think.\n\nI went on vacation following the basic training so have been away, but now that I am back I would like to reestablish some connection with any of you who are interested in continuing the path to learning to become a web developer via the Galvanize Web Development Immersive.\n\nIf you have any questions about any of the problems or concepts that you are working through, please reach out to me on this channel and I will be more than happy to help. Because I am also teaching here at Galvanize currently, you may find my responses to take up to a business day, but at other times you will find me very fast to respond.\n\nAlso, I hope that conversations amongst all of you on this channel will ensue when questions are posed. Many of you will be cohort mates and colleagues together, so there is no reason to not start working together, which is what tech is really all about anyhow.", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1496345878.355589"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> has left the channel", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1496257370.836285", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "Which library or framework is the best: Angular vs React vs Vue? <https://www.youtube.com/watch?v=KMX1mFEmM3E>", 
+            "type": "message", 
+            "user": "U5F48RHDW", 
+            "ts": "1495457239.657179", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://fst.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w", 
+                    "service_name": "YouTube", 
+                    "title": "Angular vs React.js vs Vue.js - My Thoughts!", 
+                    "video_html_height": 225, 
+                    "author_name": "Mindspace", 
+                    "title_link": "https://www.youtube.com/watch?v=KMX1mFEmM3E", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/KMX1mFEmM3E?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Angular vs React.js vs Vue.js - My Thoughts!", 
+                    "thumb_url": "https://i.ytimg.com/vi/KMX1mFEmM3E/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=KMX1mFEmM3E"
+                }
+            ]
+        }, 
+        {
+            "text": "Got a lot of value from the basic training workshop!", 
+            "type": "message", 
+            "user": "U5F48RHDW", 
+            "ts": "1495456972.602112"
+        }, 
+        {
+            "text": "<@U5FFHLRHP|chuckhagy> has joined the channel", 
+            "type": "message", 
+            "user": "U5FFHLRHP", 
+            "ts": "1495383642.768137", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5CL02XST|srexporting> has joined the channel", 
+            "ts": "1495311435.338462", 
+            "subtype": "channel_join", 
+            "user": "U5CL02XST", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U5CL02XST>", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1495311432.338355"
+        }, 
+        {
+            "text": "<@U5CL02XST>", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1495311383.336414"
+        }, 
+        {
+            "text": "<@U5G1W9LQM|ravi_kadri> has joined the channel", 
+            "type": "message", 
+            "user": "U5G1W9LQM", 
+            "ts": "1495297228.694636", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<!channel> Here is the repo we will be working out of today. You should feel free to continue working through it after the workshop today: <https://github.com/gSchool/js-basic-training>", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1495297098.688430"
+        }, 
+        {
+            "text": "link to today\u2019s repo: <https://github.com/gSchool/js-basic-training>", 
+            "type": "message", 
+            "user": "U3K3KB12P", 
+            "ts": "1495296789.673098", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://fst.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "gSchool/js-basic-training", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/gSchool/js-basic-training", 
+                    "text": "Contribute to js-basic-training development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: gSchool/js-basic-training", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/3484345?v=3&s=400", 
+                    "from_url": "https://github.com/gSchool/js-basic-training"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U5FBSKU2D|suzannelikes> has joined the channel", 
+            "type": "message", 
+            "user": "U5FBSKU2D", 
+            "ts": "1495296694.668867", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5G0H3U9J|cristina.gil> has joined the channel", 
+            "type": "message", 
+            "user": "U5G0H3U9J", 
+            "ts": "1495296688.668551", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5GP9HYF9|idaliaramos> has joined the channel", 
+            "type": "message", 
+            "user": "U5GP9HYF9", 
+            "ts": "1495296641.666329", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5F8TULPJ|analuz> has joined the channel", 
+            "type": "message", 
+            "user": "U5F8TULPJ", 
+            "ts": "1495296631.665781", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5FUFV1R8|ma.king> has joined the channel", 
+            "type": "message", 
+            "user": "U5FUFV1R8", 
+            "ts": "1495296574.662894", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3K3KB12P|warandoates> has joined the channel", 
+            "ts": "1495294340.554275", 
+            "subtype": "channel_join", 
+            "user": "U3K3KB12P", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U3K3KB12P>", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1495294336.554093"
+        }, 
+        {
+            "text": "<@U3GP3SAMR|kevinzheng> has joined the channel", 
+            "ts": "1495294315.553058", 
+            "subtype": "channel_join", 
+            "user": "U3GP3SAMR", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U3GP3SAMR>", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1495294312.552969"
+        }, 
+        {
+            "text": "<@U5FU5C484|johnescolano> has joined the channel", 
+            "type": "message", 
+            "user": "U5FU5C484", 
+            "ts": "1495262586.389585", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5GLKP2G6|maggielee88> has joined the channel", 
+            "type": "message", 
+            "user": "U5GLKP2G6", 
+            "ts": "1495250796.011369", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5GM14V5M|gorge> has joined the channel", 
+            "type": "message", 
+            "user": "U5GM14V5M", 
+            "ts": "1495248287.917811", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5EE3EKRS|monetwilson1> has joined the channel", 
+            "ts": "1495240785.566142", 
+            "subtype": "channel_join", 
+            "user": "U5EE3EKRS", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U5ECND2AE|senay> has joined the channel", 
+            "ts": "1495240785.566136", 
+            "subtype": "channel_join", 
+            "user": "U5ECND2AE", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U5BNYTBS6|vegan2005> has joined the channel", 
+            "ts": "1495240785.566131", 
+            "subtype": "channel_join", 
+            "user": "U5BNYTBS6", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U59ST6NF9|deanpark11> has joined the channel", 
+            "ts": "1495240785.566128", 
+            "subtype": "channel_join", 
+            "user": "U59ST6NF9", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U58F38V1P|aygyun> has joined the channel", 
+            "ts": "1495240785.566120", 
+            "subtype": "channel_join", 
+            "user": "U58F38V1P", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U5FQH1MGA|natalie.isabel> has joined the channel", 
+            "type": "message", 
+            "user": "U5FQH1MGA", 
+            "ts": "1495228565.135944", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U51GZQGG3|daniellund14> has left the channel", 
+            "type": "message", 
+            "user": "U51GZQGG3", 
+            "ts": "1495227704.963681", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U5F48RHDW|devmode2020> has joined the channel", 
+            "type": "message", 
+            "user": "U5F48RHDW", 
+            "ts": "1495225299.422111", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5F3WFD9N|sailinnthu> has joined the channel", 
+            "type": "message", 
+            "user": "U5F3WFD9N", 
+            "ts": "1495223429.975747", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3NEANFLZ|knakamor> has joined the channel", 
+            "ts": "1495222917.855019", 
+            "subtype": "channel_join", 
+            "user": "U3NEANFLZ", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U51GZQGG3|daniellund14> has joined the channel", 
+            "ts": "1495222774.821303", 
+            "subtype": "channel_join", 
+            "user": "U51GZQGG3", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U50817LQY|joyzeng> has joined the channel", 
+            "ts": "1495222774.821272", 
+            "subtype": "channel_join", 
+            "user": "U50817LQY", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U3Z1PUBB2|joshwyatt> has joined the channel", 
+            "ts": "1495222773.821247", 
+            "subtype": "channel_join", 
+            "user": "U3Z1PUBB2", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U5FQUT3CL|jorgegallegos> has joined the channel", 
+            "type": "message", 
+            "user": "U5FQUT3CL", 
+            "ts": "1495222720.808709", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5GJ7B487|joshua_duncan> has joined the channel", 
+            "type": "message", 
+            "user": "U5GJ7B487", 
+            "ts": "1495222704.805043", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5GJ620BH|sarah.mina> has joined the channel", 
+            "type": "message", 
+            "user": "U5GJ620BH", 
+            "ts": "1495222511.759961", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5FM75BV1|sanderfer> has joined the channel", 
+            "type": "message", 
+            "user": "U5FM75BV1", 
+            "ts": "1495222509.759659", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> has joined the channel", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1495221596.539668", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "sf_js_basictraining", 
+        "name": "sf_js_basictraining", 
+        "is_channel": true, 
+        "created": 1495221597, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U3F1AHRHT", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U1UCBDAMN", 
+            "U1V8JJSF6", 
+            "U3GP3SAMR", 
+            "U3K3KB12P", 
+            "U3NEANFLZ", 
+            "U3Z1PUBB2", 
+            "U4B699Z7D", 
+            "U50817LQY", 
+            "U58F38V1P", 
+            "U59LA2656", 
+            "U59ST6NF9", 
+            "U5BNYTBS6", 
+            "U5CL02XST", 
+            "U5ECND2AE", 
+            "U5EE3EKRS", 
+            "U5F3WFD9N", 
+            "U5F48RHDW", 
+            "U5F8TULPJ", 
+            "U5FBSKU2D", 
+            "U5FFHLRHP", 
+            "U5FM75BV1", 
+            "U5FQH1MGA", 
+            "U5FQUT3CL", 
+            "U5FU5C484", 
+            "U5FUFV1R8", 
+            "U5G0H3U9J", 
+            "U5G1W9LQM", 
+            "U5GJ620BH", 
+            "U5GJ7B487", 
+            "U5GLKP2G6", 
+            "U5GM14V5M", 
+            "U5GP9HYF9"
+        ], 
+        "id": "C5FRZ9FQD", 
+        "is_shared": false
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "messages": [
+        {
+            "text": "Sorry about that!", 
+            "type": "message", 
+            "user": "U508RMAF6", 
+            "ts": "1495758393.380663"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495758386.379593"
+        }, 
+        {
+            "text": "Hello - I am in attendance", 
+            "type": "message", 
+            "user": "U508RMAF6", 
+            "ts": "1495758193.352705"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U508RMAF6", 
+            "U34BY2K3K"
+        ]
+    }
+}

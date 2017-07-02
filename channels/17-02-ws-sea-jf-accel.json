@@ -1,0 +1,949 @@
+{
+    "messages": [
+        {
+            "text": "<@U1VCJN4DC|laurenlark> archived the channel", 
+            "type": "message", 
+            "user": "U1VCJN4DC", 
+            "ts": "1496703795.227185", 
+            "subtype": "channel_archive"
+        }, 
+        {
+            "text": "<@U44AXSS0Z|mltan4> has left the channel", 
+            "type": "message", 
+            "user": "U44AXSS0Z", 
+            "ts": "1496703760.220630", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U561Y9MA5"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U1VCJN4DC", 
+                "ts": "1496332615.000000"
+            }, 
+            "text": "thank you so much for pointing that out <@U4UH054CF> - <!channel> notice christopher's advice! :slightly_smiling_face:", 
+            "ts": "1496332602.412329", 
+            "user": "U1VCJN4DC", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U561Y9MA5"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "title": "Seattle Web Development Foundations with JavaScript Workshop (4 weeks) Exit Survey", 
+                    "text": "Web survey powered by <http://SurveyMonkey.com|SurveyMonkey.com>. Create your own online survey now with SurveyMonkey's expert certified FREE templates.", 
+                    "title_link": "https://www.surveymonkey.com/r/HGKHN6K", 
+                    "service_name": "surveymonkey.com", 
+                    "id": 1, 
+                    "fallback": "Seattle Web Development Foundations with JavaScript Workshop (4 weeks) Exit Survey", 
+                    "service_icon": "https://www.surveymonkey.com/favicon1.ico", 
+                    "from_url": "https://www.surveymonkey.com/r/HGKHN6K"
+                }
+            ], 
+            "text": "<@U1VCJN4DC> I got a 404 when I clicked the link to the survey, looks like the semi-colon you used to break up your list got included in the link somehow.  Everyone else (I can\u2019t use @ channel on this channel for some reason??): here\u2019s the original link so you don\u2019t have to copy and paste: <https://www.surveymonkey.com/r/HGKHN6K>", 
+            "ts": "1496332559.394178", 
+            "user": "U4UH054CF", 
+            "type": "message"
+        }, 
+        {
+            "text": "Hey <!channel> ! Hope you all had an awesome time in this course. 2 orders of business to attend in closure: 1) please download important content and exchange emails with those who you need to keep in touch with as I'll be closing this slack channel; 2) please rate this class by filling out this quick survey: <https://www.surveymonkey.com/r/HGKHN6K;> 3) Please have a fantastic weekend look forward to connecting with <@U1WFM80C9> if any questions come up on your pre-course work! :sunny: :parrot:", 
+            "type": "message", 
+            "user": "U1VCJN4DC", 
+            "ts": "1496258781.371810"
+        }, 
+        {
+            "text": "<http://reel2reel.surge.sh/>", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1496197294.154767"
+        }, 
+        {
+            "text": "<http://donkeypagoda.surge.sh/>", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1496197267.151557"
+        }, 
+        {
+            "text": "reminder to all 5-6:30pm on the roof for Dinner. Feel free to bring someone.", 
+            "type": "message", 
+            "user": "U575ZG9U2", 
+            "ts": "1496185144.393666"
+        }, 
+        {
+            "text": "<@U1VCJN4DC|laurenlark> has joined the channel", 
+            "type": "message", 
+            "user": "U1VCJN4DC", 
+            "ts": "1495832030.033671", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Morning everyone, here's the future of CSS color choices (just a joke, ignore if you're busy): <https://arstechnica.com/information-technology/2017/05/an-ai-invented-a-bunch-of-new-paint-colors-that-are-hilariously-wrong/>", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495642408.030237", 
+            "attachments": [
+                {
+                    "image_bytes": 28299, 
+                    "title": "An AI invented a bunch of new paint colors that are hilariously wrong", 
+                    "service_name": "Ars Technica", 
+                    "image_width": 500, 
+                    "title_link": "https://arstechnica.com/information-technology/2017/05/an-ai-invented-a-bunch-of-new-paint-colors-that-are-hilariously-wrong/", 
+                    "image_height": 250, 
+                    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/Screenshot-51817-621-PM-760x380.jpeg", 
+                    "text": "Let\u2019s just say this neural network won\u2019t make you fear the robot uprising.", 
+                    "id": 1, 
+                    "fallback": "Ars Technica: An AI invented a bunch of new paint colors that are hilariously wrong", 
+                    "service_icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/ars-ios-icon-d9a45f558c.png", 
+                    "from_url": "https://arstechnica.com/information-technology/2017/05/an-ai-invented-a-bunch-of-new-paint-colors-that-are-hilariously-wrong/"
+                }
+            ]
+        }, 
+        {
+            "text": "also, if you do `single ticks`, it\u2019ll highlight the text", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495508270.887136"
+        }, 
+        {
+            "text": "```$('button').click(function(event){\n  const name = $('#name');\n  const minutes = $('#minutes');\n  if(name.val() &amp;&amp; minutes.val()){\n    createTimer(name.val(), minutes.val());\n    name.val('');\n    minutes.val('');\n  }\n})\n\nsetInterval(function(){\n  const timers = $('.timer');\n  \n  for(const timer of timers){\n    \n    const t  = $(timer);\n    console.log(timer)\n    const currentTime = getSecondsFromTime(t.text()) - 1;\n    if(currentTime === 0){\n      t.removeClass('timer').addClass('done');  \n    }\n    t.text(getTimeFromSeconds(currentTime));\n    \n  }\n  \n}, 1000)\n\nfunction createTimer(name, minutes){\n  const timers = $('.timers');\n  const timerDiv = $('&lt;div&gt;');\n  const nameSpan = $('&lt;span&gt;');\n  const timerSpan = $('&lt;span&gt;');\n  timerSpan.attr('class','timer');\n  \n  const seconds = parseInt(minutes) * 60;\n  \n  nameSpan.text(name+': ');\n  timerSpan.text(getTimeFromSeconds(seconds));\n  timerDiv.append(nameSpan).append(timerSpan);\n  timers.append(timerDiv);\n}\n\nfunction getTimeFromSeconds(timeInSeconds){\n  let minutes = Math.floor(timeInSeconds/60);\n  let seconds = timeInSeconds % 60;\n  if(minutes &lt; 10 ){\n    minutes = '0' + minutes;\n  }\n  \n  if(seconds &lt; 10){\n    seconds = '0' + seconds;\n  }\n  return `${minutes}:${seconds}`;\n}\n\nfunction getSecondsFromTime(time){\n  var arr = time.split(':');\n  return parseInt(arr[0] * 60) + parseInt(arr[1]);\n}\n\n```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495508235.883968"
+        }, 
+        {
+            "text": "part 2: <http://wesbos.com/let-vs-const/>", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495497219.730082", 
+            "attachments": [
+                {
+                    "thumb_height": 600, 
+                    "service_icon": "http://wesbos.com/wp-content/themes/wb2014/i/crown-yellow-small.png", 
+                    "thumb_width": 1080, 
+                    "title": "ES6 let VS const variables", 
+                    "service_name": "Wes Bos", 
+                    "ts": 1472587851, 
+                    "title_link": "http://wesbos.com/let-vs-const/", 
+                    "text": "In the last post we learned all about how scoping works with JavaScript let, const and var variables. We now know that var is function scope, and now we know that let and const are block scope, [...]", 
+                    "id": 1, 
+                    "fallback": "Wes Bos: ES6 let VS const variables", 
+                    "thumb_url": "http://wesbos.com/wp-content/uploads/2016/08/2.png", 
+                    "from_url": "http://wesbos.com/let-vs-const/"
+                }
+            ]
+        }, 
+        {
+            "text": "This is a good overview of variable scoping of var, let, and const - <http://wesbos.com/javascript-scoping/>", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495496224.606336", 
+            "attachments": [
+                {
+                    "thumb_height": 600, 
+                    "service_icon": "http://wesbos.com/wp-content/themes/wb2014/i/crown-yellow-small.png", 
+                    "thumb_width": 1080, 
+                    "title": "How let and const are scoped in JavaScript", 
+                    "service_name": "Wes Bos", 
+                    "ts": 1472578556, 
+                    "title_link": "http://wesbos.com/javascript-scoping/", 
+                    "text": "There are a couple new ways to declare variables in ES6 that help us out with scoping. We can declare variables with var, which we've always used, but now we can use let and const to declare [...]", 
+                    "id": 1, 
+                    "fallback": "Wes Bos: How let and const are scoped in JavaScript", 
+                    "thumb_url": "http://wesbos.com/wp-content/uploads/2016/08/1.png", 
+                    "from_url": "http://wesbos.com/javascript-scoping/"
+                }
+            ]
+        }, 
+        {
+            "text": "Ok perfect, I was planning to head in about the same time.", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495473571.473294"
+        }, 
+        {
+            "text": "probably around 2 or 3.", 
+            "type": "message", 
+            "user": "U561Y9MA5", 
+            "ts": "1495472822.267917"
+        }, 
+        {
+            "text": "Brian, I'm happy to help out. What time are you planning to arrive at Galvanize?", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495472690.231715"
+        }, 
+        {
+            "text": "Hey gang, so I'm feeling like I'm understanding the basic concepts when we cover them in lecture but then I get to the exercises and I'm not connecting the dots at all when it gets more complex. I thought I could catch up over the weekend, but I don't think I've made much progress. For example, \"timers exercise 2\" I am still struggling just to figure out what I'm supposed to put in the cart and how when I click specific buttons. I'm going to try to make it in to galvanize early today and go over some this stuff again, but some collaboration would be welcome.", 
+            "type": "message", 
+            "user": "U561Y9MA5", 
+            "ts": "1495472097.058387"
+        }, 
+        {
+            "text": "I agree, it is a fun one. ", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495412107.834425"
+        }, 
+        {
+            "text": "this exercise is fun.  hard, but fun.", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495410060.724246"
+        }, 
+        {
+            "text": "ahhh, sorted it.  interesting, if you have an element defined as a global variable; defined outside of a function that it is acted upon, and then appended in another function, it will indeed remove the previous content within the element; only to have the two replace each other in order as setInterval() counts thorough.", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495410046.723659"
+        }, 
+        {
+            "text": "It shouldn't, something else must be wrong", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495408136.632683"
+        }, 
+        {
+            "text": "uh, yeah, that\u2019s the problem.  append() wipes what was already there", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495408079.630259"
+        }, 
+        {
+            "text": ".append() :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495407986.626066"
+        }, 
+        {
+            "text": "Thanks, I\u2019ll keep beating my head against it for a bit.  I\u2019m mainly trying to figure out how to append to my div without wiping what was already there", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495407930.623366"
+        }, 
+        {
+            "text": "message me your code if you are stuck", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495407815.617983"
+        }, 
+        {
+            "text": "getting my timers to not wipe each other out", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495407366.594947"
+        }, 
+        {
+            "text": "What are you stuck on?", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495406735.567236", 
+            "edited": {
+                "user": "U56CXCTGA", 
+                "ts": "1495406755.000000"
+            }
+        }, 
+        {
+            "text": "anyone else stuck on the third timers ex?", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495406514.557882"
+        }, 
+        {
+            "text": "\u201cAs long as you can make it count down, that counts. \u201d\nthis is true and also a fact", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495404257.464080"
+        }, 
+        {
+            "text": "oh yeah, now I remember we talked about this is class, nevermind.", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495324855.290827"
+        }, 
+        {
+            "text": "random question about the js provided on the \u201ctimers and events exercise 1\u201d, why does every var name have a $ as the first character of it\u2019s name?  to my eye it\u2019s a little confusing because it makes me think I\u2019m looking at a jQuery expression, but I\u2019m just looking at a variable name\u2026 right?", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495319577.100099"
+        }, 
+        {
+            "text": "```.delButton {\n  margin-left: 20px;\n}```", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495163899.077077"
+        }, 
+        {
+            "text": "```&lt;!DOCTYPE html&gt;\n&lt;html&gt;\n  &lt;head&gt;\n    &lt;meta charset=\"utf-8\"&gt;\n    &lt;meta name=\"viewport\" content=\"width=device-width\"&gt;\n    &lt;title&gt;repl.it&lt;/title&gt;\n    &lt;link href=\"index.css\" rel=\"stylesheet\" type=\"text/css\" /&gt;\n    &lt;script defer src=\"https://code.jquery.com/jquery-3.2.1.slim.min.js\" integrity=\"sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=\" crossorigin=\"anonymous\"&gt;&lt;/script&gt;\n    &lt;script defer src=\"index.js\"&gt;&lt;/script&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n    &lt;input type=\"text\"&gt;\n    &lt;button&gt;Add&lt;/button&gt;\n    &lt;ul id=\"container\"&gt;&lt;/ul&gt;\n  &lt;/body&gt;\n&lt;/html&gt;\n```", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495163886.076056"
+        }, 
+        {
+            "text": "```var $list = $(\"ul\");\n\n$(\"button\").click(function() {$list.append($(\"&lt;li&gt;\").text($(\"input\").val()).append($(\"&lt;button&gt;\").text(\"Delete\").addClass(\"delButton\").click(function(event){$(event.target).parent().remove();})));});```", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495163877.075260"
+        }, 
+        {
+            "text": "<https://i.redd.it/96tpvw53gzwy.jpg>", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495163229.019818", 
+            "attachments": [
+                {
+                    "image_bytes": 44005, 
+                    "image_width": 720, 
+                    "id": 1, 
+                    "image_height": 753, 
+                    "image_url": "https://i.redd.it/96tpvw53gzwy.jpg", 
+                    "from_url": "https://i.redd.it/96tpvw53gzwy.jpg", 
+                    "fallback": "720x753px image"
+                }
+            ]
+        }, 
+        {
+            "text": "thank you!!", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495133553.922150"
+        }, 
+        {
+            "text": "gotcha", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495133549.920929"
+        }, 
+        {
+            "text": "because it\u2019s part of ES6, which is a newer version on javascript that the `javascript for kids` book does not cover", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495133506.908016"
+        }, 
+        {
+            "text": "we haven\u2019t covered this yet have we??", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495133471.897498"
+        }, 
+        {
+            "text": "cool", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495133463.894944"
+        }, 
+        {
+            "text": "what ever is inside the ${} will be evaluated and added to the string at that location", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495133451.891586"
+        }, 
+        {
+            "text": "interesting", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495133436.886795"
+        }, 
+        {
+            "text": "and the ${}", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495133420.882179"
+        }, 
+        {
+            "text": "the things to look out for are the back ticks surrounding the string (``)", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495133415.880526"
+        }, 
+        {
+            "username": "rogerschmidt", 
+            "display_as_bot": false, 
+            "text": "<@U1WFM80C9|rogerschmidt> uploaded a file: <https://gstudents.slack.com/files/rogerschmidt/F5FBKE1E1/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1495133384.871011", 
+            "subtype": "file_share", 
+            "user": "U1WFM80C9", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 0, 
+                "channels": [
+                    "C5A8WGU82"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5FBKE1E1", 
+                "size": 75, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5FBKE1E1/-.txt", 
+                "ims": [], 
+                "preview": "``` \r\nvar  num = 10;\r\n\r\nconsole.log(`this is the number ten = ${num}`)\r\n```", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/rogerschmidt/F5FBKE1E1/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1495133377, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5FBKE1E1/download/-.txt", 
+                "user": "U1WFM80C9", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5FBKE1E1-d68ba0ea23", 
+                "permalink": "https://gstudents.slack.com/files/rogerschmidt/F5FBKE1E1/-.txt", 
+                "is_external": false, 
+                "created": 1495133377, 
+                "lines": 5, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>``` </pre></div>\n<div><pre>var  num = 10;</pre></div>\n<div><pre></pre></div>\n<div><pre>console.log(`this is the number ten = ${num}`)</pre></div>\n<div><pre>```</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "for example", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495133338.857535"
+        }, 
+        {
+            "text": "its a way to create strings", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495133334.856305"
+        }, 
+        {
+            "text": "its a template literal <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals>", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495133326.853991", 
+            "attachments": [
+                {
+                    "thumb_height": 600, 
+                    "service_icon": "https://developer.cdn.mozilla.net/static/img/favicon144.a6e4162070f4.png", 
+                    "thumb_width": 600, 
+                    "title": "Template literals", 
+                    "service_name": "Mozilla Developer Network", 
+                    "title_link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals", 
+                    "text": "Template literals are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them. They were called \"template strings\" in prior editions of the ES2015 specification.", 
+                    "id": 1, 
+                    "fallback": "Mozilla Developer Network: Template literals", 
+                    "thumb_url": "https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png", 
+                    "from_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U4UH054CF> give me a minute to look at it.", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495133251.831460"
+        }, 
+        {
+            "text": "specifically, the third line doesn\u2019t look like something we\u2019ve seen, in jQuery or otherwise\u2026. right??", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495133212.819560"
+        }, 
+        {
+            "text": "for (var i = 0; i &lt; groceryList.length; i++) {\n  var li = $(\u201c&lt;li&gt;\u201c);\n  li.innerText = `${groceryList[i].name} (${groceryList[i].qty})`;\n  ul.appendChild(li);\n}", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495133170.807089"
+        }, 
+        {
+            "text": "<@U1WFM80C9> could you clarify this discussion?  Wondering about these lines in jquery assingment 2:", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495133168.806549"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U56CXCTGA"
+                    ]
+                }
+            ], 
+            "text": "thanks dude!", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495132361.563617"
+        }, 
+        {
+            "text": "gotcha", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495132356.562225"
+        }, 
+        {
+            "text": "That expression is something new we haven't touched on", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495132342.557865"
+        }, 
+        {
+            "text": "No we haven't", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495132328.553219"
+        }, 
+        {
+            "text": "have we used the $ outside of jQuery?  Did I miss that?", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495132317.549564"
+        }, 
+        {
+            "text": "Well hi there!", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1495132289.540919", 
+            "subtype": "slackbot_response"
+        }, 
+        {
+            "text": "Hi Jake, hmm.  interesting.  But what does the $ do in your line:\n li.innerText = $groceryList[i].name + \u201d (\u201d + groceryList[i].qty + \u201c)\u201d;", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495132289.540869"
+        }, 
+        {
+            "text": "So nothing to do with jQuery but it might be good to review this in class today.", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495132137.492611"
+        }, 
+        {
+            "text": "it's basically do the same thing as: li.innerText = $groceryList[i].name + \" (\" + groceryList[i].qty + \")\";", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495132075.474281"
+        }, 
+        {
+            "text": "Well hi there!", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1495132022.458052", 
+            "subtype": "slackbot_response"
+        }, 
+        {
+            "text": "Hey Chris, I think that is some form of regex which we haven't learned about", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495132022.458019"
+        }, 
+        {
+            "text": "but the original code runs fine, even without a javascript library provided, so I\u2019m confused", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495131648.344416"
+        }, 
+        {
+            "text": "we\u2019re supposed to be converting this to jQuery, but isn\u2019t the $ indicative that it\u2019s already partially in jQuery?", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495131536.308979"
+        }, 
+        {
+            "text": "for (var i = 0; i &lt; groceryList.length; i++) {\n  var li = $(\u201c&lt;li&gt;\u201c);\n  li.innerText = `${groceryList[i].name} (${groceryList[i].qty})`;\n  ul.appendChild(li);\n}", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495131449.283213"
+        }, 
+        {
+            "text": "working on the jQuery 2 exercise, and I\u2019m curious about the third line in the loop section", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1495131446.282280"
+        }, 
+        {
+            "text": "```.title {\n  display: inline;\n  margin-right: 10px;\n}\n\n.price{\n  display: inline;\n}\n```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495077942.827519"
+        }, 
+        {
+            "text": "```var products = [{\n  id: 0,\n  available: true,\n  price: '$2,936.72',\n  picture: '<http://placehold.it/32x32>',\n  description: 'duis sint Lorem irure velit do sint sunt ipsum incididunt occaecat dolor consequat minim ea',\n  title: 'non magna'\n}, {\n  id: 1,\n  available: true,\n  price: '$2,759.28',\n  description: 'dolore ipsum dolore fugiat ut minim magna voluptate Lorem quis Lorem irure velit elit dolore',\n  title: 'ullamco irure'\n}, {\n  id: 2,\n  available: false,\n  price: '$2,278.79',\n  picture: '<http://placehold.it/32x32>',\n  description: 'quis velit et culpa et id dolor aute voluptate et non excepteur nostrud consequat consequat',\n  title: 'sit exercitation'\n}, {\n  id: 3,\n  available: true,\n  price: '$2,389.79',\n  picture: '<http://placehold.it/32x32>',\n  description: 'et aliquip veniam velit sit ex Lorem laborum proident Lorem et cupidatat culpa cupidatat ipsum',\n  title: 'ea ipsum'\n}, {\n  id: 4,\n  available: true,\n  price: '$1,899.72',\n  description: 'eu esse do ea sint cupidatat in incididunt non pariatur quis veniam minim anim irure',\n  title: 'aliquip aliquip'\n}];\n\n\nvar productList = document.getElementsByClassName('productList')[0]\n\nfor(var i = 0; i &lt; products.length; i++){\n  var currentProduct = products[i]\n  var currentProductElement = createProductElement(currentProduct)\n  \n  if(currentProductElement){\n    productList.appendChild(currentProductElement)  \n  }\n}\n\nfunction createProductElement(p){\n  if(!p.available){\n    return;\n  }\n  \n  var product = document.createElement('div');\n  product.className = \"product\";\n  \n  \n  \n  var img = document.createElement('img');\n  if(p.picture){\n    img.setAttribute('src', p.picture);\n  }\n  else {\n    img.setAttribute('src', '<http://lorempixel.com/32/32/>');\n  }\n  \n  var imgDiv = document.createElement('div');\n  imgDiv.appendChild(img)\n  \n  product.appendChild(imgDiv);\n  \n  product.appendChild(createElement('h4', p.title, 'title'));\n  product.appendChild(createElement('p', p.price, 'price'));\n  product.appendChild(createElement('p', p.description,'desc'));\n  \n    \n  return product;\n}\n\nfunction createElement(tag, innerHTML, className){\n  var retVal = document.createElement(tag);\n  retVal.innerHTML = innerHTML\n  if(className){\n    retVal.className = className;\n  }\n  \n  return retVal;\n}\n```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495077912.824775", 
+            "edited": {
+                "user": "U1WFM80C9", 
+                "ts": "1495077935.000000"
+            }
+        }, 
+        {
+            "text": "```&lt;!DOCTYPE html&gt;\n&lt;html&gt;\n&lt;head&gt;\n  &lt;meta charset=\"utf-8\"&gt;\n  &lt;meta name=\"viewport\" content=\"width=device-width\"&gt;\n  &lt;title&gt;DOM Exercise 3&lt;/title&gt;\n  &lt;link href=\"index.css\" rel=\"stylesheet\" type=\"text/css\" /&gt;\n&lt;/head&gt;\n&lt;body&gt;\n  &lt;div class=\"productList\"&gt;&lt;/div&gt;\n    &lt;script src=\"index.js\"&gt;&lt;/script&gt;\n\n&lt;/body&gt;\n&lt;/html&gt;```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1495077884.822143"
+        }, 
+        {
+            "text": "<http://learn.shayhowe.com/advanced-html-css/complex-selectors/>", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1495076023.651056", 
+            "attachments": [
+                {
+                    "title": "Complex Selectors - Learn to Code Advanced HTML &amp; CSS", 
+                    "text": "Selectors are one of the most important parts of CSS, and this lessons discusses selectors, old and new, and how to best put them to use inside a website.", 
+                    "title_link": "http://learn.shayhowe.com/advanced-html-css/complex-selectors/", 
+                    "service_name": "learn.shayhowe.com", 
+                    "id": 1, 
+                    "fallback": "Complex Selectors - Learn to Code Advanced HTML &amp; CSS", 
+                    "service_icon": "http://learn.shayhowe.com/favicon.ico", 
+                    "from_url": "http://learn.shayhowe.com/advanced-html-css/complex-selectors/"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://flukeout.github.io/>", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1494987558.973730", 
+            "attachments": [
+                {
+                    "image_bytes": 70586, 
+                    "title": "CSS Diner", 
+                    "text": "A fun game to help you learn and practice CSS selectors.", 
+                    "image_width": 476, 
+                    "title_link": "https://flukeout.github.io/", 
+                    "image_height": 250, 
+                    "image_url": "https://flukeout.github.io/images/fb-share.jpg", 
+                    "service_name": "flukeout.github.io", 
+                    "id": 1, 
+                    "fallback": "CSS Diner", 
+                    "service_icon": "https://flukeout.github.io/favicon.png", 
+                    "from_url": "https://flukeout.github.io/"
+                }
+            ]
+        }, 
+        {
+            "text": "hmmm", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1494970679.657905"
+        }, 
+        {
+            "text": "Yeah I believe so", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1494967129.754543"
+        }, 
+        {
+            "text": "<@U1WFM80C9> in DOM exercise 1, are we not allowed to edit the html page at all?", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1494965872.398357"
+        }, 
+        {
+            "text": "```/* <http://meyerweb.com/eric/tools/css/reset/> \n   v2.0 | 20110126\n   License: none (public domain)\n*/\n\nhtml, body, div, span, applet, object, iframe,\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\na, abbr, acronym, address, big, cite, code,\ndel, dfn, em, img, ins, kbd, q, s, samp,\nsmall, strike, strong, sub, sup, tt, var,\nb, u, i, center,\ndl, dt, dd, ol, ul, li,\nfieldset, form, label, legend,\ntable, caption, tbody, tfoot, thead, tr, th, td,\narticle, aside, canvas, details, embed, \nfigure, figcaption, footer, header, hgroup, \nmenu, nav, output, ruby, section, summary,\ntime, mark, audio, video {\n\tmargin: 0;\n\tpadding: 0;\n\tborder: 0;\n\tfont-size: 100%;\n\tfont: inherit;\n\tvertical-align: baseline;\n}\n/* HTML5 display-role reset for older browsers */\narticle, aside, details, figcaption, figure, \nfooter, header, hgroup, menu, nav, section {\n\tdisplay: block;\n}\nbody {\n\tline-height: 1;\n}\nol, ul {\n\tlist-style: none;\n}\nblockquote, q {\n\tquotes: none;\n}\nblockquote:before, blockquote:after,\nq:before, q:after {\n\tcontent: '';\n\tcontent: none;\n}\ntable {\n\tborder-collapse: collapse;\n\tborder-spacing: 0;\n}```", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1494900279.396728"
+        }, 
+        {
+            "text": "<http://meyerweb.com/eric/tools/css/reset/>", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1494900186.387746"
+        }, 
+        {
+            "text": "<@U575ZG9U2> sorry, I\u2019m not sure I follow you.  Can you be more specific about what you mean by \u201cstrange\u201d results?", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1494809144.463394"
+        }, 
+        {
+            "text": "so far i&lt;15 can also be included but no other Factors of 7, 9, or 15 seem to follow the same results .... ????", 
+            "type": "message", 
+            "user": "U575ZG9U2", 
+            "ts": "1494667075.665808"
+        }, 
+        {
+            "text": "other #'s are funny too", 
+            "type": "message", 
+            "user": "U575ZG9U2", 
+            "ts": "1494666193.635556"
+        }, 
+        {
+            "text": "deck0 = [];\n\nfor (i=0 ; i&lt;11; i++){\n  deck0.push(i);\n}\n\nfunction cut(deckStart){\n  cutX = [];\n  cutY = [];\n  for(i0=0 ; i0&lt;deckStart.length ; i0++){\n    if (i0&lt;(deckStart.length/2)){\n      cutY.push(deckStart[i0]);\n    } else {\n      cutX.push(deckStart[i0]);\n    }\n  }\n}\n\n\nfunction shuf(c1,c2){\n deck1 = [];\n for (i1=0 ; i1&lt;(deck0.length)/2 ; i1++){\n    deck1.push(c2[i1]);\n         if (c1[i1] === undefined){\n           continue;\n         }\n    deck1.push(c1[i1]);\n }\n}\n\nconsole.log('deck0!!!!!!!!!!!!!!!!!!!!');\nconsole.log(deck0);\nconsole.log('');\n\ncut(deck0);\nconsole.log('cutY************');\nconsole.log(cutY);\nconsole.log('cutX************');\nconsole.log(cutX);\nconsole.log('shuffle 1!!!!!!!!!!!!!!!!!!!!');\nshuf(cutX,cutY);\nconsole.log(deck1);\nconsole.log('');\n\ncut(deck1)\nconsole.log('cutY************');\nconsole.log(cutY);\nconsole.log('cutX************');\nconsole.log(cutX);\nconsole.log('shuffle 2!!!!!!!!!!!!!!!!!!!!');\nshuf(cutX,cutY);\nconsole.log(deck1);\nconsole.log('');\n\ncut(deck1)\nconsole.log('cutY************');\nconsole.log(cutY);\nconsole.log('cutX************');\nconsole.log(cutX);\nconsole.log('shuffle 3!!!!!!!!!!!!!!!!!!!!');\nshuf(cutX,cutY);\nconsole.log(deck1);", 
+            "type": "message", 
+            "user": "U575ZG9U2", 
+            "ts": "1494665895.623815"
+        }, 
+        {
+            "text": "can anyone tell me why on the following code if i&lt;7 or i&lt;9 on line 3 results in strange results?", 
+            "type": "message", 
+            "user": "U575ZG9U2", 
+            "ts": "1494665883.623402"
+        }, 
+        {
+            "text": "<@U575ZG9U2> Also,  pretty sure that <@U56CXCTGA>  is right, you shouldn\u2019t be re-declaring your variables with \u201cvar\u201d inside your function.", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1494521825.666994"
+        }, 
+        {
+            "text": "<@U575ZG9U2> my hunch is that, specifically, the \u201cy=NaN\u201d is coming from the fact that you used  \u201cvar y = Number(y);\u201d to define y within the function.  Whereas you used \u201cvar x = Number(arr[0]);\u201d to define x within the function.  When you call the function, you only gave it the array [1, 2, 3, 4], so without calling on that array, like you did for x, y remains undefined and therefore, when you use the Number() function, it returns NaN.  That\u2019s my guess anyways.", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1494521713.633016"
+        }, 
+        {
+            "text": "<@U575ZG9U2> Because you are declaring both x and y again within your function, they are being treated as local variables within the function. If you want a more consistent behavior, move your var x and var y declarations into your function, or remove the var keyword on them within your function. \nCheck out the second example here for more detail: <https://docs.microsoft.com/en-us/scripting/javascript/advanced/variable-scope-javascript>", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1494514714.327386", 
+            "attachments": [
+                {
+                    "image_bytes": 802, 
+                    "title": "Variable Scope (JavaScript)", 
+                    "service_name": "docs.microsoft.com", 
+                    "image_width": 128, 
+                    "title_link": "https://docs.microsoft.com/en-us/scripting/javascript/advanced/variable-scope-javascript", 
+                    "image_height": 128, 
+                    "image_url": "https://docs.microsoft.com/_themes/docs.theme/master/en-us/_themes/images/microsoft-header.png", 
+                    "id": 1, 
+                    "fallback": "Variable Scope (JavaScript)", 
+                    "service_icon": "https://docs.microsoft.com/favicon.ico", 
+                    "from_url": "https://docs.microsoft.com/en-us/scripting/javascript/advanced/variable-scope-javascript"
+                }
+            ]
+        }, 
+        {
+            "text": "Native Browser JavaScript\n   \narr[0] is:1\narr[0] is type: undefined\nThe variable x is type: undefined\n            var x = Number(arr[0]);\nThe variable x is type: number\nx=1\n\nThe variable y is type: undefined\n            var y = Number(y);\nThe variable y is type: number\ny=NaN\n=&gt; undefined", 
+            "type": "message", 
+            "user": "U575ZG9U2", 
+            "ts": "1494484632.017457"
+        }, 
+        {
+            "text": "var x = 0;\nvar y = 0;\nfunction sum(arr) {\n  if (arr.length === 0){\n      return 0;\n  } else if (arr.length &gt; 0){\n        console.log('arr[0] is:' + arr[0]);\n        console.log (\"arr[0] is type: \" + typeof x);\n        console.log (\"The variable x is type: \" + typeof x);\n        var x = Number(arr[0]);\n        console.log('            var x = Number(arr[0]);');\n        console.log (\"The variable x is type: \" + typeof x);\n        console.log('x=' + x);\n        console.log('');\n        console.log(\"The variable y is type: \" + typeof y);\n        var y = Number(y);\n        console.log(\"            var y = Number(y);\");\n        console.log(\"The variable y is type: \" + typeof y);\n        console.log('y=' + y);\n      }\n}\n\n\nsum([1, 2, 3, 4]);", 
+            "type": "message", 
+            "user": "U575ZG9U2", 
+            "ts": "1494484591.012831"
+        }, 
+        {
+            "text": "next can anyone tell me why i get any \"NaN\" returns? see below:", 
+            "type": "message", 
+            "user": "U575ZG9U2", 
+            "ts": "1494484551.008153"
+        }, 
+        {
+            "text": "first off thank you Jacob!!!!", 
+            "type": "message", 
+            "user": "U575ZG9U2", 
+            "ts": "1494484496.001620"
+        }, 
+        {
+            "text": "```//Create a new deck in order\nfunction generateDeck() {\n  const suits = [\"Hearts\", \"Diamonds\", \"Spades\", \"Clovers\"];\n  const faces = [\"Ace\", 2, 3, 4, 5, 6, 7, 8, 9, 10, \"Jack\", \"Queen\", \"Kings\", \"Joker\"]\n\n  var deck = [];\n  \n  for (var i = 0; i &lt; faces.length - 1; i++) {\n    for (var j = 0; j &lt; suits.length; j++) {\n      deck.push(faces[i] + \" of \" + suits[j]);\n    }\n  }\n  \n  deck.push(faces[faces.length - 1]);\n  \n  return deck;\n}\n\n//Shuffle a provided deck one time or more if provided a second argument.\nfunction shuffleDeck(inputDeck, numTimes = 1) {\n  //Create a copy of the inputDeck;\n  var deck = [...inputDeck];\n  //Create a shuffled array that will contain the final result\n  var shuffled = [];\n  var deckLenAtStart = deck.length;\n  \n  //Shuffle the number of times provided as the second function argument\n  for (var shuffleTimes = 0; shuffleTimes &lt; numTimes; shuffleTimes++) {\n    \n    //Don't swap these the first iteration, only used for multiple shuffles\n    if (shuffleTimes &gt; 0) {\n      deck = [...shuffled];\n      shuffled = [];\n    }\n    \n    //Loop through the entire deck, generate a random number from 0 to the length of the\n    //deck, push the result to the shuffled deck, remove the result from original deck\n    for (var i = 0; i &lt; deckLenAtStart; i++) {\n      rand = Math.floor(Math.random() * deck.length);\n      shuffled.push(deck[rand]);\n      deck.splice(rand, 1);\n      \n    }\n  }\n  \n  return shuffled;\n}\n\n//Create a deck and store in variable: deck\nvar deck = generateDeck();\n\n//Shuffle the deck 3 times and store the result in variable: shuffledDeck\nvar shuffledDeck = shuffleDeck(deck, 3);\n\nconsole.log(shuffledDeck);\n//console.log(deck);```", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1494470217.715554", 
+            "edited": {
+                "user": "U56CXCTGA", 
+                "ts": "1494470236.000000"
+            }
+        }, 
+        {
+            "text": "<http://allianceforpioneersquare.org/wp/wp-content/uploads/2017/04/Upstream_Handout_4-17.pdf>", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1494466327.329974"
+        }, 
+        {
+            "text": "<@U44AXSS0Z|mltan4> has joined the channel", 
+            "ts": "1494380905.320836", 
+            "subtype": "channel_join", 
+            "user": "U44AXSS0Z", 
+            "type": "message", 
+            "inviter": "U1WFM80C9"
+        }, 
+        {
+            "text": "```var str = 'this is an exciting test string';\n\nfunction upper(input){\n  var words = input.split(' ');\n  console.log(words);\n  \n  var result = []\n  \n  for(var word of words){\n    result.push(word[0].toUpperCase() + word.slice(1));\n  }\n  return result.join(' ');\n}\n\n\nupper(str);\n\n\nconsole.log(str.split(' ').map(function(ele){ return ele[0].toUpperCase() + ele.slice(1) }).join(' '))```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1494380872.317494"
+        }, 
+        {
+            "text": "<@U561Y9MA5|brianjames> has joined the channel", 
+            "ts": "1494368348.702546", 
+            "subtype": "channel_join", 
+            "user": "U561Y9MA5", 
+            "type": "message", 
+            "inviter": "U1WFM80C9"
+        }, 
+        {
+            "text": "<@U575ZG9U2|njg26crux> has joined the channel", 
+            "ts": "1494368335.700025", 
+            "subtype": "channel_join", 
+            "user": "U575ZG9U2", 
+            "type": "message", 
+            "inviter": "U1WFM80C9"
+        }, 
+        {
+            "text": "<@U579DJWP7|aldotorres> has joined the channel", 
+            "ts": "1494368260.687127", 
+            "subtype": "channel_join", 
+            "user": "U579DJWP7", 
+            "type": "message", 
+            "inviter": "U1WFM80C9"
+        }, 
+        {
+            "text": "I was looking at the homework for tonight and it looks like there is an error in one of the equations. \nThe provided equation is: \nvar cakesWeCanBake = (bakers * cakeBakingTime) * hoursLeftUntilParty; \nThis will work but only if the cakeBakingTime is 1 hour. Any other value will break this.\n\nThe actual equation should be something like: \ncakesBaked = (numBakers * Math.floor((hoursTillParty / cakeBakingTime)));\nThough if you use this equation you won't pass the check during submission.", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1494355658.379191"
+        }, 
+        {
+            "text": "<@U56CXCTGA|jacobulrich> has joined the channel", 
+            "ts": "1494355337.281148", 
+            "subtype": "channel_join", 
+            "user": "U56CXCTGA", 
+            "type": "message", 
+            "inviter": "U4UH054CF"
+        }, 
+        {
+            "text": "thanks!", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1494355184.233856", 
+            "attachments": [
+                {
+                    "footer": "Posted in #17-02-ws-sea-jf-accel", 
+                    "channel_id": "C5A8WGU82", 
+                    "color": "D0D0D0", 
+                    "text": "correct, we are going over more functions.", 
+                    "author_link": "https://gstudents.slack.com/team/rogerschmidt", 
+                    "ts": "1494354566.039930", 
+                    "author_name": "Roger Schmidt", 
+                    "is_share": true, 
+                    "channel_name": "17-02-ws-sea-jf-accel", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "rogerschmidt", 
+                    "fallback": "[May 9th, 2017 11:29 AM] rogerschmidt: correct, we are going over more functions.", 
+                    "author_icon": "https://avatars.slack-edge.com/2016-10-19/93527512628_dbafb3ee1b5ef7c3405e_48.jpg", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/C5A8WGU82/p1494354566039930"
+                }
+            ]
+        }, 
+        {
+            "text": "correct, we are going over more functions.", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1494354566.039930"
+        }, 
+        {
+            "text": "Looks like on the syllabus there's no reading assigned\u200b from last night's class, is that correct? ", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1494353079.579001"
+        }, 
+        {
+            "text": "<@U4UH054CF|christopher_stewart> has joined the channel", 
+            "ts": "1494348499.210042", 
+            "subtype": "channel_join", 
+            "user": "U4UH054CF", 
+            "type": "message", 
+            "inviter": "U1WFM80C9"
+        }, 
+        {
+            "text": "<@U4UH054CF>", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1494348496.209231"
+        }, 
+        {
+            "text": "```function add(){\n  // console.log(arguments);\n  var keys = Object.keys(arguments);\n  var total = 0;\n  for(var i = 0; i &lt; keys.length; i++){\n    // console.log(arguments[i])\n    total += arguments[i]\n  }\n  return total;\n}\n\n\nadd(1,2,3,4,5,6,7,100);```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1494298283.874686"
+        }, 
+        {
+            "text": "<@U579DJWP7>", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1494298143.862314"
+        }, 
+        {
+            "text": "```function add(){\n  // console.log(arguments);\n  var keys = Object.keys(arguments);\n  var total = 0;\n  for(var i = 0; i &lt; keys.length; i++){\n    // console.log(arguments[i])\n    total += arguments[i]\n  }\n  return total;\n}\n\n\nadd(1,2,3,4,5,6,7,100);```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1494298136.861617"
+        }, 
+        {
+            "text": "Hello accelerated boys and girls!", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1494262760.888310"
+        }, 
+        {
+            "text": "<@U38KEPD62|scotthurlow> has joined the channel", 
+            "ts": "1494262743.883061", 
+            "subtype": "channel_join", 
+            "user": "U38KEPD62", 
+            "type": "message", 
+            "inviter": "U1WFM80C9"
+        }, 
+        {
+            "text": "<@U38KEPD62>", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1494261610.559915"
+        }, 
+        {
+            "text": "<@U1WFM80C9|rogerschmidt> has joined the channel", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1494261597.556446", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "17-02-ws-sea-jf-accel", 
+        "name": "17-02-ws-sea-jf-accel", 
+        "is_channel": true, 
+        "created": 1494261597, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U1WFM80C9", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [], 
+        "id": "C5A8WGU82", 
+        "is_shared": false
+    }
+}

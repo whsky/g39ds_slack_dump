@@ -1,0 +1,1429 @@
+{
+    "messages": [
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2"
+                    ]
+                }
+            ], 
+            "text": "Format of the weekly feedback form", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1498593866.151916"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> has joined the channel", 
+            "ts": "1498156018.810858", 
+            "subtype": "channel_join", 
+            "user": "U3F1AHRHT", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U3F1AHRHT>", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1498156015.809360"
+        }, 
+        {
+            "thread_ts": "1497996099.236024", 
+            "text": "<@U4WK6BJQM> \n\n&gt; make us feel pain", 
+            "ts": "1497997079.464199", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497996099.236024", 
+            "text": "@sandeep won't mind some tests where a lot of us might wipe out, at the very least as a matter of experience.", 
+            "ts": "1497997063.460730", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497996099.236024", 
+            "text": "<@U2PSX14KF> and <@U3R672XGQ> both would like to see more of these (maybe on a smaller scale and more frequently) as they help clarify areas in need of improvement and, the solutions (after struggle) really help round some things out.", 
+            "ts": "1497996266.276977", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497996099.236024", 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 10, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U4SCDGADR", 
+                        "U2PSX14KF", 
+                        "U3TUZU9RR", 
+                        "U4NBAUKD4", 
+                        "U4WK6BJQM", 
+                        "U4M2ULFUK", 
+                        "U506BBZ3N", 
+                        "U4RKZ1A94", 
+                        "U3R672XGQ"
+                    ]
+                }
+            ], 
+            "text": "TBST", 
+            "ts": "1497996099.236024", 
+            "unread_count": 3, 
+            "reply_count": 3, 
+            "user": "U3Z1PUBB2", 
+            "replies": [
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497996266.276977"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497997063.460730"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497997079.464199"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "slog_is_self_dm": false, 
+            "new_broadcast": true, 
+            "type": "message", 
+            "attachments": [
+                {
+                    "footer": "3 replies", 
+                    "channel_name": "g52_reflection", 
+                    "is_thread_root_unfurl": true, 
+                    "text": "Formal review sessions", 
+                    "author_link": "https://gstudents.slack.com/team/joshwyatt", 
+                    "ts": "1497384135.862088", 
+                    "author_name": "Josh Wyatt", 
+                    "id": 1, 
+                    "channel_id": "C53NU3WN4", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "joshwyatt", 
+                    "from_url": "https://gstudents.slack.com/archives/C53NU3WN4/p1497384135862088", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-03-21/157022066384_d2506b8273c7a9307832_48.png", 
+                    "is_msg_unfurl": true, 
+                    "fallback": "[June 13th, 2017 1:02 PM] joshwyatt: Formal review sessions"
+                }, 
+                {
+                    "author_link": "https://gstudents.slack.com/team/joshwyatt", 
+                    "text": "As a class we will check in in the mornings, and also, will be proactive about messaging when we need (or even just want for funzies) review", 
+                    "ts": "1497386428.646886", 
+                    "author_name": "Josh Wyatt", 
+                    "id": 2, 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "joshwyatt", 
+                    "fallback": "As a class we will check in in the mornings, and also, will be proactive about messaging when we need (or even just want for funzies) review", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-03-21/157022066384_d2506b8273c7a9307832_48.png", 
+                    "from_url": "https://gstudents.slack.com/archives/C53NU3WN4/p1497386428646886?thread_ts=1497384135862088&cid=C53NU3WN4"
+                }
+            ], 
+            "slog_is_slackbot_dm": false, 
+            "timestamp": "1497386428646886", 
+            "slog_is_mpdm": "0", 
+            "plain_text": "As a class we will check in in the mornings, and also, will be proactive about messaging when we need (or even just want for funzies) review", 
+            "is_multiteam": false, 
+            "ts": "1497386428.646962", 
+            "subtype": "reply_broadcast", 
+            "slog_is_shared": "0", 
+            "user": "U3Z1PUBB2", 
+            "text": "", 
+            "is_thread_broadcast": true
+        }, 
+        {
+            "thread_ts": "1497384135.862088", 
+            "text": "As a class we will check in in the mornings, and also, will be proactive about messaging when we need (or even just want for funzies) review", 
+            "ts": "1497386428.646886", 
+            "subtype": "thread_broadcast", 
+            "user": "U3Z1PUBB2", 
+            "root": {
+                "thread_ts": "1497384135.862088", 
+                "subscribed": false, 
+                "text": "Formal review sessions", 
+                "ts": "1497384135.862088", 
+                "unread_count": 3, 
+                "reply_count": 3, 
+                "user": "U3Z1PUBB2", 
+                "replies": [
+                    {
+                        "user": "U3Z1PUBB2", 
+                        "ts": "1497386115.539951"
+                    }, 
+                    {
+                        "user": "U3Z1PUBB2", 
+                        "ts": "1497386146.548962"
+                    }, 
+                    {
+                        "user": "U3Z1PUBB2", 
+                        "ts": "1497386428.646886"
+                    }
+                ], 
+                "type": "message"
+            }, 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384135.862088", 
+            "text": "<@U4RKZ1A94> also really likes doing review towards the end of the day.", 
+            "ts": "1497386146.548962", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384135.862088", 
+            "text": "<@U4YB9LF2N> and others like maybe in the mornings, when we check in about what students will need to deliver, we can review as is appropriate to make sure students are ready.", 
+            "ts": "1497386115.539951", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384103.851073", 
+            "text": "<@U4WK6BJQM> also proposes we should be  very clear when something is not so pivotal.", 
+            "ts": "1497385913.471451", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384103.851073", 
+            "text": "<@U3Z1PUBB2> and <@U4M2ULFUK> agree that the avoidance of big topics in small periods of time is good.", 
+            "ts": "1497385613.368750", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384103.851073", 
+            "text": "<@U4M2ULFUK> suggests rescheduling when possible to wrap up a single given topic before moving on to another.", 
+            "ts": "1497385462.316355", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384103.851073", 
+            "text": "<@U3Z1PUBB2> proposes that anytime we might be covering materials outside the main arc, that explicit time is taken to explain the importance and why we must cover it \"outside of context\".", 
+            "ts": "1497385319.267507", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384103.851073", 
+            "text": "<@U4YB9LF2N> really likes the flow of covering a material in a lesson and then the next day being asked to implement it in exercises.", 
+            "ts": "1497384953.142600", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384103.851073", 
+            "text": "<@U3R672XGQ> really likes a good theme and finds the multitude of topics to be counter to this preference. In particular he did not have a good explanation for why the SSR was relevant and only experienced it by researching by the skin of his teeth. Docker and AWS exasperated this.", 
+            "ts": "1497384896.123103", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384103.851073", 
+            "text": "<@U2PSX14KF> wrt the templating exercise didn't really mind the small exposure.", 
+            "ts": "1497384705.058317", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384103.851073", 
+            "text": "<@U4YB9LF2N> has a preference for mastery of only a few topics vs a survey of many.", 
+            "ts": "1497384637.035843", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384103.851073", 
+            "text": "<@U4RKZ1A94> had a meaningful experience where 2 large topics (supertest and handlebars) were only given a very small and fixed period of time, where it would have been preferable to be able to spend more time on them (to learn from colleagues etc.), also, this led to an experience of not enough time to consolidate.", 
+            "ts": "1497384592.019817", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384103.851073", 
+            "text": "<@U4WK6BJQM> feels most pertinently the trade off between a variety of topics and the ability to review/consolidate", 
+            "ts": "1497384436.966663", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 5, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U4YB9LF2N", 
+                        "U4RKZ1A94", 
+                        "U4NBAUKD4", 
+                        "U506BBZ3N"
+                    ]
+                }
+            ], 
+            "text": "Knex seeds and migrations", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1497384290.916270"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 6, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U4YB9LF2N", 
+                        "U4SCDGADR", 
+                        "U4NBAUKD4", 
+                        "U4M2ULFUK", 
+                        "U506BBZ3N"
+                    ]
+                }
+            ], 
+            "text": "Formal code reviews on smaller projects", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1497384181.878116"
+        }, 
+        {
+            "thread_ts": "1497384135.862088", 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 8, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U506BBZ3N", 
+                        "U4RKZ1A94", 
+                        "U3R672XGQ", 
+                        "U4YB9LF2N", 
+                        "U4WK6BJQM", 
+                        "U4SCDGADR", 
+                        "U2PSX14KF"
+                    ]
+                }
+            ], 
+            "text": "Formal review sessions", 
+            "ts": "1497384135.862088", 
+            "unread_count": 3, 
+            "reply_count": 3, 
+            "user": "U3Z1PUBB2", 
+            "replies": [
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497386115.539951"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497386146.548962"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497386428.646886"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497384103.851073", 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 9, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U4RKZ1A94", 
+                        "U3R672XGQ", 
+                        "U4M2ULFUK", 
+                        "U4YB9LF2N", 
+                        "U4WK6BJQM", 
+                        "U2PSX14KF", 
+                        "U4SCDGADR", 
+                        "U3TUZU9RR"
+                    ]
+                }
+            ], 
+            "text": "The variety of topics covered in a given day/week", 
+            "ts": "1497384103.851073", 
+            "unread_count": 10, 
+            "reply_count": 10, 
+            "user": "U3Z1PUBB2", 
+            "replies": [
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497384436.966663"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497384592.019817"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497384637.035843"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497384705.058317"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497384896.123103"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497384953.142600"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497385319.267507"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497385462.316355"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497385613.368750"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1497385913.471451"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "attachments": [
+                {
+                    "title": "What would you prefer about the career services timing (please choose one)", 
+                    "color": "6ecadc", 
+                    "fields": [
+                        {
+                            "short": false, 
+                            "value": ":one: No change    `3`\nssabu, tylerlangenbrunner, michael_murray\n\n", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": false, 
+                            "value": ":two: Add something code related directly after    `4`\nstelapalii, kurtishouser, dave.gallup, ronanfitzpatrick\n\n", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": false, 
+                            "value": ":three: Move to 3:30    `2`\nstephenanderson, grantwillison\n\n", 
+                            "title": ""
+                        }
+                    ], 
+                    "mrkdwn_in": [
+                        "fields"
+                    ], 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "id": 1
+                }, 
+                {
+                    "callback_id": "d81e6b55-e194-405c-8b2a-fc0677abd95f", 
+                    "color": "6ecadc", 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "id": 2, 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":one:", 
+                            "value": "1", 
+                            "type": "button", 
+                            "id": "1"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":two:", 
+                            "value": "2", 
+                            "type": "button", 
+                            "id": "2"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":three:", 
+                            "value": "3", 
+                            "type": "button", 
+                            "id": "3"
+                        }, 
+                        {
+                            "style": "danger", 
+                            "name": "delete-v2", 
+                            "confirm": {
+                                "text": "Are you sure you want to delete the Poll?", 
+                                "dismiss_text": "No", 
+                                "ok_text": "Yes", 
+                                "title": "Delete Poll?"
+                            }, 
+                            "text": "Delete Poll", 
+                            "value": "", 
+                            "type": "button", 
+                            "id": "4"
+                        }
+                    ]
+                }, 
+                {
+                    "footer": "Simple Poll        <https://simplepoll.rocks/dashboard/gstudents/settings/|Edit Settings>", 
+                    "color": "6ecadc", 
+                    "callback_id": "d81e6b55-e194-405c-8b2a-fc0677abd95f", 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "footer_icon": "https://simplepoll.rocks/static/main/favicon.png", 
+                    "id": 3
+                }
+            ], 
+            "text": "", 
+            "ts": "1496177951.552107", 
+            "subtype": "bot_message", 
+            "type": "message", 
+            "bot_id": "B537FQZ7C"
+        }, 
+        {
+            "thread_ts": "1496176986.246053", 
+            "text": "<@U2PSX14KF> also points out some external support to really take lunch might be beneficial.", 
+            "ts": "1496177729.481941", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496176986.246053", 
+            "text": "The overwhelming sentiment is that the morning, while rested and caffeinated, is best used for coding stuff", 
+            "ts": "1496177695.471217", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496176986.246053", 
+            "edited": {
+                "user": "U3Z1PUBB2", 
+                "ts": "1496177595.000000"
+            }, 
+            "text": "<@U4NBAUKD4> likes the idea of a trxxsition back into coding exercise post career services.", 
+            "ts": "1496177585.436491", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496176986.246053", 
+            "text": "<@U3R672XGQ> seconds <@U4M2ULFUK>'s sentiment of a feeling of coding interruption. On the one hand post lunch is already drowzy and he likes the flow, and a hard stop at 3:30 might crete some deadline anxiety. He also like the idea of morning space.", 
+            "ts": "1496177519.415890", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496176986.246053", 
+            "edited": {
+                "user": "U3Z1PUBB2", 
+                "ts": "1496177367.000000"
+            }, 
+            "text": "<@U4M2ULFUK> feels like the current configuration feels like too much of a solid block without coding, and proposes perhaps the morning.", 
+            "ts": "1496177355.363881", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496176986.246053", 
+            "text": "<@U2PSX14KF> (and he is surely not alone) always feels like is is an interruption.", 
+            "ts": "1496177335.357754", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496176986.246053", 
+            "text": "<@U4RKZ1A94> finds the lunch and early afternoon time precious and sometimes finds that the later, and more challenging time should be left for CS.\n\nAlso it turns out that the transition back into coding is maybe rougher than it might need to be.", 
+            "ts": "1496177261.334438", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496176986.246053", 
+            "text": "<@U3Z1PUBB2> likes having a come back together moment after lunch and also having them all hacking at closing time", 
+            "ts": "1496177119.289143", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496176986.246053", 
+            "subscribed": false, 
+            "text": "Career Services Hacking Timing", 
+            "ts": "1496176986.246053", 
+            "unread_count": 8, 
+            "reply_count": 8, 
+            "user": "U3Z1PUBB2", 
+            "replies": [
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1496177119.289143"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1496177261.334438"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1496177335.357754"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1496177355.363881"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1496177519.415890"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1496177585.436491"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1496177695.471217"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1496177729.481941"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494363881.509121", 
+            "text": "<@U3Z1PUBB2> is always delighted at how industrious the class is.", 
+            "ts": "1494364053.572498", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494363881.509121", 
+            "text": "We will look to do more formal pairing assignments, especially among people who not usually sitting next to each other", 
+            "ts": "1494364038.566968", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494363881.509121", 
+            "text": "As a reminder, students can work all throughout the space. Leaving the space is off limits, as we need the ability to come together in the same room at short notice for a variety of reasons.", 
+            "ts": "1494364012.557900", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494363881.509121", 
+            "text": "Some students really appreciated the benefits of being close by each other, to facilitate collaboration", 
+            "ts": "1494363978.545170", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494363881.509121", 
+            "text": "We talked about going out to the lab. Some students felt like out of consideration they ought not to bother the 42ers", 
+            "ts": "1494363957.537655", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494363881.509121", 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2"
+                    ]
+                }
+            ], 
+            "text": "Working out of other parts of the space than our classroom", 
+            "ts": "1494363881.509121", 
+            "unread_count": 5, 
+            "reply_count": 5, 
+            "user": "U3Z1PUBB2", 
+            "replies": [
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1494363957.537655"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1494363978.545170"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1494364012.557900"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1494364038.566968"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1494364053.572498"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "turkey", 
+                    "users": [
+                        "U2PSX14KF"
+                    ]
+                }
+            ], 
+            "text": "This week all was gravy", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1494362117.826207"
+        }, 
+        {
+            "text": "<@U59LA2656|nestor> has joined the channel", 
+            "ts": "1494362045.797316", 
+            "subtype": "channel_join", 
+            "user": "U59LA2656", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U59LA2656>", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1494362042.796258"
+        }, 
+        {
+            "thread_ts": "1493843580.793739", 
+            "edited": {
+                "user": "U3Z1PUBB2", 
+                "ts": "1493844097.000000"
+            }, 
+            "text": "Let's try pairing in an interview like setting, at the whiteboard first.", 
+            "ts": "1493844084.996757", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493843580.793739", 
+            "text": "<@U4M2ULFUK> also points out that the interruptions after 30 minutes makes the experience poor", 
+            "ts": "1493843914.927575", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493843580.793739", 
+            "text": "<@U4M2ULFUK> is interested in struggling more solo on the problem", 
+            "ts": "1493843891.918570", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493843580.793739", 
+            "text": "<@U4YB9LF2N> suggests we could do it all at once", 
+            "ts": "1493843879.913767", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493843580.793739", 
+            "text": "<@U4NBAUKD4> also recommends pairing, potentially at the whiteboard", 
+            "ts": "1493843803.884239", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493843580.793739", 
+            "text": "<@U4NBAUKD4> recommends possibly a formal set of problems", 
+            "ts": "1493843763.867998", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2"
+                    ]
+                }
+            ], 
+            "text": "Formal peer to peer technical interactions", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493843623.811278"
+        }, 
+        {
+            "thread_ts": "1493843580.793739", 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2"
+                    ]
+                }
+            ], 
+            "text": "The after lunch kata period of time", 
+            "ts": "1493843580.793739", 
+            "unread_count": 6, 
+            "reply_count": 6, 
+            "user": "U3Z1PUBB2", 
+            "replies": [
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493843763.867998"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493843803.884239"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493843879.913767"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493843891.918570"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493843914.927575"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493844084.996757"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493152706.198117", 
+            "text": "I'll go over how to submit PRs and file issues this afternoon", 
+            "ts": "1493843186.629791", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493152706.198117", 
+            "text": "From Liz the Developer:\n&gt;&gt;&gt;Add an issue, and label it a \u201cbug\u201d. Explain where, what happened, etc. If it\u2019s a minor typo, ask them to file a pull request :smile: otherwise, if it\u2019s like a broken test, ask them to paste their code in and the output they got.", 
+            "ts": "1493843176.625609", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U4RKZ1A94"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "footer": "From a thread in #g52_reflection", 
+                    "channel_id": "C53NU3WN4", 
+                    "color": "D0D0D0", 
+                    "text": "Liz (curriculum team) has offered guidelines for creating GitHub Issues and/or Pull Requests for all gshool repos. This is fantastic. Y'all will need training on how to do this, the sooner the better (<@U3Z1PUBB2> will keep an eye on a good time later this week)", 
+                    "author_link": "https://gstudents.slack.com/team/joshwyatt", 
+                    "ts": "1493157393.806881", 
+                    "author_name": "Josh Wyatt", 
+                    "is_share": true, 
+                    "channel_name": "g52_reflection", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "joshwyatt", 
+                    "fallback": "[April 25th, 2017 2:56 PM] joshwyatt: Liz (curriculum team) has offered guidelines for creating GitHub Issues and/or Pull Requests for all gshool repos. This is fantastic. Y'all will need training on how to do this, the sooner the better (<@U3Z1PUBB2> will keep an eye on a good time later this week)", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-03-21/157022066384_d2506b8273c7a9307832_48.png", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/C53NU3WN4/p1493157393806881?thread_ts=1493152706198117&cid=C53NU3WN4", 
+                    "is_reply_unfurl": true
+                }
+            ], 
+            "text": "<!channel>", 
+            "ts": "1493157403.809903", 
+            "user": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493152706.198117", 
+            "text": "Liz (curriculum team) has offered guidelines for creating GitHub Issues and/or Pull Requests for all gshool repos. This is fantastic. Y'all will need training on how to do this, the sooner the better (<@U3Z1PUBB2> will keep an eye on a good time later this week)", 
+            "ts": "1493157393.806881", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "text": "<!channel>", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493155295.154942", 
+            "attachments": [
+                {
+                    "footer": "From a thread in #g52_reflection", 
+                    "channel_id": "C53NU3WN4", 
+                    "color": "D0D0D0", 
+                    "text": "<@U4WK6BJQM> I have reached out to the learn team to inquire about this feature request.", 
+                    "author_link": "https://gstudents.slack.com/team/joshwyatt", 
+                    "ts": "1493155286.151641", 
+                    "author_name": "Josh Wyatt", 
+                    "is_share": true, 
+                    "channel_name": "g52_reflection", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "joshwyatt", 
+                    "fallback": "[April 25th, 2017 2:21 PM] joshwyatt: <@U4WK6BJQM> I have reached out to the learn team to inquire about this feature request.", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-03-21/157022066384_d2506b8273c7a9307832_48.png", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/C53NU3WN4/p1493155286151641?thread_ts=1493152794231762&cid=C53NU3WN4", 
+                    "is_reply_unfurl": true
+                }
+            ]
+        }, 
+        {
+            "thread_ts": "1493152794.231762", 
+            "text": "<@U4WK6BJQM> I have reached out to the learn team to inquire about this feature request.", 
+            "ts": "1493155286.151641", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "text": "<!channel>", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493155103.090298", 
+            "attachments": [
+                {
+                    "footer": "From a thread in #g52_reflection", 
+                    "channel_id": "C53NU3WN4", 
+                    "color": "D0D0D0", 
+                    "text": "I have messaged the learn team to ask about links to the tests.", 
+                    "author_link": "https://gstudents.slack.com/team/joshwyatt", 
+                    "ts": "1493155058.075362", 
+                    "author_name": "Josh Wyatt", 
+                    "is_share": true, 
+                    "channel_name": "g52_reflection", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "joshwyatt", 
+                    "fallback": "[April 25th, 2017 2:17 PM] joshwyatt: I have messaged the learn team to ask about links to the tests.", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-03-21/157022066384_d2506b8273c7a9307832_48.png", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/C53NU3WN4/p1493155058075362?thread_ts=1493152706198117&cid=C53NU3WN4", 
+                    "is_reply_unfurl": true
+                }
+            ]
+        }, 
+        {
+            "thread_ts": "1493152706.198117", 
+            "edited": {
+                "user": "U3Z1PUBB2", 
+                "ts": "1493155078.000000"
+            }, 
+            "text": "I have messaged the learn team to ask about links to the tests.", 
+            "ts": "1493155058.075362", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493152794.231762", 
+            "text": "<https://learn.galvanize.com/cohorts/148/exercises>", 
+            "ts": "1493154066.722657", 
+            "user": "U4WK6BJQM", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493152794.231762", 
+            "text": "<@U4WK6BJQM> would like the due dates in the added to the link he includes below", 
+            "ts": "1493154025.706271", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493152794.231762", 
+            "text": "<@U4M4XGYEN> recommends that <@U3Z1PUBB2> be more on top of looking ahead at the materials (and so did <@U3R672XGQ>)", 
+            "ts": "1493153630.553649", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493152794.231762", 
+            "text": "<@U2PSX14KF> wants to know what exactly is required especially around submitting work in the articles.", 
+            "ts": "1493153499.503423", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493152706.198117", 
+            "text": "<@U3Z1PUBB2> says we can use GitHub Issues to provide curriculum maintainers with info about what needs improving", 
+            "ts": "1493153419.472119", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493152706.198117", 
+            "text": "<@U4RKZ1A94> requests more teaching around reading errors and reading tests.", 
+            "ts": "1493153388.460216", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493152706.198117", 
+            "text": "<@U3R672XGQ> would like to be able to click a link or have access to an actual running test within the articles.", 
+            "ts": "1493153098.348843", 
+            "user": "U3Z1PUBB2", 
+            "parent_user_id": "U3Z1PUBB2", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 5, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U4M4XGYEN", 
+                        "U4QBMKRQA", 
+                        "U2PSX14KF", 
+                        "U4RKZ1A94"
+                    ]
+                }
+            ], 
+            "text": "Framing around article timeline", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493152879.264355"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U4WKPLCTB", 
+                        "U4WK6BJQM"
+                    ]
+                }
+            ], 
+            "text": "The fact that we come in with different skill sets", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493152860.257145"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 6, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U4YB9LF2N", 
+                        "U4M2ULFUK", 
+                        "U4SCDGADR", 
+                        "U4M4XGYEN", 
+                        "U2PSX14KF"
+                    ]
+                }
+            ], 
+            "text": "The current article tracking table", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493152803.234954"
+        }, 
+        {
+            "thread_ts": "1493152794.231762", 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 10, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U506BBZ3N", 
+                        "U4YB9LF2N", 
+                        "U2PSX14KF", 
+                        "U4M2ULFUK", 
+                        "U4WK6BJQM", 
+                        "U4M4XGYEN", 
+                        "U3R672XGQ", 
+                        "U3TUZU9RR", 
+                        "U4SCDGADR"
+                    ]
+                }
+            ], 
+            "text": "The current homework tracking system", 
+            "ts": "1493152794.231762", 
+            "unread_count": 5, 
+            "reply_count": 5, 
+            "user": "U3Z1PUBB2", 
+            "replies": [
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493153499.503423"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493153630.553649"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493154025.706271"
+                }, 
+                {
+                    "user": "U4WK6BJQM", 
+                    "ts": "1493154066.722657"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493155286.151641"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U4YB9LF2N|michael_murray> has joined the channel", 
+            "type": "message", 
+            "user": "U4YB9LF2N", 
+            "ts": "1493152775.224260", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 8, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U4QBMKRQA", 
+                        "U2PSX14KF", 
+                        "U4WKPLCTB", 
+                        "U3R672XGQ", 
+                        "U506BBZ3N", 
+                        "U4M2ULFUK", 
+                        "U4RKZ1A94"
+                    ]
+                }
+            ], 
+            "text": "The workload for week 1 and part of week 2", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493152746.213065"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 4, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U2PSX14KF", 
+                        "U3TUZU9RR", 
+                        "U4SCDGADR"
+                    ]
+                }
+            ], 
+            "text": "Broken links in the articles", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493152729.206794"
+        }, 
+        {
+            "thread_ts": "1493152706.198117", 
+            "subscribed": false, 
+            "edited": {
+                "user": "U3Z1PUBB2", 
+                "ts": "1493153259.000000"
+            }, 
+            "text": "Testing in the assignments", 
+            "ts": "1493152706.198117", 
+            "unread_count": 7, 
+            "reply_count": 7, 
+            "user": "U3Z1PUBB2", 
+            "replies": [
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493153098.348843"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493153388.460216"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493153419.472119"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493155058.075362"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493157393.806881"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493843176.625609"
+                }, 
+                {
+                    "user": "U3Z1PUBB2", 
+                    "ts": "1493843186.629791"
+                }
+            ], 
+            "reactions": [
+                {
+                    "count": 10, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Z1PUBB2", 
+                        "U4SCDGADR", 
+                        "U4QBMKRQA", 
+                        "U2PSX14KF", 
+                        "U3R672XGQ", 
+                        "U4YB9LF2N", 
+                        "U3TUZU9RR", 
+                        "U506BBZ3N", 
+                        "U4WK6BJQM", 
+                        "U4M2ULFUK"
+                    ]
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<!channel> <https://github.com/gSchool/g52_reflection>", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493152256.023200"
+        }, 
+        {
+            "text": "<@U506BBZ3N|stephenanderson> has joined the channel", 
+            "ts": "1493152018.930967", 
+            "subtype": "channel_join", 
+            "user": "U506BBZ3N", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U3TUZU9RR|johanb> has joined the channel", 
+            "ts": "1493152017.930948", 
+            "subtype": "channel_join", 
+            "user": "U3TUZU9RR", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U2PSX14KF|kurtishouser> has joined the channel", 
+            "ts": "1493152017.930928", 
+            "subtype": "channel_join", 
+            "user": "U2PSX14KF", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4SCDGADR|ssabu> has joined the channel", 
+            "ts": "1493152017.930915", 
+            "subtype": "channel_join", 
+            "user": "U4SCDGADR", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4QBMKRQA|jeffcrusey> has joined the channel", 
+            "ts": "1493152017.930894", 
+            "subtype": "channel_join", 
+            "user": "U4QBMKRQA", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4RKZ1A94|grantwillison> has joined the channel", 
+            "ts": "1493152017.930875", 
+            "subtype": "channel_join", 
+            "user": "U4RKZ1A94", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4M2ULFUK|ronanfitzpatrick> has joined the channel", 
+            "ts": "1493152017.930855", 
+            "subtype": "channel_join", 
+            "user": "U4M2ULFUK", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U3R672XGQ|tylerlangenbrunner> has joined the channel", 
+            "ts": "1493152017.930839", 
+            "subtype": "channel_join", 
+            "user": "U3R672XGQ", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U1X18BQ1G|michaelherman> has joined the channel", 
+            "ts": "1493152017.930817", 
+            "subtype": "channel_join", 
+            "user": "U1X18BQ1G", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4M4XGYEN|meghanprestemon> has joined the channel", 
+            "ts": "1493152017.930804", 
+            "subtype": "channel_join", 
+            "user": "U4M4XGYEN", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4WKPLCTB|allisonbrett> has joined the channel", 
+            "ts": "1493152017.930788", 
+            "subtype": "channel_join", 
+            "user": "U4WKPLCTB", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4NBAUKD4|stelapalii> has joined the channel", 
+            "ts": "1493152017.930765", 
+            "subtype": "channel_join", 
+            "user": "U4NBAUKD4", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4WK6BJQM|dave.gallup> has joined the channel", 
+            "ts": "1493152017.930746", 
+            "subtype": "channel_join", 
+            "user": "U4WK6BJQM", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U3Z1PUBB2|joshwyatt> set the channel purpose: Facilitate reflection meetings", 
+            "ts": "1493151942.901606", 
+            "subtype": "channel_purpose", 
+            "user": "U3Z1PUBB2", 
+            "type": "message", 
+            "purpose": "Facilitate reflection meetings"
+        }, 
+        {
+            "text": "<@U3Z1PUBB2|joshwyatt> has joined the channel", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493151940.900787", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g52_reflection", 
+        "name": "g52_reflection", 
+        "is_channel": true, 
+        "created": 1493151940, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U3Z1PUBB2", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1493151942, 
+            "value": "Facilitate reflection meetings", 
+            "creator": "U3Z1PUBB2"
+        }, 
+        "members": [
+            "U1X18BQ1G", 
+            "U2PSX14KF", 
+            "U3F1AHRHT", 
+            "U3R672XGQ", 
+            "U3TUZU9RR", 
+            "U3Z1PUBB2", 
+            "U4M2ULFUK", 
+            "U4M4XGYEN", 
+            "U4NBAUKD4", 
+            "U4QBMKRQA", 
+            "U4RKZ1A94", 
+            "U4SCDGADR", 
+            "U4WK6BJQM", 
+            "U4WKPLCTB", 
+            "U4YB9LF2N", 
+            "U506BBZ3N", 
+            "U59LA2656"
+        ], 
+        "id": "C53NU3WN4", 
+        "is_shared": false
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "messages": [
+        {
+            "text": "I need to play around with bots more", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1496338517.111588"
+        }, 
+        {
+            "text": "that\u2019s awesome!", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1496338510.109125"
+        }, 
+        {
+            "text": "Ha, yeah I built the questionator to randomly pulling a student from the class roster. So I thought it would be funny to have it also ping that student on Slack automagically.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496338441.084611"
+        }, 
+        {
+            "text": "lol what is that bot?", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1496338349.052081"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U1TTQUYEQ", 
+            "U34BY2K3K"
+        ]
+    }
+}

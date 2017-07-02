@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495758371.233591"
+        }, 
+        {
+            "text": "I'm here.", 
+            "type": "message", 
+            "user": "U50TS530W", 
+            "ts": "1495758203.207849"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U50TS530W", 
+            "U34BY2K3K"
+        ]
+    }
+}

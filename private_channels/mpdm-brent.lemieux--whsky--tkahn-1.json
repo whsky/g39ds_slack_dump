@@ -1,0 +1,75 @@
+{
+    "messages": [
+        {
+            "text": "Feel better.  We did some setup stuff for AWS this morning, so just talk to me later this week and I'll get you caught up there.", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1494258820.922891"
+        }, 
+        {
+            "text": "I think the assignments for this one are well written, so you should be OK. Feel better...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1494254654.602532"
+        }, 
+        {
+            "text": "Hey guys - I've got a stomach bug, gonna sit this one out.  I'll try to work through today's exercises on my own.  Please keep me in the loop if there are any announcements etc.  Hopefully see you tomorrow.", 
+            "type": "message", 
+            "user": "U3SM7D51Q", 
+            "ts": "1494254509.558248"
+        }, 
+        {
+            "text": "Good morning - gonna be 10 minutes late, had a no-show Lyft driver.  See ya shortly.", 
+            "type": "message", 
+            "user": "U3SM7D51Q", 
+            "ts": "1493650648.822919"
+        }, 
+        {
+            "text": "Cool...just make sure you fill out the survey when you make it in!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1492700628.280121"
+        }, 
+        {
+            "text": "Hey guys - running 10 minutes late, see ya soon.", 
+            "type": "message", 
+            "user": "U3SM7D51Q", 
+            "ts": "1492700457.217479"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1492700436, 
+            "value": "Group messaging", 
+            "creator": "U3SM7D51Q"
+        }, 
+        "name_normalized": "mpdm-brent.lemieux--whsky--tkahn-1", 
+        "name": "mpdm-brent.lemieux--whsky--tkahn-1", 
+        "last_read": "1494258820.922891", 
+        "creator": "U3SM7D51Q", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1492700436, 
+        "is_group": true, 
+        "members": [
+            "U3SM7D51Q", 
+            "U33BKEP9Q", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1492700436, 
+            "value": "Group messaging with: @brent.lemieux @whsky @tkahn", 
+            "creator": "U3SM7D51Q"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G522A9WMQ", 
+        "latest": {
+            "text": "Feel better.  We did some setup stuff for AWS this morning, so just talk to me later this week and I'll get you caught up there.", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1494258820.922891"
+        }
+    }
+}

@@ -1,0 +1,1026 @@
+{
+    "messages": [
+        {
+            "text": "Thanks for the great conversations tonight! I hope to see you all at future events.", 
+            "type": "message", 
+            "user": "U21G3E8MC", 
+            "ts": "1498191240.596145"
+        }, 
+        {
+            "text": "and thanks to <@U37U4HABF> :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U5DMF4S64", 
+            "ts": "1498181032.404312"
+        }, 
+        {
+            "text": "Same here! Mine is <mailto:torikwooldridge4@gmail.com|torikwooldridge4@gmail.com>", 
+            "type": "message", 
+            "user": "U5DMF4S64", 
+            "ts": "1498181015.401951"
+        }, 
+        {
+            "text": "It was a pleasure to share this past six weeks with you guys.  My email is <mailto:pintos.laura@gmail.com|pintos.laura@gmail.com>.", 
+            "type": "message", 
+            "user": "U5EBQFUUA", 
+            "ts": "1498180473.330769"
+        }, 
+        {
+            "text": "I'm looking forward to tonight's class! We'll do an 8,000 ft overview of Machine Learning.", 
+            "type": "message", 
+            "user": "U21G3E8MC", 
+            "ts": "1498161352.915079"
+        }, 
+        {
+            "username": "annieevans82", 
+            "display_as_bot": false, 
+            "text": "<@U37U4HABF|annieevans82> uploaded a file: <https://gstudents.slack.com/files/annieevans82/F5W7LALDN/cars_multivariate.csv|cars_multivariate.csv>", 
+            "upload": true, 
+            "ts": "1498001010.485059", 
+            "subtype": "file_share", 
+            "user": "U37U4HABF", 
+            "file": {
+                "filetype": "csv", 
+                "lines_more": 395, 
+                "channels": [
+                    "C4YAQ70DD"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5W7LALDN", 
+                "size": 21084, 
+                "title": "cars_multivariate.csv", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5W7LALDN/cars_multivariate.csv", 
+                "ims": [], 
+                "preview": "mpg,cylinders,displacement,horsepower,weight,acceleration,model,origin,car_name\n18.0,8,307.0,130.0,3504.0,12.0,70,1,chevrolet chevelle malibu\n15.0,8,350.0,165.0,3693.0,11.5,70,1,buick skylark 320\n18.0,8,318.0,150.0,3436.0,11.0,70,1,plymouth satellite\n16.0,8,304.0,150.0,3433.0,12.0,70,1,amc rebel sst", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/annieevans82/F5W7LALDN/cars_multivariate.csv/edit", 
+                "username": "", 
+                "timestamp": 1498001009, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5W7LALDN/download/cars_multivariate.csv", 
+                "user": "U37U4HABF", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "CSV", 
+                "name": "cars_multivariate.csv", 
+                "mimetype": "text/csv", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5W7LALDN-60c3fae8b1", 
+                "permalink": "https://gstudents.slack.com/files/annieevans82/F5W7LALDN/cars_multivariate.csv", 
+                "is_external": false, 
+                "created": 1498001009, 
+                "lines": 400, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>mpg,cylinders,displacement,horsepower,weight,acceleration,model,origin,car_name</pre></div>\n<div><pre>18.0,8,307.0,130.0,3504.0,12.0,70,1,chevrolet chevelle malibu</pre></div>\n<div><pre>15.0,8,350.0,165.0,3693.0,11.5,70,1,buick skylark 320</pre></div>\n<div><pre>18.0,8,318.0,150.0,3436.0,11.0,70,1,plymouth satellite</pre></div>\n<div><pre>16.0,8,304.0,150.0,3433.0,12.0,70,1,amc rebel sst</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "grinning", 
+                    "users": [
+                        "U5F63DD8F"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 229061, 
+                    "ts": 1497423600, 
+                    "title": "What Ideas Are Trending Among Tech's Biggest Influencers?", 
+                    "service_name": "Visual Capitalist", 
+                    "image_width": 501, 
+                    "title_link": "http://www.visualcapitalist.com/trending-techs-biggest-influencers/", 
+                    "image_height": 250, 
+                    "image_url": "http://www.visualcapitalist.com/wp-content/uploads/2017/06/hn-featured.png", 
+                    "text": "What ideas are gaining or losing traction with tech's biggest influencers? We look at the data mined and visualized from one major tech community to find out.", 
+                    "id": 1, 
+                    "fallback": "Visual Capitalist: What Ideas Are Trending Among Tech's Biggest Influencers?", 
+                    "service_icon": "http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2014/04/vc_flat_appleicon.png", 
+                    "from_url": "http://www.visualcapitalist.com/trending-techs-biggest-influencers/"
+                }
+            ], 
+            "text": "<http://www.visualcapitalist.com/trending-techs-biggest-influencers/>     #great data visualization company", 
+            "ts": "1497573580.112273", 
+            "user": "U5CKRH9CG", 
+            "type": "message"
+        }, 
+        {
+            "text": "def version_2(col_x,col_y,size,color,size_amplify=.05,color_amp=0):\n    TOOLS=\"resize,crosshair,pan,wheel_zoom,box_zoom,reset,box_select,hover\"\n    x_ran = (df[col_x].min(), df[col_x].max())\n    y_ran = (df[col_y].min(), df[col_y].max())\n    x_R = df[col_x].max()- df[col_x].min()\n    m = (x_R*size_amplify - x_R*0.01)/(df[size].max()- df[size].min())\n    b = x_R*.01 -m*df[size].min()\n    circle_size = m*df[size]+b\n    m = 100/(df[color].max()-df[color].min())\n    color = m*df[color] - m*df[color].min()\n    colors = [\"#%02x%02x%02x\" % (int(r), int(color_amp), 150) for r, g in zip(50+2*color,color)]\n    title_string = \"{} vs {} with circle size relative to {}\".format(col_x.upper(),col_y.upper(),size.upper())\n    p = figure(title = title_string ,plot_height=600, plot_width=600, x_range = x_ran,y_range=y_ran,x_axis_label=str(col_x), y_axis_label= str(col_y))\n    p.circle(df[col_x],df[col_y], radius= circle_size,fill_color=colors, fill_alpha=0.6, line_color=None)\n    show(p,notebook_handle=True)\n#     show(p)\ncln_lst = list(df.columns.values)\ninteract(version_2, col_x = cln_lst ,col_y = cln_lst, size = cln_lst,color = cln_lst,size_amp=(0.02,.1,.01),color_amp=(0,250,1))", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1497573111.052108"
+        }, 
+        {
+            "text": "<https://github.com/zipfian/solns-python-fundamentals-aus-4>", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1497024242.613327"
+        }, 
+        {
+            "text": "class Triangle():\n    def __init__(self, p1, p2, p3):\n        self.p1=p1\n        self.p2=p2\n        self.p3=p3\n        \n    def __repr__(self):\n        return \"triangle: {} {} {}\".format(self.p1.__repr__(), self.p2.__repr__(), self.p3.__repr__())\n    \n    def perimeter(self):\n        return self.p1.distance(self.p2)+self.p1.distance(self.p3)+self.p2.distance(self.p3)\n    \n    def graph(self):\n        triangle_title=self.__repr__()\n        plot.title(triangle_title)\n        plot.scatter([self.p1.X, self.p2.X, self.p3.X],[self.p1.Y, self.p2.Y, self.p3.Y])\n        plot.show()", 
+            "type": "message", 
+            "user": "U5EEF93HT", 
+            "ts": "1496968468.888177"
+        }, 
+        {
+            "text": "<https://www.eventbrite.com/e/data-science-capstone-showcase-galvanize-austin-tickets-34797685815?aff=es2>", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1496799004.250888"
+        }, 
+        {
+            "text": "Link to DSI Capstone Presentations!!", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1496799002.250534"
+        }, 
+        {
+            "username": "laurapintost", 
+            "display_as_bot": false, 
+            "text": "<@U5EBQFUUA|laurapintost> uploaded a file: <https://gstudents.slack.com/files/laurapintost/F5PLR6KV1/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1496798441.174493", 
+            "subtype": "file_share", 
+            "user": "U5EBQFUUA", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 87, 
+                "channels": [
+                    "C4YAQ70DD"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5PLR6KV1", 
+                "size": 2805, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5PLR6KV1/-.txt", 
+                "ims": [], 
+                "preview": "class OurClass():\r\n\r\n    def __init__(self, name, location, members=None, size=0):\r\n        self.name = name\r\n        self.location = location\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/laurapintost/F5PLR6KV1/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1496798440, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5PLR6KV1/download/-.txt", 
+                "user": "U5EBQFUUA", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5PLR6KV1-ccd1245345", 
+                "permalink": "https://gstudents.slack.com/files/laurapintost/F5PLR6KV1/-.txt", 
+                "is_external": false, 
+                "created": 1496798440, 
+                "lines": 92, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>class OurClass():</pre></div>\n<div><pre></pre></div>\n<div><pre>    def __init__(self, name, location, members=None, size=0):</pre></div>\n<div><pre>        self.name = name</pre></div>\n<div><pre>        self.location = location</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "The following is a solution for the hard assignment:", 
+            "type": "message", 
+            "user": "U5EBQFUUA", 
+            "ts": "1496798431.173335"
+        }, 
+        {
+            "text": "<https://www.eventbrite.com/e/galvanize-alumni-happy-hour-tickets-33439753202>", 
+            "type": "message", 
+            "user": "U3WPMMSQ0", 
+            "ts": "1496778335.571599"
+        }, 
+        {
+            "text": "Hey everyone! Just wanted to let you know that we are having a Summer Alumni Happy Hour on June 30th here at Galvanize! This is a great way to meet alumni, current students, and other prospective students. RSVP below:", 
+            "type": "message", 
+            "user": "U3WPMMSQ0", 
+            "ts": "1496778329.569301"
+        }, 
+        {
+            "text": "<https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X>", 
+            "type": "message", 
+            "user": "U5DMF4S64", 
+            "ts": "1496367156.464712"
+        }, 
+        {
+            "text": "def bubble_sort(my_list):\n    return [my_list.pop(my_list.index(min(my_list))) for i in range(0,len(my_list))]", 
+            "type": "message", 
+            "user": "U5F63DD8F", 
+            "ts": "1496366623.397074"
+        }, 
+        {
+            "text": "def bubble_sort(lst):\n    '''Requirements will sort a list containg integers\n    in ascending order\n    INPUT: list of integers\n    OUPUT: sorted list of integers and runtime'''\n    end= len(lst)\n    while end &gt; 0:\n        for i in range(0,end-1):\n            if lst[i] &gt; lst [i+1]:\n                lst[i], lst[i+1]=lst[i+1], lst[i]\n        end -=1\n    return lst", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1496366589.392686"
+        }, 
+        {
+            "username": "laurapintost", 
+            "display_as_bot": false, 
+            "text": "<@U5EBQFUUA|laurapintost> uploaded a file: <https://gstudents.slack.com/files/laurapintost/F5MKZJ25T/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1496366447.373446", 
+            "subtype": "file_share", 
+            "user": "U5EBQFUUA", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 4, 
+                "channels": [
+                    "C4YAQ70DD"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5MKZJ25T", 
+                "size": 325, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5MKZJ25T/-.txt", 
+                "ims": [], 
+                "preview": "def my_bubbleSort(my_list):\r\n    for index in range (len(my_list)):\r\n        for i in range(len(my_list)):\r\n            if i == len(my_list)-1:\r\n                break\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/laurapintost/F5MKZJ25T/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1496366447, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5MKZJ25T/download/-.txt", 
+                "user": "U5EBQFUUA", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5MKZJ25T-1efbf8d18e", 
+                "permalink": "https://gstudents.slack.com/files/laurapintost/F5MKZJ25T/-.txt", 
+                "is_external": false, 
+                "created": 1496366447, 
+                "lines": 9, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>def my_bubbleSort(my_list):</pre></div>\n<div><pre>    for index in range (len(my_list)):</pre></div>\n<div><pre>        for i in range(len(my_list)):</pre></div>\n<div><pre>            if i == len(my_list)-1:</pre></div>\n<div><pre>                break</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "tori", 
+            "display_as_bot": false, 
+            "text": "<@U5DMF4S64|tori> uploaded a file: <https://gstudents.slack.com/files/tori/F5NC0AB9V/-.txt|Untitled> and commented: Sree &amp; Tori", 
+            "upload": true, 
+            "ts": "1496366408.368105", 
+            "subtype": "file_share", 
+            "user": "U5DMF4S64", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Sree &amp; Tori", 
+                    "created": 1496366408, 
+                    "timestamp": 1496366408, 
+                    "is_intro": true, 
+                    "user": "U5DMF4S64", 
+                    "id": "Fc5MF0TSAX"
+                }, 
+                "filetype": "text", 
+                "lines_more": 15, 
+                "channels": [
+                    "C4YAQ70DD"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5NC0AB9V", 
+                "size": 497, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5NC0AB9V/-.txt", 
+                "ims": [], 
+                "preview": "def bubble_sort(my_list):\r\n    i = len(my_list)\r\n    n = 0\r\n    for n in range(0, i):\r\n        for n in range(0, i):\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/tori/F5NC0AB9V/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1496366408, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5NC0AB9V/download/-.txt", 
+                "user": "U5DMF4S64", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5NC0AB9V-55fd89d828", 
+                "permalink": "https://gstudents.slack.com/files/tori/F5NC0AB9V/-.txt", 
+                "is_external": false, 
+                "created": 1496366408, 
+                "lines": 20, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>def bubble_sort(my_list):</pre></div>\n<div><pre>    i = len(my_list)</pre></div>\n<div><pre>    n = 0</pre></div>\n<div><pre>    for n in range(0, i):</pre></div>\n<div><pre>        for n in range(0, i):</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "axton.nichols", 
+            "display_as_bot": false, 
+            "text": "<@U5DMDV1ME|axton.nichols> uploaded a file: <https://gstudents.slack.com/files/axton.nichols/F5MJMHME0/axton_list_sort.txt|Axton_list_sort>", 
+            "upload": true, 
+            "ts": "1496366401.367115", 
+            "subtype": "file_share", 
+            "user": "U5DMDV1ME", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 7, 
+                "channels": [
+                    "C4YAQ70DD"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5MJMHME0", 
+                "size": 406, 
+                "title": "Axton_list_sort", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5MJMHME0/axton_list_sort.txt", 
+                "ims": [], 
+                "preview": "user_list = [5,4, 6, -3, 0]\r\ndef list_sort(my_list):\r\n    list_len = len(my_list) - 1    \r\n    for elem in my_list:\r\n        for elem in range(0, list_len):\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/axton.nichols/F5MJMHME0/axton_list_sort.txt/edit", 
+                "username": "", 
+                "timestamp": 1496366400, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5MJMHME0/download/axton_list_sort.txt", 
+                "user": "U5DMDV1ME", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "Axton_list_sort.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5MJMHME0-ec1b86a958", 
+                "permalink": "https://gstudents.slack.com/files/axton.nichols/F5MJMHME0/axton_list_sort.txt", 
+                "is_external": false, 
+                "created": 1496366400, 
+                "lines": 12, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>user_list = [5,4, 6, -3, 0]</pre></div>\n<div><pre>def list_sort(my_list):</pre></div>\n<div><pre>    list_len = len(my_list) - 1    </pre></div>\n<div><pre>    for elem in my_list:</pre></div>\n<div><pre>        for elem in range(0, list_len):</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "def bubble_sort(my_list):\n    b = []\n    while(len(my_list)): b.append(my_list.pop(my_list.index(min(my_list))))\n    return b\nprint(bubble_sort([1,3,3,2,4,9, 415,235, 1, 34, 5, 9]))", 
+            "type": "message", 
+            "user": "U5F63DD8F", 
+            "ts": "1496366373.363533"
+        }, 
+        {
+            "text": "Day 5 Solutions are posted!", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1496193871.716356"
+        }, 
+        {
+            "username": "annieevans82", 
+            "display_as_bot": false, 
+            "text": "<@U37U4HABF|annieevans82> uploaded a file: <https://gstudents.slack.com/files/annieevans82/F5KJTHEBT/screen_shot_2017-05-30_at_7.31.14_pm.png|Screen Shot 2017-05-30 at 7.31.14 PM.png>", 
+            "upload": true, 
+            "ts": "1496190724.285711", 
+            "subtype": "file_share", 
+            "user": "U37U4HABF", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 512, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5KJTHEBT-dbffe8418a/screen_shot_2017-05-30_at_7.31.14_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5KJTHEBT-dbffe8418a/screen_shot_2017-05-30_at_7.31.14_pm_64.png", 
+                "size": 706048, 
+                "original_h": 1254, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-05-30 at 7.31.14 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5KJTHEBT/screen_shot_2017-05-30_at_7.31.14_pm.png", 
+                "thumb_720_h": 461, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5KJTHEBT-dbffe8418a/screen_shot_2017-05-30_at_7.31.14_pm_360.png", 
+                "id": "F5KJTHEBT", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5KJTHEBT-dbffe8418a/screen_shot_2017-05-30_at_7.31.14_pm_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 231, 
+                "thumb_480_h": 307, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5KJTHEBT-dbffe8418a/screen_shot_2017-05-30_at_7.31.14_pm_800.png", 
+                "timestamp": 1496190720, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5KJTHEBT-dbffe8418a/screen_shot_2017-05-30_at_7.31.14_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5KJTHEBT/download/screen_shot_2017-05-30_at_7.31.14_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5KJTHEBT-dbffe8418a/screen_shot_2017-05-30_at_7.31.14_pm_1024.png", 
+                "user": "U37U4HABF", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5KJTHEBT-dbffe8418a/screen_shot_2017-05-30_at_7.31.14_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-05-30 at 7.31.14 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5KJTHEBT-d67de762a4", 
+                "permalink": "https://gstudents.slack.com/files/annieevans82/F5KJTHEBT/screen_shot_2017-05-30_at_7.31.14_pm.png", 
+                "is_external": false, 
+                "created": 1496190720, 
+                "thumb_1024_h": 656, 
+                "thumb_960_h": 615, 
+                "original_w": 1958, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5KJTHEBT-dbffe8418a/screen_shot_2017-05-30_at_7.31.14_pm_720.png", 
+                "channels": [
+                    "C4YAQ70DD"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Hey everyone! I'm planning on stopping in on Thursday to chat about our immersive course. Let me know if anyone wants to meet earlier for some one on one time!", 
+            "type": "message", 
+            "user": "U3WPMMSQ0", 
+            "ts": "1496177294.410603"
+        }, 
+        {
+            "text": "Hey guys! Above is a link to the solutions for the first four lessons. See you tonight!", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1496173882.243297"
+        }, 
+        {
+            "text": "<https://github.com/zipfian/solns-python-fundamentals-aus-4>", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1496173845.230968"
+        }, 
+        {
+            "text": "If I take out my for function then it does that.\n\nHow about the states one? It says to make the user_input case insensitive to make the adjustment in the dictionary line, but if I just add .title() to the user_input then it becomes case insensitive as well. Is really an easier way?\n\nstate_dictionary = {'Colorado': 'Denver', 'Alaska': 'Juneau', 'California': 'Sacramento',\n                        'Georgia': 'Atlanta', 'Kansas': 'Topeka', 'Nebraska': 'Lincoln',\n                        'Oregon': 'Salem', 'Texas': 'Austin', 'New York': 'Albany'}\nuser_input = raw_input(\"Engter state name: \").title()\nprint state_dictionary.get(user_input, \"Capital Unknown\")", 
+            "type": "message", 
+            "user": "U5DQB9A7K", 
+            "ts": "1495904197.367891", 
+            "edited": {
+                "user": "U5DQB9A7K", 
+                "ts": "1495904246.000000"
+            }
+        }, 
+        {
+            "text": "It sounds like you answered it okay according to the directions. See above pic, they omit the odd number 5 in the example solution.", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1495828246.222317"
+        }, 
+        {
+            "username": "annieevans82", 
+            "display_as_bot": false, 
+            "text": "<@U37U4HABF|annieevans82> uploaded a file: <https://gstudents.slack.com/files/annieevans82/F5J3H70PJ/screen_shot_2017-05-26_at_2.49.32_pm.png|Screen Shot 2017-05-26 at 2.49.32 PM.png>", 
+            "upload": true, 
+            "ts": "1495828206.212134", 
+            "subtype": "file_share", 
+            "user": "U37U4HABF", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 231, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5J3H70PJ-151c9f504c/screen_shot_2017-05-26_at_2.49.32_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5J3H70PJ-151c9f504c/screen_shot_2017-05-26_at_2.49.32_pm_64.png", 
+                "size": 148666, 
+                "original_h": 468, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-05-26 at 2.49.32 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5J3H70PJ/screen_shot_2017-05-26_at_2.49.32_pm.png", 
+                "thumb_720_h": 208, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5J3H70PJ-151c9f504c/screen_shot_2017-05-26_at_2.49.32_pm_360.png", 
+                "id": "F5J3H70PJ", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5J3H70PJ-151c9f504c/screen_shot_2017-05-26_at_2.49.32_pm_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 104, 
+                "thumb_480_h": 139, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5J3H70PJ-151c9f504c/screen_shot_2017-05-26_at_2.49.32_pm_800.png", 
+                "timestamp": 1495828203, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5J3H70PJ-151c9f504c/screen_shot_2017-05-26_at_2.49.32_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5J3H70PJ/download/screen_shot_2017-05-26_at_2.49.32_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5J3H70PJ-151c9f504c/screen_shot_2017-05-26_at_2.49.32_pm_1024.png", 
+                "user": "U37U4HABF", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5J3H70PJ-151c9f504c/screen_shot_2017-05-26_at_2.49.32_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-05-26 at 2.49.32 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5J3H70PJ-69d924eb8f", 
+                "permalink": "https://gstudents.slack.com/files/annieevans82/F5J3H70PJ/screen_shot_2017-05-26_at_2.49.32_pm.png", 
+                "is_external": false, 
+                "created": 1495828203, 
+                "thumb_1024_h": 296, 
+                "thumb_960_h": 278, 
+                "original_w": 1618, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5J3H70PJ-151c9f504c/screen_shot_2017-05-26_at_2.49.32_pm_720.png", 
+                "channels": [
+                    "C4YAQ70DD"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Assn 1: Day4\nI misunderstood the last line of direction and added a step for myself, but it still discards one of the user inputted numbers if they put in an odd length, but now if it's odd then it deletes the lowest number entered.\n\"If the user inputs an odd number of numbers, then only make a list of the largest number of pairs of two that are possible.\"\n\n\nvalues = raw_input(\"Input numbers seperated by commas: \")\nlist = values.split(\",\")\nfor num_ in list:\n    if len(list) %2 != 0:\n        list.remove(min(list))\ntuple  = tuple(list)\nx = tuple[::2]\ny = tuple[1::2]\nzipped = zip(x,y)\nprint zipped", 
+            "type": "message", 
+            "user": "U5DQB9A7K", 
+            "ts": "1495822612.635614", 
+            "edited": {
+                "user": "U5DQB9A7K", 
+                "ts": "1495823514.000000"
+            }
+        }, 
+        {
+            "text": "You got this!", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1495820855.071023", 
+            "subtype": "slackbot_response"
+        }, 
+        {
+            "text": "Hey class, I hear you want to talk more about tuples. I'll come by for a bit at the beginning of Tuesday night's class and we can discuss.", 
+            "type": "message", 
+            "user": "U21G3E8MC", 
+            "ts": "1495816209.616387"
+        }, 
+        {
+            "text": "For you that have to copy and paste the link to run jupyter notebook, I at least know the cause. We have updated to Sierra 10.12.5 on a mac. I will try to find a solution via google and Ryan and let you know if I find success. \ud83e\udd20", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1495812595.403483"
+        }, 
+        {
+            "text": "Hey Guys-", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1495812519.376534"
+        }, 
+        {
+            "username": "annieevans82", 
+            "display_as_bot": false, 
+            "text": "<@U37U4HABF|annieevans82> uploaded a file: <https://gstudents.slack.com/files/annieevans82/F5KCWRUMU/screen_shot_2017-05-26_at_10.27.49_am.png|Screen Shot 2017-05-26 at 10.27.49 AM.png>", 
+            "upload": true, 
+            "ts": "1495812496.368285", 
+            "subtype": "file_share", 
+            "user": "U37U4HABF", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 625, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5KCWRUMU-ac03c760cd/screen_shot_2017-05-26_at_10.27.49_am_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5KCWRUMU-ac03c760cd/screen_shot_2017-05-26_at_10.27.49_am_64.png", 
+                "size": 293212, 
+                "original_h": 902, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-05-26 at 10.27.49 AM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5KCWRUMU/screen_shot_2017-05-26_at_10.27.49_am.png", 
+                "thumb_720_h": 563, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5KCWRUMU-ac03c760cd/screen_shot_2017-05-26_at_10.27.49_am_360.png", 
+                "id": "F5KCWRUMU", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5KCWRUMU-ac03c760cd/screen_shot_2017-05-26_at_10.27.49_am_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 281, 
+                "thumb_480_h": 375, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5KCWRUMU-ac03c760cd/screen_shot_2017-05-26_at_10.27.49_am_800.png", 
+                "timestamp": 1495812492, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5KCWRUMU-ac03c760cd/screen_shot_2017-05-26_at_10.27.49_am_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5KCWRUMU/download/screen_shot_2017-05-26_at_10.27.49_am.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5KCWRUMU-ac03c760cd/screen_shot_2017-05-26_at_10.27.49_am_1024.png", 
+                "user": "U37U4HABF", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5KCWRUMU-ac03c760cd/screen_shot_2017-05-26_at_10.27.49_am_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-05-26 at 10.27.49 AM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5KCWRUMU-9b3062857f", 
+                "permalink": "https://gstudents.slack.com/files/annieevans82/F5KCWRUMU/screen_shot_2017-05-26_at_10.27.49_am.png", 
+                "is_external": false, 
+                "created": 1495812492, 
+                "thumb_1024_h": 800, 
+                "thumb_960_h": 750, 
+                "original_w": 1154, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5KCWRUMU-ac03c760cd/screen_shot_2017-05-26_at_10.27.49_am_720.png", 
+                "channels": [
+                    "C4YAQ70DD"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://www.khanacademy.org/math/statistics-probability>", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1495733497.854621", 
+            "attachments": [
+                {
+                    "image_bytes": 10840, 
+                    "title": "Khan Academy", 
+                    "text": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.", 
+                    "image_width": 476, 
+                    "title_link": "https://www.khanacademy.org/math/statistics-probability", 
+                    "image_height": 250, 
+                    "image_url": "https://cdn.kastatic.org/images/khan-logo-dark-background.png", 
+                    "service_name": "khanacademy.org", 
+                    "id": 1, 
+                    "fallback": "Khan Academy", 
+                    "service_icon": "https://cdn.kastatic.org/images/apple-touch-icon-57x57-precomposed.png", 
+                    "from_url": "https://www.khanacademy.org/math/statistics-probability"
+                }
+            ]
+        }, 
+        {
+            "text": "Tab AFTER you put in the decimal to indicate you're going to attach a method, that is.", 
+            "type": "message", 
+            "user": "U5CKRH9CG", 
+            "ts": "1495724704.628242"
+        }, 
+        {
+            "text": "I think just tab and you see a dropdown box.  But you can't select from there, so it's not totally copacetic.", 
+            "type": "message", 
+            "user": "U5CKRH9CG", 
+            "ts": "1495724652.608143"
+        }, 
+        {
+            "text": "Does anyone remember what the shortcut to expose methods was? tab + something?", 
+            "type": "message", 
+            "user": "U5DMF4S64", 
+            "ts": "1495681048.779495"
+        }, 
+        {
+            "text": "My fault, they are Roberts", 
+            "type": "message", 
+            "user": "U5EBR6XB4", 
+            "ts": "1495590639.351716"
+        }, 
+        {
+            "text": "Laura, you forgot your sunglasses!", 
+            "type": "message", 
+            "user": "U5EBR6XB4", 
+            "ts": "1495589814.248616"
+        }, 
+        {
+            "text": "total = 0\nprint \" num | i  | total  |\"\nfor num in range(1,11):\n    # print \"In outter for loop!\"\n    # print \"num: {}\".format(num)\n    if num%2==0:\n        # print 'EVEN!!'\n        for i in range(0,2):\n            # print \"inside inner for loop!\"\n            # print \"i {}\".format(i)\n            print \"{}   |   {}  |  {}  \".format(num,i,total)\n    else:\n        print \"{}   |     |  {}  \".format(num,total)\n        # print \"ODD!!\"\n        total+=1\n        # print \"total: {}\".format(total)", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1495588009.018737"
+        }, 
+        {
+            "text": "Hey everyone! My name is Carly and I am the Admissions Advisor here at the Austin Galvanize campus. I know some of you are thinking of applying to the July start date of our Data Science Immersive course. I will be stopping by your class next week to check in and touch base. Until then, if you have any questions or would like to set up a time to chat, please feel free to DM me!", 
+            "type": "message", 
+            "user": "U3WPMMSQ0", 
+            "ts": "1495558123.612772"
+        }, 
+        {
+            "text": "Did it ring a bell?", 
+            "type": "message", 
+            "user": "U2LV2279N", 
+            "ts": "1495413667.258469"
+        }, 
+        {
+            "text": "Issue is however to write a clean syntax for bringing in uniqueness to values.", 
+            "type": "message", 
+            "user": "U2LV2279N", 
+            "ts": "1495413650.257431"
+        }, 
+        {
+            "text": "for a in range(1,6):\n    for b in range(1,6):\n        for c in range(1,6):\n            for d in range(1,6):\n                for e in range(1,6):\n                    for f in range(1,6):\n                        (a + (b - c) * d - e) * f == 75 for a!=b!=c!=d!=e!=f:\n                            print a,b,c,d,e,f\n                            break", 
+            "type": "message", 
+            "user": "U2LV2279N", 
+            "ts": "1495413617.254719"
+        }, 
+        {
+            "text": "Below is code i wrote for problem # 10", 
+            "type": "message", 
+            "user": "U2LV2279N", 
+            "ts": "1495413614.254433"
+        }, 
+        {
+            "username": "laurapintost", 
+            "display_as_bot": false, 
+            "text": "<@U5EBQFUUA|laurapintost> uploaded a file: <https://gstudents.slack.com/files/laurapintost/F5FBY6K09/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1495299514.067597", 
+            "subtype": "file_share", 
+            "user": "U5EBQFUUA", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 30, 
+                "channels": [
+                    "C4YAQ70DD"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5FBY6K09", 
+                "size": 1169, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5FBY6K09/-.txt", 
+                "ims": [], 
+                "preview": "solution_found = False\r\n\r\nfor a in range(1, 7):\r\n    if solution_found:\r\n        break\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/laurapintost/F5FBY6K09/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1495299513, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5FBY6K09/download/-.txt", 
+                "user": "U5EBQFUUA", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5FBY6K09-3b96dcd477", 
+                "permalink": "https://gstudents.slack.com/files/laurapintost/F5FBY6K09/-.txt", 
+                "is_external": false, 
+                "created": 1495299513, 
+                "lines": 35, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>solution_found = False</pre></div>\n<div><pre></pre></div>\n<div><pre>for a in range(1, 7):</pre></div>\n<div><pre>    if solution_found:</pre></div>\n<div><pre>        break</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "# Another solution for assignment question 10", 
+            "type": "message", 
+            "user": "U5EBQFUUA", 
+            "ts": "1495299466.064690"
+        }, 
+        {
+            "text": "#~~~~~~~~~ 10 ~~~~~~~~~~~~~~~~\na = 1\nb = 1\nc = 1\nd = 1\ne = 1\nf = 1\nfor i1 in range(1,7):\n    a = i1\n    if ( (a + (b - c) * d - e) * f == 75): print(a,b,c,d,e,f)\n    for i2 in range(1,7):\n        b = i2\n        if ( (a + (b - c) * d - e) * f == 75): print(a,b,c,d,e,f)\n        for i3 in range(1,7):\n            c = i3\n            if ( (a + (b - c) * d - e) * f == 75): print(a,b,c,d,e,f)\n            for i4 in range(1,7):\n                d = i4\n                if ( (a + (b - c) * d - e) * f == 75): print(a,b,c,d,e,f)\n                for i5 in range(1,7):\n                    e = i5\n                    if ( (a + (b - c) * d - e) * f == 75): print(a,b,c,d,e,f)\n                    for i6 in range(1,7):\n                        f = i6\n                        if ( (a + (b - c) * d - e) * f == 75): print(a,b,c,d,e,f)", 
+            "type": "message", 
+            "user": "U5F63DD8F", 
+            "ts": "1495156441.755257"
+        }, 
+        {
+            "username": "annieevans82", 
+            "display_as_bot": false, 
+            "text": "<@U37U4HABF|annieevans82> uploaded a file: <https://gstudents.slack.com/files/annieevans82/F5G6U6E1L/screen_shot_2017-05-18_at_8.03.25_pm.png|Screen Shot 2017-05-18 at 8.03.25 PM.png>", 
+            "upload": true, 
+            "ts": "1495155864.684402", 
+            "subtype": "file_share", 
+            "user": "U37U4HABF", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 315, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5G6U6E1L-9cb3e5aed9/screen_shot_2017-05-18_at_8.03.25_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5G6U6E1L-9cb3e5aed9/screen_shot_2017-05-18_at_8.03.25_pm_64.png", 
+                "size": 276678, 
+                "original_h": 898, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-05-18 at 8.03.25 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5G6U6E1L/screen_shot_2017-05-18_at_8.03.25_pm.png", 
+                "thumb_720_h": 284, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5G6U6E1L-9cb3e5aed9/screen_shot_2017-05-18_at_8.03.25_pm_360.png", 
+                "id": "F5G6U6E1L", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5G6U6E1L-9cb3e5aed9/screen_shot_2017-05-18_at_8.03.25_pm_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 142, 
+                "thumb_480_h": 189, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5G6U6E1L-9cb3e5aed9/screen_shot_2017-05-18_at_8.03.25_pm_800.png", 
+                "timestamp": 1495155858, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5G6U6E1L-9cb3e5aed9/screen_shot_2017-05-18_at_8.03.25_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5G6U6E1L/download/screen_shot_2017-05-18_at_8.03.25_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5G6U6E1L-9cb3e5aed9/screen_shot_2017-05-18_at_8.03.25_pm_1024.png", 
+                "user": "U37U4HABF", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5G6U6E1L-9cb3e5aed9/screen_shot_2017-05-18_at_8.03.25_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-05-18 at 8.03.25 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5G6U6E1L-e366970cb1", 
+                "permalink": "https://gstudents.slack.com/files/annieevans82/F5G6U6E1L/screen_shot_2017-05-18_at_8.03.25_pm.png", 
+                "is_external": false, 
+                "created": 1495155858, 
+                "thumb_1024_h": 404, 
+                "thumb_960_h": 378, 
+                "original_w": 2278, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5G6U6E1L-9cb3e5aed9/screen_shot_2017-05-18_at_8.03.25_pm_720.png", 
+                "channels": [
+                    "C4YAQ70DD"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U5DN5U75E|userslack> has joined the channel", 
+            "type": "message", 
+            "user": "U5DN5U75E", 
+            "ts": "1494982660.696061", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<https://www.google.com/search?q=terminal+commands+windows&amp;rlz=1C5CHFA_enUS726US726&amp;oq=terminal+command&amp;aqs=chrome.2.0j69i57j0l4.4553j0j4&amp;sourceid=chrome&amp;ie=UTF-8#q=windows+vs+mac+command+line>", 
+            "type": "message", 
+            "user": "U37U4HABF", 
+            "ts": "1494980532.417732"
+        }, 
+        {
+            "text": "<@U5EBR6XB4|syndiate723> has joined the channel", 
+            "type": "message", 
+            "user": "U5EBR6XB4", 
+            "ts": "1494976855.827836", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5EBQFUUA|laurapintost> has joined the channel", 
+            "type": "message", 
+            "user": "U5EBQFUUA", 
+            "ts": "1494976688.799519", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5DMF4S64|tori> has joined the channel", 
+            "type": "message", 
+            "user": "U5DMF4S64", 
+            "ts": "1494976407.750850", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Course Curriculum: <https://github.com/zipfian/python-fundamentals/>", 
+            "type": "message", 
+            "user": "U21G3E8MC", 
+            "ts": "1494976301.732040"
+        }, 
+        {
+            "text": "<@U5EEF93HT|salkayalialalam> has joined the channel", 
+            "type": "message", 
+            "user": "U5EEF93HT", 
+            "ts": "1494976201.714491", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5DMDV1ME|axton.nichols> has joined the channel", 
+            "type": "message", 
+            "user": "U5DMDV1ME", 
+            "ts": "1494976134.702597", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5DQB9A7K|rjmathes> has joined the channel", 
+            "type": "message", 
+            "user": "U5DQB9A7K", 
+            "ts": "1494975834.647630", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5F63DD8F|atticus_ross> has joined the channel", 
+            "type": "message", 
+            "user": "U5F63DD8F", 
+            "ts": "1494974371.363417", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5CKRH9CG|robertbrown> has joined the channel", 
+            "type": "message", 
+            "user": "U5CKRH9CG", 
+            "ts": "1494793714.508225", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5E407VV5|jeffward> has joined the channel", 
+            "type": "message", 
+            "user": "U5E407VV5", 
+            "ts": "1494782863.949814", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1URXFT9S|scott.schwartz> has joined the channel", 
+            "ts": "1491922328.377809", 
+            "subtype": "channel_join", 
+            "user": "U1URXFT9S", 
+            "type": "message", 
+            "inviter": "U1TJ1MA8G"
+        }, 
+        {
+            "text": "<@U37U4HABF|annieevans82> has joined the channel", 
+            "ts": "1491922328.377774", 
+            "subtype": "channel_join", 
+            "user": "U37U4HABF", 
+            "type": "message", 
+            "inviter": "U1TJ1MA8G"
+        }, 
+        {
+            "text": "<@U3WPMMSQ0|carlyhallal> has joined the channel", 
+            "ts": "1491922328.377741", 
+            "subtype": "channel_join", 
+            "user": "U3WPMMSQ0", 
+            "type": "message", 
+            "inviter": "U1TJ1MA8G"
+        }, 
+        {
+            "text": "<@U21G3E8MC|ryan.henning> has joined the channel", 
+            "ts": "1491922328.377730", 
+            "subtype": "channel_join", 
+            "user": "U21G3E8MC", 
+            "type": "message", 
+            "inviter": "U1TJ1MA8G"
+        }, 
+        {
+            "text": "<@U1TJ1MA8G|scottkgood> has joined the channel", 
+            "type": "message", 
+            "user": "U1TJ1MA8G", 
+            "ts": "1491922327.377432", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "aus_pyfun_may17", 
+        "name": "aus_pyfun_may17", 
+        "is_channel": true, 
+        "created": 1491922327, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1TJ1MA8G", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U1TJ1MA8G", 
+            "U1URXFT9S", 
+            "U21G3E8MC", 
+            "U2LV2279N", 
+            "U37U4HABF", 
+            "U3WPMMSQ0", 
+            "U5CKRH9CG", 
+            "U5DMDV1ME", 
+            "U5DMF4S64", 
+            "U5DN5U75E", 
+            "U5DQB9A7K", 
+            "U5E407VV5", 
+            "U5EBQFUUA", 
+            "U5EBR6XB4", 
+            "U5EEF93HT", 
+            "U5F63DD8F"
+        ], 
+        "id": "C4YAQ70DD", 
+        "is_shared": false
+    }
+}

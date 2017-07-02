@@ -1,0 +1,317 @@
+{
+    "messages": [
+        {
+            "text": "Ha, hang tight bud!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1498770147.119019"
+        }, 
+        {
+            "text": "It'll work out somehow.", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1498770123.111025"
+        }, 
+        {
+            "text": "Hope it works out!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1498770099.102559"
+        }, 
+        {
+            "text": "Ok cool. Thanks", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1498768874.674284"
+        }, 
+        {
+            "text": "Not sure, might be after the first full two weeks...you can check with Kelly, Dan or Brad.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1498768858.668819"
+        }, 
+        {
+            "text": "Ok cool, so I'm starting on the 10th, do you think I'll get one on the 15th?", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1498768805.650739"
+        }, 
+        {
+            "text": "I hear ya, I think they were paying 1st and 15th the whole time.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1498768751.630991"
+        }, 
+        {
+            "text": "Hey Steve! I'm trying to figure some stuff out regarding my living situation and being a DSR. I was wondering how long it took you to start getting paid after you started working.", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1498768344.487885"
+        }, 
+        {
+            "text": "All full up and on my way", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1497628471.760740"
+        }, 
+        {
+            "text": "Cool, don't get stranded...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497628419.741402"
+        }, 
+        {
+            "text": "Yo Steve. I'm going to be a little bit late I have to grab some gas or I'm  never going to get there!", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1497627980.576813"
+        }, 
+        {
+            "text": "Been there...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496245488.105243"
+        }, 
+        {
+            "text": "Hey man, I made a stupid and my phone was on silent so I never heard my alarm. I'm leaving home now. Be there in 35", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1496243239.150541"
+        }, 
+        {
+            "text": "Cool, thanks man.", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1495556995.790895"
+        }, 
+        {
+            "text": "Ahhh...I'll see if they are making them public for you guys.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495556986.786912"
+        }, 
+        {
+            "text": "I meant the guest speaker's slides. I think it's Drumfire today?", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1495556832.715961"
+        }, 
+        {
+            "text": "it's in the `spark-materials.zip` Brent slacked out", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495556782.693374"
+        }, 
+        {
+            "text": "Also, in case I don't make it to class today, will you send me the speaker's slides?", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1495556665.641195"
+        }, 
+        {
+            "text": "Right on, the `jupyspark.sh` assumes a python 2 environment.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495556646.632872"
+        }, 
+        {
+            "text": "I just had to use python 2. Then it worked fine", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1495556605.614096"
+        }, 
+        {
+            "text": "Nice!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495555748.221720"
+        }, 
+        {
+            "text": "Bam! Working now", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1495554673.687725"
+        }, 
+        {
+            "text": "word", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495554466.584564"
+        }, 
+        {
+            "text": "Will do! I'm working on that now.", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1495554417.560183"
+        }, 
+        {
+            "text": "You should definitely make sure you can get Spark running in a Jupyter notebook to make sure your install worked. Brent slacked out his Spark materials and some notes to run the bash script. Make sure that works for you!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495554297.499164"
+        }, 
+        {
+            "text": "Hey Steve! Sorry I'm late in letting you know, but I am unfortunately not going to be able to make it in this morning. I will try to follow along with lecture notes, and I'll  be able to come in around noon.", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1495553341.016944"
+        }, 
+        {
+            "text": "Cool", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1494601419.242972"
+        }, 
+        {
+            "text": "Yo, just parked. Be there in &lt;10", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1494601361.215632"
+        }, 
+        {
+            "text": "No worries...heard the line was a beast today.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493998714.381472"
+        }, 
+        {
+            "text": "Sorry dude! I left my phone down here while I grabbed coffee", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1493998586.323668"
+        }, 
+        {
+            "text": "You making it in today?", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493997758.949430"
+        }, 
+        {
+            "text": "Nice...I'll try to take a look this afternoon!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493311773.033360"
+        }, 
+        {
+            "username": "john_prendergast", 
+            "display_as_bot": false, 
+            "text": "<@U4P1R50MT|john_prendergast> uploaded a file: <https://gstudents.slack.com/files/john_prendergast/F54TFA0BA/gradientdescent.py|gradientdescent.py> and commented: It's super basic. I haven't added in some extra functionality I'd like in there.", 
+            "upload": true, 
+            "ts": "1493311094.738502", 
+            "subtype": "file_share", 
+            "user": "U4P1R50MT", 
+            "file": {
+                "initial_comment": {
+                    "comment": "It's super basic. I haven't added in some extra functionality I'd like in there.", 
+                    "created": 1493311093, 
+                    "timestamp": 1493311093, 
+                    "is_intro": true, 
+                    "user": "U4P1R50MT", 
+                    "id": "Fc550ZFAAD"
+                }, 
+                "filetype": "python", 
+                "lines_more": 14, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F54TFA0BA", 
+                "size": 435, 
+                "title": "gradientdescent.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F54TFA0BA/gradientdescent.py", 
+                "ims": [
+                    "D4Y9X2F52"
+                ], 
+                "preview": "def solver(function, x, step_size, maxiter):\n    iterations = 0\n    while abs(function(x)[1]) > 0.001 and iterations < maxiter:\n        y = function(x)[0]\n        yprime = function(x)[1]", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/john_prendergast/F54TFA0BA/gradientdescent.py/edit", 
+                "username": "", 
+                "timestamp": 1493311093, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F54TFA0BA/download/gradientdescent.py", 
+                "user": "U4P1R50MT", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "gradientdescent.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F54TFA0BA-e72094b20c", 
+                "permalink": "https://gstudents.slack.com/files/john_prendergast/F54TFA0BA/gradientdescent.py", 
+                "is_external": false, 
+                "created": 1493311093, 
+                "lines": 19, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">def</span> <span class=\"cm-def\">solver</span>(<span class=\"cm-variable\">function</span>, <span class=\"cm-variable\">x</span>, <span class=\"cm-variable\">step_size</span>, <span class=\"cm-variable\">maxiter</span>):</pre></div>\n<div><pre>    <span class=\"cm-variable\">iterations</span> = <span class=\"cm-number\">0</span></pre></div>\n<div><pre>    <span class=\"cm-keyword\">while</span> <span class=\"cm-builtin\">abs</span>(<span class=\"cm-variable\">function</span>(<span class=\"cm-variable\">x</span>)[<span class=\"cm-number\">1</span>]) <span class=\"cm-operator\">&gt;</span> <span class=\"cm-number\">0.001</span> <span class=\"cm-keyword\">and</span> <span class=\"cm-variable\">iterations</span> <span class=\"cm-operator\">&lt;</span> <span class=\"cm-variable\">maxiter</span>:</pre></div>\n<div><pre>        <span class=\"cm-variable\">y</span> = <span class=\"cm-variable\">function</span>(<span class=\"cm-variable\">x</span>)[<span class=\"cm-number\">0</span>]</pre></div>\n<div><pre>        <span class=\"cm-variable\">yprime</span> = <span class=\"cm-variable\">function</span>(<span class=\"cm-variable\">x</span>)[<span class=\"cm-number\">1</span>]</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "uhhhhh, yeah I'll share mine with you, and if you deem it worthy, we can slack it out to the class.", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1493310938.670898"
+        }, 
+        {
+            "text": "So I officially got my third request for the gradient descent miniquiz solution (which we don't have). Did you want to share yours or better yet present it to the class?", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493306969.760778"
+        }, 
+        {
+            "text": "Ok. I'll catch up", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1493218523.154425"
+        }, 
+        {
+            "text": "Ha...I know how that goes. I think Brent was hoping to get his Random Forest lecture going at 9ish FYI.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493218491.137599"
+        }, 
+        {
+            "text": "Hey Steve, I'm gonna be late. Probably about 45 minutes late. I can't believe it, but I slept in. This ones all on me.", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1493218421.101692"
+        }, 
+        {
+            "text": "no worries bud.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1492614315.346306"
+        }, 
+        {
+            "text": "Yo Steve. There's a chance I might be a little bit late if parking is hard-to-find. But only by like five maybe 10 minutes.", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1492612247.314759"
+        }, 
+        {
+            "text": "Thanks man", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1492009312.607085"
+        }, 
+        {
+            "text": "Cool man, no worries...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1492009285.593181"
+        }, 
+        {
+            "text": "Hey Steve! I'm just now leaving my place, so I'm going to miss the warm up. Just wanted to let you know I'll be there so you guys don't mark me as absent!", 
+            "type": "message", 
+            "user": "U4P1R50MT", 
+            "ts": "1492008559.236313"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U4P1R50MT", 
+            "U34BY2K3K"
+        ]
+    }
+}

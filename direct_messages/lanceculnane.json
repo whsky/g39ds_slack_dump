@@ -1,0 +1,142 @@
+{
+    "messages": [
+        {
+            "text": "Ha, yeah they used to set up across the street from my old apt in Humboldt Park back in Chi-town...always good people watching!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1486530654.000002"
+        }, 
+        {
+            "text": "oh yeah and Sleeter Kinney who ive seen- they're cool. I love Portlandia haha", 
+            "type": "message", 
+            "user": "U3450LGGP", 
+            "ts": "1486516067.000004"
+        }, 
+        {
+            "text": "riot fest- we should go summer 2017! There was the decendents, Bad Religion, Misfits, Janes Addiction, Against Me- I actually really like Against me even tho they are pretty pop and mainstream <http://denver.riotfest.org/?sort=day>", 
+            "type": "message", 
+            "user": "U3450LGGP", 
+            "ts": "1486515998.000002", 
+            "attachments": [
+                {
+                    "title": "Riot Fest Denver 2016", 
+                    "text": "See who's playing Riot Fest Denver 2016, which of your friends are going, and pick your own favorites.", 
+                    "title_link": "http://denver.riotfest.org/?sort=day", 
+                    "service_name": "denver.riotfest.org", 
+                    "id": 1, 
+                    "fallback": "Riot Fest Denver 2016", 
+                    "service_icon": "http://s3.amazonaws.com/dostuff-production/property_assets/36576/rf-32.png", 
+                    "from_url": "http://denver.riotfest.org/?sort=day"
+                }
+            ]
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F3W4MR5FH/pair.py|pair.py> and commented: Book SVD (pre-recommender stuff)", 
+            "upload": true, 
+            "ts": "1485218784.000002", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Book SVD (pre-recommender stuff)", 
+                    "created": 1485218784, 
+                    "timestamp": 1485218784, 
+                    "is_intro": true, 
+                    "user": "U34BY2K3K", 
+                    "id": "Fc3W4AAN14"
+                }, 
+                "filetype": "python", 
+                "lines_more": 57, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3W4MR5FH", 
+                "size": 1672, 
+                "title": "pair.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3W4MR5FH/pair.py", 
+                "ims": [
+                    "D3HD53Y4U"
+                ], 
+                "preview": "import pandas as pd\nfrom numpy.linalg import svd\nimport numpy as np\nimport matplotlib.pyplot as plt\n", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/whsky/F3W4MR5FH/pair.py/edit", 
+                "username": "", 
+                "timestamp": 1485218784, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3W4MR5FH/download/pair.py", 
+                "user": "U34BY2K3K", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "pair.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3W4MR5FH-d7ab0d3309", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F3W4MR5FH/pair.py", 
+                "is_external": false, 
+                "created": 1485218784, 
+                "lines": 62, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">pandas</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">pd</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">numpy</span>.<span class=\"cm-property\">linalg</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">svd</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">numpy</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">np</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">matplotlib</span>.<span class=\"cm-property\">pyplot</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">plt</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "lanceculnane", 
+            "display_as_bot": false, 
+            "text": "<@U3450LGGP|lanceculnane> uploaded a file: <https://gstudents.slack.com/files/lanceculnane/F3H8VT3U3/afternoon_a.py|afternoon_a.py>", 
+            "upload": true, 
+            "ts": "1482282331.000002", 
+            "subtype": "file_share", 
+            "user": "U3450LGGP", 
+            "file": {
+                "filetype": "python", 
+                "lines_more": 135, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3H8VT3U3", 
+                "size": 4353, 
+                "title": "afternoon_a.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3H8VT3U3/afternoon_a.py", 
+                "ims": [
+                    "D3HD53Y4U"
+                ], 
+                "preview": "import pandas as pd\nimport numpy as np\nimport scipy.stats as scs\nimport matplotlib.pyplot as plt\nimport random", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/lanceculnane/F3H8VT3U3/afternoon_a.py/edit", 
+                "username": "", 
+                "timestamp": 1482282330, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3H8VT3U3/download/afternoon_a.py", 
+                "user": "U3450LGGP", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "afternoon_a.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3H8VT3U3-5b147484ce", 
+                "permalink": "https://gstudents.slack.com/files/lanceculnane/F3H8VT3U3/afternoon_a.py", 
+                "is_external": false, 
+                "created": 1482282330, 
+                "lines": 140, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">pandas</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">pd</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">numpy</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">np</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">scipy</span>.<span class=\"cm-property\">stats</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">scs</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">matplotlib</span>.<span class=\"cm-property\">pyplot</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">plt</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">random</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U3450LGGP", 
+            "U34BY2K3K"
+        ]
+    }
+}

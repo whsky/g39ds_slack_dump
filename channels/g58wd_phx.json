@@ -1,0 +1,1552 @@
+{
+    "messages": [
+        {
+            "text": "I've been trying to find a parking spot for the last 15 minutes. Will be there asap. Sorry :(", 
+            "type": "message", 
+            "user": "U5NCUJLN4", 
+            "ts": "1498838995.358626"
+        }, 
+        {
+            "text": "Please remember to show up on time. Class starts at 9:00am.", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498838861.313022"
+        }, 
+        {
+            "text": "<http://play.typeracer.com/?rt=2ch5keq1xi>", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498838171.056314", 
+            "attachments": [
+                {
+                    "thumb_height": 64, 
+                    "service_icon": "http://play.typeracer.com/favicon.ico", 
+                    "thumb_width": 64, 
+                    "title": "TypeRacer - the global typing competition", 
+                    "service_name": "TypeRacer", 
+                    "title_link": "http://play.typeracer.com/?rt=2ch5keq1xi", 
+                    "text": "Race against live opponents typing quotes from books, movies, and songs.", 
+                    "id": 1, 
+                    "fallback": "TypeRacer: TypeRacer - the global typing competition", 
+                    "thumb_url": "http://typeracer-cdn.appspot.com/opensocial/images/TyperacerThumb64px.png", 
+                    "from_url": "http://play.typeracer.com/?rt=2ch5keq1xi"
+                }
+            ]
+        }, 
+        {
+            "text": "Reminder: complete the daily survey <https://docs.google.com/forms/d/e/1FAIpQLScfE5NNsg022XmmW0K03OvZUrYEKiMv5Im3I44TDHSblYPjWw/viewform?usp=sf_link>", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1498776300.884476", 
+            "bot_id": "B01"
+        }, 
+        {
+            "text": "```&lt;!DOCTYPE html&gt;\n&lt;html&gt;\n  &lt;head&gt;\n    &lt;meta charset=\"utf-8\"&gt;\n    &lt;title&gt;Position&lt;/title&gt;\n        &lt;!-- Latest compiled and minified CSS --&gt;\n    &lt;link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u\" crossorigin=\"anonymous\"&gt;\n\n    &lt;!-- Optional theme --&gt;\n    &lt;link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css\" integrity=\"sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp\" crossorigin=\"anonymous\"&gt;\n\n    &lt;!-- Latest compiled and minified JavaScript --&gt;\n    &lt;script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\" integrity=\"sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa\" crossorigin=\"anonymous\"&gt;&lt;/script&gt;\n    &lt;link rel=\"stylesheet\" href=\"position.css\"&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n    &lt;div class=\"container\"&gt;\n      &lt;section class=\"row\"&gt;\n        &lt;div class=\"col-md-12 content\"&gt;\n\n        &lt;/div&gt;\n      &lt;/section&gt;\n    &lt;/div&gt;\n  &lt;/body&gt;\n&lt;/html&gt;```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498769061.991511"
+        }, 
+        {
+            "text": "```* {\n  box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n}\n\n.container {\n  width: 100%;\n}\n\n.content {\n  background-color: red;\n  height: 100px;\n}\n```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498769039.983880"
+        }, 
+        {
+            "username": "sam_mckain", 
+            "ts": "1498766532.144588", 
+            "display_as_bot": false, 
+            "text": "<@U5NCUJLN4|sam_mckain> uploaded a file: <https://gstudents.slack.com/files/sam_mckain/F61PAEQ6P/image_uploaded_from_ios.jpg|Image uploaded from iOS>", 
+            "upload": true, 
+            "upload_reply_to": "2630A906-205F-4094-A514-5498B25D66D3", 
+            "subtype": "file_share", 
+            "user": "U5NCUJLN4", 
+            "file": {
+                "thumb_480_w": 360, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "blue_heart", 
+                        "users": [
+                            "U36F34RGA"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F61PAEQ6P-c9f092a9dc/image_uploaded_from_ios_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F61PAEQ6P-c9f092a9dc/image_uploaded_from_ios_64.jpg", 
+                "size": 135865, 
+                "original_h": 661, 
+                "thumb_360_w": 270, 
+                "title": "Image uploaded from iOS", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F61PAEQ6P/image_uploaded_from_ios.jpg", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F61PAEQ6P-c9f092a9dc/image_uploaded_from_ios_360.jpg", 
+                "id": "F61PAEQ6P", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F61PAEQ6P-c9f092a9dc/image_uploaded_from_ios_80.jpg", 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1498766530, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F61PAEQ6P-c9f092a9dc/image_uploaded_from_ios_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F61PAEQ6P/download/image_uploaded_from_ios.jpg", 
+                "user": "U5NCUJLN4", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Image uploaded from iOS.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F61PAEQ6P-a58c6295fe", 
+                "permalink": "https://gstudents.slack.com/files/sam_mckain/F61PAEQ6P/image_uploaded_from_ios.jpg", 
+                "is_external": false, 
+                "created": 1498766530, 
+                "original_w": 496, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C5KFKL9DX"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "reese22adamonis", 
+            "ts": "1498766419.103598", 
+            "display_as_bot": false, 
+            "text": "<@U5PSQBNVD|reese22adamonis> uploaded a file: <https://gstudents.slack.com/files/reese22adamonis/F61RFHDSN/image_uploaded_from_ios.jpg|Image uploaded from iOS>", 
+            "upload": true, 
+            "upload_reply_to": "64FDAE2A-CD95-4896-96B2-624C8D8D6FE3", 
+            "subtype": "file_share", 
+            "user": "U5PSQBNVD", 
+            "file": {
+                "thumb_480_w": 480, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "joy", 
+                        "users": [
+                            "U36F34RGA"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F61RFHDSN-6963fe82b2/image_uploaded_from_ios_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F61RFHDSN-6963fe82b2/image_uploaded_from_ios_64.jpg", 
+                "size": 307808, 
+                "original_h": 703, 
+                "thumb_360_w": 360, 
+                "title": "Image uploaded from iOS", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F61RFHDSN/image_uploaded_from_ios.jpg", 
+                "thumb_720_h": 675, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F61RFHDSN-6963fe82b2/image_uploaded_from_ios_360.jpg", 
+                "id": "F61RFHDSN", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F61RFHDSN-6963fe82b2/image_uploaded_from_ios_80.jpg", 
+                "thumb_360_h": 337, 
+                "thumb_480_h": 450, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1498766419, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F61RFHDSN-6963fe82b2/image_uploaded_from_ios_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F61RFHDSN/download/image_uploaded_from_ios.jpg", 
+                "user": "U5PSQBNVD", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Image uploaded from iOS.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F61RFHDSN-e805abd020", 
+                "permalink": "https://gstudents.slack.com/files/reese22adamonis/F61RFHDSN/image_uploaded_from_ios.jpg", 
+                "is_external": false, 
+                "created": 1498766419, 
+                "original_w": 750, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F61RFHDSN-6963fe82b2/image_uploaded_from_ios_720.jpg", 
+                "channels": [
+                    "C5KFKL9DX"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "```// Should return a string representing the ranges\nfunction toRange(arr) {\n  var ranges = [];\n  var partiallySorted = arr.sort(function(a, b) { \n      return a - b;\n    })\n  var sorted = partiallySorted.filter(function(elem, idx, orig) {\n      return orig.indexOf(elem) === idx\n    });\n  var i = 0;\n  \n  while (i &lt; sorted.length) {\n    var range = [];\n    \n    while (sorted[i] === sorted[i + 1] - 1) {\n      if (range[0] !== undefined) {\n        range[1] = sorted[i + 1];\n      } else {\n        range[0] = sorted[i];\n        range[1] = sorted[i + 1];\n      }\n      i++;\n    }\n  \n    if (range.length === 0) {\n      ranges.push(sorted[i].toString())\n    } else {\n      ranges.push(range.join(\"_\"));\n    }\n    i++;\n  }\n  return ranges.join(\",\");\n}\n\n// Should return an array\nfunction toArray(str) {\n  if (str.length === 0) return [];\n  var numbers = [];\n  var split = str.split(\",\");\n  for (var i = 0; i &lt; split.length; i++) {\n    if (split[i].indexOf(\"_\") !== -1) {\n      var range = split[i].split(\"_\");\n      for (var j = Number(range[0]); j &lt;= Number(range[1]); j++) {\n        numbers.push(j);\n      }\n    } else {\n      numbers.push(parseInt(split[i]));\n    }\n  }\n  return numbers;\n}\n\n\n\n\nvar range = toRange([10,5,6,7,8,9,21,22,22,22,54]);\nconsole.log(range)\ntoArray(range);```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498762873.891227"
+        }, 
+        {
+            "text": "<!channel>: Hi, my name is _________, and I am a _________ with a background in _________. While working on _________, I became interested in _________ \nand will now be completing the Galvanize _________ immersive program in _________ months, after which I plan to pursue a career as a _________ in the _________ industry, around the _________ region.", 
+            "type": "message", 
+            "user": "U4B7LD4R3", 
+            "ts": "1498760890.150773"
+        }, 
+        {
+            "text": "Reminder: complete the daily survey <https://docs.google.com/forms/d/e/1FAIpQLScfE5NNsg022XmmW0K03OvZUrYEKiMv5Im3I44TDHSblYPjWw/viewform?usp=sf_link>", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1498689900.910547", 
+            "bot_id": "B01"
+        }, 
+        {
+            "text": "<http://pad3.whstatic.com/images/thumb/b/be/Be-a-Twitter-Celebrity-Step-2-Version-2.jpg/aid557031-v4-728px-Be-a-Twitter-Celebrity-Step-2-Version-2.jpg>", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498685740.944868", 
+            "attachments": [
+                {
+                    "image_bytes": 63834, 
+                    "image_width": 728, 
+                    "id": 1, 
+                    "image_height": 485, 
+                    "image_url": "http://pad3.whstatic.com/images/thumb/b/be/Be-a-Twitter-Celebrity-Step-2-Version-2.jpg/aid557031-v4-728px-Be-a-Twitter-Celebrity-Step-2-Version-2.jpg", 
+                    "from_url": "http://pad3.whstatic.com/images/thumb/b/be/Be-a-Twitter-Celebrity-Step-2-Version-2.jpg/aid557031-v4-728px-Be-a-Twitter-Celebrity-Step-2-Version-2.jpg", 
+                    "fallback": "728x485px image"
+                }
+            ]
+        }, 
+        {
+            "text": "```function high(str){\n  var highestScore = 0;\n  var highestIdx = 0;\n  var alphaMap = \"abcdefghijklmnopqrstuvwxyz\";\n  var words = str.split(\" \");\n  \n  for (var i = 0; i &lt; words.length; i++) {\n    var word = words[i];\n    var wordScore = 0;\n    \n    for (var j = 0; j &lt; word.length; j++) {\n      wordScore += alphaMap.indexOf(word[j]) + 1;\n    }\n    \n    console.log(wordScore)\n    if (wordScore &gt; highestScore) {\n      highestScore = wordScore;\n      highestIdx = i;\n    }\n    \n  }\n  console.log(words)\n  console.log(highestIdx);\n  return words[highestIdx];\n}\n\nhigh(\"this is an erupting volcano\")```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498675935.621513"
+        }, 
+        {
+            "text": "Thanks Jesse! Feel better!", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498673974.886285"
+        }, 
+        {
+            "text": "Hey guys. We will continue our warmup after the speaker this morning!", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498667075.321765"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 4, 
+                    "name": "parrot_fastparrot", 
+                    "users": [
+                        "U5NCUJLN4", 
+                        "U30UDCYF2", 
+                        "U5PSQBNVD", 
+                        "U5LV42GBB"
+                    ]
+                }
+            ], 
+            "text": "<!channel>: Hello friends! You have a guest speaker on campus today at 9:30. His name is Cory Berg, and he's (literally) written the book on managing your career in tech. g54 will be joining you in your classroom. Enjoy!", 
+            "type": "message", 
+            "user": "U4B7LD4R3", 
+            "ts": "1498666223.999445"
+        }, 
+        {
+            "text": "<!channel> we have at least 6 tickets for the Diamondbacks game this evening. Who all would be interested in going??", 
+            "type": "message", 
+            "user": "U30UDCYF2", 
+            "ts": "1498665763.816880"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "mask", 
+                    "users": [
+                        "U30UDCYF2", 
+                        "U5VS3HZ51"
+                    ]
+                }
+            ], 
+            "text": "I\u2019ll be out sick again today but I\u2019m starting to feel better. I\u2019ll see you guys tomorrow let me know if there\u2019s anything we do that\u2019s not on the daily plan", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1498664052.089398"
+        }, 
+        {
+            "text": "Reminder: complete the daily survey <https://docs.google.com/forms/d/e/1FAIpQLScfE5NNsg022XmmW0K03OvZUrYEKiMv5Im3I44TDHSblYPjWw/viewform?usp=sf_link>", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1498603500.817169", 
+            "bot_id": "B01"
+        }, 
+        {
+            "text": "If you're not already registered for this event, check this out: <https://www.eventbrite.com/e/galvanize-phx-workshop-predictive-index-for-teams-tickets-35444531548>", 
+            "type": "message", 
+            "user": "U4B7LD4R3", 
+            "ts": "1498602860.687594"
+        }, 
+        {
+            "text": "<@U3Z7JPZTP|ghetto_geek> has joined the channel", 
+            "type": "message", 
+            "user": "U3Z7JPZTP", 
+            "ts": "1498597077.144892", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<!channel> Parking is going to be tight the rest of this week with all the events happening on campus...just giving a heads up.", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1498596906.086293"
+        }, 
+        {
+            "username": "mariadll", 
+            "display_as_bot": false, 
+            "text": "<@U4B7LD4R3|mariadll> shared a file: <https://gstudents.slack.com/files/mariadll/F5YJU38QG/phoenix_student_mentor_sign_up|Phoenix Student Mentor Sign Up>", 
+            "upload": false, 
+            "ts": "1498596388.907468", 
+            "subtype": "file_share", 
+            "user": "U4B7LD4R3", 
+            "file": {
+                "thumb_480_w": 339, 
+                "groups": [], 
+                "filetype": "gsheet", 
+                "thumb_800_h": 1132, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_64.png", 
+                "size": 51547, 
+                "original_h": 1449, 
+                "thumb_360_w": 254, 
+                "title": "Phoenix Student Mentor Sign Up", 
+                "url_private": "https://docs.google.com/spreadsheets/d/1wj8lV9PFC-XgTU3FYOTRpptK9W_BdzMj9anW7wcxf6k/edit?usp=sharing", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_360.png", 
+                "id": "F5YJU38QG", 
+                "ims": [], 
+                "thumb_720_w": 509, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_800.png", 
+                "timestamp": 1498450754, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_160.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_1024.png", 
+                "user": "U4B7LD4R3", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_960.png", 
+                "is_public": true, 
+                "pretty_type": "GDocs Spreadsheet", 
+                "name": "Phoenix Student Mentor Sign Up", 
+                "mimetype": "application/vnd.google-apps.spreadsheet", 
+                "channels": [
+                    "C4UV09QBD", 
+                    "C5KFKL9DX"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/mariadll/F5YJU38QG/phoenix_student_mentor_sign_up", 
+                "is_external": true, 
+                "created": 1498450754, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 1024, 
+                "thumb_960_w": 678, 
+                "thumb_1024_w": 724, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_720.png"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "reminder: There will be a mentor on campus tomorrow. Sign up! <https://docs.google.com/spreadsheets/d/1wj8lV9PFC-XgTU3FYOTRpptK9W_BdzMj9anW7wcxf6k/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U4B7LD4R3", 
+            "ts": "1498596388.907187"
+        }, 
+        {
+            "text": "Will do Jesse.", 
+            "type": "message", 
+            "user": "U5L4XUBM1", 
+            "ts": "1498576887.622897"
+        }, 
+        {
+            "text": "I\u2019m not gonna make it to class today guys, feeling feverish and achy and don\u2019t want to give you guys anything. Please let me know what we\u2019re doing today so I can follow along at home:face_with_thermometer:", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1498576840.602722"
+        }, 
+        {
+            "text": "Reminder: complete the daily survey <https://docs.google.com/forms/d/e/1FAIpQLScfE5NNsg022XmmW0K03OvZUrYEKiMv5Im3I44TDHSblYPjWw/viewform?usp=sf_link>", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1498517100.853574", 
+            "bot_id": "B01"
+        }, 
+        {
+            "text": "```div {\n  display: inline-block;\n  border: 5px solid black;\n  box-sizing: border-box;\n  height: 200px;\n  width: 200px;\n}\n\n.container {\n  background-color: #efefef;\n  height: inherit;\n}\n\nbody {\n  height: 100vh;\n}```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498508099.424853"
+        }, 
+        {
+            "text": "```&lt;!DOCTYPE html&gt;\n&lt;html class=\"html\"&gt;\n &lt;head&gt;\n   &lt;title&gt;My Title!&lt;/title&gt;\n   &lt;link rel=\"stylesheet\" href=\"basics.css\"&gt;\n &lt;/head&gt;\n &lt;body&gt;\n   &lt;section class=\"container\"&gt;\n     &lt;div class=\"red box\"&gt;\n\n     &lt;/div&gt;\n     &lt;div class=\"blue box\"&gt;\n\n     &lt;/div&gt;\n     &lt;div class=\"box\"&gt;\n\n     &lt;/div&gt;\n   &lt;/section&gt;\n &lt;/body&gt;\n&lt;/html&gt;```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498508061.412370"
+        }, 
+        {
+            "text": "``` function multiples(num) {\nvar sum = 0;\nfor (var i = 0; i &lt; num; i++) {\n  if (i % 3 === 0 || i % 5 === 0) {\n    sum += i;\n  }\n  \n}\nreturn sum;\n}\n\nmultiples(1000); ```", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1498496814.525434"
+        }, 
+        {
+            "text": "<https://projecteuler.net/>", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498493489.351457", 
+            "attachments": [
+                {
+                    "title": "About - Project Euler", 
+                    "text": "A website dedicated to the fascinating world of mathematics and programming", 
+                    "title_link": "https://projecteuler.net/", 
+                    "service_name": "projecteuler.net", 
+                    "id": 1, 
+                    "fallback": "About - Project Euler", 
+                    "service_icon": "https://projecteuler.net/favicon.ico", 
+                    "from_url": "https://projecteuler.net/"
+                }
+            ]
+        }, 
+        {
+            "text": "Hey guys. I'm going to be just a few minutes late. ", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498492127.827670"
+        }, 
+        {
+            "username": "mariadll", 
+            "display_as_bot": false, 
+            "text": "<@U4B7LD4R3|mariadll> shared a file: <https://gstudents.slack.com/files/mariadll/F5YJU38QG/phoenix_student_mentor_sign_up|Phoenix Student Mentor Sign Up>", 
+            "upload": false, 
+            "ts": "1498450765.899073", 
+            "subtype": "file_share", 
+            "user": "U4B7LD4R3", 
+            "file": {
+                "thumb_480_w": 339, 
+                "groups": [], 
+                "filetype": "gsheet", 
+                "thumb_800_h": 1132, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_64.png", 
+                "size": 51547, 
+                "original_h": 1449, 
+                "thumb_360_w": 254, 
+                "title": "Phoenix Student Mentor Sign Up", 
+                "url_private": "https://docs.google.com/spreadsheets/d/1wj8lV9PFC-XgTU3FYOTRpptK9W_BdzMj9anW7wcxf6k/edit?usp=sharing", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_360.png", 
+                "id": "F5YJU38QG", 
+                "ims": [], 
+                "thumb_720_w": 509, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_800.png", 
+                "timestamp": 1498450754, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_160.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_1024.png", 
+                "user": "U4B7LD4R3", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_960.png", 
+                "is_public": true, 
+                "pretty_type": "GDocs Spreadsheet", 
+                "name": "Phoenix Student Mentor Sign Up", 
+                "mimetype": "application/vnd.google-apps.spreadsheet", 
+                "channels": [
+                    "C4UV09QBD", 
+                    "C5KFKL9DX"
+                ], 
+                "permalink": "https://gstudents.slack.com/files/mariadll/F5YJU38QG/phoenix_student_mentor_sign_up", 
+                "is_external": true, 
+                "created": 1498450754, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 1024, 
+                "thumb_960_w": 678, 
+                "thumb_1024_w": 724, 
+                "mode": "external", 
+                "has_rich_preview": true, 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5YJU38QG-42736ffaed/phoenix_student_mentor_sign_up_720.png"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel> Joe Berthelot, UI Designer/ Front End developer, will be on campus Wednesday for mentorship. Sign up here: <https://docs.google.com/spreadsheets/d/1wj8lV9PFC-XgTU3FYOTRpptK9W_BdzMj9anW7wcxf6k/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U4B7LD4R3", 
+            "ts": "1498450764.899036"
+        }, 
+        {
+            "text": "<http://lightning-talk-talk.surge.sh/> if you want to see the lightning talk slides that I used for my talk.", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498259737.452353"
+        }, 
+        {
+            "text": "Reminder: complete the weekly survey <https://docs.google.com/forms/d/e/1FAIpQLSfeCM0T6pYKITns0VkbE3_I0IlV-fkpwx1X7mMMDOCn51RDrw/viewform?usp=sf_link>", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1498257900.199431", 
+            "bot_id": "B01"
+        }, 
+        {
+            "text": "Is it possible to use map filter AND reduce in the SAME function? Here\u2019s a good place to practice\u2026 <https://www.codewars.com/kata/sum-of-odd-cubed-numbers/train/javascript>", 
+            "type": "message", 
+            "user": "U5MD0F2FL", 
+            "ts": "1498174787.245608", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://www.codewars.com/favicon.ico", 
+                    "thumb_width": 200, 
+                    "title": "Train: Sum of Odd Cubed Numbers | Codewars", 
+                    "service_name": "Codewars", 
+                    "title_link": "https://www.codewars.com/kata/sum-of-odd-cubed-numbers/train/javascript", 
+                    "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.", 
+                    "id": 1, 
+                    "fallback": "Codewars: Train: Sum of Odd Cubed Numbers | Codewars", 
+                    "thumb_url": "http://www.codewars.com/assets/logos/logo-square-paper-bg.jpg", 
+                    "from_url": "https://www.codewars.com/kata/sum-of-odd-cubed-numbers/train/javascript"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/gSchool/js-function-drill>\n\nWhen you get to the page click the fork button on the top right and click on your name. From there clone the directory and follow the instructions.", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498173639.068361", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "gSchool/js-function-drill", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/gSchool/js-function-drill", 
+                    "text": "js-function-drill - Drilling basic function construction", 
+                    "id": 1, 
+                    "fallback": "GitHub: gSchool/js-function-drill", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/3484345?v=3&s=400", 
+                    "from_url": "https://github.com/gSchool/js-function-drill"
+                }
+            ]
+        }, 
+        {
+            "text": "```var classrooms = [{\n    teacher: {\n      name: \"John Keating\",\n      subject: \"Literature\",\n      age: 57\n    },\n    students: [{\n      name: \"John\",\n      age: 31\n    },\n    {\n      name: \"Suzy\",\n      age: 29\n    },\n    {\n      name: \"Jill\",\n      age: 44\n    },\n    {\n      name: \"Joe\",\n      age: 20\n    }]\n  },{\n    teacher: {\n      name: \"Lillian Beauregard\",\n      subject: \"Math\",\n      age: 74\n    },\n    students: [{\n      name: \"Johnny\",\n      age: 14\n    },\n    {\n      name: \"Suzie\",\n      age: 18\n    },\n    {\n      name: \"Jo\",\n      age: 22\n    }]\n  },{\n    teacher: {\n      name: \"Mr. Schmidt\",\n      subject: \"Literature\",\n      age: 50\n    },\n    students: [{\n      name: \"Bob\",\n      age: 32\n    },\n    {\n      name: \"George\",\n      age: 46\n    }]\n  }]```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498172211.824124"
+        }, 
+        {
+            "text": "Reminder: complete the daily survey <https://docs.google.com/forms/d/e/1FAIpQLScfE5NNsg022XmmW0K03OvZUrYEKiMv5Im3I44TDHSblYPjWw/viewform?usp=sf_link>", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1498171500.694938", 
+            "bot_id": "B01"
+        }, 
+        {
+            "text": "```function sum(arr) {\n  var total = 0;\n  for (var i = 0; i &lt; arr.length; i++) {\n    total += arr[i];\n  }\n  return total;\n}\n\nfunction sumReduce(arr) {\n  return arr.reduce(add)\n}\n\nfunction add(numOne, numTwo) {  \n  return numOne + numTwo;\n}\n\nsumReduce([1,2,3,4,5]);```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498165814.337221"
+        }, 
+        {
+            "text": "```function map(arr, cb) {\n  var newArr = [];\n  for (var i = 0; i &lt; arr.length; i++) {\n    newArr.push(cb(arr[i], i, arr));\n  }\n  return newArr;\n}\n\nmap([1,2,3,4,5], multiplyByTwo)\n\nfunction multiplyByTwo(num) {\n  return num * 2;\n}```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498165659.291206"
+        }, 
+        {
+            "text": "```function evensForEach(arr) {\n  arr.forEach(function(elem) {\n    var blue = \"red\";\n    console.log(\"HELLOOOOOOO\");\n  })\n  return blue;\n}\n\nevensForEach([1,2,3,4])```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498164491.914059"
+        }, 
+        {
+            "text": "```function evensFilter(arr) {\n  return arr.filter(function(num) {\n     return num % 2 === 0\n  })\n}\n\nfunction evensFilter2(arr) {\n  return arr.filter(isEven);\n}\n\nfunction isEven(num){\n  return num % 2 === 0;\n}\n\nevensFilter([1,2,3,4,5,6,7,8]);```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498164090.783776"
+        }, 
+        {
+            "text": "<@U4NC3PLN8> light bites and beverages will be provided at the event", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1498163269.510597"
+        }, 
+        {
+            "text": "```function yellingMap(arr) {\n  return arr.map(function(elem){\n    return elem.toUpperCase();\n  });\n}\n\nfunction allCaps(str) {\n  return str.toUpperCase();\n}\n\nyellingMap(['blue', 'cheese', 'is', 'grate'])```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498163249.504125"
+        }, 
+        {
+            "text": "is there food provided at the event?", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1498161605.955615"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U5KG27KFS"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 1414, 
+                    "service_icon": "http://3mkm08kox71vtynw1b1wbtpab.wpengine.netdna-cdn.com/wp-content/themes/indeedblog/favicon.ico", 
+                    "thumb_width": 2121, 
+                    "title": "What Do Employers Really Think About Coding Bootcamps? - Indeed Blog", 
+                    "service_name": "Indeed Blog", 
+                    "ts": 1493708161, 
+                    "title_link": "http://blog.indeed.com/2017/05/02/what-employers-think-about-coding-bootcamp/", 
+                    "text": "Coding bootcamps are on the rise, but what do employers think? Indeed surveyed over 1000 HR managers to find out their attitudes.", 
+                    "id": 1, 
+                    "fallback": "Indeed Blog: What Do Employers Really Think About Coding Bootcamps? - Indeed Blog", 
+                    "thumb_url": "http://blog.indeed.com/wp-content/uploads/2017/05/GettyImages-697539417.jpg", 
+                    "from_url": "http://blog.indeed.com/2017/05/02/what-employers-think-about-coding-bootcamp/"
+                }
+            ], 
+            "text": "I hope you all find this encouraging! <http://blog.indeed.com/2017/05/02/what-employers-think-about-coding-bootcamp/>", 
+            "ts": "1498157179.436676", 
+            "user": "U4B7LD4R3", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U5MDK6YSV> Free but they sold out quickly and there is now a waiting list.  Register anyway and hopefully we'll get more tickets.", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1498156785.291225"
+        }, 
+        {
+            "text": "Hey <@U36F34RGA> , are the baseball tickets free if you go to the summer in the district event?", 
+            "type": "message", 
+            "user": "U5MDK6YSV", 
+            "ts": "1498156685.255741"
+        }, 
+        {
+            "text": "4) Create a function that takes in an array of strings and returns a new array with all the strings capitalized.", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498155795.925400"
+        }, 
+        {
+            "text": "3) Create a function called sum that takes in an array of numbers as an argument. The function should return the sum of the numbers.", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498155123.682864", 
+            "edited": {
+                "user": "U5VS3HZ51", 
+                "ts": "1498155952.000000"
+            }
+        }, 
+        {
+            "text": "2) Create a function named evens that takes in an array of numbers as an argument. The function should return a new array with only the even numbers.", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498155085.668982"
+        }, 
+        {
+            "text": "1) Create a function named powers that takes two arguments. The function should return the first argument to the power of the second argument. For example powers(2,3) &gt;&gt;&gt; 8", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498155031.649810"
+        }, 
+        {
+            "text": "sign up to attend!", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1498154955.623070"
+        }, 
+        {
+            "text": "<!channel> Check out this great event happening here at Galvanize next week: <https://www.eventbrite.com/e/summer-in-the-district-party-tickets-35094559773>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1498154942.618048"
+        }, 
+        {
+            "text": "4) Multiply all the values by 2", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498147717.951420"
+        }, 
+        {
+            "text": "3) subtract the odd numbers from the even numbers", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498147695.942580"
+        }, 
+        {
+            "text": "2) push all the values into a new array", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498147671.933739"
+        }, 
+        {
+            "text": "1) find the sum of all the values", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498147646.924172"
+        }, 
+        {
+            "text": "```\nvar numbers = {\n  10: 10,\n  num: 13,\n  anotherKey: 34,\n  undefined: 12,\n  blue: 98\n}```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498147614.911996"
+        }, 
+        {
+            "text": "Reminder: complete the daily survey <https://docs.google.com/forms/d/e/1FAIpQLScfE5NNsg022XmmW0K03OvZUrYEKiMv5Im3I44TDHSblYPjWw/viewform?usp=sf_link>", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1498085100.940023", 
+            "bot_id": "B01"
+        }, 
+        {
+            "text": " set up a reminder to \u201ccomplete the weekly survey https://docs.google.com/forms/d/e/1FAIpQLSfeCM0T6pYKITns0VkbE3_I0IlV-fkpwx1X7mMMDOCn51RDrw/viewform?usp=sf_link\u201d in this channel at 3:45PM every Friday, Mountain Standard Time.", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1498084655.855194", 
+            "subtype": "reminder_add"
+        }, 
+        {
+            "text": " set up a reminder to \u201ccomplete the daily survey https://docs.google.com/forms/d/e/1FAIpQLScfE5NNsg022XmmW0K03OvZUrYEKiMv5Im3I44TDHSblYPjWw/viewform?usp=sf_link\u201d in this channel at 3:45PM every Thursday, Mountain Standard Time.", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1498084594.843396", 
+            "subtype": "reminder_add"
+        }, 
+        {
+            "text": " set up a reminder to \u201ccomplete the daily survey https://docs.google.com/forms/d/e/1FAIpQLScfE5NNsg022XmmW0K03OvZUrYEKiMv5Im3I44TDHSblYPjWw/viewform?usp=sf_link\u201d in this channel at 3:45PM every Wednesday, Mountain Standard Time.", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1498084587.842054", 
+            "subtype": "reminder_add"
+        }, 
+        {
+            "text": " set up a reminder to \u201ccomplete the daily survey https://docs.google.com/forms/d/e/1FAIpQLScfE5NNsg022XmmW0K03OvZUrYEKiMv5Im3I44TDHSblYPjWw/viewform?usp=sf_link\u201d in this channel at 3:45PM every Tuesday, Mountain Standard Time.", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1498084581.840902", 
+            "subtype": "reminder_add"
+        }, 
+        {
+            "text": " set up a reminder to \u201ccomplete the daily survey https://docs.google.com/forms/d/e/1FAIpQLScfE5NNsg022XmmW0K03OvZUrYEKiMv5Im3I44TDHSblYPjWw/viewform?usp=sf_link\u201d in this channel at 3:45PM every Monday, Mountain Standard Time.", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1498084572.839082", 
+            "subtype": "reminder_add"
+        }, 
+        {
+            "text": "```//--- ONLY THE FOR LOOP ---//  \n// for (var key in classrooms[0]['students']){\n//   console.log(classrooms[0]['students'][key]['age']);\n// }\n  \n\n//--- WORKING FUNCTION FOR STUDENT AVERAGE AGE---//  \nfunction studentAge(myObj){ \n  var ageArr=[];\n  for (var i=0; i&lt;myObj.length; i++){  \n    for (var key in myObj[i]['students']){\n      ageArr.push(myObj[i]['students'][key]['age']);\n    }  \n  }\n  //console.log(ageArr);\n  var ageSum = 0;\n  for (var j=0; j&lt;ageArr.length; j++){\n    console.log(ageArr[j]);\n    ageSum += ageArr[j]\n  }\n  return ageSum/ageArr.length;\n}\n  \nstudentAge(classrooms); ```", 
+            "type": "message", 
+            "user": "U5MD0F2FL", 
+            "ts": "1498083839.691592"
+        }, 
+        {
+            "text": "This is going down tonight :rocket:\n\n<https://www.meetup.com/ltcphx/events/240709700/>", 
+            "type": "message", 
+            "user": "U30UDCYF2", 
+            "ts": "1498082555.409499", 
+            "attachments": [
+                {
+                    "thumb_height": 1260, 
+                    "service_icon": "https://secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+                    "thumb_width": 2400, 
+                    "title": "Learn To Code Phoenix", 
+                    "service_name": "Meetup", 
+                    "title_link": "https://www.meetup.com/ltcphx/events/240709700/", 
+                    "text": "Description: You will learn the basics of using Elasticsearch within your application. You will learn how to store and retrieve data in Elasticsearch as well as how to leverage its powerful search fea", 
+                    "id": 1, 
+                    "fallback": "Meetup: Learn To Code Phoenix", 
+                    "thumb_url": "https://secure.meetupstatic.com/s/img/286374644891845767035/logo/meetup-logo-script-1200x630.png", 
+                    "from_url": "https://www.meetup.com/ltcphx/events/240709700/"
+                }
+            ]
+        }, 
+        {
+            "text": "1) The average age should be: 28.555555555555557\n2) The average age should be: 60.333333333333336\n3) There should be 6 lit students", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498079688.630287"
+        }, 
+        {
+            "text": "Slack your answers and solutions as you get them. Thank you!", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498076977.730728"
+        }, 
+        {
+            "text": "3) How many students are in a classroom for \"Literature\"?", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498075796.330274"
+        }, 
+        {
+            "text": "2) What is the average age of all the Teachers?", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498075677.289669"
+        }, 
+        {
+            "text": "1) What is the average age of all the students?", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498075593.261654"
+        }, 
+        {
+            "text": "```var classrooms = [{\n    teacher: {\n      name: \"John Keating\",\n      subject: \"Literature\",\n      age: 57\n    },\n    students: [{\n      name: \"John\",\n      age: 32\n    },\n    {\n      name: \"Suzy\",\n      age: 29\n    },\n    {\n      name: \"Jill\",\n      age: 44\n    },\n    {\n      name: \"Joe\",\n      age: 20\n    }]\n  },{\n    teacher: {\n      name: \"Lillian Beauregard\",\n      subject: \"Math\",\n      age: 74\n    },\n    students: [{\n      name: \"Johnny\",\n      age: 14\n    },\n    {\n      name: \"Suzie\",\n      age: 18\n    },\n    {\n      name: \"Jo\",\n      age: 22\n    }]\n  },{\n    teacher: {\n      name: \"Mr. Schmidt\",\n      subject: \"Literature\",\n      age: 50\n    },\n    students: [{\n      name: \"Bob\",\n      age: 32\n    },\n    {\n      name: \"George\",\n      age: 46\n    }]\n  }]```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498075485.224843"
+        }, 
+        {
+            "text": "<https://azhackday.eventbrite.com/>", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498074501.878115", 
+            "attachments": [
+                {
+                    "image_bytes": 204062, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "515 East Grant Street, Phoenix, AZ 85004", 
+                            "title": "Where"
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "Sat, Jul 8, 2017 at 8:00 AM", 
+                            "title": "When"
+                        }
+                    ], 
+                    "title": "AZ Hack Day Hackathon", 
+                    "service_name": "Eventbrite", 
+                    "image_width": 500, 
+                    "title_link": "https://azhackday.eventbrite.com/", 
+                    "image_height": 250, 
+                    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32445682%2F194067451961%2F1%2Foriginal.jpg?w=1000&rect=0%2C11%2C2154%2C1077&s=06009ab715e323182e26f3730347c199", 
+                    "text": "Hackathon Details: We are excited to kick off our inaugural single day hackathon, AZ Hack Day! All backgrounds and skill levels are encouraged to participate. If you have never done a hackathon before this is a great one to make your first. Since this is a single day event and we want as much hacking as possible, I will coordinate team forming beforehand. This will give you and your team the chance to discuss your various skill sets and desired technology stacks prior to the hackathon. Please do not come with any pre-written code, but we strongly encourage deciding on frameworks and import libraries your team would like to incorporate into your project. \u00a0 Who You Are: Schedule: 8:00am - 8:30am :::&gt;\u00a0Check-in and get hyped\u00a08:30am - 9:00am\u00a0:::&gt; Keynote9:00am - 1:00pm\u00a0:::&gt; Morning Hacking1:00pm - 2:00pm :::&gt;\u00a0Refuel2:00pm - 7:00pm\u00a0:::&gt; Afternoon Hacking7:00pm - 8:00pm\u00a0:::&gt; Show off what you made Location: Event will be hosted at the new Galvanize Facility: Galvanize515 East Grant StreetPhoenix, AZ 85004 any questions or sponsorship requests please feel free to email me at <mailto:christopher.huie@galvanize.com|christopher.huie@galvanize.com>", 
+                    "id": 1, 
+                    "fallback": "Eventbrite: AZ Hack Day Hackathon", 
+                    "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+                    "from_url": "https://azhackday.eventbrite.com/"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U5KG27KFS> var random = {\n  stuff: [{\n    name: \u201cstuffed animal\u201d,\n    isSoft: true\n  }, {\n    name: \u201csmartphone\u201d,\n    isSoft: false,\n    ownedBy: {\n      name: \u201cDavid\u201d,\n      age: 26,\n      address: \u201c123 Sesame Street\u201d\n    }\n  }],\n  blue: null,\n  undefined: \u201cI\u2019ve got myself a lovely bunch of coconuts\u201d\n}\n\nconsole.log(random.stuff[0].isSoft);", 
+            "type": "message", 
+            "user": "U5LV42GBB", 
+            "ts": "1498072035.035728"
+        }, 
+        {
+            "text": "```var random = {\n  stuff: [{\n    name: \"stuffed animal\",\n    isSoft: true\n  }, {\n    name: \"smartphone\",\n    isSoft: false,\n    ownedBy: {\n      name: \"David\",\n      age: 26,\n      address: \"123 Sesame Street\"\n    }\n  }],\n  blue: null,\n  undefined: \"I've got myself a lovely bunch of coconuts\"\n}\n\nconsole.log(random.stuff[0].isSoft);```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498069369.036655"
+        }, 
+        {
+            "text": "David's solution to the codewars problem ```function findUniq(arr) {\n  var counterObj = {};\n  for (var i = 0; i &lt; arr.length; i++) {\n    if (counterObj[arr[i]]) {\n      counterObj[arr[i]] += 1;\n    } else {\n      counterObj[arr[i]] = 1;\n    }\n  }\n  \n  for (var num in counterObj) {\n    if (counterObj[num] === 1) {\n      return num;\n    }\n  }\n}```", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1498066119.825610"
+        }, 
+        {
+            "username": "kyle_barker", 
+            "display_as_bot": false, 
+            "text": "<@U5MDK6YSV|kyle_barker> uploaded a file: <https://gstudents.slack.com/files/kyle_barker/F5XEYMSSH/kyle_s_solution_to_unique_number_kata.txt|Kyle's Solution to Unique Number Kata>", 
+            "upload": true, 
+            "ts": "1498065806.709191", 
+            "subtype": "file_share", 
+            "user": "U5MDK6YSV", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 15, 
+                "channels": [
+                    "C5KFKL9DX"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5XEYMSSH", 
+                "size": 421, 
+                "title": "Kyle's Solution to Unique Number Kata", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5XEYMSSH/kyle_s_solution_to_unique_number_kata.txt", 
+                "ims": [], 
+                "preview": "function findUniq(arr) {\r\n  var unqiueArr = [];\r\n  var boringArr = [];\r\n  var answerArr = [];\r\n  \r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/kyle_barker/F5XEYMSSH/kyle_s_solution_to_unique_number_kata.txt/edit", 
+                "username": "", 
+                "timestamp": 1498065805, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5XEYMSSH/download/kyle_s_solution_to_unique_number_kata.txt", 
+                "user": "U5MDK6YSV", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "Kyle_s_Solution_to_Unique_Number_Kata.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5XEYMSSH-3b1f8149e2", 
+                "permalink": "https://gstudents.slack.com/files/kyle_barker/F5XEYMSSH/kyle_s_solution_to_unique_number_kata.txt", 
+                "is_external": false, 
+                "created": 1498065805, 
+                "lines": 20, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>function findUniq(arr) {</pre></div>\n<div><pre>  var unqiueArr = [];</pre></div>\n<div><pre>  var boringArr = [];</pre></div>\n<div><pre>  var answerArr = [];</pre></div>\n<div><pre>  </pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Once you finish please slack me your solutions.", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498062472.486686"
+        }, 
+        {
+            "text": "<https://www.codewars.com/kata/find-the-unique-number-1>", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498061211.012972", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://www.codewars.com/favicon.ico", 
+                    "thumb_width": 200, 
+                    "title": "Find the unique number", 
+                    "service_name": "Codewars", 
+                    "title_link": "https://www.codewars.com/kata/find-the-unique-number-1", 
+                    "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.", 
+                    "id": 1, 
+                    "fallback": "Codewars: Find the unique number", 
+                    "thumb_url": "http://www.codewars.com/assets/logos/logo-square-paper-bg.jpg", 
+                    "from_url": "https://www.codewars.com/kata/find-the-unique-number-1"
+                }
+            ]
+        }, 
+        {
+            "text": "Y945", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498000382.093445"
+        }, 
+        {
+            "text": "<http://www.sli.do|www.sli.do>", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1498000376.092382"
+        }, 
+        {
+            "text": "<https://github.com/ryansobol/clmystery.git>", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1497994707.865536", 
+            "edited": {
+                "user": "U5VS3HZ51", 
+                "ts": "1497994724.000000"
+            }
+        }, 
+        {
+            "text": "<https://www.iterm2.com/downloads.html> if you want iterm", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1497989090.056140", 
+            "attachments": [
+                {
+                    "title": "Downloads - iTerm2 - Mac OS Terminal Replacement", 
+                    "text": "iTerm2 is a replacement for Terminal and the successor to iTerm", 
+                    "title_link": "https://www.iterm2.com/downloads.html", 
+                    "service_name": "iterm2.com", 
+                    "id": 1, 
+                    "fallback": "Downloads - iTerm2 - Mac OS Terminal Replacement", 
+                    "service_icon": "https://www.iterm2.com/favicon.ico", 
+                    "from_url": "https://www.iterm2.com/downloads.html"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/ryansobol/clmystery/blob/master/cheatsheet.md>", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1497989013.029011", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "ryansobol/clmystery", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/ryansobol/clmystery/blob/master/cheatsheet.md", 
+                    "text": "clmystery - A command-line murder mystery", 
+                    "id": 1, 
+                    "fallback": "GitHub: ryansobol/clmystery", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/5688?v=3&s=400", 
+                    "from_url": "https://github.com/ryansobol/clmystery/blob/master/cheatsheet.md"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> : Please DM me so I have you slack name to send you your headshots. Gracias!", 
+            "type": "message", 
+            "user": "U4B7LD4R3", 
+            "ts": "1497985520.832132"
+        }, 
+        {
+            "text": "```\nfunction truthyFalsey(arr) {\n  var truthy = [];\n  var falsey = [];\n  for(var i = 0; i &lt; arr.length; i++) {\n    if(arr[i]) {\n      truthy.push(arr[i]);\n    } else {\n      falsey.push(arr[i]);\n    }\n  }\n  return [truthy, falsey]\n}\n\nvar myTruthiness = truthyFalsey([1,0,4,\"blue\",true,false,undefined]);\n\nconsole.log(myTruthiness)\nvar variable = myTruthiness[1][4];```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1497985231.724744"
+        }, 
+        {
+            "text": "`mocha`", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1497975283.039364"
+        }, 
+        {
+            "text": "```npm install -g mocha```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1497975230.018842"
+        }, 
+        {
+            "text": "```npm install```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1497975221.015344"
+        }, 
+        {
+            "text": "`cd beginner-tests`", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1497974793.849954"
+        }, 
+        {
+            "text": "<@U5L51FZC2>", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1497974762.837835"
+        }, 
+        {
+            "text": "<@U5L51FZC2|richardjones> has joined the channel", 
+            "ts": "1497974759.836271", 
+            "subtype": "channel_join", 
+            "user": "U5L51FZC2", 
+            "type": "message", 
+            "inviter": "U4NC3PLN8"
+        }, 
+        {
+            "text": "```git clone <https://github.com/DavidBayless/beginner-tests.git>```", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1497974682.805054"
+        }, 
+        {
+            "username": "merylkrich", 
+            "display_as_bot": false, 
+            "text": "<@U36F34RGA|merylkrich> uploaded a file: <https://gstudents.slack.com/files/merylkrich/F5VCXE6G0/galvanize_parking_map.pdf|Galvanize Parking Map.pdf> and commented: <!channel> as parking gets filled as more students and members arrive...", 
+            "upload": true, 
+            "ts": "1497900720.399519", 
+            "subtype": "file_share", 
+            "user": "U36F34RGA", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1", 
+                        "users": [
+                            "U5NCUJLN4"
+                        ]
+                    }
+                ], 
+                "initial_comment": {
+                    "comment": "<!channel> as parking gets filled as more students and members arrive...", 
+                    "created": 1497900720, 
+                    "timestamp": 1497900720, 
+                    "is_intro": true, 
+                    "user": "U36F34RGA", 
+                    "id": "Fc5VCXEBUY"
+                }, 
+                "filetype": "pdf", 
+                "channels": [
+                    "C5KFKL9DX"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5VCXE6G0", 
+                "size": 900857, 
+                "title": "Galvanize Parking Map.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5VCXE6G0/galvanize_parking_map.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1497900720, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5VCXE6G0/download/galvanize_parking_map.pdf", 
+                "user": "U36F34RGA", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "Galvanize Parking Map.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5VCXE6G0-4cd537d99f", 
+                "permalink": "https://gstudents.slack.com/files/merylkrich/F5VCXE6G0/galvanize_parking_map.pdf", 
+                "is_external": false, 
+                "created": 1497900720, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Thanks, found y\u2019all", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1497888649.158537"
+        }, 
+        {
+            "text": "<@U4NC3PLN8> downstairs. Coconino room.", 
+            "type": "message", 
+            "user": "U5L4XUBM1", 
+            "ts": "1497888453.087068"
+        }, 
+        {
+            "text": "<@U5VS3HZ51|davidbayless> has joined the channel", 
+            "type": "message", 
+            "user": "U5VS3HZ51", 
+            "ts": "1497888167.979735", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U36F34RGA>", 
+            "type": "message", 
+            "user": "U1UUFQMED", 
+            "ts": "1497887378.664440"
+        }, 
+        {
+            "text": "Are we supposed to be meeting in a particular room or just hang out up front?", 
+            "type": "message", 
+            "user": "U4NC3PLN8", 
+            "ts": "1497887302.633889"
+        }, 
+        {
+            "text": "<@U1YQPH4JK|dhammerbeck> has joined the channel", 
+            "ts": "1497886860.456715", 
+            "subtype": "channel_join", 
+            "user": "U1YQPH4JK", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U1YQPH4JK>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1497886858.455920"
+        }, 
+        {
+            "text": "<!channel> Welcome to class!! Guess what?? We are hosting a hack day in 3 weeks! All skill levels are welcome ~&gt; <https://azhackday.eventbrite.com>", 
+            "type": "message", 
+            "user": "U30UDCYF2", 
+            "ts": "1497884962.687618", 
+            "attachments": [
+                {
+                    "image_bytes": 204062, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "515 East Grant Street, Phoenix, AZ 85004", 
+                            "title": "Where"
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "Sat, Jul 8, 2017 at 8:00 AM", 
+                            "title": "When"
+                        }
+                    ], 
+                    "title": "AZ Hack Day Hackathon", 
+                    "service_name": "Eventbrite", 
+                    "image_width": 500, 
+                    "title_link": "https://azhackday.eventbrite.com", 
+                    "image_height": 250, 
+                    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32445682%2F194067451961%2F1%2Foriginal.jpg?w=1000&rect=0%2C11%2C2154%2C1077&s=06009ab715e323182e26f3730347c199", 
+                    "text": "Hackathon Details: We are excited to kick off our inaugural single day hackathon, AZ Hack Day! All backgrounds and skill levels are encouraged to participate. If you have never done a hackathon before this is a great one to make your first. Since this is a single day event and we want as much hacking as possible, I will coordinate team forming beforehand. This will give you and your team the chance to discuss your various skill sets and desired technology stacks prior to the hackathon. Please do not come with any pre-written code, but we strongly encourage deciding on frameworks and import libraries your team would like to incorporate into your project. \u00a0 Who You Are: Schedule: 8:00am - 8:30am :::&gt;\u00a0Check-in and get hyped\u00a08:30am - 9:00am\u00a0:::&gt; Keynote9:00am - 1:00pm\u00a0:::&gt; Morning Hacking1:00pm - 2:00pm :::&gt;\u00a0Refuel2:00pm - 7:00pm\u00a0:::&gt; Afternoon Hacking7:00pm - 8:00pm\u00a0:::&gt; Show off what you made Location: Event will be hosted at the new Galvanize Facility: Galvanize515 East Grant StreetPhoenix, AZ 85004", 
+                    "id": 1, 
+                    "fallback": "Eventbrite: AZ Hack Day Hackathon", 
+                    "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+                    "from_url": "https://azhackday.eventbrite.com"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> Hope everyone is having a great weekend!  If you have not done so already, please slack me your Github id name so that I can add you to the team for precourse work.  Let me know if you have any other questions as well.  See you all Monday!", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1497717915.589640"
+        }, 
+        {
+            "text": "<@U5NCUJLN4|sam_mckain> has joined the channel", 
+            "ts": "1497717418.560348", 
+            "subtype": "channel_join", 
+            "user": "U5NCUJLN4", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U5NCUJLN4>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1497717416.560183"
+        }, 
+        {
+            "text": "<@U5PSQBNVD|reese22adamonis> has joined the channel", 
+            "ts": "1497717306.553104", 
+            "subtype": "channel_join", 
+            "user": "U5PSQBNVD", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U5PSQBNVD>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1497717304.552945"
+        }, 
+        {
+            "text": "<@U55NXF8UA|mavpmp> has joined the channel", 
+            "ts": "1497717293.552270", 
+            "subtype": "channel_join", 
+            "user": "U55NXF8UA", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U55NXF8UA>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1497717291.552079"
+        }, 
+        {
+            "text": "<@U4NUV30UA|thomaselkins> has joined the channel", 
+            "ts": "1497717239.548947", 
+            "subtype": "channel_join", 
+            "user": "U4NUV30UA", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U4NUV30UA>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1497717236.548826"
+        }, 
+        {
+            "text": "<@U4NUV30UA>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1497717206.547038"
+        }, 
+        {
+            "text": "<@U5LV42GBB|chrisjannenga> has joined the channel", 
+            "type": "message", 
+            "user": "U5LV42GBB", 
+            "ts": "1497653703.148543", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5LSXTYRJ|dixon13> has left the channel", 
+            "type": "message", 
+            "user": "U5LSXTYRJ", 
+            "ts": "1497568815.227436", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<!channel>: \n\nResources for accumulator patterns: \n<https://www.youtube.com/watch?v=cmOcfD6VzWg>\n \n<https://www.youtube.com/watch?v=XxOvA-obmyY>", 
+            "type": "message", 
+            "user": "U1UUFQMED", 
+            "ts": "1497308672.393147", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/channel/UCxM6--J9pxeS3geqe1MVxsg", 
+                    "service_name": "YouTube", 
+                    "title": "AccumulatorPatterns1", 
+                    "video_html_height": 225, 
+                    "author_name": "Nmuta Jones", 
+                    "title_link": "https://www.youtube.com/watch?v=cmOcfD6VzWg", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/cmOcfD6VzWg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: AccumulatorPatterns1", 
+                    "thumb_url": "https://i.ytimg.com/vi/cmOcfD6VzWg/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=cmOcfD6VzWg"
+                }, 
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/channel/UCxM6--J9pxeS3geqe1MVxsg", 
+                    "service_name": "YouTube", 
+                    "title": "accumulator patterns 2", 
+                    "video_html_height": 300, 
+                    "author_name": "Nmuta Jones", 
+                    "title_link": "https://www.youtube.com/watch?v=XxOvA-obmyY", 
+                    "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/XxOvA-obmyY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 2, 
+                    "fallback": "YouTube Video: accumulator patterns 2", 
+                    "thumb_url": "https://i.ytimg.com/vi/XxOvA-obmyY/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=XxOvA-obmyY"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U5MDK6YSV|kyle_barker> has joined the channel", 
+            "ts": "1497298582.780104", 
+            "subtype": "channel_join", 
+            "user": "U5MDK6YSV", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U5MDK6YSV>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1497298580.779455"
+        }, 
+        {
+            "text": "<!channel>", 
+            "type": "message", 
+            "user": "U1UUFQMED", 
+            "ts": "1496785787.208327"
+        }, 
+        {
+            "text": "<https://docs.google.com/document/d/1vdZOJScO4HW5QnXUis7hB35TN2QBS9FgSWxyOdlNqmE>", 
+            "type": "message", 
+            "user": "U1UUFQMED", 
+            "ts": "1496785784.207565", 
+            "edited": {
+                "user": "U1UUFQMED", 
+                "ts": "1497285978.000000"
+            }
+        }, 
+        {
+            "text": "Greetings, g58 students !  My name is Nmuta Jones; I\u2019m the Managing Lead Instructor of the Galvanize Phoenix campus. I\u2019ve prepared a document for you all about our optional \u201cWeek Zero\u201d that beings next week.  The document follows in the next Slack message:", 
+            "type": "message", 
+            "user": "U1UUFQMED", 
+            "ts": "1496785783.207224"
+        }, 
+        {
+            "text": "<@U5MD0F2FL|dylan_cunningham> has joined the channel", 
+            "type": "message", 
+            "user": "U5MD0F2FL", 
+            "ts": "1496346690.563474", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5LUBVA2H|nataliedespain> has joined the channel", 
+            "type": "message", 
+            "user": "U5LUBVA2H", 
+            "ts": "1496273947.417256", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5LSXTYRJ|dixon13> has joined the channel", 
+            "type": "message", 
+            "user": "U5LSXTYRJ", 
+            "ts": "1496273534.352811", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5L4XUBM1|ismael_perez> has joined the channel", 
+            "type": "message", 
+            "user": "U5L4XUBM1", 
+            "ts": "1496198495.409462", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5KG27KFS|johnnycapra> has joined the channel", 
+            "type": "message", 
+            "user": "U5KG27KFS", 
+            "ts": "1496192328.654045", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5LT4JKRV|stephan_holly> has joined the channel", 
+            "type": "message", 
+            "user": "U5LT4JKRV", 
+            "ts": "1496175669.951496", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4NC3PLN8|jessestafford> has joined the channel", 
+            "ts": "1496175645.944060", 
+            "subtype": "channel_join", 
+            "user": "U4NC3PLN8", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U4NC3PLN8>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1496175642.943259"
+        }, 
+        {
+            "text": "<@U4NC3PLN8>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1496175585.924922"
+        }, 
+        {
+            "text": "<@U31GQDHEX|dianav> has joined the channel", 
+            "ts": "1496175458.885150", 
+            "subtype": "channel_join", 
+            "user": "U31GQDHEX", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U4B7LD4R3|mariadll> has joined the channel", 
+            "ts": "1496175458.885132", 
+            "subtype": "channel_join", 
+            "user": "U4B7LD4R3", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U30UDCYF2|chrishuie> has joined the channel", 
+            "ts": "1496175458.885114", 
+            "subtype": "channel_join", 
+            "user": "U30UDCYF2", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U4UAAD20K|jeffrey.klier> has joined the channel", 
+            "ts": "1496175458.885083", 
+            "subtype": "channel_join", 
+            "user": "U4UAAD20K", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U3MB79VMG|john.armbruster> has joined the channel", 
+            "ts": "1496175457.885010", 
+            "subtype": "channel_join", 
+            "user": "U3MB79VMG", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U36F34RGA|merylkrich> set the channel purpose: June Web Development Cohort", 
+            "ts": "1496175457.884970", 
+            "subtype": "channel_purpose", 
+            "user": "U36F34RGA", 
+            "type": "message", 
+            "purpose": "June Web Development Cohort"
+        }, 
+        {
+            "text": "<@U1UUFQMED|nmuta> has joined the channel", 
+            "ts": "1496175457.884960", 
+            "subtype": "channel_join", 
+            "user": "U1UUFQMED", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U36F34RGA|merylkrich> has joined the channel", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1496175455.884415", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g58wd_phx", 
+        "name": "g58wd_phx", 
+        "is_channel": true, 
+        "created": 1496175456, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U36F34RGA", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1496175457, 
+            "value": "June Web Development Cohort", 
+            "creator": "U36F34RGA"
+        }, 
+        "members": [
+            "U1UUFQMED", 
+            "U1YQPH4JK", 
+            "U30UDCYF2", 
+            "U31GQDHEX", 
+            "U36F34RGA", 
+            "U3MB79VMG", 
+            "U3Z7JPZTP", 
+            "U4B7LD4R3", 
+            "U4NC3PLN8", 
+            "U4NUV30UA", 
+            "U4UAAD20K", 
+            "U55NXF8UA", 
+            "U5KG27KFS", 
+            "U5L4XUBM1", 
+            "U5L51FZC2", 
+            "U5LT4JKRV", 
+            "U5LUBVA2H", 
+            "U5LV42GBB", 
+            "U5MD0F2FL", 
+            "U5MDK6YSV", 
+            "U5NCUJLN4", 
+            "U5PSQBNVD", 
+            "U5VS3HZ51"
+        ], 
+        "id": "C5KFKL9DX", 
+        "is_shared": false
+    }
+}

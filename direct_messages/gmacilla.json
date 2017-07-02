@@ -1,0 +1,155 @@
+{
+    "messages": [
+        {
+            "text": "Ahhh...nice :sunglasses:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1492699105.410712"
+        }, 
+        {
+            "text": "doh!", 
+            "type": "message", 
+            "user": "U2LUDE27J", 
+            "ts": "1492646906.740070"
+        }, 
+        {
+            "text": "from: <http://stackoverflow.com/questions/22219004/grouping-rows-in-list-in-pandas-groupby>", 
+            "type": "message", 
+            "user": "U2LUDE27J", 
+            "ts": "1492646902.739282", 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+                    "thumb_width": 316, 
+                    "title": "grouping rows in list in pandas groupby", 
+                    "text": "I have a pandas data frame like: A 1 A 2 B 5 B 5 B 4 C 6 I want to group by the first column and get second column as lists in rows: A [1,2] B [5,5,4] C [6] Is it possible to do something like ...", 
+                    "title_link": "http://stackoverflow.com/questions/22219004/grouping-rows-in-list-in-pandas-groupby", 
+                    "service_name": "stackoverflow.com", 
+                    "id": 1, 
+                    "fallback": "grouping rows in list in pandas groupby", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+                    "from_url": "http://stackoverflow.com/questions/22219004/grouping-rows-in-list-in-pandas-groupby"
+                }
+            ]
+        }, 
+        {
+            "text": "b04_x_evt_df.groupby(\u2018b05_evt_key\u2019)[\u2018b05_b04_key\u2019].apply(list)", 
+            "type": "message", 
+            "user": "U2LUDE27J", 
+            "ts": "1492646884.735991"
+        }, 
+        {
+            "text": "Nah, this is perfect. Thanks bud!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1484148014.000002"
+        }, 
+        {
+            "text": "let me know if we modified any others. i Could send you the test file too if you want.", 
+            "type": "message", 
+            "user": "U2LUDE27J", 
+            "ts": "1484108408.000004"
+        }, 
+        {
+            "username": "gmacilla", 
+            "display_as_bot": false, 
+            "text": "<@U2LUDE27J|gmacilla> uploaded a file: <https://gstudents.slack.com/files/gmacilla/F3QJ31C1L/run_decision_tree.py|run_decision_tree.py>", 
+            "upload": true, 
+            "ts": "1484108356.000003", 
+            "subtype": "file_share", 
+            "user": "U2LUDE27J", 
+            "file": {
+                "filetype": "python", 
+                "lines_more": 21, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3QJ31C1L", 
+                "size": 682, 
+                "title": "run_decision_tree.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3QJ31C1L/run_decision_tree.py", 
+                "ims": [
+                    "D3P6R3TU0"
+                ], 
+                "preview": "import pandas as pd\nfrom itertools import izip\nfrom DecisionTree import DecisionTree\n\n", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/gmacilla/F3QJ31C1L/run_decision_tree.py/edit", 
+                "username": "", 
+                "timestamp": 1484108355, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3QJ31C1L/download/run_decision_tree.py", 
+                "user": "U2LUDE27J", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "run_decision_tree.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3QJ31C1L-3dce0090ec", 
+                "permalink": "https://gstudents.slack.com/files/gmacilla/F3QJ31C1L/run_decision_tree.py", 
+                "is_external": false, 
+                "created": 1484108355, 
+                "lines": 26, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">pandas</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">pd</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">itertools</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">izip</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">DecisionTree</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">DecisionTree</span></pre></div>\n<div><pre>&#8203;</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "gmacilla", 
+            "display_as_bot": false, 
+            "text": "<@U2LUDE27J|gmacilla> uploaded a file: <https://gstudents.slack.com/files/gmacilla/F3P7K6C4R/decisiontree.py|DecisionTree.py>", 
+            "upload": true, 
+            "ts": "1484108355.000002", 
+            "subtype": "file_share", 
+            "user": "U2LUDE27J", 
+            "file": {
+                "filetype": "python", 
+                "lines_more": 223, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3P7K6C4R", 
+                "size": 7446, 
+                "title": "DecisionTree.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3P7K6C4R/decisiontree.py", 
+                "ims": [
+                    "D3P6R3TU0"
+                ], 
+                "preview": "import pandas as pd\nimport numpy as np\nimport math\nfrom collections import Counter\nfrom TreeNode import TreeNode", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/gmacilla/F3P7K6C4R/decisiontree.py/edit", 
+                "username": "", 
+                "timestamp": 1484108354, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3P7K6C4R/download/decisiontree.py", 
+                "user": "U2LUDE27J", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "DecisionTree.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3P7K6C4R-b80a0b1ef0", 
+                "permalink": "https://gstudents.slack.com/files/gmacilla/F3P7K6C4R/decisiontree.py", 
+                "is_external": false, 
+                "created": 1484108354, 
+                "lines": 228, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">pandas</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">pd</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">numpy</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">np</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">math</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">collections</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">Counter</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">TreeNode</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">TreeNode</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U2LUDE27J", 
+            "U34BY2K3K"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495758374.740142"
+        }, 
+        {
+            "text": "Josh Kern is here today", 
+            "type": "message", 
+            "user": "U50GQK7HB", 
+            "ts": "1495758189.720779"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U50GQK7HB", 
+            "U34BY2K3K"
+        ]
+    }
+}

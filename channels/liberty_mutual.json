@@ -1,0 +1,978 @@
+{
+    "messages": [
+        {
+            "text": "<@U1X937Q73|gina.hinton> has left the channel", 
+            "type": "message", 
+            "user": "U1X937Q73", 
+            "ts": "1494003170.241079", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1TU3PLMB|katieparker> has left the channel", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1484327209.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1TV4KHUP|caroleolivier> has left the channel", 
+            "type": "message", 
+            "user": "U1TV4KHUP", 
+            "ts": "1481389522.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U25CT20EA|jjbouley> has left the channel", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1480746313.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "heading out now", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497874.000021"
+        }, 
+        {
+            "text": "not smith", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497868.000020"
+        }, 
+        {
+            "text": "burger bar", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497863.000019"
+        }, 
+        {
+            "text": "okay we\u2019re actually doing", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497861.000018"
+        }, 
+        {
+            "text": "Ill head over. What floor is it on", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1479497838.000017"
+        }, 
+        {
+            "text": "everyone seems to be tossing on coats lol", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497837.000016"
+        }, 
+        {
+            "text": "or soon", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497795.000015"
+        }, 
+        {
+            "text": "i guess now?", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497786.000014"
+        }, 
+        {
+            "text": "Alright. What time", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1479497707.000013"
+        }, 
+        {
+            "text": "Good prereqs", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1479497693.000012"
+        }, 
+        {
+            "text": "only because I haven\u2019t been there and they have booze", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497677.000011"
+        }, 
+        {
+            "text": "i was thinking the smith tower cafe &amp; bar", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497669.000010"
+        }, 
+        {
+            "text": "Where are you thinking", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1479497618.000009"
+        }, 
+        {
+            "text": "I don\u2019t mind at all", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497616.000008"
+        }, 
+        {
+            "text": "Do you mind if Jack goes too?  We were supposed to have lunch today w/ Matt, but Matt is sick", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1479497602.000007"
+        }, 
+        {
+            "text": "I\u2019m ready anytime too", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497579.000006"
+        }, 
+        {
+            "text": "ready anytime", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1479497540.000005"
+        }, 
+        {
+            "text": "What time?", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1479497533.000004"
+        }, 
+        {
+            "text": "I'm down!", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1479497480.000003"
+        }, 
+        {
+            "text": "You guys want to all get lunch together today?", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1479497448.000002"
+        }, 
+        {
+            "text": "ya I was only playing :table_tennis_paddle_and_ball:", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1478806519.000008"
+        }, 
+        {
+            "text": "I think she's done w/ feedback on the DSRs...she seems pretty intent on her project :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1478806374.000007"
+        }, 
+        {
+            "text": "done your project!?", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1478806234.000006"
+        }, 
+        {
+            "text": "done", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1478805604.000005"
+        }, 
+        {
+            "text": "That's a good point Jack,  I hope it pays well!  :upside_down_face:", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1478731194.000004"
+        }, 
+        {
+            "text": "Although I'm pretty sure you can't become DSRs yourself :slightly_smiling_face: you can still nominate your classmates at <https://docs.google.com/a/galvanize.com/forms/d/e/1FAIpQLScA5760W8y1Y0xgNi9aLe5Pnbr9j72yDfnGo29dSfWk8D7Myw/viewform>. Since you're a bit more removed, in some ways your recommendations are more helpful than those of the rest of the students.", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1478730963.000002"
+        }, 
+        {
+            "text": "<@U263A62CR> Nope, peer interviews.", 
+            "type": "message", 
+            "user": "U2DA7L1D2", 
+            "ts": "1478291405.000003"
+        }, 
+        {
+            "text": "am I missing more stuff?", 
+            "type": "message", 
+            "user": "U263A62CR", 
+            "ts": "1478291097.000002"
+        }, 
+        {
+            "text": "I would also prefer to work on my project.", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1478097533.000002"
+        }, 
+        {
+            "text": "No, but thanks for asking. ", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1478039043.000005"
+        }, 
+        {
+            "text": "I'm available all day Friday, Monday morning, all day Tuesday and Wednesday afternoon to observe and comment.", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1478029880.000004"
+        }, 
+        {
+            "text": "I would like to work on my project.", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1478028237.000003"
+        }, 
+        {
+            "text": "We're doing some peer practice interviews on Friday and early next week, a bit over a day total. Right now we're planning them in groups of 3 in 2-hour blocks, with the people trading roles as interviewer, interviewee, and observer. Do any of you want to be involved? You could be part of the process for some or all of them, as a review of what you know and as practice giving interviews, or you could observe and comment (some of you have interview experience and might be able to give helpful insight) or could just get an early start with your projects or do other review on your own.", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1478028126.000002"
+        }, 
+        {
+            "text": "Hey Peeps - going to lunch today @ 11:30 - Delicatus if anyone is interested: <https://www.google.com/maps/place/Delicatus+Pioneer+Square/@47.6014944,-122.3366916,17z/data=!3m1!4b1!4m5!3m4!1s0x54906abab2130f2b:0x95b69dc3de478f8b!8m2!3d47.6014944!4d-122.3344976?hl=en>", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1476814971.000002"
+        }, 
+        {
+            "text": "ok Homework for wed/thur/fri.. will do", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1476740012.000008"
+        }, 
+        {
+            "text": "...will use the homework category  :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1476736458.000007"
+        }, 
+        {
+            "text": "Thanks Sean, was going for consistency - I think I", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1476736444.000006"
+        }, 
+        {
+            "text": "so I\u2019d say classwork or homework should be fine", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1476733645.000005"
+        }, 
+        {
+            "text": "I know you DON\u2019T have to use FTO", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1476733623.000004"
+        }, 
+        {
+            "text": "I don\u2019t believe it matters which code you use.", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1476733617.000003"
+        }, 
+        {
+            "text": "Hey LM peeps - what are you booking clarity time to for WEDS, THURS and FRI this week?", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1476733379.000002"
+        }, 
+        {
+            "username": "miles", 
+            "display_as_bot": false, 
+            "text": "<@U1VN4QD29|miles> uploaded a file: <https://gstudents.slack.com/files/miles/F2K8SU6MC/screen_shot_2016-10-04_at_11.47.51_am.png|Screen Shot 2016-10-04 at 11.47.51 AM.png>", 
+            "upload": true, 
+            "ts": "1475606922.000003", 
+            "subtype": "file_share", 
+            "user": "U1VN4QD29", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2K8SU6MC-75d95f7fa0/screen_shot_2016-10-04_at_11.47.51_am_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2K8SU6MC-75d95f7fa0/screen_shot_2016-10-04_at_11.47.51_am_64.png", 
+                "size": 112062, 
+                "original_h": 574, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2016-10-04 at 11.47.51 AM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2K8SU6MC/screen_shot_2016-10-04_at_11.47.51_am.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2K8SU6MC-75d95f7fa0/screen_shot_2016-10-04_at_11.47.51_am_360.png", 
+                "id": "F2K8SU6MC", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2K8SU6MC-75d95f7fa0/screen_shot_2016-10-04_at_11.47.51_am_80.png", 
+                "thumb_360_h": 289, 
+                "thumb_480_h": 386, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1475606920, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2K8SU6MC-75d95f7fa0/screen_shot_2016-10-04_at_11.47.51_am_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2K8SU6MC/download/screen_shot_2016-10-04_at_11.47.51_am.png", 
+                "user": "U1VN4QD29", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2016-10-04 at 11.47.51 AM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2K8SU6MC-504a499d1d", 
+                "permalink": "https://gstudents.slack.com/files/miles/F2K8SU6MC/screen_shot_2016-10-04_at_11.47.51_am.png", 
+                "is_external": false, 
+                "created": 1475606920, 
+                "original_w": 714, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C298PLXT4"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Also, Command-Shift-4 followed by Space will let you take a full window (not full screen) snip. Easier than manual cropping!", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1475606914.000002"
+        }, 
+        {
+            "text": "The snipping tool is def something that\u2019s just not quite as good on a mac.", 
+            "type": "message", 
+            "user": "U2DA7L1D2", 
+            "ts": "1475586929.000002"
+        }, 
+        {
+            "text": "LM folk: Something I discovered while working on stuff tonight and lamenting the loss of the snipping tool from our windows machines: command-Shift-3 takes a screenshot of the whole screen. command-Shift-4 produces crosshairs that can be dragged to grab just a portion of the screen. Snaps are dumped to desktop", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1475555187.000002", 
+            "edited": {
+                "user": "U25CT20EA", 
+                "ts": "1475555387.000000"
+            }
+        }, 
+        {
+            "text": "Thanks Rob!", 
+            "type": "message", 
+            "user": "U2DA7L1D2", 
+            "ts": "1475077266.000010"
+        }, 
+        {
+            "text": "Thanks Rob! :grin:", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1475077240.000009"
+        }, 
+        {
+            "text": "Here ya go: Spreadsheet:\n<https://docs.google.com/a/galvanize.com/spreadsheets/d/1wDYQz28_fCQnJGxK_CDjxfqnD05AYMlVwLSPDCSnQM0/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U263A62CR", 
+            "ts": "1475077191.000008"
+        }, 
+        {
+            "text": "Matt - Could you please resend the link to the spreadsheet - want to make sure that it's updated w/ my new account information.  Thanks!", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1475076986.000007"
+        }, 
+        {
+            "text": "Though, it is recommended that you clone all the materials you are interested in, as we may migrate to a new system for class materials in the future, and this could inadvertently disrupt your access.", 
+            "type": "message", 
+            "user": "U2DA7L1D2", 
+            "ts": "1475075743.000006"
+        }, 
+        {
+            "text": "The answer is: Forever.", 
+            "type": "message", 
+            "user": "U2DA7L1D2", 
+            "ts": "1475075693.000005"
+        }, 
+        {
+            "text": "A question came up the other day in one of our discussions: \u201cHow long will we have access to the class materials *after* the end of the cohort period?\"", 
+            "type": "message", 
+            "user": "U2DA7L1D2", 
+            "ts": "1475075681.000004"
+        }, 
+        {
+            "text": "I've updated the spreadsheet as well, info is up-to-date", 
+            "type": "message", 
+            "user": "U263A62CR", 
+            "ts": "1475074676.000003"
+        }, 
+        {
+            "text": "updated the spreadsheet with AWS email and confirmed acct#", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1475074054.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VN4QD29"
+                    ]
+                }
+            ], 
+            "text": "You should all have permission now.  I added everyone who requested this and made <@U2DA7L1D2>  the owner of the document.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1475029982.000008"
+        }, 
+        {
+            "text": "hi Miles, is the e-mail in the spreadsheet my liberty e-mail? I can't access the doc. If so, it needs to be changed to <mailto:robjwentworth@gmail.com|robjwentworth@gmail.com>", 
+            "type": "message", 
+            "user": "U263A62CR", 
+            "ts": "1475020111.000007"
+        }, 
+        {
+            "text": "<@U263A62CR> <@U259NEYT0> Thanks! Can you update us with your new AWS account numbers (either here or in the spreadsheet)?", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1475019079.000006"
+        }, 
+        {
+            "text": "I signed up in AWS with <mailto:janehillyard2@gmail.com|janehillyard2@gmail.com>\u2026", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1475015746.000005"
+        }, 
+        {
+            "text": "I'm signed up under my personal e-mail for AWS. It's <mailto:robjwentworth@gmail.com|robjwentworth@gmail.com> probably not what you have in your spreadsheet...thanks!", 
+            "type": "message", 
+            "user": "U263A62CR", 
+            "ts": "1475015684.000004"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "white_check_mark", 
+                    "users": [
+                        "U1VN4QD29"
+                    ]
+                }
+            ], 
+            "text": "I thought that might happen. I got a note yesterday from the accoutn manager", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1475011759.000003"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U2DA7L1D2"
+                    ]
+                }
+            ], 
+            "text": "Amazon Web Services signup update:\nWe\u2019ve learned that it\u2019s going to be necessary to set up AWS accounts under your personal e-mail addresses in order to apply for AWS credits. If you\u2019re signed up under a Liberty Mutual e-mail address, we will need you to sign up again using a personal account. <@U259NEYT0> <@U25CT20EA> <@U263A62CR>", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1475011722.000002"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1474644652.000025"
+        }, 
+        {
+            "text": ": )", 
+            "type": "message", 
+            "user": "U252BN3M4", 
+            "ts": "1474643225.000024"
+        }, 
+        {
+            "text": "Morning <!channel>. It\u2019s Friday :tada: \nEven though you are considering the next steps based on your discussions with your LM Manager, give it your best in Assessment 3 today!", 
+            "type": "message", 
+            "user": "U1TV4KHUP", 
+            "ts": "1474643207.000023"
+        }, 
+        {
+            "text": "<!channel> Hope you\u2019re day\u2019s going well! Be on the lookout for communication from your manager at Liberty Mutual to connect a bit on how you are doing and an info sync from LM\u2019s side.", 
+            "type": "message", 
+            "user": "U1TV4KHUP", 
+            "ts": "1474568595.000021"
+        }, 
+        {
+            "text": "Thanks!", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1474318570.000018"
+        }, 
+        {
+            "text": "It completed on my phone and hit enter too fast contact me if the answer is incomplete", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1474312738.000017"
+        }, 
+        {
+            "text": "We are planning what additional support we can provide to help you.  Please complete this two question survey to let us know what would be beneficial: <https://goo.gl/forms/NwdrzX7XctXJUxmt2>", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1474311093.000015", 
+            "attachments": [
+                {
+                    "image_bytes": 72401, 
+                    "title": "Liberty Mutual Sessions", 
+                    "service_name": "Google Docs", 
+                    "image_width": 333, 
+                    "title_link": "https://goo.gl/forms/NwdrzX7XctXJUxmt2", 
+                    "image_height": 250, 
+                    "image_url": "https://lh3.googleusercontent.com/iBP9IIcOlsmxJOU0qmzPoAPl9s4w014CYGqLgvYWm1-RHc0-IiZ7LszKgm1NIfla6gg", 
+                    "text": "Vote about what kind of additional support you want so that we can determine what resources to provide. A vote is not a guarantee that we will provide a specific service.", 
+                    "id": 1, 
+                    "fallback": "Google Docs: Liberty Mutual Sessions", 
+                    "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png", 
+                    "from_url": "https://goo.gl/forms/NwdrzX7XctXJUxmt2"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U2DA7L1D2|madrury> has joined the channel", 
+            "ts": "1474310638.000014", 
+            "subtype": "channel_join", 
+            "user": "U2DA7L1D2", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "You are safe today Jack. :slightly_smiling_face: I am organizing notes, looking through references and practicing", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1474149272.000012", 
+            "edited": {
+                "user": "U25CT20EA", 
+                "ts": "1474149338.000000"
+            }
+        }, 
+        {
+            "text": "I\u2019ll be in the building a fair amount today and tomorrow if anyone is around as has questions, but taking a break is probably a good idea :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1474144409.000011"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "unicorn_face", 
+                    "users": [
+                        "U2529J64X"
+                    ]
+                }
+            ], 
+            "text": "Agreed. I need time to work through two weeks of material", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1474059689.000010"
+        }, 
+        {
+            "text": "We are planning to take the weekend off.  I think we all could use a few days of R+R.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1474059496.000009"
+        }, 
+        {
+            "text": "Thanks Ben for the update - Are there any tutorial sessions scheduled for the weekend?", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1474059378.000008"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U25CT20EA", 
+                        "U1Y8Q30LE"
+                    ]
+                }
+            ], 
+            "text": "Hope you all are doing well.  We are still waiting to get the official word from Liberty Mutual what changes, if any, we will make to your education plan.  For now, plan to take the assessments are regularly scheduled and just do the best that you are able.  Compare yourself to yourself not others \u2014 use the assessment to track your progress.  As always, let me know if you have questions or need help.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1474057344.000007"
+        }, 
+        {
+            "text": "I was tossing the alpha and 1- beta in there instead of the z-scores", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1474047304.000006"
+        }, 
+        {
+            "text": "yup I messed that up", 
+            "type": "message", 
+            "user": "U25UQDZGE", 
+            "ts": "1474047280.000005"
+        }, 
+        {
+            "text": "don't forget the import... import scipy.stats as st", 
+            "type": "message", 
+            "user": "U263A62CR", 
+            "ts": "1474046203.000004"
+        }, 
+        {
+            "text": "Sample size calculator", 
+            "type": "message", 
+            "user": "U263A62CR", 
+            "ts": "1474045867.000003"
+        }, 
+        {
+            "text": "alpha = 0.1\nbeta = 0.05\nstd = 0.24\neffect_size = 0.01\nZa = st.norm.ppf(alpha)\nZ1 = st.norm.ppf(1 - beta)\nAnswer = ((std/(effect_size)) * ((Z1-Za)))**2", 
+            "type": "message", 
+            "user": "U263A62CR", 
+            "ts": "1474045852.000002"
+        }, 
+        {
+            "text": "Probably. Tomorrow I will answer any questions you have about the math/stats part of the precourse. ", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473551832.000002"
+        }, 
+        {
+            "text": "will he be doing other things beyond vi today?", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1473543656.000002"
+        }, 
+        {
+            "text": "The Ferrari store is at Madison &amp; Union on Capitol Hill.  I ran into a former service manager who told me that they sell about four a month, mostly to old Microsoft millionaires.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473440409.000003"
+        }, 
+        {
+            "text": "How do I expense the Ferrari again? I was going to put it under \"miscellaneous\"", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1473395278.000002"
+        }, 
+        {
+            "text": "And your expense reports", 
+            "type": "message", 
+            "user": "U263A62CR", 
+            "ts": "1473364169.000012"
+        }, 
+        {
+            "text": "Don't forget to submit your Clarity LM peeps! :unicorn_face: ", 
+            "type": "message", 
+            "user": "U2529J64X", 
+            "ts": "1473362018.000011"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U25CT20EA"
+                    ]
+                }
+            ], 
+            "text": "I renamed your repo <https://github.com/zipfian/liberty-mutual> which looks better.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473354215.000010"
+        }, 
+        {
+            "text": "LMK if you only want write access.  Then you will need to fork the repo and can submit changes via a pull request.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473353929.000009"
+        }, 
+        {
+            "text": "when you look at them in your browser.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473353888.000008"
+        }, 
+        {
+            "text": "Put your notes in whatever format you like and add/commit to the repo.  If they are markdown, they will be nicely rendered on GitHub.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473353877.000007"
+        }, 
+        {
+            "text": "See this doc on markdown: <https://guides.github.com/features/mastering-markdown/>", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473353641.000006"
+        }, 
+        {
+            "text": "GitHub markdown is a great tool for writing up notes. I created a private repo for all Liberty Mutual students so that you can collaborate.  Go to <https://github.com/zipfian/liberty_mutual>.  You all have write access now, so tread with care.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473353615.000005"
+        }, 
+        {
+            "text": "Thanks Jane! ", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1473353165.000004"
+        }, 
+        {
+            "text": "my cheat sheet above", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1473347009.000003"
+        }, 
+        {
+            "text": "get clone \nedit \ngit add filename\ngit commit -m \u201cJanes assessment\u201d \u2014 local repo\ngit push \ngit checkout -b pair origin/master\ngit push origin pair:pair\ngit checkout pair\ngit remote add miles <https://githuub.com/????/opp>\ngit pull Miles pair", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1473347002.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "white_check_mark", 
+                    "users": [
+                        "U1VMS7XL6", 
+                        "U1X937Q73"
+                    ]
+                }
+            ], 
+            "text": "Thank you Ms. Hinton. I will opt out to use the time for keeping pace in the curriculum", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1473292791.000026"
+        }, 
+        {
+            "text": "<!channel> Heads up that your team is welcome but does not need to attend the Career Services trainings. \n\nWelcome to Galvanize!", 
+            "type": "message", 
+            "user": "U1X937Q73", 
+            "ts": "1473292367.000025"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U1TV4KHUP", 
+                        "U1VN4QD29"
+                    ]
+                }
+            ], 
+            "text": "Hi! Sorry I couldn\u2019t connect with everyone, but feel free to let me know what support you need.  Here is the current plan: 1) we will add an 8-9 am Python/computer science session to help those of you who are struggling; 2) we will also add sessions this weekend as needed.  If you are struggling with Python, this is your number one priority until you get over the initial mountain.  Please keep track of terms &amp; concepts which don\u2019t make sense:  I find it helpful to write all of this down in a notebook or OneNote/Evernote.  We will get you on track, but you need to let us know where you left the tracks. Look for an official email soon.  If this doesn\u2019t meet your needs, please let me know.  Lastly, worry about your race and not others.  We all start at different places with different strengths &amp; weaknesses.  We will help you get across the finish line. Thanks!", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473279931.000024"
+        }, 
+        {
+            "text": "Apologies for late notice.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473277956.000023"
+        }, 
+        {
+            "text": "I will meet everyone at 1 pm at the back of the class to discuss how we can address your concerns.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473277951.000022"
+        }, 
+        {
+            "text": "Welcome to this channel for discussing dedicated Liberty Mutual matters.", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473277924.000021"
+        }, 
+        {
+            "text": "<@U1X937Q73|gina.hinton> has joined the channel", 
+            "ts": "1473277909.000020", 
+            "subtype": "channel_join", 
+            "user": "U1X937Q73", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U25UQDZGE|seansweeney> has joined the channel", 
+            "ts": "1473277909.000019", 
+            "subtype": "channel_join", 
+            "user": "U25UQDZGE", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U1WAAB8GJ|daniel.butts> has joined the channel", 
+            "ts": "1473277909.000018", 
+            "subtype": "channel_join", 
+            "user": "U1WAAB8GJ", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U252BN3M4|scott_pavlow> has joined the channel", 
+            "ts": "1473277908.000017", 
+            "subtype": "channel_join", 
+            "user": "U252BN3M4", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U263A62CR|robjwentworth> has joined the channel", 
+            "ts": "1473277908.000016", 
+            "subtype": "channel_join", 
+            "user": "U263A62CR", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U2529J64X|kathy> has joined the channel", 
+            "ts": "1473277908.000015", 
+            "subtype": "channel_join", 
+            "user": "U2529J64X", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U259NEYT0|jhillyard> has joined the channel", 
+            "ts": "1473277908.000014", 
+            "subtype": "channel_join", 
+            "user": "U259NEYT0", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U1VC3UDMW|hutchbrock> has joined the channel", 
+            "ts": "1473277908.000013", 
+            "subtype": "channel_join", 
+            "user": "U1VC3UDMW", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U25CT20EA|jjbouley> has joined the channel", 
+            "ts": "1473277908.000012", 
+            "subtype": "channel_join", 
+            "user": "U25CT20EA", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U266DRKSB|pinar> has joined the channel", 
+            "ts": "1473277908.000011", 
+            "subtype": "channel_join", 
+            "user": "U266DRKSB", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U1V9QME06|pinar.colak> has joined the channel", 
+            "ts": "1473277908.000010", 
+            "subtype": "channel_join", 
+            "user": "U1V9QME06", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U1TU3PLMB|katieparker> has joined the channel", 
+            "ts": "1473277908.000009", 
+            "subtype": "channel_join", 
+            "user": "U1TU3PLMB", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U28PELW9E|jf.omhover> has joined the channel", 
+            "ts": "1473277908.000008", 
+            "subtype": "channel_join", 
+            "user": "U28PELW9E", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U1Y8Q30LE|jack> has joined the channel", 
+            "ts": "1473277908.000007", 
+            "subtype": "channel_join", 
+            "user": "U1Y8Q30LE", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U266KTKAN|hutch> has joined the channel", 
+            "ts": "1473277907.000006", 
+            "subtype": "channel_join", 
+            "user": "U266KTKAN", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U1TV4KHUP|caroleolivier> has joined the channel", 
+            "ts": "1473277907.000005", 
+            "subtype": "channel_join", 
+            "user": "U1TV4KHUP", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U1VN4QD29|miles> has joined the channel", 
+            "ts": "1473277907.000004", 
+            "subtype": "channel_join", 
+            "user": "U1VN4QD29", 
+            "type": "message", 
+            "inviter": "U1VMS7XL6"
+        }, 
+        {
+            "text": "<@U1VMS7XL6|skrainka> set the channel purpose: Liberty Mutual", 
+            "ts": "1473277907.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1VMS7XL6", 
+            "type": "message", 
+            "purpose": "Liberty Mutual"
+        }, 
+        {
+            "text": "<@U1VMS7XL6|skrainka> has joined the channel", 
+            "type": "message", 
+            "user": "U1VMS7XL6", 
+            "ts": "1473277906.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "liberty_mutual", 
+        "name": "liberty_mutual", 
+        "is_channel": true, 
+        "created": 1473277907, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1VMS7XL6", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1473277907, 
+            "value": "Liberty Mutual", 
+            "creator": "U1VMS7XL6"
+        }, 
+        "members": [
+            "U1V9QME06", 
+            "U1VC3UDMW", 
+            "U1VMS7XL6", 
+            "U1VN4QD29", 
+            "U1WAAB8GJ", 
+            "U1Y8Q30LE", 
+            "U2529J64X", 
+            "U252BN3M4", 
+            "U259NEYT0", 
+            "U25UQDZGE", 
+            "U263A62CR", 
+            "U266DRKSB", 
+            "U266KTKAN", 
+            "U28PELW9E", 
+            "U2DA7L1D2"
+        ], 
+        "id": "C298PLXT4", 
+        "is_shared": false
+    }
+}

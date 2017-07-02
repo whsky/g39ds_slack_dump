@@ -1,0 +1,65 @@
+{
+    "messages": [
+        {
+            "text": "thanks bud!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1484323832.000002"
+        }, 
+        {
+            "username": "brendan_drew", 
+            "display_as_bot": false, 
+            "text": "<@U34QVRJLB|brendan_drew> uploaded a file: <https://gstudents.slack.com/files/brendan_drew/F3RLF7V62/svm.zip|svm.zip> and commented: pair work", 
+            "upload": true, 
+            "ts": "1484269237.000002", 
+            "subtype": "file_share", 
+            "user": "U34QVRJLB", 
+            "file": {
+                "initial_comment": {
+                    "comment": "pair work", 
+                    "created": 1484269231, 
+                    "timestamp": 1484269231, 
+                    "is_intro": true, 
+                    "user": "U34QVRJLB", 
+                    "id": "Fc3R0G6K6W"
+                }, 
+                "filetype": "zip", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3RLF7V62", 
+                "size": 91630330, 
+                "title": "svm.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3RLF7V62/svm.zip", 
+                "ims": [
+                    "D3QTVJT4K"
+                ], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484269231, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3RLF7V62/download/svm.zip", 
+                "user": "U34QVRJLB", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Zip", 
+                "name": "svm.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3RLF7V62-a1fe34d02f", 
+                "permalink": "https://gstudents.slack.com/files/brendan_drew/F3RLF7V62/svm.zip", 
+                "is_external": false, 
+                "created": 1484269231, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U34QVRJLB", 
+            "U34BY2K3K"
+        ]
+    }
+}

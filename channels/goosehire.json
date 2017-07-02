@@ -1,0 +1,1705 @@
+{
+    "messages": [
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U2HMNL3J8", 
+                        "U2B58EN5U"
+                    ]
+                }
+            ], 
+            "text": "<@U2B58EN5U> readme has been updated. I\u2019ll probably do a video walk through this weekend and will add a link to the readme.", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1490129436.599447"
+        }, 
+        {
+            "text": "thanks!!", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1490059519.465828"
+        }, 
+        {
+            "text": "<@U2B58EN5U>: sure, I can work on that tomorrow. ", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1490046811.926005"
+        }, 
+        {
+            "text": "<@U2B7PGW6N> would you mind pushing your readme to master?", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1490037067.371702"
+        }, 
+        {
+            "text": "Nice!", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1486607686.000009"
+        }, 
+        {
+            "text": "Same here. Had a phone interview today. I may be employable after all.", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1486605654.000008"
+        }, 
+        {
+            "text": "I was much distraught. ", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1486604356.000007"
+        }, 
+        {
+            "text": "Yay! I'm seriously using the goose on every job I apply to now. ", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1486604343.000006"
+        }, 
+        {
+            "text": "Got it back up.", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1486603738.000005"
+        }, 
+        {
+            "text": "Looks like the backend is down. Checking on the mongo host.", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1486603617.000004"
+        }, 
+        {
+            "text": "<@U2APRMK8B>: can you check the logs when you get this?", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1486603340.000003"
+        }, 
+        {
+            "text": "Goosehire is down! I repeat, the goose is down!", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1486603305.000002"
+        }, 
+        {
+            "text": "if you can think of anything I missed, let me know!", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1486484432.000006"
+        }, 
+        {
+            "edited": {
+                "user": "U2B7PGW6N", 
+                "ts": "1486484405.000000"
+            }, 
+            "attachments": [
+                {
+                    "thumb_height": 400, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 400, 
+                    "title": "mehrimo/GooseHire", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/mehrimo/GooseHire", 
+                    "text": "GooseHire - Goose your resume. Get hired. An online tool for matching skill sets to job descriptions", 
+                    "id": 1, 
+                    "fallback": "GitHub: mehrimo/GooseHire", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/22015991?v=3&s=400", 
+                    "from_url": "https://github.com/mehrimo/GooseHire"
+                }
+            ], 
+            "text": "I updated my README here: <https://github.com/mehrimo/GooseHire>. Feel free to copy for your personal repo. I still need to add a description of \u201cmy role\u201d and I want to list Passport, but the Login link isn\u2019t working for me. Not sure what the issue is.", 
+            "ts": "1486484384.000003", 
+            "user": "U2B7PGW6N", 
+            "type": "message"
+        }, 
+        {
+            "text": "thanks for all the updates guys :raised_hands::skin-tone-2: <@U2APRMK8B> <@U2HMNL3J8> ", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1486429188.000002"
+        }, 
+        {
+            "text": "Deployed and looking like hot sauce on a goose. Thanks!", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1486183605.000003"
+        }, 
+        {
+            "text": "<@U2APRMK8B> job link i added was broken. stupid typo. i have now merged. can you push to heroku when you have a minute?", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1486173555.000002"
+        }, 
+        {
+            "text": "<@U2APRMK8B> I cleaned up the job description with the new bits we added, and also added a link to the actual indeed posting. Can you push to heroku?", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1486147540.000003"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "100", 
+                    "users": [
+                        "U2B58EN5U", 
+                        "U2B7PGW6N"
+                    ]
+                }
+            ], 
+            "text": "just made our 100th change!!!", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1486147492.000002"
+        }, 
+        {
+            "text": "I was thinking that too. I can deploy changes anytime.", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1486045923.000002"
+        }, 
+        {
+            "text": "Since Mukai wants to pass around the Goose, we should really look into putting the \"search powered by indeed\" bit on the jobList page. ", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1486044204.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "batman", 
+                    "users": [
+                        "U2EB76WFQ"
+                    ]
+                }
+            ], 
+            "text": "Echoing the sentiment. This week was a real pleasure and I was frequently surprised by how bad-ass you can all be.", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485640786.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "passportjs", 
+                    "users": [
+                        "U2APRMK8B", 
+                        "U2B7PGW6N", 
+                        "U2HMNL3J8"
+                    ]
+                }
+            ], 
+            "text": "I agree with  <@U2HMNL3J8>  and <@U2B7PGW6N> . I truly enjoyed working with all of you and I appreciate all of the humor throughout project week. I loved having fun while working on stuff that can be difficult and I actually think it's funny when you guys gave me a hard time. BTW, whose working on passport branch? Oh, that's me", 
+            "type": "message", 
+            "user": "U2EB76WFQ", 
+            "ts": "1485564283.000005"
+        }, 
+        {
+            "text": "#gooseforlife ", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485564119.000004"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "+1", 
+                    "users": [
+                        "U2EB76WFQ", 
+                        "U2HMNL3J8", 
+                        "U2B58EN5U"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "office", 
+                    "users": [
+                        "U2APRMK8B"
+                    ]
+                }
+            ], 
+            "text": "That means a lot. I would be honored to work with any of you in the future and I'm happy to pass any opportunities along that I find or if anyone needs a recommendation. I'll miss our sweet office setup.  :smirk:", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485564011.000003"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "craig", 
+                    "users": [
+                        "U2EB76WFQ", 
+                        "U2B58EN5U"
+                    ]
+                }, 
+                {
+                    "count": 2, 
+                    "name": "saxophone", 
+                    "users": [
+                        "U2APRMK8B", 
+                        "U2B7PGW6N"
+                    ]
+                }
+            ], 
+            "text": "I told Devin earlier, and I'd like to reiterate here, that I would not hesitate to work with any of you again, nor would I hesitate to recommend you to work with me at any jobs I might find in the future. Great fucking work. ", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485562845.000002"
+        }, 
+        {
+            "username": "malilasage", 
+            "display_as_bot": false, 
+            "text": "<@U2B58EN5U|malilasage> uploaded a file: <https://gstudents.slack.com/files/malilasage/F3WU852HW/.png|Untitled>", 
+            "upload": true, 
+            "ts": "1485551604.000004", 
+            "subtype": "file_share", 
+            "user": "U2B58EN5U", 
+            "file": {
+                "thumb_480_w": 270, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3WU852HW-0ad7b29179/_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3WU852HW-0ad7b29179/_64.png", 
+                "size": 1585110, 
+                "original_h": 1334, 
+                "thumb_360_w": 202, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3WU852HW/.png", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3WU852HW-0ad7b29179/_360.png", 
+                "id": "F3WU852HW", 
+                "ims": [], 
+                "thumb_720_w": 405, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3WU852HW-0ad7b29179/_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1485551600, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3WU852HW-0ad7b29179/_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3WU852HW/download/.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F3WU852HW-0ad7b29179/_1024.png", 
+                "user": "U2B58EN5U", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F3WU852HW-0ad7b29179/_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": ".png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3WU852HW-46537abb50", 
+                "permalink": "https://gstudents.slack.com/files/malilasage/F3WU852HW/.png", 
+                "is_external": false, 
+                "created": 1485551600, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 750, 
+                "thumb_960_w": 540, 
+                "thumb_1024_w": 576, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F3WU852HW-0ad7b29179/_720.png", 
+                "channels": [
+                    "C3UERD59R"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "two_hearts", 
+                    "users": [
+                        "U2B58EN5U", 
+                        "U2APRMK8B"
+                    ]
+                }
+            ], 
+            "text": "fyi - I\u2019m going to create a nice README with a screenshot, description, etc. I\u2019ll share next week so we can all use it.", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485550738.000003"
+        }, 
+        {
+            "text": "<https://q3-goosehire.herokuapp.com/>", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485550669.000002"
+        }, 
+        {
+            "username": "mehri.russo", 
+            "display_as_bot": false, 
+            "text": "<@U2B7PGW6N|mehri.russo> uploaded a file: <https://gstudents.slack.com/files/mehri.russo/F3WPY0D3J/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1485535938.000002", 
+            "subtype": "file_share", 
+            "user": "U2B7PGW6N", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 87, 
+                "channels": [
+                    "C3UERD59R"
+                ], 
+                "display_as_bot": false, 
+                "id": "F3WPY0D3J", 
+                "size": 2761, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3WPY0D3J/-.txt", 
+                "ims": [], 
+                "preview": "\"use strict\";\r\n\r\nconst express = require('express');\r\nconst path = require('path');\r\nconst bodyParser = require('body-parser');\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/mehri.russo/F3WPY0D3J/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1485535938, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3WPY0D3J/download/-.txt", 
+                "user": "U2B7PGW6N", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3WPY0D3J-b6d0926a65", 
+                "permalink": "https://gstudents.slack.com/files/mehri.russo/F3WPY0D3J/-.txt", 
+                "is_external": false, 
+                "created": 1485535938, 
+                "lines": 92, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&quot;use strict&quot;;</pre></div>\n<div><pre></pre></div>\n<div><pre>const express = require('express');</pre></div>\n<div><pre>const path = require('path');</pre></div>\n<div><pre>const bodyParser = require('body-parser');</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "passport_control", 
+                    "users": [
+                        "U2APRMK8B"
+                    ]
+                }
+            ], 
+            "text": "<@U2APRMK8B>: yes, there is in the strategy and on linkedin. \"Should\" be a quick change. ", 
+            "type": "message", 
+            "user": "U2EB76WFQ", 
+            "ts": "1485484493.000017"
+        }, 
+        {
+            "text": "that is a different version of login the logout is identical to ours", 
+            "type": "message", 
+            "user": "U2EEA476E", 
+            "ts": "1485483483.000016"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "passport_control", 
+                    "users": [
+                        "U2APRMK8B"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 173220, 
+                    "title": "Passport", 
+                    "text": "Simple, unobtrusive authentication for Node.js", 
+                    "image_width": 467, 
+                    "title_link": "http://passportjs.org/docs/login", 
+                    "image_height": 250, 
+                    "image_url": "http://passportjs.org/images/twitter-card.png", 
+                    "service_name": "passportjs.org", 
+                    "id": 1, 
+                    "fallback": "Passport", 
+                    "service_icon": "http://passportjs.org/images/favicon/apple-icon-57x57.png", 
+                    "from_url": "http://passportjs.org/docs/login"
+                }
+            ], 
+            "text": "<http://passportjs.org/docs/login>", 
+            "ts": "1485483451.000014", 
+            "user": "U2EEA476E", 
+            "type": "message"
+        }, 
+        {
+            "text": "I deployed and we're crashing on the auth. Something to look at tomorrow. Is there something in our callback routes that only works locally?", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485483103.000013"
+        }, 
+        {
+            "text": "<@U2B58EN5U> <@U2EEA476E> FYI. I didn\u2019t think the logout was working but it seems to be working without changing any code.", 
+            "type": "message", 
+            "user": "U2EB76WFQ", 
+            "ts": "1485482708.000012"
+        }, 
+        {
+            "username": "chansehorton", 
+            "display_as_bot": false, 
+            "text": "<@U2HMNL3J8|chansehorton> uploaded a file: <https://gstudents.slack.com/files/chansehorton/F3X5T4H6W/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1485474959.000011", 
+            "subtype": "file_share", 
+            "user": "U2HMNL3J8", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 445, 
+                "channels": [
+                    "C3UERD59R"
+                ], 
+                "display_as_bot": false, 
+                "id": "F3X5T4H6W", 
+                "size": 18375, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3X5T4H6W/-.txt", 
+                "ims": [], 
+                "preview": "(function() {\r\n  'use strict';\r\n\r\n  function wordCLoudObjectGen (skills, jobPosting) {\r\n\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/chansehorton/F3X5T4H6W/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1485474959, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3X5T4H6W/download/-.txt", 
+                "user": "U2HMNL3J8", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3X5T4H6W-fcacdb669d", 
+                "permalink": "https://gstudents.slack.com/files/chansehorton/F3X5T4H6W/-.txt", 
+                "is_external": false, 
+                "created": 1485474959, 
+                "lines": 450, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>(function() {</pre></div>\n<div><pre>  'use strict';</pre></div>\n<div><pre></pre></div>\n<div><pre>  function wordCLoudObjectGen (skills, jobPosting) {</pre></div>\n<div><pre></pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "I added a shared folder to add your photo and links: <https://drive.google.com/drive/folders/0B6DEGZM4mPvBdWZrbFpOazhsRWc>", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485473314.000009"
+        }, 
+        {
+            "text": "wompwomp", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485468099.000008"
+        }, 
+        {
+            "username": "chansehorton", 
+            "display_as_bot": false, 
+            "text": "<@U2HMNL3J8|chansehorton> uploaded a file: <https://gstudents.slack.com/files/chansehorton/F3WDT2NMP/screen_shot_2017-01-26_at_3.00.39_pm.png|Screen Shot 2017-01-26 at 3.00.39 PM.png>", 
+            "upload": true, 
+            "ts": "1485468092.000007", 
+            "subtype": "file_share", 
+            "user": "U2HMNL3J8", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3WDT2NMP-0e2fe461a9/screen_shot_2017-01-26_at_3.00.39_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3WDT2NMP-0e2fe461a9/screen_shot_2017-01-26_at_3.00.39_pm_64.png", 
+                "size": 126789, 
+                "original_h": 974, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-01-26 at 3.00.39 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3WDT2NMP/screen_shot_2017-01-26_at_3.00.39_pm.png", 
+                "thumb_720_h": 393, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3WDT2NMP-0e2fe461a9/screen_shot_2017-01-26_at_3.00.39_pm_360.png", 
+                "id": "F3WDT2NMP", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3WDT2NMP-0e2fe461a9/screen_shot_2017-01-26_at_3.00.39_pm_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 196, 
+                "thumb_480_h": 262, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1485468089, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3WDT2NMP-0e2fe461a9/screen_shot_2017-01-26_at_3.00.39_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3WDT2NMP/download/screen_shot_2017-01-26_at_3.00.39_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F3WDT2NMP-0e2fe461a9/screen_shot_2017-01-26_at_3.00.39_pm_1024.png", 
+                "user": "U2HMNL3J8", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F3WDT2NMP-0e2fe461a9/screen_shot_2017-01-26_at_3.00.39_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-01-26 at 3.00.39 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3WDT2NMP-b13c8c3a7a", 
+                "permalink": "https://gstudents.slack.com/files/chansehorton/F3WDT2NMP/screen_shot_2017-01-26_at_3.00.39_pm.png", 
+                "is_external": false, 
+                "created": 1485468089, 
+                "thumb_1024_h": 558, 
+                "thumb_960_h": 524, 
+                "original_w": 1786, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F3WDT2NMP-0e2fe461a9/screen_shot_2017-01-26_at_3.00.39_pm_720.png", 
+                "channels": [
+                    "C3UERD59R"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "just pushed my changes. You will notice the a few color changes - the buttons are now dark teal", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485467830.000006"
+        }, 
+        {
+            "text": "you will need to add some more keys to your .env. so here they are. Make sure you keep the indeed key that is already there\n\nLINKEDIN_CLIENT_ID=78fi2c0k3fgho0\nLINKEDIN_CLIENT_SECRET=CAQ3XthtMsju0le5\nSECRET_KEY=c8085c46d9a61cd5f5a2f1c9a57a8e1903da6b0b80c23938f88a29aceac4e3559d38a9ba13eb9c8a123f7d5698770eeb", 
+            "type": "message", 
+            "user": "U2EB76WFQ", 
+            "ts": "1485466532.000005"
+        }, 
+        {
+            "text": "I merged my changes in for passport. it isn\u2019t totally set up but we are working on it. Malila is merging now so feel free to wait before doing a pull.", 
+            "type": "message", 
+            "user": "U2EB76WFQ", 
+            "ts": "1485466481.000004"
+        }, 
+        {
+            "text": "updated the code, pulling more variables into the server. everyone please git pull origin master to your working branches", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485451517.000003"
+        }, 
+        {
+            "text": "fixed it and fixed the mongo connection that we broke to work with heroku. everyone should do a fresh git pull", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485446629.000002"
+        }, 
+        {
+            "text": "I\u2019m sure we can fix it tomorrow", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485402640.000004"
+        }, 
+        {
+            "text": "I didn\u2019t pull this afternoon yet", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485402629.000003"
+        }, 
+        {
+            "text": "shit you guys I hardcoded in my indeed key and forgot to remove it when merging the schema change to master : /", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485401943.000002"
+        }, 
+        {
+            "text": "it looks gr8 on mobile", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485388570.000013"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "chicken", 
+                    "users": [
+                        "U2B7PGW6N"
+                    ]
+                }
+            ], 
+            "text": "We are deployed: <https://q3-goosehire.herokuapp.com/>", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485388335.000012"
+        }, 
+        {
+            "text": "do an `npm install`", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485382440.000011"
+        }, 
+        {
+            "text": "i just pushed some buttons to save things etc", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485382375.000010"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U2EB76WFQ"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 400, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 400, 
+                    "title": "matthew-gordon/honeyBadger", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/matthew-gordon/honeyBadger", 
+                    "text": "Contribute to honeyBadger development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: matthew-gordon/honeyBadger", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/22120469?v=3&s=400", 
+                    "from_url": "https://github.com/matthew-gordon/honeyBadger"
+                }
+            ], 
+            "text": "<https://github.com/matthew-gordon/honeyBadger>", 
+            "ts": "1485382149.000008", 
+            "user": "U2HMNL3J8", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "horse", 
+                    "users": [
+                        "U2APRMK8B"
+                    ]
+                }
+            ], 
+            "text": "not to beat a dead goose, but someone needs to be working on deploying to heroku as is, without docker, just in case.", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485378557.000007"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "pidgey", 
+                    "users": [
+                        "U2B58EN5U"
+                    ]
+                }
+            ], 
+            "text": "Don't let them pigeon-hole you. Goosehire.", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485376170.000006"
+        }, 
+        {
+            "text": "<@U2HMNL3J8> api key but it\u2019s working for now", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485376079.000005"
+        }, 
+        {
+            "text": "I also have style changes to push. Maybe we should do that together first thing this AM", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485362496.000004"
+        }, 
+        {
+            "username": "jkgold", 
+            "display_as_bot": false, 
+            "text": "<@U2EEA476E|jkgold> uploaded a file: <https://gstudents.slack.com/files/jkgold/F3WDS4C3W/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1485362375.000003", 
+            "subtype": "file_share", 
+            "user": "U2EEA476E", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 86, 
+                "channels": [
+                    "C3UERD59R"
+                ], 
+                "display_as_bot": false, 
+                "id": "F3WDS4C3W", 
+                "size": 2029, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3WDS4C3W/-.txt", 
+                "ims": [], 
+                "preview": "\"use strict\";\r\n\r\nconst express = require('express');\r\nconst router = express.Router();\r\nconst mongoose = require('mongoose');\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/jkgold/F3WDS4C3W/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1485362375, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3WDS4C3W/download/-.txt", 
+                "user": "U2EEA476E", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3WDS4C3W-bb22f67464", 
+                "permalink": "https://gstudents.slack.com/files/jkgold/F3WDS4C3W/-.txt", 
+                "is_external": false, 
+                "created": 1485362375, 
+                "lines": 91, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&quot;use strict&quot;;</pre></div>\n<div><pre></pre></div>\n<div><pre>const express = require('express');</pre></div>\n<div><pre>const router = express.Router();</pre></div>\n<div><pre>const mongoose = require('mongoose');</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "here is the searches routes", 
+            "type": "message", 
+            "user": "U2EEA476E", 
+            "ts": "1485362357.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "carousel_horse", 
+                    "users": [
+                        "U2B58EN5U"
+                    ]
+                }
+            ], 
+            "text": "Just got the slideshow working! I will pass it over to <@U2B7PGW6N> this morning for size/style.", 
+            "type": "message", 
+            "user": "U2EB76WFQ", 
+            "ts": "1485354072.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "hatched_chick", 
+                    "users": [
+                        "U2APRMK8B", 
+                        "U2B58EN5U", 
+                        "U2EB76WFQ"
+                    ]
+                }
+            ], 
+            "text": "i also pulled out the indeed api key into a .env file, and added .env to .gitignore, so everyone will need to create a .env file in the goosehire root folder and add the following line to it in order for the search to work: INDEED_KEY=5344646076398943", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485287812.000008"
+        }, 
+        {
+            "text": "i made some changes to searchForm.template, searchForm.controller and index.html, that will probably cause conflicts when you try to push your changes, <@U2EB76WFQ>, but the changes I made to services did not conflict with yours, <@U2B58EN5U>", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485287713.000007"
+        }, 
+        {
+            "text": "ok, just pushed all my work. broke the main search call out into a service in which the click on the searchForm will now populate an array on the service. This allows you to click on an individual job and return to the same job list without re-running the search. Individual job data also now populates to the job view page.", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485287614.000006"
+        }, 
+        {
+            "text": "<http://www.niemanlab.org/2011/10/word-clouds-considered-harmful/>", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485278456.000004", 
+            "attachments": [
+                {
+                    "image_bytes": 267808, 
+                    "title": "Word clouds considered harmful", 
+                    "service_name": "Nieman Lab", 
+                    "image_width": 467, 
+                    "title_link": "http://www.niemanlab.org/2011/10/word-clouds-considered-harmful/", 
+                    "image_height": 250, 
+                    "image_url": "http://www.niemanlab.org/images/wordle_wordle.png", 
+                    "text": "The New York Times senior software architect would like the newest \"mullets of the Internet\" to go back from whence they came.", 
+                    "id": 1, 
+                    "fallback": "Nieman Lab: Word clouds considered harmful", 
+                    "service_icon": "http://www.niemanlab.org/favicon.ico", 
+                    "from_url": "http://www.niemanlab.org/2011/10/word-clouds-considered-harmful/"
+                }
+            ]
+        }, 
+        {
+            "text": "don\u2019t forget to reseed: mongoimport --db goosehire --collection users --drop --file seed-data.json", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485278450.000003"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "egg", 
+                    "users": [
+                        "U2B58EN5U"
+                    ]
+                }
+            ], 
+            "text": "\"Lay your own golden egg. Goosehire.\"", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485276554.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "mongodb", 
+                    "users": [
+                        "U2B58EN5U"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "title": "Node, Express, Swig, and MongoDB - Getting Started With CRUD - Michael Herman", 
+                    "text": "This article details how to create a basic web app with Node, Express, Swig, and MongoDB.", 
+                    "title_link": "http://mherman.org/blog/2015/08/24/node-express-swig-mongo-primer/", 
+                    "service_name": "mherman.org", 
+                    "id": 1, 
+                    "fallback": "Node, Express, Swig, and MongoDB - Getting Started With CRUD - Michael Herman", 
+                    "service_icon": "http://mherman.org/favicon.ico", 
+                    "from_url": "http://mherman.org/blog/2015/08/24/node-express-swig-mongo-primer/"
+                }
+            ], 
+            "text": "<http://mherman.org/blog/2015/08/24/node-express-swig-mongo-primer/>", 
+            "ts": "1485215324.000053", 
+            "user": "U2EEA476E", 
+            "type": "message"
+        }, 
+        {
+            "username": "mehri.russo", 
+            "display_as_bot": false, 
+            "text": "<@U2B7PGW6N|mehri.russo> uploaded a file: <https://gstudents.slack.com/files/mehri.russo/F3UMPJG0G/gangsta-goose_o_1449717.jpg|gangsta-goose_o_1449717.jpg>", 
+            "upload": true, 
+            "ts": "1485214185.000052", 
+            "subtype": "file_share", 
+            "user": "U2B7PGW6N", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 2, 
+                        "name": "black_joker", 
+                        "users": [
+                            "U2APRMK8B", 
+                            "U2B58EN5U"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "jpg", 
+                "channels": [
+                    "C3UERD59R"
+                ], 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3UMPJG0G-b0c8b7db3b/gangsta-goose_o_1449717_64.jpg", 
+                "size": 57056, 
+                "original_h": 473, 
+                "thumb_360_w": 350, 
+                "title": "gangsta-goose_o_1449717.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3UMPJG0G/gangsta-goose_o_1449717.jpg", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3UMPJG0G-b0c8b7db3b/gangsta-goose_o_1449717_360.jpg", 
+                "id": "F3UMPJG0G", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3UMPJG0G-b0c8b7db3b/gangsta-goose_o_1449717_80.jpg", 
+                "thumb_360_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1485214183, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3UMPJG0G-b0c8b7db3b/gangsta-goose_o_1449717_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3UMPJG0G/download/gangsta-goose_o_1449717.jpg", 
+                "user": "U2B7PGW6N", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "gangsta-goose_o_1449717.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3UMPJG0G-a46d9d83e6", 
+                "permalink": "https://gstudents.slack.com/files/mehri.russo/F3UMPJG0G/gangsta-goose_o_1449717.jpg", 
+                "is_external": false, 
+                "created": 1485214183, 
+                "original_w": 460, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "lol merged again bc i left in some brackets", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485213110.000050", 
+            "edited": {
+                "user": "U2B58EN5U", 
+                "ts": "1485213121.000000"
+            }
+        }, 
+        {
+            "text": "merged tests with new data to master", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485212283.000049"
+        }, 
+        {
+            "text": "Lets all reconvene @ 4:00 pm downstairs in the unnamed room", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485210349.000048"
+        }, 
+        {
+            "text": "mat already kinda lost me so I\u2019m just going to keep working on routes etc", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485209656.000047"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "seedling", 
+                    "users": [
+                        "U2APRMK8B"
+                    ]
+                }
+            ], 
+            "text": "i pushed the seeds change", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485204225.000046"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "roller_coaster", 
+                    "users": [
+                        "U2APRMK8B"
+                    ]
+                }
+            ], 
+            "text": "i just pushed to master again, connecting server to routes. i don\u2019t think anyone downstairs should be affected by this so no need to pull immediately", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485195598.000045"
+        }, 
+        {
+            "text": "<@U2EEA476E> - we\u2019re in the gray\u2019s classroom", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485194897.000044"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "candle", 
+                    "users": [
+                        "U2B58EN5U", 
+                        "U2EB76WFQ"
+                    ]
+                }
+            ], 
+            "text": "<@U2B58EN5U> 'mongo is lit' :joy:", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485194152.000041"
+        }, 
+        {
+            "text": "mongoimport --db goosehire --collection users --drop --file seed-data.json", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485193847.000040"
+        }, 
+        {
+            "text": "ok i merged the mongo schema and server stuff, don\u2019t forget to `npm install`", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485192587.000039"
+        }, 
+        {
+            "text": "Yeah, I saw that. The api library, I mean. ", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485186233.000037", 
+            "edited": {
+                "user": "U2HMNL3J8", 
+                "ts": "1485186263.000000"
+            }
+        }, 
+        {
+            "text": "I'll be in at 9:30 this morning. ", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485185287.000036"
+        }, 
+        {
+            "text": "We have this in our packages.json: <https://github.com/thedrew12/indeed-api-client#readme>", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485184167.000034", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 200, 
+                    "title": "thedrew12/indeed-api-client", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/thedrew12/indeed-api-client#readme", 
+                    "text": "indeed-api-client - A client library for connecting to the Indeed API", 
+                    "id": 1, 
+                    "fallback": "GitHub: thedrew12/indeed-api-client", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/15160724?v=3&s=400", 
+                    "from_url": "https://github.com/thedrew12/indeed-api-client#readme"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "birthday", 
+                    "users": [
+                        "U2APRMK8B", 
+                        "U2EB76WFQ"
+                    ]
+                }
+            ], 
+            "text": "just fyi - I\u2019ll be offline this afternoon, doing family stuff for my niece\u2019s bday.", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485122137.000033"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-2", 
+                    "users": [
+                        "U2B58EN5U"
+                    ]
+                }
+            ], 
+            "text": "mongoimport --db goosehire --collection userdata --drop --file seed-data.json", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485119594.000032"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U2EB76WFQ"
+                    ]
+                }
+            ], 
+            "text": "alright, it says no conflicts, so i'm going to go ahead and merge", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485112846.000031"
+        }, 
+        {
+            "text": "Excellent. We'll find jobs today, then.", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485112705.000030"
+        }, 
+        {
+            "text": "this update lets you run a search, (though the title field doesn't work yet; havent figured out how to specify that in the indeed call yet) and will kick you to the jobList page and display your results in ugly JSON form", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485112594.000029"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "taco", 
+                    "users": [
+                        "U2EB76WFQ"
+                    ]
+                }
+            ], 
+            "text": "i made changes in the following components/files : \nstyle.css, server.js, jobList component, searchForm component, and the  main component,", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485112498.000028"
+        }, 
+        {
+            "text": "I poked around server.js in my branch. But it shouldn't be a big deal to resolve any conflicts in there.", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485112474.000027"
+        }, 
+        {
+            "text": "alright, folks, getting ready to push a big update. big as in \"i was in a lot of files\", so here's your chance to wave a flag before i push.", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485112405.000026"
+        }, 
+        {
+            "text": "The $1million idea is easily $2million with ad copy like that.", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485110373.000025"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "craig", 
+                    "users": [
+                        "U2B58EN5U"
+                    ]
+                }
+            ], 
+            "text": "I have several slogans ready for the billboard slideshow. \"Don't let the job search get you down - GooseHire.\" \"Show your old boss the bird - GooseHire.\" \"Migrate to your dream job - GooseHire.\" \"Don't let this job be your swan song - Goosehire.\" \"Give the recruiters something to gander - Goosehire.\" \"Find your flock - GooseHire.\"", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485110357.000024"
+        }, 
+        {
+            "text": "Can't wait to take a gander.", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485107996.000023"
+        }, 
+        {
+            "text": "the goose is alive", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485104726.000022"
+        }, 
+        {
+            "text": "down momentarily, it seems it had a bad shut down last time. working on it", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485103503.000021"
+        }, 
+        {
+            "text": "Oh noes. Are you saying that the goose is down?", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485102972.000020"
+        }, 
+        {
+            "text": "update: my mongod server isn\u2019t running for some reason this morning, getting errors. Working on it...", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485101206.000019"
+        }, 
+        {
+            "text": "well it worked and it\u2019s not worth \u201cthe why\u201d right now. Sweet. I\u2019m jumping back on the slideshow. Hopefully that doesnt take too ling.", 
+            "type": "message", 
+            "user": "U2EB76WFQ", 
+            "ts": "1485100554.000018"
+        }, 
+        {
+            "text": "Today, I'm going to work on making the indeed API call dynamically build from the inputs, and build a basic jobList page to output to. ", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485100504.000017"
+        }, 
+        {
+            "text": "I added a 'public' to the app.module.js script tag, and then removed it, and suddenly everything worked. Still no clue as to why it happened. ", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485100399.000016"
+        }, 
+        {
+            "text": "I pushed after 'fixing it'", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485100323.000015"
+        }, 
+        {
+            "text": "Nope. ", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1485100310.000014"
+        }, 
+        {
+            "text": "<@U2HMNL3J8> <@U2APRMK8B> Are you still getting the unexpected &lt;\u2018s error? I\u2019m not after doing a git pull.", 
+            "type": "message", 
+            "user": "U2EB76WFQ", 
+            "ts": "1485100276.000013"
+        }, 
+        {
+            "text": "Hey team - I'm feeling more comfortable with the MongoDB and seed process. I'm going to try a few things tomorrow morning and will keep everyone updated. ", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485058815.000012"
+        }, 
+        {
+            "text": "<https://github.com/StephenGrider/MongoCasts>", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485026073.000010", 
+            "attachments": [
+                {
+                    "thumb_height": 400, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 400, 
+                    "title": "StephenGrider/MongoCasts", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/StephenGrider/MongoCasts", 
+                    "text": "MongoCasts - Companion Repo for The Complete Developer's Guide to MongoDB", 
+                    "id": 1, 
+                    "fallback": "GitHub: StephenGrider/MongoCasts", 
+                    "thumb_url": "https://avatars1.githubusercontent.com/u/5003903?v=3&s=400", 
+                    "from_url": "https://github.com/StephenGrider/MongoCasts"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://drive.google.com/drive/folders/0B6DEGZM4mPvBWGFHUFk5RTFiX1U>", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1485023441.000008"
+        }, 
+        {
+            "text": "All hail the one and true mongod.", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1485021868.000007"
+        }, 
+        {
+            "text": "install mongo\n`brew install mongo`\n\nmake directory for mongo to store data\n`sudo mkdir -p /data/db`\n\n`whoami`\nthis should return whatever name you gave yourself when you set up your operating system\n\n`sudo chown -Rv yourname /data/db`\n\n`mongod`\nthis should successfully start the mongo server", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485021776.000006"
+        }, 
+        {
+            "text": "when everyone gets around to mongo, this is the installation process:", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1485021775.000005"
+        }, 
+        {
+            "username": "mehri.russo", 
+            "display_as_bot": false, 
+            "text": "<@U2B7PGW6N|mehri.russo> uploaded a file: <https://gstudents.slack.com/files/mehri.russo/F3U02G9LG/img_5496.jpg|On my way, got distracted by my friend's new puppy.>", 
+            "upload": true, 
+            "ts": "1485019862.000002", 
+            "subtype": "file_share", 
+            "user": "U2B7PGW6N", 
+            "file": {
+                "thumb_480_w": 480, 
+                "reactions": [
+                    {
+                        "count": 2, 
+                        "name": "dog", 
+                        "users": [
+                            "U2APRMK8B", 
+                            "U2B58EN5U"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3U02G9LG-a5fdc22712/img_5496_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3U02G9LG-a5fdc22712/img_5496_64.jpg", 
+                "size": 1742172, 
+                "original_h": 2448, 
+                "thumb_360_w": 360, 
+                "title": "On my way, got distracted by my friend's new puppy.", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3U02G9LG/img_5496.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3U02G9LG-a5fdc22712/img_5496_360.jpg", 
+                "id": "F3U02G9LG", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3U02G9LG-a5fdc22712/img_5496_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1485019858, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3U02G9LG-a5fdc22712/img_5496_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3U02G9LG/download/img_5496.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F3U02G9LG-a5fdc22712/img_5496_1024.jpg", 
+                "user": "U2B7PGW6N", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F3U02G9LG-a5fdc22712/img_5496_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_5496.JPG", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3U02G9LG-8c27c048d0", 
+                "permalink": "https://gstudents.slack.com/files/mehri.russo/F3U02G9LG/img_5496.jpg", 
+                "is_external": false, 
+                "created": 1485019858, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 3264, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F3U02G9LG-a5fdc22712/img_5496_720.jpg", 
+                "channels": [
+                    "C3UERD59R"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "bradefting", 
+            "display_as_bot": false, 
+            "text": "<@U2EB76WFQ|bradefting> uploaded a file: <https://gstudents.slack.com/files/bradefting/F3V7KQPD4/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1484954485.000021", 
+            "subtype": "file_share", 
+            "user": "U2EB76WFQ", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 4, 
+                "channels": [
+                    "C3UERD59R"
+                ], 
+                "display_as_bot": false, 
+                "id": "F3V7KQPD4", 
+                "size": 621, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3V7KQPD4/-.txt", 
+                "ims": [], 
+                "preview": "We noticed you recently created a branch in GitHub. \r\nDid you know that we\u2019ll move an issue to \u2018in progress\u2019 and assign it to you if you reference it in the branch name? \r\nJust put the issue number at the beginning of the branch name with a '-' or '_' behind it or anywhere else in the branch name with a '#' in front of it.\r\nHere are some example branch names:\r\n123-fix-bug\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/bradefting/F3V7KQPD4/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1484954485, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3V7KQPD4/download/-.txt", 
+                "user": "U2EB76WFQ", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3V7KQPD4-c3dd39aafe", 
+                "permalink": "https://gstudents.slack.com/files/bradefting/F3V7KQPD4/-.txt", 
+                "is_external": false, 
+                "created": 1484954485, 
+                "lines": 9, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>We noticed you recently created a branch in GitHub. </pre></div>\n<div><pre>Did you know that we\u2019ll move an issue to \u2018in progress\u2019 and assign it to you if you reference it in the branch name? </pre></div>\n<div><pre>Just put the issue number at the beginning of the branch name with a '-' or '_' behind it or anywhere else in the branch name with a '#' in front of it.</pre></div>\n<div><pre>Here are some example branch names:</pre></div>\n<div><pre>123-fix-bug</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://github.com/mjhea0/passport-social-auth/tree/master/server>", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1484954440.000019", 
+            "attachments": [
+                {
+                    "thumb_height": 400, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 400, 
+                    "title": "mjhea0/passport-social-auth", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/mjhea0/passport-social-auth/tree/master/server", 
+                    "text": "Contribute to passport-social-auth development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: mjhea0/passport-social-auth", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/2018167?v=3&s=400", 
+                    "from_url": "https://github.com/mjhea0/passport-social-auth/tree/master/server"
+                }
+            ]
+        }, 
+        {
+            "username": "chansehorton", 
+            "display_as_bot": false, 
+            "text": "<@U2HMNL3J8|chansehorton> uploaded a file: <https://gstudents.slack.com/files/chansehorton/F3TSCP3G9/img_6393.jpg|IMG 6393>", 
+            "upload": true, 
+            "ts": "1484954023.000018", 
+            "subtype": "file_share", 
+            "user": "U2HMNL3J8", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3TSCP3G9-799da03ea4/img_6393_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3TSCP3G9-799da03ea4/img_6393_64.jpg", 
+                "size": 1155442, 
+                "original_h": 2448, 
+                "thumb_360_w": 360, 
+                "title": "IMG 6393", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3TSCP3G9/img_6393.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3TSCP3G9-799da03ea4/img_6393_360.jpg", 
+                "id": "F3TSCP3G9", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3TSCP3G9-799da03ea4/img_6393_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484954018, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3TSCP3G9-799da03ea4/img_6393_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3TSCP3G9/download/img_6393.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F3TSCP3G9-799da03ea4/img_6393_1024.jpg", 
+                "user": "U2HMNL3J8", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F3TSCP3G9-799da03ea4/img_6393_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_6393.JPG", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3TSCP3G9-2e945ab7b0", 
+                "permalink": "https://gstudents.slack.com/files/chansehorton/F3TSCP3G9/img_6393.jpg", 
+                "is_external": false, 
+                "created": 1484954018, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 3264, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F3TSCP3G9-799da03ea4/img_6393_720.jpg", 
+                "channels": [
+                    "C3UERD59R"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<http://mherman.org/blog/2015/09/26/social-authentication-in-node-dot-js-with-passport/#.WIKX-LYrKb8>", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1484953609.000016", 
+            "attachments": [
+                {
+                    "title": "Social Authentication in Node.js With Passport - Michael Herman", 
+                    "text": "Let's look at how to set up Social Authentication with Passport.", 
+                    "title_link": "http://mherman.org/blog/2015/09/26/social-authentication-in-node-dot-js-with-passport/#.WIKX-LYrKb8", 
+                    "service_name": "mherman.org", 
+                    "id": 1, 
+                    "fallback": "Social Authentication in Node.js With Passport - Michael Herman", 
+                    "service_icon": "http://mherman.org/favicon.ico", 
+                    "from_url": "http://mherman.org/blog/2015/09/26/social-authentication-in-node-dot-js-with-passport/#.WIKX-LYrKb8"
+                }
+            ]
+        }, 
+        {
+            "text": "<http://mherman.org/blog/2013/11/11/user-authentication-with-passport-dot-js/#.WIKXmLYrKb8>", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1484953529.000014", 
+            "attachments": [
+                {
+                    "title": "User Authentication With Passport.js - Michael Herman", 
+                    "text": "Change Log November 21st, 2013: After a user registers, they are automatically logged inMay 15th, 2014: Added info about salt and hashing passwords \u2026", 
+                    "title_link": "http://mherman.org/blog/2013/11/11/user-authentication-with-passport-dot-js/#.WIKXmLYrKb8", 
+                    "service_name": "mherman.org", 
+                    "id": 1, 
+                    "fallback": "User Authentication With Passport.js - Michael Herman", 
+                    "service_icon": "http://mherman.org/favicon.ico", 
+                    "from_url": "http://mherman.org/blog/2013/11/11/user-authentication-with-passport-dot-js/#.WIKXmLYrKb8"
+                }
+            ]
+        }, 
+        {
+            "username": "hurdaudio", 
+            "display_as_bot": false, 
+            "text": "<@U2APRMK8B|hurdaudio> uploaded a file: <https://gstudents.slack.com/files/hurdaudio/F3UKEJ5DK/goosehirepitch.key|GooseHirePitch.key>", 
+            "upload": true, 
+            "ts": "1484953458.000013", 
+            "subtype": "file_share", 
+            "user": "U2APRMK8B", 
+            "file": {
+                "filetype": "key", 
+                "channels": [
+                    "C3UERD59R"
+                ], 
+                "display_as_bot": false, 
+                "id": "F3UKEJ5DK", 
+                "size": 3079886, 
+                "title": "GooseHirePitch.key", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3UKEJ5DK/goosehirepitch.key", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484953457, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3UKEJ5DK/download/goosehirepitch.key", 
+                "user": "U2APRMK8B", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Keynote Document", 
+                "name": "GooseHirePitch.key", 
+                "mimetype": "application/x-iwork-keynote-sffkey", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3UKEJ5DK-4e6022dea6", 
+                "permalink": "https://gstudents.slack.com/files/hurdaudio/F3UKEJ5DK/goosehirepitch.key", 
+                "is_external": false, 
+                "created": 1484953457, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Here is the repo for a job search site one of my classmates made. Might make an interesting point of reference.", 
+            "type": "message", 
+            "user": "U1Z8QFF5G", 
+            "ts": "1484952980.000012"
+        }, 
+        {
+            "text": "<https://github.com/sean-xd/Shoku>", 
+            "type": "message", 
+            "user": "U1Z8QFF5G", 
+            "ts": "1484952952.000010", 
+            "attachments": [
+                {
+                    "thumb_height": 263, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 263, 
+                    "title": "sean-xd/Shoku", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/sean-xd/Shoku", 
+                    "text": "Shoku - Find new tech jobs every day.", 
+                    "id": 1, 
+                    "fallback": "GitHub: sean-xd/Shoku", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/16480107?v=3&s=400", 
+                    "from_url": "https://github.com/sean-xd/Shoku"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U2EEA476E|jkgold> has joined the channel", 
+            "ts": "1484952942.000009", 
+            "subtype": "channel_join", 
+            "user": "U2EEA476E", 
+            "type": "message", 
+            "inviter": "U1Z8QFF5G"
+        }, 
+        {
+            "text": "<@U2EB76WFQ|bradefting> has joined the channel", 
+            "ts": "1484952942.000008", 
+            "subtype": "channel_join", 
+            "user": "U2EB76WFQ", 
+            "type": "message", 
+            "inviter": "U1Z8QFF5G"
+        }, 
+        {
+            "text": "<@U2HMNL3J8|chansehorton> has joined the channel", 
+            "ts": "1484952942.000007", 
+            "subtype": "channel_join", 
+            "user": "U2HMNL3J8", 
+            "type": "message", 
+            "inviter": "U1Z8QFF5G"
+        }, 
+        {
+            "text": "<@U2APRMK8B|hurdaudio> has joined the channel", 
+            "ts": "1484952942.000006", 
+            "subtype": "channel_join", 
+            "user": "U2APRMK8B", 
+            "type": "message", 
+            "inviter": "U1Z8QFF5G"
+        }, 
+        {
+            "text": "<@U1Z8QFF5G|ziopads> set the channel purpose: GooseHire project", 
+            "ts": "1484952942.000005", 
+            "subtype": "channel_purpose", 
+            "user": "U1Z8QFF5G", 
+            "type": "message", 
+            "purpose": "GooseHire project"
+        }, 
+        {
+            "text": "<@U2B7PGW6N|mehri.russo> has joined the channel", 
+            "ts": "1484952942.000004", 
+            "subtype": "channel_join", 
+            "user": "U2B7PGW6N", 
+            "type": "message", 
+            "inviter": "U1Z8QFF5G"
+        }, 
+        {
+            "text": "<@U2B58EN5U|malilasage> has joined the channel", 
+            "ts": "1484952942.000003", 
+            "subtype": "channel_join", 
+            "user": "U2B58EN5U", 
+            "type": "message", 
+            "inviter": "U1Z8QFF5G"
+        }, 
+        {
+            "text": "<@U1Z8QFF5G|ziopads> has joined the channel", 
+            "type": "message", 
+            "user": "U1Z8QFF5G", 
+            "ts": "1484952941.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "goosehire", 
+        "name": "goosehire", 
+        "is_channel": true, 
+        "created": 1484952942, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1Z8QFF5G", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1484952942, 
+            "value": "GooseHire project", 
+            "creator": "U1Z8QFF5G"
+        }, 
+        "members": [
+            "U1Z8QFF5G", 
+            "U2APRMK8B", 
+            "U2B58EN5U", 
+            "U2B7PGW6N", 
+            "U2EB76WFQ", 
+            "U2EEA476E", 
+            "U2HMNL3J8"
+        ], 
+        "id": "C3UERD59R", 
+        "is_shared": false
+    }
+}

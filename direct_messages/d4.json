@@ -1,0 +1,99 @@
+{
+    "messages": [
+        {
+            "text": "Can I ask you about the worthiness of my capstone idea real quick", 
+            "type": "message", 
+            "user": "U4FK10F99", 
+            "ts": "1495560418.823060"
+        }, 
+        {
+            "text": "Yeah, we are trying to figure out how to get the assignment running on v3 now...hopefully a better answer tomorrow!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495504954.149956"
+        }, 
+        {
+            "text": "Hi, Steve\u2026 I\u2019m at home, what app/info should we put in the v3 yelp API application? Do they check it?", 
+            "type": "message", 
+            "user": "U4FK10F99", 
+            "ts": "1495497013.693884"
+        }, 
+        {
+            "text": "<http://code.flickr.net/2017/03/07/introducing-similarity-search-at-flickr/>", 
+            "type": "message", 
+            "user": "U4FK10F99", 
+            "ts": "1494451727.351258", 
+            "attachments": [
+                {
+                    "thumb_height": 150, 
+                    "service_icon": "http://0.gravatar.com/blavatar/8b1d73fba9c0d02a3e78929d8cecfd82?s=114", 
+                    "thumb_width": 174, 
+                    "author_link": "https://code.flickr.net/author/claytonhoo/", 
+                    "service_name": "code.flickr.com", 
+                    "title": "Introducing Similarity Search at\u00a0Flickr", 
+                    "author_name": "Clayton Mellina", 
+                    "title_link": "http://code.flickr.net/2017/03/07/introducing-similarity-search-at-flickr/", 
+                    "service_url": "http://code.flickr.net", 
+                    "text": "At Flickr, we understand that the value in our image corpus is only unlocked when our members can find photos and photographers that inspire them, so we strive to enable the discovery and appreciation of new photos.\nTo further that effort, today we are introducing similarity search on Flickr. If you hover over a photo on a search result page, you will reveal a &ldquo;&hellip;&rdquo; button that exposes a menu that gives you the option to search for photos similar to the photo you are currently viewing.\nIn many ways, photo search is very different from traditional web or text search. First, the goal of web search is usually to satisfy a particular information need, while with photo search the goal is often one of discovery; as such, it should be delightful as well as functional. We have taken this to heart throughout Flickr. For instance, our color search feature, which allows filtering by color scheme, and our style filters, which allow filtering by styles such as &ldquo;minimalist&rdquo; or &ldquo;patterns,&rdquo; encourage exploration. Second, in traditional web search, the goal is usually to match documents to a set of keywords in the query. That is, the query is in the same modality&mdash;text&mdash;as the documents being searched. Photo search usually matches across modalities: text to image. Text querying is a necessary feature of a photo search engine, but, as the saying goes, a picture is worth a thousand words. And beyond saving people the effort of so much typing, many visual concepts genuinely defy accurate description. Now, we&rsquo;re giving our community a way to easily explore those visual concepts with the &ldquo;&hellip;&rdquo; button, a feature we call the similarity pivot.\n\nThe similarity pivot is a significant addition to the Flickr experience because it offers our community an entirely new way to explore and discover the billions of incredible photos and millions of incredible photographers on Flickr. It allows people to look for images of a particular style, it gives people a view into universal behaviors, and even when it &ldquo;messes up,&rdquo; it can force people to look at the unexpected commonalities and oddities of our visual world with a fresh perspective.\nWhat is &ldquo;similarity&rdquo;?\nTo understand how an experience like this is powered, we first need to understand what we mean by &ldquo;similarity.&rdquo; There are many ways photos can be similar to one another. Consider some examples.\n\n\n\nIt is apparent that all of these groups of photos illustrate some notion of &ldquo;similarity,&rdquo; but each is different. Roughly, they are: similarity of color, similarity of texture, and similarity of semantic category. And there are many others that you might imagine as well.\nWhat notion of similarity is best suited for a site like Flickr? Ideally, we&rsquo;d like to be able to capture multiple types of similarity, but we decided early on that semantic similarity&mdash;similarity based on the semantic content of the photos&mdash;was vital to facilitate discovery on Flickr. This requires a deep understanding of image content for which we employ deep neural networks.\nWe have been using deep neural networks at Flickr for a while for various tasks such as object recognition, NSFW prediction, and even prediction of aesthetic quality. For these tasks, we train a neural network to map the raw pixels of a photo into a set of relevant tags, as illustrated below.\n\nInternally, the neural network accomplishes this mapping incrementally by applying a series of transformations to the image, which can be thought of as a vector of numbers corresponding to the pixel intensities. Each transformation in the series produces another vector, which is in turn the input to the next transformation, until finally we have a vector that we specifically constrain to be a list of probabilities for each class we are trying to recognize in the image. To be able to go from raw pixels to a semantic label like &ldquo;hot air balloon,&rdquo; the network discards lots of information about the image, including information about &nbsp;appearance, such as the color of the balloon, its relative position in the sky, etc. Instead, we can extract an internal vector in the network before the final output.\n\nFor common neural network architectures, this vector&mdash;which we call a &ldquo;feature vector&rdquo;&mdash;has many hundreds or thousands of dimensions. We can&rsquo;t necessarily say with certainty that any one of these dimensions means something in particular as we could at the final network output, whose dimensions correspond to tag probabilities. But these vectors have an important property: when you compute the Euclidean distance between these vectors, images containing similar content will tend to have feature vectors closer together than images containing dissimilar content. You can think of this as a way that the network has learned to organize information present in the image so that it can output the required class prediction. This is exactly what we are looking for: Euclidian distance in this high-dimensional feature space is a measure of semantic similarity. The graphic below illustrates this idea: points in the neighborhood around the query image are semantically similar to the query image, whereas points in neighborhoods further away are not.\n\nThis measure of similarity is not perfect and cannot capture all possible notions of similarity&mdash;it will be constrained by the particular task the network was trained to perform, i.e., scene recognition. However, it is effective for our purposes, and, importantly, it contains information beyond merely the semantic content of the image, such as appearance, composition, and texture. Most importantly, it gives us a simple algorithm for finding visually similar photos: compute the distance in the feature space of a query image to each index image and return the images with lowest distance. Of course, there is much more work to do to make this idea work for billions of images.\nLarge-scale approximate nearest neighbor search\nWith an index as large as Flickr&rsquo;s, computing distances exhaustively for each query is intractable. Additionally, storing a high-dimensional floating point feature vector for each of billions of images takes a large amount of disk space and poses even more difficulty if these features need to be in memory for fast ranking. To solve these two issues, we adopt a state-of-the-art approximate nearest neighbor algorithm called Locally Optimized Product Quantization (LOPQ).\nTo understand LOPQ, it is useful to first look at a simple strategy. Rather than ranking all vectors in the index, we can first filter a set of good candidates and only do expensive distance computations on them. For example, we can use an algorithm like k-means to cluster our index vectors, find the cluster to which each vector is assigned, and index the corresponding cluster id for each vector. At query time, we find the cluster that the query vector is assigned to and fetch the items that belong to the same cluster from the index. We can even expand this set if we like by fetching items from the next nearest cluster.\nThis idea will take us far, but not far enough for a billions-scale index. For example, with 1 billion photos, we need 1 million clusters so that each cluster contains an average of 1000 photos. At query time, we will have to compute the distance from the query to each of these 1 million cluster centroids in order to find the nearest clusters. This is quite a lot. We can do better, however, if we instead split our vectors in half by dimension and cluster each half separately. In this scheme, each vector will be assigned to a pair of cluster ids, one for each half of the vector. If we choose k = 1000 to cluster both halves, we have k2= 1000 * 1000 = 1e6 possible pairs. In other words, by clustering each half separately and assigning each item a pair of cluster ids, we can get the same granularity of parti\u2026", 
+                    "id": 1, 
+                    "fallback": "code.flickr.com Link: Introducing Similarity Search at&nbsp;Flickr", 
+                    "thumb_url": "https://i1.wp.com/flickrcode.files.wordpress.com/2017/03/lopq.png?fit=200%2C150&ssl=1", 
+                    "from_url": "http://code.flickr.net/2017/03/07/introducing-similarity-search-at-flickr/"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://techcrunch.com/2017/02/02/this-neural-network-based-software-will-automatically-color-in-your-line-art/>", 
+            "type": "message", 
+            "user": "U4FK10F99", 
+            "ts": "1493834386.497569", 
+            "attachments": [
+                {
+                    "thumb_height": 108, 
+                    "service_icon": "https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico", 
+                    "thumb_width": 200, 
+                    "title": "This neural network-based software will automatically color in your line\u00a0art", 
+                    "service_name": "TechCrunch", 
+                    "author_name": "Darrell Etherington", 
+                    "title_link": "https://techcrunch.com/2017/02/02/this-neural-network-based-software-will-automatically-color-in-your-line-art/", 
+                    "service_url": "http://techcrunch.com", 
+                    "text": "Maybe you enjoy sketching as a hobby, but you&rsquo;re not so crazy about the work that goes into colouring in your work, or you&rsquo;re just lacking in the talent department when it comes to that side of the digital art equation. Check out this tool based on Chainer, a flexible neural network framework that can support a number of different uses.\nThe so-called PaintsChainer project can take your basic line art, created using whatever drawing program you happen to use, in a number of ordinary file formats, including JPG, PNG, GIF or even TIFF, and then automatically apply color, in a dreamy watercolor/colored pencil style that&rsquo;s a pretty popular style among digital artists.\nLeft to its own devices, the tool comes up with interesting color choices.\nIf you want, you can just let the tool decide itself what colors to use and where to apply them, but you can also use an in-browser toolbar to give the system hints, as I did with the example with more accurate colors on the Adventure Time crew and Pikachu below. It&rsquo;s still far, far simpler than trying to color the line art in yourself, and the more guidance you supply, the better the results.\n\nIt&rsquo;s still amazing what this system can do on its own without any input, and even more so what it can do with just a few hints by way of guidance. There&rsquo;s a lot more examples, with better original line art (like the one below), available to view on Twitter if you check out the #PaintsChainer hashtag.\n\n\n&#12371;&#12394;&#12356;&#12384;&#12398;&#12383;&#12414;&#12372;&#12402;&#12371;&#12540;&#12365;&#39080;&#12460;&#12524;&#12483;&#12460;&#19977;&#21495;&#27231;&#12418;#PaintsChainer \n&mdash; &#12392;&#12395;&#12419;&#12407; &#9834;&#65310;(&#9679;&omega;&#9679;)&#65417;&#9835; (@Tonya_Plan) February 2, 2017", 
+                    "id": 1, 
+                    "fallback": "TechCrunch Link: This neural network-based software will automatically color in your line&nbsp;art", 
+                    "thumb_url": "https://i2.wp.com/tctechcrunch2011.files.wordpress.com/2017/02/screen-shot-2017-02-02-at-2-13-38-pm.png?fit=200%2C150&ssl=1", 
+                    "from_url": "https://techcrunch.com/2017/02/02/this-neural-network-based-software-will-automatically-color-in-your-line-art/"
+                }
+            ]
+        }, 
+        {
+            "text": "One daughter just shy of her first bday...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493261853.038138"
+        }, 
+        {
+            "text": "Hey, Steve how old are your kid(s)?", 
+            "type": "message", 
+            "user": "U4FK10F99", 
+            "ts": "1493259938.711128"
+        }, 
+        {
+            "text": "I'll start taking deposits on Monday!  Thanks Dale.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1492874549.151863"
+        }, 
+        {
+            "text": "Hey, Steve. I have no idea how taxing being DSR is on your time, but if there is one day a week after class you could teach/lead a Data Viz group \u2014 I\u2019d extra for it. If you think you have the time, I bet PyData denver would broadcast the event, and you could get other paying students.", 
+            "type": "message", 
+            "user": "U4FK10F99", 
+            "ts": "1492872264.947742"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U4FK10F99", 
+            "U34BY2K3K"
+        ]
+    }
+}

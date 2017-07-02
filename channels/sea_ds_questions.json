@@ -1,0 +1,302 @@
+{
+    "messages": [
+        {
+            "thread_ts": "1493358942.226855", 
+            "text": "You can also use dct.setdefault(key, value) before you try to add anything to that key in the loop", 
+            "ts": "1493860096.732284", 
+            "user": "U4T0WP4EB", 
+            "parent_user_id": "U407DC9LL", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493358942.226855", 
+            "text": "^ Good point", 
+            "ts": "1493395280.891118", 
+            "user": "U2DA7L1D2", 
+            "parent_user_id": "U407DC9LL", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493358942.226855", 
+            "text": "Just to be clear, you can do all this with a regular dict, you just need to do a bit more work, checking if a key is missing and putting in `[]` if so, or using `.get(key, [])`", 
+            "ts": "1493395140.836581", 
+            "user": "U1Y8Q30LE", 
+            "parent_user_id": "U407DC9LL", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493358942.226855", 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VN4QD29"
+                    ]
+                }
+            ], 
+            "text": "IT\u2019s an interesting discussion.  In some sense \u201cinvert a dictionary\u201d is not really a complete specification, due to the point Miles makes about uniqueness of values.", 
+            "ts": "1493390731.170563", 
+            "user": "U2DA7L1D2", 
+            "parent_user_id": "U407DC9LL", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493358942.226855", 
+            "text": "anytime :slightly_smiling_face:", 
+            "ts": "1493389126.580345", 
+            "user": "U407DC9LL", 
+            "parent_user_id": "U407DC9LL", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493358942.226855", 
+            "text": "Thanks for the warmup exercise. :python:", 
+            "ts": "1493389096.569443", 
+            "user": "U1VN4QD29", 
+            "parent_user_id": "U407DC9LL", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493358942.226855", 
+            "text": "Oh, I see: that pattern assumes that the values in the original dictionary are unique, and that's not necessarily guaranteed.", 
+            "ts": "1493389080.563815", 
+            "user": "U1VN4QD29", 
+            "parent_user_id": "U407DC9LL", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493358942.226855", 
+            "text": "What's wrong with `{value: key for key, value in input_dict.iteritems()}`?", 
+            "ts": "1493388980.528244", 
+            "user": "U1VN4QD29", 
+            "parent_user_id": "U407DC9LL", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493358942.226855", 
+            "edited": {
+                "user": "U407DC9LL", 
+                "ts": "1493389120.000000"
+            }, 
+            "text": "Answered my own question (you need to have something like an empty list as a default response that you can put your keys into when inverting)", 
+            "ts": "1493384668.127517", 
+            "user": "U407DC9LL", 
+            "parent_user_id": "U407DC9LL", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493358942.226855", 
+            "subscribed": false, 
+            "text": "Not for an 8:30 review, just a random python question: why do you need to use a defaultdict when inverting a dictionary?", 
+            "ts": "1493358942.226855", 
+            "unread_count": 9, 
+            "reply_count": 9, 
+            "user": "U407DC9LL", 
+            "replies": [
+                {
+                    "user": "U407DC9LL", 
+                    "ts": "1493384668.127517"
+                }, 
+                {
+                    "user": "U1VN4QD29", 
+                    "ts": "1493388980.528244"
+                }, 
+                {
+                    "user": "U1VN4QD29", 
+                    "ts": "1493389080.563815"
+                }, 
+                {
+                    "user": "U1VN4QD29", 
+                    "ts": "1493389096.569443"
+                }, 
+                {
+                    "user": "U407DC9LL", 
+                    "ts": "1493389126.580345"
+                }, 
+                {
+                    "user": "U2DA7L1D2", 
+                    "ts": "1493390731.170563"
+                }, 
+                {
+                    "user": "U1Y8Q30LE", 
+                    "ts": "1493395140.836581"
+                }, 
+                {
+                    "user": "U2DA7L1D2", 
+                    "ts": "1493395280.891118"
+                }, 
+                {
+                    "user": "U4T0WP4EB", 
+                    "ts": "1493860096.732284"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "Use this channel to ask any questions you have or about things you didn\u2019t really understand that you\u2019d like one of the instructors to go over in an 8:30 review session or at some other time.", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1493232716.994284"
+        }, 
+        {
+            "text": "<@U5173DQSG|andrew_selzler> has joined the channel", 
+            "ts": "1493149101.002134", 
+            "subtype": "channel_join", 
+            "user": "U5173DQSG", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U4T0WP4EB|darinlasot> has joined the channel", 
+            "ts": "1493148963.960407", 
+            "subtype": "channel_join", 
+            "user": "U4T0WP4EB", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U4XMNELP2|brian.hardenstein> has joined the channel", 
+            "ts": "1493148963.960392", 
+            "subtype": "channel_join", 
+            "user": "U4XMNELP2", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U40TCTA95|vpineda69> has joined the channel", 
+            "ts": "1493148963.960376", 
+            "subtype": "channel_join", 
+            "user": "U40TCTA95", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U4TSF2BSS|myles_hollowed> has joined the channel", 
+            "ts": "1493148963.960367", 
+            "subtype": "channel_join", 
+            "user": "U4TSF2BSS", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U4YLX8WTX|samlee> has joined the channel", 
+            "ts": "1493148963.960353", 
+            "subtype": "channel_join", 
+            "user": "U4YLX8WTX", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U4RLZU45T|homesmac> has joined the channel", 
+            "ts": "1493148963.960347", 
+            "subtype": "channel_join", 
+            "user": "U4RLZU45T", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U407DC9LL|brendan.dorsey> has joined the channel", 
+            "ts": "1493148963.960329", 
+            "subtype": "channel_join", 
+            "user": "U407DC9LL", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U41EDTH9U|nathanch0> has joined the channel", 
+            "ts": "1493148963.960316", 
+            "subtype": "channel_join", 
+            "user": "U41EDTH9U", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U4VQH4M6Y|timwhite> has joined the channel", 
+            "ts": "1493148963.960307", 
+            "subtype": "channel_join", 
+            "user": "U4VQH4M6Y", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U1VN4QD29|miles> has joined the channel", 
+            "ts": "1493148758.896977", 
+            "subtype": "channel_join", 
+            "user": "U1VN4QD29", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U3GKBMBPS|maripqz> has joined the channel", 
+            "ts": "1493148758.896962", 
+            "subtype": "channel_join", 
+            "user": "U3GKBMBPS", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U2DA7L1D2|madrury> has joined the channel", 
+            "ts": "1493148758.896944", 
+            "subtype": "channel_join", 
+            "user": "U2DA7L1D2", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U1Y8Q30LE|jack> set the channel purpose: Post questions that you'd like instructors to discuss in a review session", 
+            "ts": "1493148720.884877", 
+            "subtype": "channel_purpose", 
+            "user": "U1Y8Q30LE", 
+            "type": "message", 
+            "purpose": "Post questions that you'd like instructors to discuss in a review session"
+        }, 
+        {
+            "text": "<@U1Y8Q30LE|jack> has joined the channel", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1493148720.884637", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "sea_ds_questions", 
+        "name": "sea_ds_questions", 
+        "is_channel": true, 
+        "created": 1493148720, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1Y8Q30LE", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1493148721, 
+            "value": "Post questions that you'd like instructors to discuss in a review session", 
+            "creator": "U1Y8Q30LE"
+        }, 
+        "members": [
+            "U1VN4QD29", 
+            "U1Y8Q30LE", 
+            "U2DA7L1D2", 
+            "U3GKBMBPS", 
+            "U407DC9LL", 
+            "U40TCTA95", 
+            "U41EDTH9U", 
+            "U4RLZU45T", 
+            "U4T0WP4EB", 
+            "U4TSF2BSS", 
+            "U4VQH4M6Y", 
+            "U4XMNELP2", 
+            "U4YLX8WTX", 
+            "U5173DQSG"
+        ], 
+        "id": "C53QSD42D", 
+        "is_shared": false
+    }
+}

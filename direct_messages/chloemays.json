@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "text": "No probs.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496937848.521503"
+        }, 
+        {
+            "text": "Thank you! Is is ok if i pick the resume up tomorrow morning? I was planning on working on the project at home today.", 
+            "type": "message", 
+            "user": "U4PJXE830", 
+            "ts": "1496937721.471148"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U4PJXE830", 
+            "U34BY2K3K"
+        ]
+    }
+}

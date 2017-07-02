@@ -1,0 +1,396 @@
+{
+    "messages": [
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "the_horns::skin-tone-3", 
+                    "users": [
+                        "U4MK3Q38F"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/ponzicoder", 
+                    "service_name": "YouTube", 
+                    "title": "Creating a restful json api in less than 15 seconds with sails.js.", 
+                    "video_html_height": 300, 
+                    "author_name": "Ponzi Coder", 
+                    "title_link": "https://www.youtube.com/watch?v=xlOolpwwGQg", 
+                    "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/xlOolpwwGQg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Creating a restful json api in less than 15 seconds with sails.js.", 
+                    "thumb_url": "https://i.ytimg.com/vi/xlOolpwwGQg/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=xlOolpwwGQg"
+                }
+            ], 
+            "text": "sails tutorial - do it... - <https://www.youtube.com/watch?v=xlOolpwwGQg&amp;list=PLf8i4fc0zJBzLhOe6FwHpGhBDgqwInJWZ>", 
+            "ts": "1497903764.162273", 
+            "user": "U4XUXDR7F", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "skull_and_crossbones", 
+                    "users": [
+                        "U4MK3Q38F"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 138898, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "10 min read", 
+                            "title": "Reading time"
+                        }
+                    ], 
+                    "title": "A Guide For Building A React Redux CRUD App \u2013 rajaraodv \u2013 Medium", 
+                    "service_name": "Medium", 
+                    "ts": 1457294392, 
+                    "title_link": "https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f", 
+                    "image_height": 250, 
+                    "image_url": "https://cdn-images-1.medium.com/max/1200/1*W9EVx20lNtyHafutHeG7ig.png", 
+                    "image_width": 691, 
+                    "text": "Building a single-page CRUD app using React and Redux can be challenging because you\u2019ll have to deal w/ new techniques and terms like\u2026", 
+                    "id": 1, 
+                    "fallback": "Medium: A Guide For Building A React Redux CRUD App \u2013 rajaraodv \u2013 Medium", 
+                    "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*W0nmth_X8nFKjn6BZ388UQ.png", 
+                    "from_url": "https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f"
+                }
+            ], 
+            "text": "<https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f>", 
+            "ts": "1497902339.684400", 
+            "user": "U4L823ZG9", 
+            "type": "message"
+        }, 
+        {
+            "text": "<http://www.learnpython.org/>", 
+            "type": "message", 
+            "user": "U4YHLFZ1U", 
+            "ts": "1497902304.672377", 
+            "attachments": [
+                {
+                    "image_bytes": 6267, 
+                    "title": "Learn Python - Free Interactive Python Tutorial", 
+                    "text": "<http://LearnPython.org|LearnPython.org> is a free interactive Python tutorial for people who want to learn Python, fast.", 
+                    "image_width": 509, 
+                    "title_link": "http://www.learnpython.org/", 
+                    "image_height": 83, 
+                    "image_url": "http://learnpython.org/static/img/logos/learnpython.png", 
+                    "service_name": "learnpython.org", 
+                    "id": 1, 
+                    "fallback": "Learn Python - Free Interactive Python Tutorial", 
+                    "service_icon": "http://www.learnpython.org/favicon.ico", 
+                    "from_url": "http://www.learnpython.org/"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://code.tutsplus.com/tutorials/meet-grunt-the-build-tool-for-javascript--net-24856>", 
+            "type": "message", 
+            "user": "U4ZP172QL", 
+            "ts": "1497902292.668091", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://static.tutsplus.com/assets/apple-touch-icon-3a37a429b4f7cd590a0440a66900a8c6.png", 
+                    "thumb_width": 200, 
+                    "title": "Meet Grunt: The Build Tool for JavaScript", 
+                    "service_name": "Code Envato Tuts+", 
+                    "title_link": "https://code.tutsplus.com/tutorials/meet-grunt-the-build-tool-for-javascript--net-24856", 
+                    "text": "If you\u2019re working on a large project, you\u2019ll no doubt have a build script or a bunch of task scripts to help with some of the repetitive parts of the process. You might use Ant or Rake, depending...", 
+                    "id": 1, 
+                    "fallback": "Code Envato Tuts+: Meet Grunt: The Build Tool for JavaScript", 
+                    "thumb_url": "https://cdn.tutsplus.com/net/uploads/legacy/1155_grunt/preview.jpg", 
+                    "from_url": "https://code.tutsplus.com/tutorials/meet-grunt-the-build-tool-for-javascript--net-24856"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.digitalocean.com/community/tutorials/how-to-use-node-js-request-and-cheerio-to-set-up-simple-web-scraping>", 
+            "type": "message", 
+            "user": "U4UC7TPNW", 
+            "ts": "1497902269.660321", 
+            "attachments": [
+                {
+                    "image_bytes": 72248, 
+                    "title": "How To Use node.js, request and cheerio to Set Up Simple Web-Scraping | DigitalOcean", 
+                    "service_name": "DigitalOcean", 
+                    "image_width": 478, 
+                    "title_link": "https://www.digitalocean.com/community/tutorials/how-to-use-node-js-request-and-cheerio-to-set-up-simple-web-scraping", 
+                    "image_height": 250, 
+                    "image_url": "https://www.digitalocean.com/assets/community/default_community_sharing-65c1cc547375d6e37cc45195b3686769.png", 
+                    "text": "Here's how to use node.js, request and cheerio to setup simple web-scraping.", 
+                    "id": 1, 
+                    "fallback": "DigitalOcean: How To Use node.js, request and cheerio to Set Up Simple Web-Scraping | DigitalOcean", 
+                    "service_icon": "https://www.digitalocean.com/favicon.ico", 
+                    "from_url": "https://www.digitalocean.com/community/tutorials/how-to-use-node-js-request-and-cheerio-to-set-up-simple-web-scraping"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://pythonspot.com/en/flask-web-app-with-python/>", 
+            "type": "message", 
+            "user": "U4T90RS5R", 
+            "ts": "1497902256.655905"
+        }, 
+        {
+            "text": "<@U4ZP172QL|andrew> has joined the channel", 
+            "ts": "1497901979.560662", 
+            "subtype": "channel_join", 
+            "user": "U4ZP172QL", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4ZMPEMV0|levi_holmes> has joined the channel", 
+            "ts": "1497901979.560659", 
+            "subtype": "channel_join", 
+            "user": "U4ZMPEMV0", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4YHZSETH|michaelbalagna> has joined the channel", 
+            "ts": "1497901979.560623", 
+            "subtype": "channel_join", 
+            "user": "U4YHZSETH", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4YHLFZ1U|adamminerg51> has joined the channel", 
+            "ts": "1497901979.560599", 
+            "subtype": "channel_join", 
+            "user": "U4YHLFZ1U", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4YEHEBHR|mgonzer> has joined the channel", 
+            "ts": "1497901979.560555", 
+            "subtype": "channel_join", 
+            "user": "U4YEHEBHR", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4YHCP4KW|matthew.victor> has joined the channel", 
+            "ts": "1497901979.560549", 
+            "subtype": "channel_join", 
+            "user": "U4YHCP4KW", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4Y3VNHE1|stephen.warton> has joined the channel", 
+            "ts": "1497901979.560525", 
+            "subtype": "channel_join", 
+            "user": "U4Y3VNHE1", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4XUXDR7F|austinjohnston> has joined the channel", 
+            "ts": "1497901979.560497", 
+            "subtype": "channel_join", 
+            "user": "U4XUXDR7F", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U2H4F4R9B|cassandra.torske> has joined the channel", 
+            "ts": "1497901978.560481", 
+            "subtype": "channel_join", 
+            "user": "U2H4F4R9B", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4T90RS5R|drewesk> has joined the channel", 
+            "ts": "1497901978.560458", 
+            "subtype": "channel_join", 
+            "user": "U4T90RS5R", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4X48KLRH|willmeier> has joined the channel", 
+            "ts": "1497901978.560455", 
+            "subtype": "channel_join", 
+            "user": "U4X48KLRH", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4UC7TPNW|mattpitts> has joined the channel", 
+            "ts": "1497901978.560435", 
+            "subtype": "channel_join", 
+            "user": "U4UC7TPNW", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4SVD823S|jcliff1473> has joined the channel", 
+            "ts": "1497901978.560396", 
+            "subtype": "channel_join", 
+            "user": "U4SVD823S", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4SLNRH9N|fahad> has joined the channel", 
+            "ts": "1497901978.560375", 
+            "subtype": "channel_join", 
+            "user": "U4SLNRH9N", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4N6ASNFR|marlena.baker> has joined the channel", 
+            "ts": "1497901978.560288", 
+            "subtype": "channel_join", 
+            "user": "U4N6ASNFR", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4PT4E7FW|robpuls> has joined the channel", 
+            "ts": "1497901978.560280", 
+            "subtype": "channel_join", 
+            "user": "U4PT4E7FW", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4MK3Q38F|seanmclimans> has joined the channel", 
+            "ts": "1497901978.560255", 
+            "subtype": "channel_join", 
+            "user": "U4MK3Q38F", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4M2WJHKL|alex.read> has joined the channel", 
+            "ts": "1497901978.560217", 
+            "subtype": "channel_join", 
+            "user": "U4M2WJHKL", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4LRUF883|chasehemerda> has joined the channel", 
+            "ts": "1497901978.560213", 
+            "subtype": "channel_join", 
+            "user": "U4LRUF883", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4M2W59PW|carolineodonnell> has joined the channel", 
+            "ts": "1497901978.560206", 
+            "subtype": "channel_join", 
+            "user": "U4M2W59PW", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U3PNA3E1Z|kiserr10> has joined the channel", 
+            "ts": "1497901978.560130", 
+            "subtype": "channel_join", 
+            "user": "U3PNA3E1Z", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4L823ZG9|sirwilliamiii> has joined the channel", 
+            "ts": "1497901978.560128", 
+            "subtype": "channel_join", 
+            "user": "U4L823ZG9", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U4LARV3CH|jakefeldman> has joined the channel", 
+            "ts": "1497901978.560116", 
+            "subtype": "channel_join", 
+            "user": "U4LARV3CH", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<!subteam^S50AP3YL8|@g51> Wassssupppp", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1497901971.557920"
+        }, 
+        {
+            "text": "<@U1USJGEG2|cj> has joined the channel", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1497901966.556285", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g51wd_courage_time", 
+        "name": "g51wd_courage_time", 
+        "is_channel": true, 
+        "created": 1497901966, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1USJGEG2", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U1USJGEG2", 
+            "U2H4F4R9B", 
+            "U3PNA3E1Z", 
+            "U4L823ZG9", 
+            "U4LARV3CH", 
+            "U4LRUF883", 
+            "U4M2W59PW", 
+            "U4M2WJHKL", 
+            "U4MK3Q38F", 
+            "U4N6ASNFR", 
+            "U4PT4E7FW", 
+            "U4SLNRH9N", 
+            "U4SVD823S", 
+            "U4T90RS5R", 
+            "U4UC7TPNW", 
+            "U4X48KLRH", 
+            "U4XUXDR7F", 
+            "U4Y3VNHE1", 
+            "U4YEHEBHR", 
+            "U4YHCP4KW", 
+            "U4YHLFZ1U", 
+            "U4YHZSETH", 
+            "U4ZMPEMV0", 
+            "U4ZP172QL"
+        ], 
+        "id": "C5W6DSJ1K", 
+        "is_shared": false
+    }
+}

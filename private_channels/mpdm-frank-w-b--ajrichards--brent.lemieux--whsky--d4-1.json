@@ -1,0 +1,133 @@
+{
+    "messages": [
+        {
+            "username": "d4", 
+            "display_as_bot": false, 
+            "text": "<@U4FK10F99|d4> uploaded a file: <https://gstudents.slack.com/files/d4/F5J6RNDAT/daletaylor-quickdraw-set.pdf|daletaylor-quickdraw-set.pdf> and commented: Proposal", 
+            "upload": true, 
+            "ts": "1495640411.943398", 
+            "subtype": "file_share", 
+            "user": "U4FK10F99", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Proposal", 
+                    "created": 1495640410, 
+                    "timestamp": 1495640410, 
+                    "is_intro": true, 
+                    "user": "U4FK10F99", 
+                    "id": "Fc5H9SLQ0K"
+                }, 
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5J6RNDAT", 
+                "size": 148695, 
+                "title": "daletaylor-quickdraw-set.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5J6RNDAT/daletaylor-quickdraw-set.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495640410, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5J6RNDAT/download/daletaylor-quickdraw-set.pdf", 
+                "user": "U4FK10F99", 
+                "groups": [
+                    "G5GQNDVED"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "daletaylor-quickdraw-set.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5J6RNDAT-43f6a50d97", 
+                "permalink": "https://gstudents.slack.com/files/d4/F5J6RNDAT/daletaylor-quickdraw-set.pdf", 
+                "is_external": false, 
+                "created": 1495640410, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1495640381, 
+            "value": "Group messaging", 
+            "creator": "U4FK10F99"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--d4-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--d4-1", 
+        "last_read": "1495640411.943398", 
+        "creator": "U4FK10F99", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1495640381, 
+        "is_group": true, 
+        "members": [
+            "U4FK10F99", 
+            "U1WHHHQ7N", 
+            "U1Z90HJG3", 
+            "U33BKEP9Q", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1495640381, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky @d4", 
+            "creator": "U4FK10F99"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5GQNDVED", 
+        "latest": {
+            "username": "d4", 
+            "display_as_bot": false, 
+            "text": "<@U4FK10F99|d4> uploaded a file: <https://gstudents.slack.com/files/d4/F5J6RNDAT/daletaylor-quickdraw-set.pdf|daletaylor-quickdraw-set.pdf> and commented: Proposal", 
+            "upload": true, 
+            "ts": "1495640411.943398", 
+            "subtype": "file_share", 
+            "user": "U4FK10F99", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Proposal", 
+                    "created": 1495640410, 
+                    "timestamp": 1495640410, 
+                    "is_intro": true, 
+                    "user": "U4FK10F99", 
+                    "id": "Fc5H9SLQ0K"
+                }, 
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5J6RNDAT", 
+                "size": 148695, 
+                "title": "daletaylor-quickdraw-set.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5J6RNDAT/daletaylor-quickdraw-set.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495640410, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5J6RNDAT/download/daletaylor-quickdraw-set.pdf", 
+                "user": "U4FK10F99", 
+                "groups": [
+                    "G5GQNDVED"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "daletaylor-quickdraw-set.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5J6RNDAT-43f6a50d97", 
+                "permalink": "https://gstudents.slack.com/files/d4/F5J6RNDAT/daletaylor-quickdraw-set.pdf", 
+                "is_external": false, 
+                "created": 1495640410, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    }
+}

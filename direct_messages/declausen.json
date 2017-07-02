@@ -1,0 +1,77 @@
+{
+    "messages": [
+        {
+            "text": "Ha, seriously...i suppose we could use random.select without replacement and just do that the right number of times.  F*ck it, it's Miller time.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1484623235.000003"
+        }, 
+        {
+            "text": "Ah, yes! That makes sense. Well I don't know how to fix that, but at least we know why it wasn't working correctly. Because that kind of shit drives me crazy. ", 
+            "type": "message", 
+            "user": "U3ANAHFHQ", 
+            "ts": "1484622768.000002"
+        }, 
+        {
+            "text": "Thanks bud!  It hit me in the elevator...our np.random.randint is repeating some integers, so the np.delete call can't remove the same row twice.  That's why the rem list changes lengths :neutral_face:.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1484621246.000002"
+        }, 
+        {
+            "username": "declausen", 
+            "display_as_bot": false, 
+            "text": "<@U3ANAHFHQ|declausen> uploaded a file: <https://gstudents.slack.com/files/declausen/F3S7M33SP/archive.zip|Archive.zip> and commented: Here is what we worked on today. We need to complete the Under/over sampling and SMOTE.", 
+            "upload": true, 
+            "ts": "1484615736.000002", 
+            "subtype": "file_share", 
+            "user": "U3ANAHFHQ", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Here is what we worked on today. We need to complete the Under/over sampling and SMOTE.", 
+                    "created": 1484615736, 
+                    "timestamp": 1484615736, 
+                    "is_intro": true, 
+                    "user": "U3ANAHFHQ", 
+                    "id": "Fc3T06KB7G"
+                }, 
+                "filetype": "zip", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3S7M33SP", 
+                "size": 1967, 
+                "title": "Archive.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3S7M33SP/archive.zip", 
+                "ims": [
+                    "D3T0682MU"
+                ], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484615736, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3S7M33SP/download/archive.zip", 
+                "user": "U3ANAHFHQ", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Zip", 
+                "name": "Archive.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3S7M33SP-833ffc2d1e", 
+                "permalink": "https://gstudents.slack.com/files/declausen/F3S7M33SP/archive.zip", 
+                "is_external": false, 
+                "created": 1484615736, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U3ANAHFHQ", 
+            "U34BY2K3K"
+        ]
+    }
+}

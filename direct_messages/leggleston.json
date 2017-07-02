@@ -1,0 +1,28 @@
+{
+    "messages": [
+        {
+            "text": "No worries", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496850362.746639"
+        }, 
+        {
+            "text": "This is awesome! Thanks Steve.", 
+            "type": "message", 
+            "user": "U3RK4D6CC", 
+            "ts": "1496848696.052508"
+        }, 
+        {
+            "text": "Here's an example of visualizing character interactions in literature _(like we were talking about yesterday)_. The line width is correlated to the number of times the two characters appear together:\n<http://mbostock.github.io/protovis/ex/arc.html>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496790314.384548"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U3RK4D6CC", 
+            "U34BY2K3K"
+        ]
+    }
+}

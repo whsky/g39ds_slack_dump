@@ -1,0 +1,668 @@
+{
+    "messages": [
+        {
+            "text": "<!channel>: We\u2019ll meet for a short scrum sesh in the lab at 10!  Be there are be somewhere else", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1488818780.000002"
+        }, 
+        {
+            "text": "See, 7-11 had it right all along, fuck everything else. Now you just need it to start rec'ing an $8 gallon of milk.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1488562133.000002"
+        }, 
+        {
+            "text": "pinot grigio and cigs sounds like a good rec to me", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1488549938.000011"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "parrot_parrotdad", 
+                    "users": [
+                        "U205HNSAV"
+                    ]
+                }
+            ], 
+            "text": "Sounds like a party!", 
+            "type": "message", 
+            "user": "U3AUKQEKU", 
+            "ts": "1488516301.000009"
+        }, 
+        {
+            "text": "I think you\u2019ll get a kick out of this\u2026  I got it recommending shit.  But it appears that it is exclusively recommending this:\n```In [27]: graphlab_r.predict_customer(14153, 10)\nOut[27]:\n[('Liberty Creek', 'Pinot Grigio'),\n ('Marlboro', 'Cigarettes'),\n ('Marlboro', 'Cigarettes'),\n ('Marlboro', 'Cigarettes'),\n ('Virginia Slims', 'Cigarettes'),\n (\"Martin's Dairy\", 'Milk'),\n ('Clear American', 'Seltzers, Tonics &amp; Soda Water'),\n ('Marlboro', 'Cigarettes'),\n ('Red Man', 'Tobacco'),\n ('Marlboro', 'Cigarettes')]```", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1488516202.000008"
+        }, 
+        {
+            "text": "Hahaha", 
+            "type": "message", 
+            "user": "U3AUKQEKU", 
+            "ts": "1488515870.000007"
+        }, 
+        {
+            "username": "ewellinger", 
+            "display_as_bot": false, 
+            "text": "<@U1XEGP6GZ|ewellinger> uploaded a file: <https://gstudents.slack.com/files/ewellinger/F4D5L2SAY/untitled.jpg|Untitled.jpg> and commented: Seems legit...", 
+            "upload": true, 
+            "ts": "1488515793.000006", 
+            "subtype": "file_share", 
+            "user": "U1XEGP6GZ", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "Seems legit...", 
+                    "created": 1488515789, 
+                    "timestamp": 1488515789, 
+                    "is_intro": true, 
+                    "user": "U1XEGP6GZ", 
+                    "id": "Fc4DQHFCJJ"
+                }, 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F4D5L2SAY-fe97d1edaa/untitled_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4D5L2SAY-fe97d1edaa/untitled_64.jpg", 
+                "size": 42721, 
+                "original_h": 566, 
+                "thumb_360_w": 360, 
+                "title": "Untitled.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4D5L2SAY/untitled.jpg", 
+                "thumb_720_h": 320, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4D5L2SAY-fe97d1edaa/untitled_360.jpg", 
+                "id": "F4D5L2SAY", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4D5L2SAY-fe97d1edaa/untitled_80.jpg", 
+                "comments_count": 1, 
+                "thumb_360_h": 160, 
+                "thumb_480_h": 213, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1488515789, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4D5L2SAY-fe97d1edaa/untitled_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4D5L2SAY/download/untitled.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F4D5L2SAY-fe97d1edaa/untitled_1024.jpg", 
+                "user": "U1XEGP6GZ", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F4D5L2SAY-fe97d1edaa/untitled_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Untitled.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4D5L2SAY-342e698c5f", 
+                "permalink": "https://gstudents.slack.com/files/ewellinger/F4D5L2SAY/untitled.jpg", 
+                "is_external": false, 
+                "created": 1488515789, 
+                "thumb_1024_h": 455, 
+                "thumb_960_h": 426, 
+                "original_w": 1274, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F4D5L2SAY-fe97d1edaa/untitled_720.jpg", 
+                "channels": [
+                    "C47PVR0G7"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "The tomautometer is live.  <http://ec2-54-144-4-33.compute-1.amazonaws.com:8105/>", 
+            "type": "message", 
+            "user": "U3AUKQEKU", 
+            "ts": "1488515551.000005"
+        }, 
+        {
+            "text": "Cool. I'm working up on the 4th floor today. ", 
+            "type": "message", 
+            "user": "U3AUKQEKU", 
+            "ts": "1488472659.000004"
+        }, 
+        {
+            "text": "We won\u2019t be meeting as a scrum today.  I\u2019ll check in with <@U3AUKQEKU> and <@U32PAG2TB> separately", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1488472612.000003"
+        }, 
+        {
+            "text": "Erich's Scrum group meeting with Adam now at the couch outside of the classroom...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1488386058.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "parrot_parrotdad", 
+                    "users": [
+                        "U205HNSAV"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "grimacing", 
+                    "users": [
+                        "U205HNSAV"
+                    ]
+                }
+            ], 
+            "text": "<!channel>: Everyone should shot for having something rough to show by Friday!  Capstone presentations are rapidly approaching!", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1488317678.000005"
+        }, 
+        {
+            "text": "Cool with me...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1488299319.000004"
+        }, 
+        {
+            "text": "Is everyone okay with not scrumming today?  I\u2019ll be in the lab if you have any questions regardless", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1488298988.000003"
+        }, 
+        {
+            "text": "Scrum at 10 in the lab", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1488213680.000002"
+        }, 
+        {
+            "text": "<@U1YRGUYH0>  I have a meeting at 11.  Can I talk through my project with you after?", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1487952957.000005"
+        }, 
+        {
+            "text": "<!channel> let's push back to 10:30", 
+            "type": "message", 
+            "user": "U1YRGUYH0", 
+            "ts": "1487952496.000004"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "dusty_stick", 
+                    "users": [
+                        "U1XEGP6GZ", 
+                        "U205HNSAV", 
+                        "U34BY2K3K"
+                    ]
+                }
+            ], 
+            "text": "<!channel> You are stuck scrumming with me tomorrow\u2026 we will scrum at 10am", 
+            "type": "message", 
+            "user": "U1YRGUYH0", 
+            "ts": "1487902579.000007"
+        }, 
+        {
+            "text": "<https://explosion.ai/blog/spacy-deep-learning-keras>", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487871258.000005", 
+            "attachments": [
+                {
+                    "image_bytes": 737997, 
+                    "title": "spaCy v1.0: Deep Learning with custom pipelines and Keras", 
+                    "service_name": "Explosion AI", 
+                    "image_width": 746, 
+                    "title_link": "https://explosion.ai/blog/spacy-deep-learning-keras", 
+                    "image_height": 250, 
+                    "image_url": "https://explosion.ai/blog/img/spacy-deep-learning.jpg", 
+                    "text": "I'm pleased to announce the 1.0 release of spaCy, the fastest NLP library in the world. By far the best part of the 1.0 release is a new system for integrating custom models into spaCy. This post introduces you to the changes, and shows you how to use the new custom pipeline functionality to add a Keras-powered LSTM sentiment analysis model into a spaCy pipeline.", 
+                    "id": 1, 
+                    "fallback": "Explosion AI: spaCy v1.0: Deep Learning with custom pipelines and Keras", 
+                    "service_icon": "https://explosion.ai/assets/img/favicon.ico", 
+                    "from_url": "https://explosion.ai/blog/spacy-deep-learning-keras"
+                }
+            ]
+        }, 
+        {
+            "text": "Lab, this lobby boy is scrumming all by his lonesome :disappointed:", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487870438.000004"
+        }, 
+        {
+            "text": "Did the Lobby Boy set a location for the scrum?", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487867672.000003"
+        }, 
+        {
+            "text": "We'll be scrummin at 10 today", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487866485.000002"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F493QRLNQ/nnpredfromgamestatstourcol.png|NNpredFromGameStatsTourCol.png>", 
+            "upload": true, 
+            "ts": "1487790186.000010", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F493QRLNQ-a477882929/nnpredfromgamestatstourcol_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F493QRLNQ-a477882929/nnpredfromgamestatstourcol_64.png", 
+                "size": 33414, 
+                "original_h": 600, 
+                "thumb_360_w": 360, 
+                "title": "NNpredFromGameStatsTourCol.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F493QRLNQ/nnpredfromgamestatstourcol.png", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F493QRLNQ-a477882929/nnpredfromgamestatstourcol_360.png", 
+                "id": "F493QRLNQ", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F493QRLNQ-a477882929/nnpredfromgamestatstourcol_80.png", 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1487790184, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F493QRLNQ-a477882929/nnpredfromgamestatstourcol_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F493QRLNQ/download/nnpredfromgamestatstourcol.png", 
+                "user": "U34BY2K3K", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "NNpredFromGameStatsTourCol.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F493QRLNQ-6c249ae9af", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F493QRLNQ/nnpredfromgamestatstourcol.png", 
+                "is_external": false, 
+                "created": 1487790184, 
+                "original_w": 800, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F493QRLNQ-a477882929/nnpredfromgamestatstourcol_720.png", 
+                "channels": [
+                    "C47PVR0G7"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Great idea <@U205HNSAV>, yeah the accuracy is about 85% _(for correctly calling Win/Loss)_, but I think that's because I am using the game's final result _(like points, assists, etc..)_ to predict the outcome.  Which is definitely a problem :stuck_out_tongue:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487789745.000009"
+        }, 
+        {
+            "text": "<@U34BY2K3K> It would be interesting to color the dots by correct/incorrect predictions for win or loss. Upper left and lower right quadrants are the only incorrect ones, right? Looks like your accuracy is super high.", 
+            "type": "message", 
+            "user": "U205HNSAV", 
+            "ts": "1487788310.000008"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "facepunch", 
+                    "users": [
+                        "U205HNSAV"
+                    ]
+                }
+            ], 
+            "text": "2016 tourney point spreads from NN model...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487787340.000006"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F4934ANAH/nnpredfromgamestatstourney.png|NNpredFromGameStatsTourney.png>", 
+            "upload": true, 
+            "ts": "1487787322.000005", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F4934ANAH-fd384fa48a/nnpredfromgamestatstourney_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4934ANAH-fd384fa48a/nnpredfromgamestatstourney_64.png", 
+                "size": 24368, 
+                "original_h": 600, 
+                "thumb_360_w": 360, 
+                "title": "NNpredFromGameStatsTourney.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4934ANAH/nnpredfromgamestatstourney.png", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4934ANAH-fd384fa48a/nnpredfromgamestatstourney_360.png", 
+                "id": "F4934ANAH", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4934ANAH-fd384fa48a/nnpredfromgamestatstourney_80.png", 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1487787319, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4934ANAH-fd384fa48a/nnpredfromgamestatstourney_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4934ANAH/download/nnpredfromgamestatstourney.png", 
+                "user": "U34BY2K3K", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "NNpredFromGameStatsTourney.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4934ANAH-4705d0cd9e", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F4934ANAH/nnpredfromgamestatstourney.png", 
+                "is_external": false, 
+                "created": 1487787319, 
+                "original_w": 800, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F4934ANAH-fd384fa48a/nnpredfromgamestatstourney_720.png", 
+                "channels": [
+                    "C47PVR0G7"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel>: I\u2019m going to get coffee and then we will meet in the lab", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487786881.000004"
+        }, 
+        {
+            "text": "sounds good. give em hell", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1487781311.000003"
+        }, 
+        {
+            "text": "<!channel>: We will be scrumming it up at 11 today.   Adam and I have to conduct an instructor interview", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487781085.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "partyparrot", 
+                    "users": [
+                        "U33BKEP9Q"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U34BY2K3K", 
+                "ts": "1487699905.000000"
+            }, 
+            "text": "`\nwhile cash_ is not None:\n    album_coll = buy_records(cash_)\n    return album_coll\n`", 
+            "ts": "1487699862.000014", 
+            "user": "U34BY2K3K", 
+            "type": "message"
+        }, 
+        {
+            "text": "I'll have to have a script programmatically spend my money on vinyl", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487699759.000013"
+        }, 
+        {
+            "text": "Woah, that's dope", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487699735.000012"
+        }, 
+        {
+            "text": "`<https://github.com/discogs/discogs_client>`", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487699718.000011"
+        }, 
+        {
+            "text": "<@U3E2TDR2B> Someone built a python interface for the Discogs API:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487699705.000010"
+        }, 
+        {
+            "text": "Ha! Go big, or go home. Suck-it Nate Silver.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487699537.000009"
+        }, 
+        {
+            "text": "<https://github.com/brent-lemieux/tasty-tweets>", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1487699489.000007", 
+            "attachments": [
+                {
+                    "title": "GitHub - brent-lemieux/tasty-tweets: Sentiment analysis of popular food chains", 
+                    "text": "tasty-tweets - Sentiment analysis of popular food chains", 
+                    "title_link": "https://github.com/brent-lemieux/tasty-tweets", 
+                    "service_name": "github.com", 
+                    "id": 1, 
+                    "fallback": "GitHub - brent-lemieux/tasty-tweets: Sentiment analysis of popular food chains", 
+                    "service_icon": "https://assets-cdn.github.com/favicon.ico", 
+                    "from_url": "https://github.com/brent-lemieux/tasty-tweets"
+                }
+            ]
+        }, 
+        {
+            "text": "Going pretty bold with that repo name, huh <@U34BY2K3K>?", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487699480.000006"
+        }, 
+        {
+            "text": "<https://github.com/jbhersch/data_science_capstone>", 
+            "type": "message", 
+            "user": "U3AUKQEKU", 
+            "ts": "1487696487.000004", 
+            "attachments": [
+                {
+                    "title": "GitHub - jbhersch/data_science_capstone: Galvanize Data Science Immersive Capstone Project", 
+                    "text": "data_science_capstone - Galvanize Data Science Immersive Capstone Project", 
+                    "title_link": "https://github.com/jbhersch/data_science_capstone", 
+                    "service_name": "github.com", 
+                    "id": 1, 
+                    "fallback": "GitHub - jbhersch/data_science_capstone: Galvanize Data Science Immersive Capstone Project", 
+                    "service_icon": "https://assets-cdn.github.com/favicon.ico", 
+                    "from_url": "https://github.com/jbhersch/data_science_capstone"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/whsky/smarter-than-nate-silver>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487696398.000002", 
+            "attachments": [
+                {
+                    "title": "GitHub - whsky/smarter-than-nate-silver", 
+                    "text": "Contribute to smarter-than-nate-silver development by creating an account on GitHub.", 
+                    "title_link": "https://github.com/whsky/smarter-than-nate-silver", 
+                    "service_name": "github.com", 
+                    "id": 1, 
+                    "fallback": "GitHub - whsky/smarter-than-nate-silver", 
+                    "service_icon": "https://assets-cdn.github.com/favicon.ico", 
+                    "from_url": "https://github.com/whsky/smarter-than-nate-silver"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/ewellinger/election_analysis>", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487368184.000014", 
+            "attachments": [
+                {
+                    "title": "GitHub - ewellinger/election_analysis: Conducting Analysis on the 2016 US Election", 
+                    "text": "election_analysis - Conducting Analysis on the 2016 US Election", 
+                    "title_link": "https://github.com/ewellinger/election_analysis", 
+                    "service_name": "github.com", 
+                    "id": 1, 
+                    "fallback": "GitHub - ewellinger/election_analysis: Conducting Analysis on the 2016 US Election", 
+                    "service_icon": "https://assets-cdn.github.com/favicon.ico", 
+                    "from_url": "https://github.com/ewellinger/election_analysis"
+                }
+            ]
+        }, 
+        {
+            "text": "Patio action, y'all", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487367777.000013"
+        }, 
+        {
+            "text": "Word!:beer:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487367614.000012"
+        }, 
+        {
+            "text": "First scrum meeting is convening at the keg", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487367389.000011"
+        }, 
+        {
+            "text": "<@U205HNSAV|neilbezdek> has joined the channel", 
+            "ts": "1487353218.000010", 
+            "subtype": "channel_join", 
+            "user": "U205HNSAV", 
+            "type": "message", 
+            "inviter": "U1XEGP6GZ"
+        }, 
+        {
+            "text": "<@U1YRGUYH0|kaylathomas> has joined the channel", 
+            "ts": "1487353218.000009", 
+            "subtype": "channel_join", 
+            "user": "U1YRGUYH0", 
+            "type": "message", 
+            "inviter": "U1XEGP6GZ"
+        }, 
+        {
+            "text": "<@U34BY2K3K|whsky> has joined the channel", 
+            "ts": "1487353218.000008", 
+            "subtype": "channel_join", 
+            "user": "U34BY2K3K", 
+            "type": "message", 
+            "inviter": "U1XEGP6GZ"
+        }, 
+        {
+            "text": "<@U3AUKQEKU|jbhersch> has joined the channel", 
+            "ts": "1487353218.000007", 
+            "subtype": "channel_join", 
+            "user": "U3AUKQEKU", 
+            "type": "message", 
+            "inviter": "U1XEGP6GZ"
+        }, 
+        {
+            "text": "<@U3E2TDR2B|jcwall> has joined the channel", 
+            "ts": "1487353218.000006", 
+            "subtype": "channel_join", 
+            "user": "U3E2TDR2B", 
+            "type": "message", 
+            "inviter": "U1XEGP6GZ"
+        }, 
+        {
+            "text": "<@U32PAG2TB|danielh> has joined the channel", 
+            "ts": "1487353218.000005", 
+            "subtype": "channel_join", 
+            "user": "U32PAG2TB", 
+            "type": "message", 
+            "inviter": "U1XEGP6GZ"
+        }, 
+        {
+            "text": "<@U33BKEP9Q|brent.lemieux> has joined the channel", 
+            "ts": "1487353218.000004", 
+            "subtype": "channel_join", 
+            "user": "U33BKEP9Q", 
+            "type": "message", 
+            "inviter": "U1XEGP6GZ"
+        }, 
+        {
+            "text": "<@U1XEGP6GZ|ewellinger> set the channel purpose: Scrumming up a storm", 
+            "ts": "1487353218.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1XEGP6GZ", 
+            "type": "message", 
+            "purpose": "Scrumming up a storm"
+        }, 
+        {
+            "text": "<@U1XEGP6GZ|ewellinger> has joined the channel", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1487353218.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "den6_scrumfun", 
+        "name": "den6_scrumfun", 
+        "is_channel": true, 
+        "created": 1487353218, 
+        "is_member": true, 
+        "is_archived": false, 
+        "creator": "U1XEGP6GZ", 
+        "is_org_shared": false, 
+        "unread_count": 0, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1487353218, 
+            "value": "Scrumming up a storm", 
+            "creator": "U1XEGP6GZ"
+        }, 
+        "unread_count_display": 0, 
+        "last_read": "1488818780.000002", 
+        "latest": {
+            "text": "<!channel>: We\u2019ll meet for a short scrum sesh in the lab at 10!  Be there are be somewhere else", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1488818780.000002"
+        }, 
+        "members": [
+            "U1XEGP6GZ", 
+            "U1YRGUYH0", 
+            "U205HNSAV", 
+            "U32PAG2TB", 
+            "U33BKEP9Q", 
+            "U34BY2K3K", 
+            "U3AUKQEKU", 
+            "U3E2TDR2B"
+        ], 
+        "id": "C47PVR0G7", 
+        "is_shared": false
+    }
+}

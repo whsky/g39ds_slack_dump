@@ -1,0 +1,191 @@
+{
+    "messages": [
+        {
+            "text": "Have fun with your folks!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1498846197.214988"
+        }, 
+        {
+            "text": "I'll do a bbq later this summer... Enjoy and hope the new job is going well.", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1498844461.584392"
+        }, 
+        {
+            "text": "Bummer Brent - we'll all miss you!", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1498834563.866366"
+        }, 
+        {
+            "text": "Hey guys, unfortunately won't be able to make it to graduation tonight. My parents are visiting and I'm going up to the mountains to meet them for dinner. Let's get together soon though. Enjoy your time off!", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1498833773.541189"
+        }, 
+        {
+            "text": "3' x 4' It's in our classroom.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1497459530.420763"
+        }, 
+        {
+            "text": "Wow that is way more expensive than my last poster..  how big is that?", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1497458217.921265"
+        }, 
+        {
+            "text": "^I'll be in around 10:30.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1497450140.457673"
+        }, 
+        {
+            "text": "Hey guys I printed out some sample posters last night and will bring them in.  I went to the Fed Ex Office Print and Ship at 1509 Blake St, Denver, CO 80202\n.  The cheapest nice poster they can do will run about $75 - and that's including a discount if we have about 10 of them to print.  Just for one at the nice quality is about $90.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1497450131.453799"
+        }, 
+        {
+            "text": "5 mins out..be there soon", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1494515378.568312"
+        }, 
+        {
+            "text": "Assessment at 9:30 seems fine", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1494515308.544456"
+        }, 
+        {
+            "text": "Survey is the same link... Scroll back in g39 channel.", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1494515289.537757"
+        }, 
+        {
+            "text": "When do we want to do the assessment?  Also, I don't know how to launch the survey.", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1494515244.522612"
+        }, 
+        {
+            "text": "And just a reminder: surveys.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1494512497.564714"
+        }, 
+        {
+            "text": "I have the night course so I'll be in late.  I'll be there for our lunch meeting.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1494512461.552994"
+        }, 
+        {
+            "text": "^Cool I'll add those.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1492117812.600386"
+        }, 
+        {
+            "text": "Describe the CLT.\n\nHow would you go about implementing a bootstrap?  Why would you do it?", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1492117188.452064"
+        }, 
+        {
+            "username": "frank-w-b", 
+            "display_as_bot": false, 
+            "text": "<@U1WHHHQ7N|frank-w-b> uploaded a file: <https://gstudents.slack.com/files/frank-w-b/F4ZPT5YVC/review_questions_fb.txt|review_questions_fb.txt> and commented: Some sample review questions I wanted to give them tonight that we'd review tomorrow at 8:30.  I have questions for SQL, Probability, and Hypothesis testing.  You guys want to add any?", 
+            "upload": true, 
+            "ts": "1492115495.033396", 
+            "subtype": "file_share", 
+            "user": "U1WHHHQ7N", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Some sample review questions I wanted to give them tonight that we'd review tomorrow at 8:30.  I have questions for SQL, Probability, and Hypothesis testing.  You guys want to add any?", 
+                    "created": 1492115495, 
+                    "timestamp": 1492115495, 
+                    "is_intro": true, 
+                    "user": "U1WHHHQ7N", 
+                    "id": "Fc4Z6DP0GM"
+                }, 
+                "filetype": "text", 
+                "lines_more": 58, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F4ZPT5YVC", 
+                "size": 1968, 
+                "title": "review_questions_fb.txt", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4ZPT5YVC/review_questions_fb.txt", 
+                "ims": [], 
+                "preview": "SQL\n\n* What is an RDBMS?\n\n* What is a schema?", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/frank-w-b/F4ZPT5YVC/review_questions_fb.txt/edit", 
+                "username": "", 
+                "timestamp": 1492115495, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4ZPT5YVC/download/review_questions_fb.txt", 
+                "user": "U1WHHHQ7N", 
+                "groups": [
+                    "G4ZQ2G5U7"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Plain Text", 
+                "name": "review_questions_fb.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4ZPT5YVC-3130344d09", 
+                "permalink": "https://gstudents.slack.com/files/frank-w-b/F4ZPT5YVC/review_questions_fb.txt", 
+                "is_external": false, 
+                "created": 1492115495, 
+                "lines": 63, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>SQL</pre></div>\n<div><pre></pre></div>\n<div><pre>* What is an RDBMS?</pre></div>\n<div><pre></pre></div>\n<div><pre>* What is a schema?</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1492115381, 
+            "value": "Group messaging", 
+            "creator": "U1WHHHQ7N"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky-1", 
+        "last_read": "1498846197.690763", 
+        "creator": "U1WHHHQ7N", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1492115381, 
+        "is_group": true, 
+        "members": [
+            "U1WHHHQ7N", 
+            "U1Z90HJG3", 
+            "U34BY2K3K", 
+            "U33BKEP9Q"
+        ], 
+        "unread_count": 0, 
+        "is_open": true, 
+        "purpose": {
+            "last_set": 1492115381, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky", 
+            "creator": "U1WHHHQ7N"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G4ZQ2G5U7", 
+        "latest": {
+            "text": "Have fun with your folks!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1498846197.214988"
+        }
+    }
+}

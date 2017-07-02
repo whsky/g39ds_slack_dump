@@ -1,0 +1,764 @@
+{
+    "messages": [
+        {
+            "text": "<@U62PGP16K|jamesmendenhall> has joined the channel", 
+            "type": "message", 
+            "user": "U62PGP16K", 
+            "ts": "1498777863.609845", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "thread_ts": "1498582538.398152", 
+            "text": "Hi <@U1US75J13>   ok, I\u2019m good, I\u2019ve completed the pre course work and finished a front end web dev Techdegree with Teamtreehouse  first of June... I\u2019m finishing the JS 4 Kids book and continuing with Teamtreehouse edu.  looking forward to starting this cohort :slightly_smiling_face:", 
+            "ts": "1498776966.439821", 
+            "user": "U5YGKLN0Z", 
+            "parent_user_id": "U5YGKLN0Z", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U5VGXL16C"
+                    ]
+                }
+            ], 
+            "text": "<@U5VGXL16C> I just updated your cohort access in Learn. You should also have access to \u201cPre-Course Web Development\u201d when you login next time", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1498754057.788732"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ> <@U1US75J13>  or someone who maybe able to help, I just got into the learn.galvanize page, I\u2019m in the Golden Triangle July cohort and there isn\u2019t anything in there yet. I was talking to someone about their issues with the prework and their screenshots show them in the WDI precourse cohort. So\u2026that\u2019s a thing? I\u2019m going to keep working on the github stuff until I have something to work on in learn but thought I should give a heads up on what I\u2019m seeing on my end.", 
+            "type": "message", 
+            "user": "U5VGXL16C", 
+            "ts": "1498735510.097593"
+        }, 
+        {
+            "text": "<@U5YEDG3UH|samuel.conner> has joined the channel", 
+            "ts": "1498669679.681483", 
+            "subtype": "channel_join", 
+            "user": "U5YEDG3UH", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "Is this the same thing?", 
+            "type": "message", 
+            "user": "U5WTZ2DQ8", 
+            "ts": "1498663872.328823"
+        }, 
+        {
+            "text": "I don't have it when I log into learn or github but I have been working through <http://learn.shayhowe.com/html-css/building-your-first-web-page/>", 
+            "type": "message", 
+            "user": "U5WTZ2DQ8", 
+            "ts": "1498663865.325497", 
+            "attachments": [
+                {
+                    "title": "Building Your First Web Page - Learn to Code HTML &amp; CSS", 
+                    "text": "Before learning HTML and CSS it is important to understand the differences between the two languages (content vs. style), their syntax, and some common terminology.", 
+                    "title_link": "http://learn.shayhowe.com/html-css/building-your-first-web-page/", 
+                    "service_name": "learn.shayhowe.com", 
+                    "id": 1, 
+                    "fallback": "Building Your First Web Page - Learn to Code HTML &amp; CSS", 
+                    "service_icon": "http://learn.shayhowe.com/favicon.ico", 
+                    "from_url": "http://learn.shayhowe.com/html-css/building-your-first-web-page/"
+                }
+            ]
+        }, 
+        {
+            "slog_is_self_dm": false, 
+            "new_broadcast": true, 
+            "type": "message", 
+            "attachments": [
+                {
+                    "footer": "2 replies", 
+                    "channel_name": "g59wd_goldentriangle", 
+                    "is_thread_root_unfurl": true, 
+                    "text": "I already completed pre course in GitHub... do I still need to do anything in learn. Site ?", 
+                    "author_link": "https://gstudents.slack.com/team/kevinanderson", 
+                    "ts": "1498582538.398152", 
+                    "author_name": "Kevin M Anderson", 
+                    "id": 1, 
+                    "channel_id": "C5W6K51K4", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "kevinanderson", 
+                    "from_url": "https://gstudents.slack.com/archives/C5W6K51K4/p1498582538398152", 
+                    "author_icon": "https://secure.gravatar.com/avatar/8a858b85389b8005d8c78f8d7ab8af98.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0006-48.png", 
+                    "is_msg_unfurl": true, 
+                    "fallback": "[June 27th, 2017 9:55 AM] kevinanderson: I already completed pre course in GitHub... do I still need to do anything in learn. Site ?"
+                }, 
+                {
+                    "author_link": "https://gstudents.slack.com/team/dannyfritz", 
+                    "text": "The main concern is that you start thinking about programming, html, css, developer environments before coming in. Not if it is on learn or GitHub. So if you have access one way or the other you're good.", 
+                    "ts": "1498600105.839103", 
+                    "author_name": "\ud83d\udc26 Danny Fritz", 
+                    "id": 2, 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "dannyfritz", 
+                    "fallback": "The main concern is that you start thinking about programming, html, css, developer environments before coming in. Not if it is on learn or GitHub. So if you have access one way or the other you're good.", 
+                    "author_icon": "https://avatars.slack-edge.com/2016-07-28/64134050130_4e00063efa5b5abd622e_48.jpg", 
+                    "from_url": "https://gstudents.slack.com/archives/C5W6K51K4/p1498600105839103?thread_ts=1498582538398152&cid=C5W6K51K4"
+                }
+            ], 
+            "slog_is_slackbot_dm": false, 
+            "timestamp": "1498600105839103", 
+            "slog_is_mpdm": "0", 
+            "plain_text": "The main concern is that you start thinking about programming, html, css, developer environments before coming in. Not if it is on learn or GitHub. So if you have access one way or the other you're good.", 
+            "is_multiteam": false, 
+            "ts": "1498600106.839143", 
+            "subtype": "reply_broadcast", 
+            "slog_is_shared": "0", 
+            "user": "U1US75J13", 
+            "text": "", 
+            "is_thread_broadcast": true
+        }, 
+        {
+            "thread_ts": "1498582538.398152", 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "100", 
+                    "users": [
+                        "U1TTQUYEQ"
+                    ]
+                }
+            ], 
+            "text": "The main concern is that you start thinking about programming, html, css, developer environments before coming in. Not if it is on learn or GitHub. So if you have access one way or the other you're good.", 
+            "ts": "1498600105.839103", 
+            "subtype": "thread_broadcast", 
+            "user": "U1US75J13", 
+            "root": {
+                "thread_ts": "1498582538.398152", 
+                "subscribed": false, 
+                "text": "I already completed pre course in GitHub... do I still need to do anything in learn. Site ?", 
+                "ts": "1498582538.398152", 
+                "unread_count": 3, 
+                "reply_count": 3, 
+                "user": "U5YGKLN0Z", 
+                "replies": [
+                    {
+                        "user": "U1TTQUYEQ", 
+                        "ts": "1498582914.550071"
+                    }, 
+                    {
+                        "user": "U1US75J13", 
+                        "ts": "1498600105.839103"
+                    }, 
+                    {
+                        "user": "U5YGKLN0Z", 
+                        "ts": "1498776966.439821"
+                    }
+                ], 
+                "type": "message"
+            }, 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1498582538.398152", 
+            "text": "kevinanderson: Nicely done! Leave it in GitHub for now. Danny can weigh in on moving it over to Learn once he\u2019s back in town.", 
+            "ts": "1498582914.550071", 
+            "user": "U1TTQUYEQ", 
+            "parent_user_id": "U5YGKLN0Z", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1498582538.398152", 
+            "subscribed": false, 
+            "text": "I already completed pre course in GitHub... do I still need to do anything in learn. Site ?", 
+            "ts": "1498582538.398152", 
+            "unread_count": 3, 
+            "reply_count": 3, 
+            "user": "U5YGKLN0Z", 
+            "replies": [
+                {
+                    "user": "U1TTQUYEQ", 
+                    "ts": "1498582914.550071"
+                }, 
+                {
+                    "user": "U1US75J13", 
+                    "ts": "1498600105.839103"
+                }, 
+                {
+                    "user": "U5YGKLN0Z", 
+                    "ts": "1498776966.439821"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<!channel> Hi everyone! Apologies for the pre-course confusion. We _just_ moved everything over to <http://learn.galvanize.com|learn.galvanize.com> &amp; g59 is the first Denver WDI cohort to get early access to it! Please complete your prework in Learn instead of GitHub. In order to access Learn, you\u2019ll need to accept the invite which is sent via email after you\u2019ve signed your contract. The pre-course cohort name in Learn is 17-01-WD-OL-PC (aka WDI Precourse). If you are having access issues, please email <mailto:softwaresupport@galvanize.com|softwaresupport@galvanize.com> with a detailed description. You\u2019ll still use GitHub throughout the program so it\u2019s good to be on there now too. Post any questions here or feel free to DM myself or <@U1US75J13> :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1498582393.341385"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U5VGXL16C"
+                    ]
+                }
+            ], 
+            "text": "I've been doing the Github repo, that was what was in the email.  That was the one we did in my last cohort.  I was asking because I helped someone with the website and I wasn't sure if we needed it.  It doesn't look like that though.  When Kelly or Danny gets back on they'll set us straight xD", 
+            "type": "message", 
+            "user": "U3KQHBSSF", 
+            "ts": "1498524268.937596"
+        }, 
+        {
+            "text": "<@U3KQHBSSF> I also have the github repo!", 
+            "type": "message", 
+            "user": "U5VGXL16C", 
+            "ts": "1498524157.922959"
+        }, 
+        {
+            "text": "I didn't get the link on learn but started the shay howe link posted above. Not sure if that's correct but..", 
+            "type": "message", 
+            "user": "U5WTZ2DQ8", 
+            "ts": "1498524149.921987"
+        }, 
+        {
+            "text": "How many people have precourse work on <http://learn.galvalnize.com|learn.galvalnize.com>? I have the github repo but not the website", 
+            "type": "message", 
+            "user": "U3KQHBSSF", 
+            "ts": "1498518715.078110"
+        }, 
+        {
+            "text": "Hey so that link is the one in the precourse info, yeah?", 
+            "type": "message", 
+            "user": "U5VGXL16C", 
+            "ts": "1498507582.093705"
+        }, 
+        {
+            "text": "<@U5YGKLN0Z|kevinanderson> has joined the channel", 
+            "type": "message", 
+            "user": "U5YGKLN0Z", 
+            "ts": "1498354379.027805", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "I didn't know there was one.  I've spent all day making a wellington.  It better be worth it it's almost done xD", 
+            "type": "message", 
+            "user": "U3KQHBSSF", 
+            "ts": "1498350936.894755"
+        }, 
+        {
+            "text": "Hey! Are any of you at the WDI meetup at GT today?", 
+            "type": "message", 
+            "user": "U5XNE4QVC", 
+            "ts": "1498317105.081562"
+        }, 
+        {
+            "text": ":+1: ", 
+            "type": "message", 
+            "user": "U5WA11WF7", 
+            "ts": "1498269436.844557"
+        }, 
+        {
+            "text": "Um I don't think I got that either. Thanks for the link <@U5WA11WF7> ", 
+            "type": "message", 
+            "user": "U5VGXL16C", 
+            "ts": "1498266573.671219"
+        }, 
+        {
+            "text": "I don't think this was sent to me either.. I thought the \"how to use my mac stuff\" was the extent of it.", 
+            "type": "message", 
+            "user": "U5WTZ2DQ8", 
+            "ts": "1498257143.639141"
+        }, 
+        {
+            "text": "I had to ask them twice in order to get them. I'll send you the link \n<http://learn.shayhowe.com/html-css/building-your-first-web-page/>", 
+            "type": "message", 
+            "user": "U5WA11WF7", 
+            "ts": "1498256838.588768", 
+            "attachments": [
+                {
+                    "title": "Building Your First Web Page - Learn to Code HTML &amp; CSS", 
+                    "text": "Before learning HTML and CSS it is important to understand the differences between the two languages (content vs. style), their syntax, and some common terminology.", 
+                    "title_link": "http://learn.shayhowe.com/html-css/building-your-first-web-page/", 
+                    "service_name": "learn.shayhowe.com", 
+                    "id": 1, 
+                    "fallback": "Building Your First Web Page - Learn to Code HTML &amp; CSS", 
+                    "service_icon": "http://learn.shayhowe.com/favicon.ico", 
+                    "from_url": "http://learn.shayhowe.com/html-css/building-your-first-web-page/"
+                }
+            ]
+        }, 
+        {
+            "text": "Hey <@U5WA11WF7>, I think I am also missing the lessons. Was this in a separate email or is it on the Galvanize page?", 
+            "type": "message", 
+            "user": "U5XEQMJLF", 
+            "ts": "1498256735.571986"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3KQHBSSF"
+                    ]
+                }
+            ], 
+            "text": "They never sent me the link for the html and css lessons. I have it now, so far so good. Thanks for checking :relaxed: I'll reach out to you if some problems come up in the way though :+1: ", 
+            "type": "message", 
+            "user": "U5WA11WF7", 
+            "ts": "1498256666.560582"
+        }, 
+        {
+            "text": "Hey <@U5WA11WF7>, did you get past the HTML you were stuck on?", 
+            "type": "message", 
+            "user": "U3KQHBSSF", 
+            "ts": "1498256341.508008"
+        }, 
+        {
+            "text": "Morning everybody! I'm going to be at the Enchanted Grounds coffee shop in Highlands Ranch today working on the pre-course work.  If anyone is around South Denver and wants to work on it with someone else, feel free to stop by! I got the checker shirt and big beard.", 
+            "type": "message", 
+            "user": "U3KQHBSSF", 
+            "ts": "1498233150.518702"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 5, 
+                    "name": "overwatch", 
+                    "users": [
+                        "U1US75J13", 
+                        "U5XA05A93", 
+                        "U5XDTQRAA", 
+                        "U3KQHBSSF", 
+                        "U5XNE4QVC"
+                    ]
+                }
+            ], 
+            "text": "My husband was not happy about having to give up Overwatch time for me to work on his pc :face_with_rolling_eyes:", 
+            "type": "message", 
+            "user": "U5WTZ2DQ8", 
+            "ts": "1498152657.260632"
+        }, 
+        {
+            "text": "This is wonderful news.  Thank you!", 
+            "type": "message", 
+            "user": "U5WTZ2DQ8", 
+            "ts": "1498152522.207182"
+        }, 
+        {
+            "text": "We can work through any installation problems if they come up during class", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1498152495.196834"
+        }, 
+        {
+            "text": "If the computer runs I'm okay with it", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1498152463.184936"
+        }, 
+        {
+            "text": "What's the word on how fresh of an OS we need for the first day?  I re-imaged about a week ago but I need this computer to finish the pre-course work and I would really like to put adobe back on so I can still make some money.  Do they need to be at the startup screen day 1?", 
+            "type": "message", 
+            "user": "U5WTZ2DQ8", 
+            "ts": "1498152362.145449"
+        }, 
+        {
+            "text": "Hey!", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1498143807.699511"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "wave", 
+                    "users": [
+                        "U5VGXL16C"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "leftshark", 
+                    "users": [
+                        "U3KQHBSSF"
+                    ]
+                }
+            ], 
+            "text": "Hey y'all!", 
+            "type": "message", 
+            "user": "U5WTZ2DQ8", 
+            "ts": "1498142332.044422"
+        }, 
+        {
+            "text": "<@U5WTZ2DQ8|chelciebritt> has joined the channel", 
+            "type": "message", 
+            "user": "U5WTZ2DQ8", 
+            "ts": "1498085400.751059", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "parrot", 
+                    "users": [
+                        "U3KQHBSSF", 
+                        "U1TTQUYEQ", 
+                        "U5EHL97AT"
+                    ]
+                }
+            ], 
+            "text": "Good to kick it again with you Travis", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1498077598.620486"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "confetti_ball", 
+                    "users": [
+                        "U5VGXL16C", 
+                        "U5EHL97AT"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U3KQHBSSF", 
+                "ts": "1498077507.000000"
+            }, 
+            "text": "Hi everyone! Glad to see our channel is up.  I know it'll come up later, but this is my second time in the WDI, so if you have questions about the pre-course work or get stuck, feel free to reach out and ask! I won't be talking about my reasons, but I'm really happy to be here and am excited for the tenth!", 
+            "ts": "1498077477.578890", 
+            "user": "U3KQHBSSF", 
+            "type": "message"
+        }, 
+        {
+            "text": "Haha. Couldn't think of anything better to put there.", 
+            "type": "message", 
+            "user": "U5XA05A93", 
+            "ts": "1498062689.053901"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "bananadance", 
+                    "users": [
+                        "U5XA05A93"
+                    ]
+                }
+            ], 
+            "text": "lol \"alive and breathing\" \u2014 always good to know, <@U5XA05A93>", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1498062620.026955"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U5XA05A93"
+                    ]
+                }
+            ], 
+            "text": "I live in the neighborhood Cole. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1498060491.153021"
+        }, 
+        {
+            "text": "Going well sir. How about yourself?", 
+            "type": "message", 
+            "user": "U5XA05A93", 
+            "ts": "1498059491.719517"
+        }, 
+        {
+            "text": "Not much, Cole. How is everyone fairing with the pre-course?", 
+            "type": "message", 
+            "user": "U5XDTQRAA", 
+            "ts": "1498054840.660665"
+        }, 
+        {
+            "text": "Whats up yall?!", 
+            "type": "message", 
+            "user": "U5XA05A93", 
+            "ts": "1498052887.848323"
+        }, 
+        {
+            "text": "<@U5XA05A93|mktexan> has joined the channel", 
+            "type": "message", 
+            "user": "U5XA05A93", 
+            "ts": "1498052646.752028", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "wave", 
+                    "users": [
+                        "U1US75J13", 
+                        "U5VGXL16C", 
+                        "U5EHL97AT"
+                    ]
+                }
+            ], 
+            "text": "<@U5XNE4QVC|joscelyn.james> has joined the channel", 
+            "ts": "1498005386.726846", 
+            "subtype": "channel_join", 
+            "user": "U5XNE4QVC", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U5VGXL16C", 
+                        "U5WA11WF7"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "html", 
+                    "users": [
+                        "U5EHL97AT"
+                    ]
+                }
+            ], 
+            "text": "hi, I\u2019m on exercise 01 HTML but I\u2019m stuck there. Let me know when you get there, probably you might be able to help me.", 
+            "type": "message", 
+            "user": "U5WA11WF7", 
+            "ts": "1497990274.161665"
+        }, 
+        {
+            "text": "Hey <@U5WA11WF7> I haven't yet I'm at the atom section. How are you doing on it? ", 
+            "type": "message", 
+            "user": "U5VGXL16C", 
+            "ts": "1497987878.308580"
+        }, 
+        {
+            "text": "Hello everyone! Does any of you finish the WDI pre-course?", 
+            "type": "message", 
+            "user": "U5WA11WF7", 
+            "ts": "1497982971.507622"
+        }, 
+        {
+            "text": "Hey Jason!", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1497976055.854264"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "wave", 
+                    "users": [
+                        "U5XDTQRAA", 
+                        "U5VGXL16C"
+                    ]
+                }
+            ], 
+            "text": "<@U5XEQMJLF|jas.dulin> has joined the channel", 
+            "ts": "1497975966.818970", 
+            "subtype": "channel_join", 
+            "user": "U5XEQMJLF", 
+            "type": "message"
+        }, 
+        {
+            "text": "Hey Zachariah!", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1497975456.621605"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "wave", 
+                    "users": [
+                        "U1TTQUYEQ", 
+                        "U5EHL97AT", 
+                        "U5VGXL16C"
+                    ]
+                }
+            ], 
+            "text": "Hey everyone", 
+            "type": "message", 
+            "user": "U5XDTQRAA", 
+            "ts": "1497975335.574262"
+        }, 
+        {
+            "text": "<@U5XDTQRAA|zachariahlowe> has joined the channel", 
+            "type": "message", 
+            "user": "U5XDTQRAA", 
+            "ts": "1497974929.414314", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Greetings :parrot_explodyparrot:", 
+            "type": "message", 
+            "user": "U5EHL97AT", 
+            "ts": "1497971663.005306"
+        }, 
+        {
+            "text": "Hello! :wave:", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1497966889.922155"
+        }, 
+        {
+            "text": "<@U5EHL97AT|aarongoodman> has joined the channel", 
+            "ts": "1497966872.915010", 
+            "subtype": "channel_join", 
+            "user": "U5EHL97AT", 
+            "type": "message", 
+            "inviter": "U1US75J13"
+        }, 
+        {
+            "text": "<@U3NGHFSFN|bryce.kirchhausen> has joined the channel", 
+            "ts": "1497920965.778018", 
+            "subtype": "channel_join", 
+            "user": "U3NGHFSFN", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U3HAY2D8W|jess.k> has joined the channel", 
+            "ts": "1497920965.778005", 
+            "subtype": "channel_join", 
+            "user": "U3HAY2D8W", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U1W3KTVMJ|james> has joined the channel", 
+            "ts": "1497920965.777998", 
+            "subtype": "channel_join", 
+            "user": "U1W3KTVMJ", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U1US75J13|dannyfritz> has joined the channel", 
+            "ts": "1497920940.774678", 
+            "subtype": "channel_join", 
+            "user": "U1US75J13", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U5W7AGTJ6|tylert88> has joined the channel", 
+            "type": "message", 
+            "user": "U5W7AGTJ6", 
+            "ts": "1497918866.490189", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5VGXL16C|lindsaychapin> has joined the channel", 
+            "type": "message", 
+            "user": "U5VGXL16C", 
+            "ts": "1497917543.300064", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5WA11WF7|eddy> has joined the channel", 
+            "type": "message", 
+            "user": "U5WA11WF7", 
+            "ts": "1497917538.299239", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> set the channel topic: July 2017 Golden Triangle WDI Cohort", 
+            "ts": "1497914263.766965", 
+            "topic": "July 2017 Golden Triangle WDI Cohort", 
+            "subtype": "channel_topic", 
+            "user": "U1TTQUYEQ", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U3KQHBSSF|travis> has joined the channel", 
+            "ts": "1497914246.764026", 
+            "subtype": "channel_join", 
+            "user": "U3KQHBSSF", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U3PQ283U3|joshnsaunders> has joined the channel", 
+            "ts": "1497914212.758085", 
+            "subtype": "channel_join", 
+            "user": "U3PQ283U3", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "name": "g59wd_goldentriangle", 
+            "text": "<@U1TTQUYEQ|kelly.kawa> has renamed the channel from \"g59wd_denvergt\" to \"g59wd_goldentriangle\"", 
+            "ts": "1497914097.736747", 
+            "subtype": "channel_name", 
+            "user": "U1TTQUYEQ", 
+            "old_name": "g59wd_denvergt", 
+            "type": "message"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1497914263, 
+            "value": "July 2017 Golden Triangle WDI Cohort", 
+            "creator": "U1TTQUYEQ"
+        }, 
+        "is_general": false, 
+        "name_normalized": "g59wd_goldentriangle", 
+        "name": "g59wd_goldentriangle", 
+        "is_channel": true, 
+        "created": 1497914077, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1TTQUYEQ", 
+        "is_org_shared": false, 
+        "previous_names": [
+            "g59wd_denvergt"
+        ], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U1TTQUYEQ", 
+            "U1US75J13", 
+            "U1W3KTVMJ", 
+            "U3HAY2D8W", 
+            "U3KQHBSSF", 
+            "U3NGHFSFN", 
+            "U3PQ283U3", 
+            "U5EHL97AT", 
+            "U5VGXL16C", 
+            "U5W7AGTJ6", 
+            "U5WA11WF7", 
+            "U5WTZ2DQ8", 
+            "U5XA05A93", 
+            "U5XDTQRAA", 
+            "U5XEQMJLF", 
+            "U5XNE4QVC", 
+            "U5YEDG3UH", 
+            "U5YGKLN0Z", 
+            "U62PGP16K"
+        ], 
+        "id": "C5W6K51K4", 
+        "is_shared": false
+    }
+}

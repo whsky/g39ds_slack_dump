@@ -1,0 +1,535 @@
+{
+    "messages": [
+        {
+            "text": "I plan to go over technical language that relates to HTML so that talking about HTML is more straightforward and everyone can feel confident when talking about their code!", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1498782330.005082"
+        }, 
+        {
+            "text": "<!channel> reply with what unit you're working on or plan to work on if you are planning to come to the study hall!", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1498782142.979912"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "grinning", 
+                    "users": [
+                        "U59RYMK9U"
+                    ]
+                }
+            ], 
+            "text": "<@U601YL2LR|kritikadusad> has joined the channel", 
+            "ts": "1498614746.705310", 
+            "subtype": "channel_join", 
+            "user": "U601YL2LR", 
+            "type": "message"
+        }, 
+        {
+            "text": "<!channel> I will be there at 6:30pm so bring questions if you're coming to tonight's study hall! :book:", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1498179275.288766"
+        }, 
+        {
+            "text": "<!channel> we will be going over animations made with CSS tonight in about an hour. Here is a link to the slides. <http://slides.com/eleanorhoward/deck#/> (Be sure to navigate through the slides horizontally and vertically, or you may miss some slides.)", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1498005046.153631", 
+            "attachments": [
+                {
+                    "image_bytes": 29226, 
+                    "title": "deck by Eleanor Howard", 
+                    "service_name": "Slides", 
+                    "image_width": 250, 
+                    "title_link": "http://slides.com/eleanorhoward/deck#/", 
+                    "image_height": 250, 
+                    "image_url": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/4a432d454f25e31a59da4079a98ab900/thumb.jpg?20111347", 
+                    "text": "A presentation created with Slides.", 
+                    "id": 1, 
+                    "fallback": "Slides: deck by Eleanor Howard", 
+                    "service_icon": "http://slides.com/favicon.ico", 
+                    "from_url": "http://slides.com/eleanorhoward/deck#/"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U5SM50SKA> just come on any tues or thurs from 6pm-8pm to either work in a group, ask me questions, or take part in a mini lesson. You just tell the front desk you are here for the HTML/CSS for beginners class", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1497986014.978766"
+        }, 
+        {
+            "text": "  I should check at the school", 
+            "type": "message", 
+            "user": "U5PR4TL3E", 
+            "ts": "1497900883.902255"
+        }, 
+        {
+            "text": "Hi Eleanor, what is the protocol to attend the Tues/Thurs class? Do I need to register again and what to say to the front desk? When do the classes start? Thanks.", 
+            "type": "message", 
+            "user": "U5SM50SKA", 
+            "ts": "1497897336.610927"
+        }, 
+        {
+            "text": "<!channel> tomorrow night I will cover how to get started with :sparkles:CSS animations at ~7:00 after on boarding any new students ", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1497891449.395041"
+        }, 
+        {
+            "text": "<!channel> Tonight we will be going over how to make a navigation bar with HTML and CSS. We will start ~6:30pm", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1497575102.973088"
+        }, 
+        {
+            "text": "Check out the docs on <https://www.w3schools.com/cssref/pr_border-style.asp>", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1497408630.796922", 
+            "attachments": [
+                {
+                    "title": "CSS border-style property", 
+                    "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.", 
+                    "title_link": "https://www.w3schools.com/cssref/pr_border-style.asp", 
+                    "service_name": "w3schools.com", 
+                    "id": 1, 
+                    "fallback": "CSS border-style property", 
+                    "service_icon": "https://www.w3schools.com/favicon.ico", 
+                    "from_url": "https://www.w3schools.com/cssref/pr_border-style.asp"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U5U69LVGX|hazel72855> has joined the channel", 
+            "type": "message", 
+            "user": "U5U69LVGX", 
+            "ts": "1497406077.482346", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5SM7LA1W|david.shin> has joined the channel", 
+            "type": "message", 
+            "user": "U5SM7LA1W", 
+            "ts": "1497405890.458246", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5U67PUSK|tariqebadi> has joined the channel", 
+            "type": "message", 
+            "user": "U5U67PUSK", 
+            "ts": "1497405629.422172", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5SM50SKA|michael.c.chang> has joined the channel", 
+            "type": "message", 
+            "user": "U5SM50SKA", 
+            "ts": "1497405309.378717", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3RKYF5FF> that's okay! We can talk about it again either one on one or with a group of people who are also interested ", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1496969695.331467"
+        }, 
+        {
+            "text": "Yes, I'm interested in learning how to overlay text on an image but I'm coming next week!", 
+            "type": "message", 
+            "user": "U3RKYF5FF", 
+            "ts": "1496968502.177078"
+        }, 
+        {
+            "text": "<!channel> Don't forget about the CSS lesson on positioning photos and text tonight, we will start at 6:30pm", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1496966814.939520"
+        }, 
+        {
+            "text": "<@U5R7J5Z8X|phantom27> has joined the channel", 
+            "type": "message", 
+            "user": "U5R7J5Z8X", 
+            "ts": "1496878641.860026", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5Q3V6XFC|derekwong> has joined the channel", 
+            "type": "message", 
+            "user": "U5Q3V6XFC", 
+            "ts": "1496849295.926814", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "username": "elliehoward", 
+            "display_as_bot": false, 
+            "text": "<@U59RYMK9U|elliehoward> uploaded a file: <https://gstudents.slack.com/files/elliehoward/F5QJMDQVD/image.png|image.png> and commented: <!channel> On Thursday we're going to learn how to overlay text on an image just like this  with HTML and CSS :slightly_smiling_face: let me know if you're coming", 
+            "upload": true, 
+            "ts": "1496805639.484012", 
+            "subtype": "file_share", 
+            "user": "U59RYMK9U", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "<!channel> On Thursday we're going to learn how to overlay text on an image just like this  with HTML and CSS :slightly_smiling_face: let me know if you're coming", 
+                    "created": 1496805637, 
+                    "timestamp": 1496805637, 
+                    "is_intro": true, 
+                    "user": "U59RYMK9U", 
+                    "id": "Fc5QJMDXAT"
+                }, 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5QJMDQVD-503b3b2fdf/image_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5QJMDQVD-503b3b2fdf/image_64.png", 
+                "size": 242611, 
+                "original_h": 334, 
+                "thumb_360_w": 360, 
+                "title": "image.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5QJMDQVD/image.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5QJMDQVD-503b3b2fdf/image_360.png", 
+                "id": "F5QJMDQVD", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5QJMDQVD-503b3b2fdf/image_80.png", 
+                "thumb_360_h": 240, 
+                "thumb_480_h": 321, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1496805637, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5QJMDQVD-503b3b2fdf/image_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5QJMDQVD/download/image.png", 
+                "user": "U59RYMK9U", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "image.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5QJMDQVD-ec47a33e47", 
+                "permalink": "https://gstudents.slack.com/files/elliehoward/F5QJMDQVD/image.png", 
+                "is_external": false, 
+                "created": 1496805637, 
+                "original_w": 500, 
+                "comments_count": 1, 
+                "mode": "hosted", 
+                "channels": [
+                    "C5922K6SE"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "grinning", 
+                    "users": [
+                        "U59RYMK9U"
+                    ]
+                }
+            ], 
+            "text": "<@U5PR4TL3E|macbill> has joined the channel", 
+            "ts": "1496804623.366777", 
+            "subtype": "channel_join", 
+            "user": "U5PR4TL3E", 
+            "type": "message"
+        }, 
+        {
+            "text": "I am coming", 
+            "type": "message", 
+            "user": "U5ECND2AE", 
+            "ts": "1496795091.106540"
+        }, 
+        {
+            "text": "<!channel> Tonight at ~6pm we will go over some basic HTML tags and how to style them, so bring questions and reply to this message if you're coming tonight", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1496779286.272637"
+        }, 
+        {
+            "text": "yup", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1496366907.088846"
+        }, 
+        {
+            "text": "yes, i'm here but are you coming?", 
+            "type": "message", 
+            "user": "U5CL02XST", 
+            "ts": "1496366022.968370"
+        }, 
+        {
+            "text": "<!channel> who's coming to the study hall tonight? Reply with what you're working on if you are planning on attending :)", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1496349179.286503"
+        }, 
+        {
+            "text": "<!channel> We're going to create a simple webpage together and make it pretty with css tonight :slightly_smiling_face: come in around 6-6:30 and let's code together", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1495757480.076377"
+        }, 
+        {
+            "text": "<@U5HTU9G0P|tiffanyknearem> has joined the channel", 
+            "type": "message", 
+            "user": "U5HTU9G0P", 
+            "ts": "1495591164.879189", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "If you missed tonight, don't worry we will go over it again on Tuesday night next week.", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1495159965.897564"
+        }, 
+        {
+            "text": "<!channel> Tonight we're going to go over the requirements for project one, come join us if you're having trouble or just want to work with others :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1495156579.315890"
+        }, 
+        {
+            "text": "<@U5ECND2AE|senay> has joined the channel", 
+            "type": "message", 
+            "user": "U5ECND2AE", 
+            "ts": "1494984911.921328", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5EE3EKRS|monetwilson1> has joined the channel", 
+            "type": "message", 
+            "user": "U5EE3EKRS", 
+            "ts": "1494984908.920554", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5E7BE64F|johnwhitman> has joined the channel", 
+            "type": "message", 
+            "user": "U5E7BE64F", 
+            "ts": "1494828370.923893", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5BTGHP25|jtlaynlo> has joined the channel", 
+            "type": "message", 
+            "user": "U5BTGHP25", 
+            "ts": "1494555661.460817", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5BV7E8N9|ecano> has joined the channel", 
+            "type": "message", 
+            "user": "U5BV7E8N9", 
+            "ts": "1494481172.217280", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5CL02XST|srexporting> has joined the channel", 
+            "type": "message", 
+            "user": "U5CL02XST", 
+            "ts": "1494470366.641774", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5BNYTBS6|vegan2005> has joined the channel", 
+            "type": "message", 
+            "user": "U5BNYTBS6", 
+            "ts": "1494454682.388877", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U59LHFD1S|jazmynejack89> has joined the channel", 
+            "type": "message", 
+            "user": "U59LHFD1S", 
+            "ts": "1494030484.316408", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U59LGF1EY|diana> has joined the channel", 
+            "type": "message", 
+            "user": "U59LGF1EY", 
+            "ts": "1494030152.278857", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U59TBCUTY|hskendall> has joined the channel", 
+            "type": "message", 
+            "user": "U59TBCUTY", 
+            "ts": "1493957591.567209", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U59SLLUBY|dindodupa> has joined the channel", 
+            "type": "message", 
+            "user": "U59SLLUBY", 
+            "ts": "1493949759.592376", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U594AL3JQ|jasonhsu> has joined the channel", 
+            "type": "message", 
+            "user": "U594AL3JQ", 
+            "ts": "1493948123.367055", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U59ST6NF9|deanpark11> has joined the channel", 
+            "type": "message", 
+            "user": "U59ST6NF9", 
+            "ts": "1493946699.167263", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U59RYMK9U"
+                    ]
+                }
+            ], 
+            "text": "Great! Thank you! See you next Tuesday. ", 
+            "type": "message", 
+            "user": "U58F38V1P", 
+            "ts": "1493945998.060355"
+        }, 
+        {
+            "text": "<@U58F38V1P> Ok that works, see you next Tuesday around 6pm. We officially start the orientation at 6:30pm tonight and it reoccurs on Tuesday nights.", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1493945968.055948"
+        }, 
+        {
+            "text": "Hi Eleanor, next Tuesday will definitely work. Tonight I won't have time to make to SF from Mountain View. I thought the course was online today. ", 
+            "type": "message", 
+            "user": "U58F38V1P", 
+            "ts": "1493944614.846368"
+        }, 
+        {
+            "text": "Hi <@U58F38V1P>, You need to make it in person at least once to complete your orientation and have the materials released to you. You can come tonight but if you cannot make it then you can come next Tuesday. Let me know if either of those times don't work for you.", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1493944378.809177"
+        }, 
+        {
+            "text": "<@U59RYMK9U|elliehoward> has joined the channel", 
+            "type": "message", 
+            "user": "U59RYMK9U", 
+            "ts": "1493944250.788444", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Hi guys, so is this course online today?", 
+            "type": "message", 
+            "user": "U58F38V1P", 
+            "ts": "1493943953.738974"
+        }, 
+        {
+            "text": "<@U58F38V1P|aygyun> has joined the channel", 
+            "type": "message", 
+            "user": "U58F38V1P", 
+            "ts": "1493943769.707867", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V8JJSF6|pamela> has joined the channel", 
+            "type": "message", 
+            "user": "U1V8JJSF6", 
+            "ts": "1493943685.693169", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3RKYF5FF|coding_girl17> has joined the channel", 
+            "ts": "1493943268.618991", 
+            "subtype": "channel_join", 
+            "user": "U3RKYF5FF", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U58C1LAV6|masha> has joined the channel", 
+            "type": "message", 
+            "user": "U58C1LAV6", 
+            "ts": "1493943231.612462", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> set the channel purpose: Slack team for the HTML &amp; CSS for Beginners Part Time Flex Course", 
+            "ts": "1493941787.324662", 
+            "subtype": "channel_purpose", 
+            "user": "U3F1AHRHT", 
+            "type": "message", 
+            "purpose": "Slack team for the HTML &amp; CSS for Beginners Part Time Flex Course"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> has joined the channel", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1493941783.324021", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "17-01-ws-sf", 
+        "name": "17-01-ws-sf", 
+        "is_channel": true, 
+        "created": 1493941784, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U3F1AHRHT", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1493941787, 
+            "value": "Slack team for the HTML &amp; CSS for Beginners Part Time Flex Course", 
+            "creator": "U3F1AHRHT"
+        }, 
+        "members": [
+            "U1V8JJSF6", 
+            "U3F1AHRHT", 
+            "U3RKYF5FF", 
+            "U58C1LAV6", 
+            "U58F38V1P", 
+            "U594AL3JQ", 
+            "U59LGF1EY", 
+            "U59LHFD1S", 
+            "U59RYMK9U", 
+            "U59SLLUBY", 
+            "U59ST6NF9", 
+            "U59TBCUTY", 
+            "U5BNYTBS6", 
+            "U5BTGHP25", 
+            "U5BV7E8N9", 
+            "U5CL02XST", 
+            "U5E7BE64F", 
+            "U5ECND2AE", 
+            "U5EE3EKRS", 
+            "U5HTU9G0P", 
+            "U5PR4TL3E", 
+            "U5Q3V6XFC", 
+            "U5R7J5Z8X", 
+            "U5SM50SKA", 
+            "U5SM7LA1W", 
+            "U5U67PUSK", 
+            "U5U69LVGX", 
+            "U601YL2LR"
+        ], 
+        "id": "C5922K6SE", 
+        "is_shared": false
+    }
+}

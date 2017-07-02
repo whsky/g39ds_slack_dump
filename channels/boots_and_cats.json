@@ -1,0 +1,359 @@
+{
+    "messages": [
+        {
+            "text": "<@U36C8HHU3|maryannbarge> has joined the channel", 
+            "ts": "1492123926.192010", 
+            "subtype": "channel_join", 
+            "user": "U36C8HHU3", 
+            "type": "message", 
+            "inviter": "U1UCK7AAW"
+        }, 
+        {
+            "text": "<@U1UCK7AAW> can I skip today's presentation practice? I'd prefer to spend that time on charts.", 
+            "type": "message", 
+            "user": "U3Q82DWV9", 
+            "ts": "1491330353.783202"
+        }, 
+        {
+            "text": "Sure thing ", 
+            "type": "message", 
+            "user": "U3Q82DWV9", 
+            "ts": "1491325050.652445"
+        }, 
+        {
+            "text": "Yup, no stand up. Thanks for checking", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1491325005.634235"
+        }, 
+        {
+            "text": "Got it, <@U1UCK7AAW> . Good luck with the plumbing situation! I take it no standup? ", 
+            "type": "message", 
+            "user": "U3Q82DWV9", 
+            "ts": "1491324985.625723"
+        }, 
+        {
+            "text": "<!channel> Plan is still to do practice presentations at 1 with Isaac\u2019s scrum group, he\u2019ll be running the show. I\u2019m dealing with a plumbing situation so I\u2019ll be working from home today. Slack me if you need me.", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1491324196.312272"
+        }, 
+        {
+            "text": "<!channel> Isaac's group is using the classroom at 1. We're going to go at 2.", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1491241158.527084"
+        }, 
+        {
+            "text": "<!channel>, yup. See you at 4 mins from now", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1491238563.523976"
+        }, 
+        {
+            "text": "<@U1UCK7AAW>", 
+            "type": "message", 
+            "user": "U3ND5SKJ4", 
+            "ts": "1491238538.514611"
+        }, 
+        {
+            "text": "Are we still meeting at 10?", 
+            "type": "message", 
+            "user": "U3ND5SKJ4", 
+            "ts": "1491238529.511356"
+        }, 
+        {
+            "text": "waaaay ahead of you", 
+            "type": "message", 
+            "user": "U3ND5SKJ4", 
+            "ts": "1490981174.512592"
+        }, 
+        {
+            "text": "<!channel>: Reminder, scrum in 5", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1490981087.480017"
+        }, 
+        {
+            "text": "<!channel> Forgot to mention to everyone, I have a meeting at 10 tomorrow. Let\u2019s aim to have scrum at 10:30.", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1490905621.121905"
+        }, 
+        {
+            "text": "<https://github.com/Ultramann/Stravaboards>\n<https://github.com/poojaramesh/capstone>\n<https://github.com/jliemansifry/streetview>", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1490898276.341996", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "Ultramann/Stravaboards", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/Ultramann/Stravaboards", 
+                    "text": "Stravaboards - Galvanize DSI Capstone Project", 
+                    "id": 1, 
+                    "fallback": "GitHub: Ultramann/Stravaboards", 
+                    "thumb_url": "https://avatars1.githubusercontent.com/u/9347171?v=3&s=400", 
+                    "from_url": "https://github.com/Ultramann/Stravaboards"
+                }, 
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "poojaramesh/capstone", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/poojaramesh/capstone", 
+                    "text": "capstone - Galvanize Computer Vision Project", 
+                    "id": 2, 
+                    "fallback": "GitHub: poojaramesh/capstone", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/14980463?v=3&s=400", 
+                    "from_url": "https://github.com/poojaramesh/capstone"
+                }, 
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "jliemansifry/streetview", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/jliemansifry/streetview", 
+                    "text": "streetview - Convolutional Neural Networks to Predict Location from Colorado Google Street View Images: Galvanize Capstone Project", 
+                    "id": 3, 
+                    "fallback": "GitHub: jliemansifry/streetview", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/13065832?v=3&s=400", 
+                    "from_url": "https://github.com/jliemansifry/streetview"
+                }
+            ]
+        }, 
+        {
+            "text": "Hi Cary - Can u please ping us the few GITHUB repositories , to get an idea of how to structure the home page", 
+            "type": "message", 
+            "user": "U3PPCPC1K", 
+            "ts": "1490894450.786593"
+        }, 
+        {
+            "text": "guys come to scrum", 
+            "type": "message", 
+            "user": "U3ND5SKJ4", 
+            "ts": "1490720461.128252"
+        }, 
+        {
+            "text": "<https://www.youtube.com/watch?v=ILVfzx5Pe-A>", 
+            "type": "message", 
+            "user": "U1UTKSSFR", 
+            "ts": "1489793263.393580", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/gieco53", 
+                    "service_name": "YouTube", 
+                    "title": "The System Is Down- Strongbad", 
+                    "video_html_height": 225, 
+                    "author_name": "gieco53", 
+                    "title_link": "https://www.youtube.com/watch?v=ILVfzx5Pe-A", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/ILVfzx5Pe-A?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: The System Is Down- Strongbad", 
+                    "thumb_url": "https://i.ytimg.com/vi/ILVfzx5Pe-A/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=ILVfzx5Pe-A"
+                }
+            ]
+        }, 
+        {
+            "text": ":doge:", 
+            "type": "message", 
+            "user": "U3NGA49SR", 
+            "ts": "1489792864.340557"
+        }, 
+        {
+            "text": "<@U3Q82DWV9> Thanks for the ping :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1489792851.338804"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "charmander_dancing", 
+                    "users": [
+                        "U3Q82DWV9", 
+                        "U3K6F21UG"
+                    ]
+                }
+            ], 
+            "text": "<!channel> Monday, 10am by the far 3rd floor kitchen", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1489792841.337460"
+        }, 
+        {
+            "text": "<@U1UCK7AAW> did you say scrum Monday 10am at community table/other kitchen on 3rd floor?", 
+            "type": "message", 
+            "user": "U3Q82DWV9", 
+            "ts": "1489792798.331052"
+        }, 
+        {
+            "username": "mororke", 
+            "display_as_bot": false, 
+            "text": "<@U3Q82DWV9|mororke> uploaded a file: <https://gstudents.slack.com/files/mororke/F4L8BJ69J/ydksbha.png|boots>", 
+            "upload": true, 
+            "ts": "1489790678.005960", 
+            "subtype": "file_share", 
+            "user": "U3Q82DWV9", 
+            "file": {
+                "groups": [], 
+                "filetype": "png", 
+                "channels": [
+                    "C4LTJTVAB"
+                ], 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4L8BJ69J-553a69e5a9/ydksbha_64.png", 
+                "size": 68737, 
+                "original_h": 248, 
+                "thumb_360_w": 204, 
+                "title": "boots", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4L8BJ69J/ydksbha.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4L8BJ69J-553a69e5a9/ydksbha_360.png", 
+                "id": "F4L8BJ69J", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4L8BJ69J-553a69e5a9/ydksbha_80.png", 
+                "thumb_360_h": 248, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1489790677, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4L8BJ69J-553a69e5a9/ydksbha_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4L8BJ69J/download/ydksbha.png", 
+                "user": "U3Q82DWV9", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "YDkSBHa.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4L8BJ69J-3e784ec981", 
+                "permalink": "https://gstudents.slack.com/files/mororke/F4L8BJ69J/ydksbha.png", 
+                "is_external": false, 
+                "created": 1489790677, 
+                "original_w": 204, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U3ND5SKJ4|chris.duze> has joined the channel", 
+            "ts": "1489790320.946791", 
+            "subtype": "channel_join", 
+            "user": "U3ND5SKJ4", 
+            "type": "message", 
+            "inviter": "U1UCK7AAW"
+        }, 
+        {
+            "text": "<@U1UTKSSFR|gfosmire> has joined the channel", 
+            "ts": "1489790320.946767", 
+            "subtype": "channel_join", 
+            "user": "U1UTKSSFR", 
+            "type": "message", 
+            "inviter": "U1UCK7AAW"
+        }, 
+        {
+            "text": "<@U3K6F21UG|stefand> has joined the channel", 
+            "ts": "1489790320.946744", 
+            "subtype": "channel_join", 
+            "user": "U3K6F21UG", 
+            "type": "message", 
+            "inviter": "U1UCK7AAW"
+        }, 
+        {
+            "text": "<@U3PPCPC1K|jagaramesh> has joined the channel", 
+            "ts": "1489790320.946731", 
+            "subtype": "channel_join", 
+            "user": "U3PPCPC1K", 
+            "type": "message", 
+            "inviter": "U1UCK7AAW"
+        }, 
+        {
+            "text": "<@U3QBGLLB1|kruncha> has joined the channel", 
+            "ts": "1489790320.946714", 
+            "subtype": "channel_join", 
+            "user": "U3QBGLLB1", 
+            "type": "message", 
+            "inviter": "U1UCK7AAW"
+        }, 
+        {
+            "text": "<@U3Q82DWV9|mororke> has joined the channel", 
+            "ts": "1489790319.946684", 
+            "subtype": "channel_join", 
+            "user": "U3Q82DWV9", 
+            "type": "message", 
+            "inviter": "U1UCK7AAW"
+        }, 
+        {
+            "text": "<@U3NGA49SR|vince.kumar> has joined the channel", 
+            "ts": "1489790319.946666", 
+            "subtype": "channel_join", 
+            "user": "U3NGA49SR", 
+            "type": "message", 
+            "inviter": "U1UCK7AAW"
+        }, 
+        {
+            "text": "<@U1UCK7AAW|ultramann> set the channel purpose: Dat cool scrum group", 
+            "ts": "1489790319.946639", 
+            "subtype": "channel_purpose", 
+            "user": "U1UCK7AAW", 
+            "type": "message", 
+            "purpose": "Dat cool scrum group"
+        }, 
+        {
+            "text": "<@U1UCK7AAW|ultramann> has joined the channel", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1489790318.946474", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "boots_and_cats", 
+        "name": "boots_and_cats", 
+        "is_channel": true, 
+        "created": 1489790318, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1UCK7AAW", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1489790319, 
+            "value": "Dat cool scrum group", 
+            "creator": "U1UCK7AAW"
+        }, 
+        "members": [
+            "U1UCK7AAW", 
+            "U1UTKSSFR", 
+            "U36C8HHU3", 
+            "U3K6F21UG", 
+            "U3ND5SKJ4", 
+            "U3NGA49SR", 
+            "U3PPCPC1K", 
+            "U3Q82DWV9", 
+            "U3QBGLLB1"
+        ], 
+        "id": "C4LTJTVAB", 
+        "is_shared": false
+    }
+}

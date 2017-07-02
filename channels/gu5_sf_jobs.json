@@ -1,0 +1,1574 @@
+{
+    "messages": [
+        {
+            "text": "<https://www.thestreet.com/story/11848371/1/how-to-network-without-sounding-like-a-jerk.html>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1497303171.431307", 
+            "attachments": [
+                {
+                    "image_bytes": 39034, 
+                    "ts": 1361456460, 
+                    "title": "How to Network Without Sounding Like a Jerk", 
+                    "service_name": "TheStreet", 
+                    "image_width": 375, 
+                    "title_link": "https://www.thestreet.com/story/11848371/1/how-to-network-without-sounding-like-a-jerk.html", 
+                    "image_height": 250, 
+                    "image_url": "https://s.thestreet.com/files/tsc/v2008/photos/all-pics/101712_Sp_SmBiz_04_large.jpg", 
+                    "text": "Coming on too strong at networking events can be a disaster. Here are five networking tips on how to do it right.", 
+                    "id": 1, 
+                    "fallback": "TheStreet: How to Network Without Sounding Like a Jerk", 
+                    "service_icon": "http://s.t.st/assets/thestreet-ngbeta/production/358/icon-links/thestreet-60x60-1ce2a07f2cd0044d4be697f2c83c3f8e.png", 
+                    "from_url": "https://www.thestreet.com/story/11848371/1/how-to-network-without-sounding-like-a-jerk.html"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> Events coming up -- here are your free tickets!!\nWe have comp. tickets for Galvanize students for our Get Hired! Recruiter Panel on June 14 at 6pm at Galvanize and our Women in Engineering Panel at Mesosphere, SF  on June 19 at 6pm. Please share the links and code below\n\n *Get Hired! Recruiter Panel on June 14 at 6pm at Galvanize* \nUse code \"gethiredcomp17\" at this link<https://gethiredjune.eventbrite.com> to get free tickets to the event\n\n*Women in Engineering Panel at Mesosphere, SF  on June 19 at 6pm* \n( They are hiring) Event open to women and men.\nUse code \"mesoguest\" at this link to get free tickets to the event", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1497245226.468213", 
+            "attachments": [
+                {
+                    "image_bytes": 666965, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "44 Tehama Street, San Francisco, CA 94105", 
+                            "title": "Where"
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "Wed, Jun 14, 2017 at 6:00 PM", 
+                            "title": "When"
+                        }
+                    ], 
+                    "title": "Get Hired!! Recruiter Panel and Networking", 
+                    "service_name": "Eventbrite", 
+                    "image_width": 500, 
+                    "title_link": "https://gethiredjune.eventbrite.com", 
+                    "image_height": 250, 
+                    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32205098%2F9608873553%2F1%2Foriginal.jpg?w=1000&rect=0%2C206%2C3608%2C1804&s=2091f269c2d04e432f33b4be441467f0", 
+                    "text": "Get Hired!! Recruiter Panel and Networking Join us for an evening of networking, \u00a0an interactive panel discussion with\u00a0decision makers in the talent acquisition, and recruiter booths. The event is open to women and men of all professional backgrounds. Recruiter Panel Ginny Cheng, Sr. Recruiting Manager, M&amp;A at Facebook Tai Bethune, Senior Sourcing Recruiter at Amazon Web Services Katrina Georgiou, Recruiting Operations and Program Manager at Redditt Stephanie Fong, Engineering Recruiter at Aerotek Jordan Ricardo, Recruiting Lead at Instrumental Inc. Moderator:\u00a0Smitha Prabhu, Director, Talent Experience at SAP Recruiter/Vendor Tables Galvanize AlwaysHired The Creative Group ( Robert Half Staffing) For job announcements and career tips, join our\u00a0Careers and JobSearch FB page. If you are a jobseeker and would like us to share your information with the recruiters, please\u00a0complete this form To learn about our upcoming career events, join our Meetup Group For updates and to connect with others attending the event, join\u00a0the Get Hired event page on Facebook If you are interested in participating in our career fair or sharing job openings at your company with our network, please e-mail us at <mailto:info@theexpatwoman.com|info@theexpatwoman.com> Terms of Participation Agreement:\u00a0 You agree that you are responsible for any accidents or damages that you cause. You also agree to not\u00a0hold The Expat Woman, or any of the event supporters liable for any loss, damage, injury, or any other unforeseeable incident.\u00a0 By Participating at the event, you grant The Expat Woman permission to capture photo/video of the event.\u00a0 By registering for this event,\u00a0you also consent to receive email communication from The Expat Woman and its programs about events and updates that may interest you. Tickets to this event are non-refundable. If you are unable to attend, you have the option of giving it to a friend or team member to attend in your place.", 
+                    "id": 1, 
+                    "fallback": "Eventbrite: Get Hired!! Recruiter Panel and Networking", 
+                    "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+                    "from_url": "https://gethiredjune.eventbrite.com"
+                }
+            ]
+        }, 
+        {
+            "text": "<http://www.datasciencejobfair.com/>", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1496786931.267253"
+        }, 
+        {
+            "text": "<!channel> Sign up for 1:1 calls this Friday if you would like to talk! <https://docs.google.com/document/d/1DhPm1Q__9v4535bH3WGiYskVDZnkYO_0MD-G6-P3Pws/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496690340.082053"
+        }, 
+        {
+            "text": "<!channel> Office hours this week: \n<https://calendar.google.com/calendar/embed?src=galvanize.com_4dgcak36o6a8au6kic4hdie8q0%40group.calendar.google.com&amp;ctz=America/Los_Angeles>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496181545.394023"
+        }, 
+        {
+            "text": "<!channel> Sign up for 1:1 calls this week! <https://docs.google.com/document/d/1tLUDvv9rLhLERakkhMwBv5fRVBIW9D_wXcfN9sPvlkc/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496180661.177913"
+        }, 
+        {
+            "text": "<!channel> Hello, lovely people! There is a speed networking with recruiters event tonight on campus. You can find info and register here: <https://gethiredmentoring.eventbrite.com> \n\nYou can get *free tickets* using the code: *careercomp*\n\n...but to use the code you must register before this afternoon!!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1495732981.653933", 
+            "attachments": [
+                {
+                    "image_bytes": 152518, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "44 Tehama Street, San Francisco, CA 94103", 
+                            "title": "Where"
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "Thu, May 25, 2017 at 6:00 PM", 
+                            "title": "When"
+                        }
+                    ], 
+                    "title": "Get Hired! Speed Mentoring with Recruiters and Hiring Managers", 
+                    "service_name": "Eventbrite", 
+                    "image_width": 500, 
+                    "title_link": "https://gethiredmentoring.eventbrite.com", 
+                    "image_height": 250, 
+                    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30852296%2F9608873553%2F1%2Foriginal.jpg?w=1000&rect=0%2C674%2C4032%2C2016&s=083670b8586ee115f7ad77c3caf63457", 
+                    "text": "Are you looking for a job or looking to transition into a new career? Would you like to get tips and advice to help you land your dream job? Join us for our Speed Mentoring event where you will get face time and job search advice from recruiters, hiring managers and career counselors\u00a0 The evening will start with short presentations by each mentor followed by the speed mentoring. Jobseekers will then meet recruiters,hiring managers and career counselors\u00a0in a group mentoring format, \u00a0asking questions and advice about your job search and making valuable connections. \u00a0The groups will switch every 10 minutes This event is open to women and men of all professional backgrounds. Mentors Heidi Smith, Sr. Recruiter of Sales, Professional Services &amp; Security Professionals at Splunk Smitha Prabhu, Director, Talent Experience at SAP Gabriel Moncayo, CEO &amp; Co-Founder of AlwaysHired Meg Escobar, People Operations at Pillow Homes Sara Lager, Manager, Direct Hire at DeWinter Group PK\u00a0Phommachanh, Lead Associate at Blueprint Search Partners Selina Ngo, Staffing Manager at Randstad Technologies Jordan Helsloot, Technical Recruiter at Randstad Technologies Erica Schneider, Client Services Director at Robert Half Staffing and Recruiting Stephanie Bennett, Division Director HR Services\u00a0at Robert Half Staffing and Recruiting Recruiter/Vendor Tables Galvanize AlwaysHired Dress code: Business casual or dress for the type of the job you are interested in being hired for. Light refreshments will be served\u00a0 Thank you to our Sponsors Galvanize Galvanize is where you can become a developer, data scientist, or build your tech startup. Join the conversation and connect with other guests prior to the event! Here are several ways you can connect with other guests prior to the event, so you don't have to walk into a room full of strangers Use the hash tag #tewcareers\u00a0for updates and to connect with the event attendees and/or get updates and connect with other attendees on the\u00a0event page on FB Terms of Participation Agreement You agree that you are responsible for any accidents or damages that you cause. You also agree to not hold The Expat Woman, or any of the event supporters liable for any loss, damage, injury, or any other unforeseeable incident. By Participating at the event, you grant The Expat Woman permission to capture photo/video of the event. By registering for this event, you also consent to receive email communication from The Expat Woman and its programs about events and updates that may interest you. Tickets to this event are non-refundable. If you are unable to attend, you have the option of giving it to a friend or team member to attend in your place.", 
+                    "id": 1, 
+                    "fallback": "Eventbrite: Get Hired! Speed Mentoring with Recruiters and Hiring Managers", 
+                    "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+                    "from_url": "https://gethiredmentoring.eventbrite.com"
+                }
+            ]
+        }, 
+        {
+            "text": "send it to me via gDoc please", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1495237647.885149"
+        }, 
+        {
+            "text": "it you submit more, your advisor will just review 3, and you can use the critique from those 3 and apply it to the other ones!", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1495237634.883818"
+        }, 
+        {
+            "text": "3 proposals **", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1495237605.880785"
+        }, 
+        {
+            "text": "<@U1XK2HTBJ> hey there !- I know we are supposed to submit 5 proposals for review by an advisor.\nDo we know the process?\nDo we email the 5 proposals to you and you will send it to an advisor?", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1495237387.857156"
+        }, 
+        {
+            "text": "Well hi there!", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1495050890.528312", 
+            "subtype": "slackbot_response"
+        }, 
+        {
+            "text": "<!channel> Hey everyone! I'm feeling under the weather today and am working from home. I'm cancelling my office hours today, but am adding some additional 1:1 times for calls on Friday. Sign up here! <https://docs.google.com/document/d/16Dchb4KmnBEc96QsKxiOFd5OZgQrx2mLQTpVVZ8Emvk/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1495042937.448689"
+        }, 
+        {
+            "text": "<!channel> Office hours for this week: \n<https://calendar.google.com/calendar/embed?src=galvanize.com_4dgcak36o6a8au6kic4hdie8q0%40group.calendar.google.com&amp;ctz=America/Los_Angeles>\n\nAnd you can sign up for 1:1 calls on Friday here:\n<https://docs.google.com/document/d/16Dchb4KmnBEc96QsKxiOFd5OZgQrx2mLQTpVVZ8Emvk/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494895376.569797"
+        }, 
+        {
+            "text": "<!channel> FREE TICKETS to this Careers in Tech Recruiter Panel happening this week: <https://www.eventbrite.com/e/careers-in-tech-recruiter-panel-career-fair-and-mixer-tickets-33856385360>\n\nUse promo code: gvpromo17\n\nLet me know if it doesn't work!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494873905.824454"
+        }, 
+        {
+            "text": "<!channel> Here are office hours for this week: <https://calendar.google.com/calendar/embed?src=galvanize.com_4dgcak36o6a8au6kic4hdie8q0%40group.calendar.google.com&amp;ctz=America/Los_Angeles>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494259201.647541"
+        }, 
+        {
+            "text": "<!channel> Code for SF: <https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/239264106/>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1493841104.933084", 
+            "attachments": [
+                {
+                    "thumb_height": 2448, 
+                    "service_icon": "https://secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+                    "thumb_width": 3264, 
+                    "title": "Code for San Francisco - Civic Hack Night", 
+                    "service_name": "Meetup", 
+                    "title_link": "https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/239264106/", 
+                    "text": "Want to see how volunteers are using technology to tackle hard challenges in San Francisco?\u00a0Code for SF is hosting a demo night of the projects our members are building. These volunteers are working t", 
+                    "id": 1, 
+                    "fallback": "Meetup: Code for San Francisco - Civic Hack Night", 
+                    "thumb_url": "https://secure.meetupstatic.com/photos/event/d/a/b/c/highres_443875996.jpeg", 
+                    "from_url": "https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/239264106/"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> Good read on how to tell compelling stories - keep this in mind in particular for when you are talking about what motivated you to make the switch into data science! <https://medium.com/the-mission/the-stinky-cow-principle-how-to-tell-stories-that-make-people-trust-you-c40cdbb1ca4c>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1493669042.496640", 
+            "attachments": [
+                {
+                    "image_bytes": 235787, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "5 min read", 
+                            "title": "Reading time"
+                        }
+                    ], 
+                    "title": "The Stinky Cow Principle: How to Tell Stories that Make People Trust You", 
+                    "service_name": "Medium", 
+                    "ts": 1493292662, 
+                    "title_link": "https://medium.com/the-mission/the-stinky-cow-principle-how-to-tell-stories-that-make-people-trust-you-c40cdbb1ca4c", 
+                    "image_height": 250, 
+                    "image_url": "https://cdn-images-1.medium.com/max/1200/1*CP-ENp6S1eAX8m3OV1w83w.jpeg", 
+                    "image_width": 376, 
+                    "text": "Details\u2014even the gory ones\u2014make you more likable.", 
+                    "id": 1, 
+                    "fallback": "Medium: The Stinky Cow Principle: How to Tell Stories that Make People Trust You", 
+                    "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*lweRCs77VRPCrZvX8Sv-Jg.png", 
+                    "from_url": "https://medium.com/the-mission/the-stinky-cow-principle-how-to-tell-stories-that-make-people-trust-you-c40cdbb1ca4c"
+                }
+            ]
+        }, 
+        {
+            "text": "Got it; thanks for the input.", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1493137336.253279"
+        }, 
+        {
+            "text": "hi <@U3PLA89C2> ! there will be 11 companies each day, but you will have to wait until day of to see who will present at each day", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1493136786.037741"
+        }, 
+        {
+            "text": "Hi Bonny, Would it be possible to get a tentative list of pitching companies for this Wed's am/pm beforehand if possible?", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1493086958.584688"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3NKZMZ2L"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "hamster_dance", 
+                    "users": [
+                        "U3P8YMVL4"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 181, 
+                    "service_icon": "https://secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+                    "thumb_width": 230, 
+                    "title": "Big Data, San Francisco", 
+                    "service_name": "Meetup", 
+                    "title_link": "http://meetu.ps/e/CBl22/bkMZs/a", 
+                    "text": "Join us for an evening of exciting talks from Data Science Industry leaders and experts, followed by enough time for a few beers, pizza and networking. We look forward to seeing you there! Register vi", 
+                    "id": 1, 
+                    "fallback": "Meetup: Big Data, San Francisco", 
+                    "thumb_url": "https://secure.meetupstatic.com/photos/event/c/f/5/1/highres_456713073.jpeg", 
+                    "from_url": "http://meetu.ps/e/CBl22/bkMZs/a"
+                }
+            ], 
+            "text": "Join me at Big Data, San Francisco v 2.0\n<http://meetu.ps/e/CBl22/bkMZs/a>", 
+            "ts": "1492626882.476429", 
+            "user": "U3PQYCL87", 
+            "type": "message"
+        }, 
+        {
+            "text": "<https://docs.google.com/a/galvanize.com/presentation/d/12x67nBCY28i34vknkNebxp_crZkP0HjjZ4969qwnIRo/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1492449233.585120"
+        }, 
+        {
+            "text": "Asked me to let Mary Ann know ", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1492446973.807944"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "sweat_smile", 
+                    "users": [
+                        "U3P8YMVL4"
+                    ]
+                }
+            ], 
+            "text": "Vanessa is running late ", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1492446965.805788"
+        }, 
+        {
+            "text": "<!channel> Career Services workshop with Mary Ann will beginning NOW in classroom 311 (3rd floor next to the instructor office)", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1492446892.782129"
+        }, 
+        {
+            "text": "Yes - (apologies calendar always set to Texas Time).  Specifically, just thought i post this in jobs as a reminder to gU5 for Monday.  As a further reminder Next Wed is our last free day off - the subsequent 2 Wednesdays will be our Capstone Employer Pitch Days.", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1492142207.202073"
+        }, 
+        {
+            "text": "<@U3PLA89C2> Hi! The workshop next Monday should be from 9:30 am - 11 am. Does your invite say otherwise?", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1492141848.163733"
+        }, 
+        {
+            "text": "Updated Invitation: gU5 Career Services workshop (mandatory attendance) @ Mon Apr 17, 2017 11:30am - 1pm (", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1492137037.619392"
+        }, 
+        {
+            "text": "Capstone Demos today!", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1491494331.667066"
+        }, 
+        {
+            "text": "<https://www.eventbrite.com/e/galvanize-san-francisco-data-science-capstone-showcase-46-tickets-32671485292>", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1491494321.662947"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 4, 
+                    "name": "+1", 
+                    "users": [
+                        "U36C8HHU3", 
+                        "U3P4KTU8K", 
+                        "U3PLA89C2", 
+                        "U3PNUUCAH"
+                    ]
+                }
+            ], 
+            "text": "A word to the wise - as you write your bio for linkedin, do not write your rough drafts in the linkedin box.  Why? Because chrome can crash, linkedin can be weird, and ultimately your hard work can disappear.  I speak from experience  :disappointed:", 
+            "type": "message", 
+            "user": "U3PNUUCAH", 
+            "ts": "1491411220.462956"
+        }, 
+        {
+            "text": "As long as I can remember, I've loved to be in front of people. Whether I was emoting scenes as an actor or explaining difficult concepts as a teacher, seeing someone \"get it\" made my day. After college, I translated that passion into a career by becoming a technical trainer and applications engineer. Apparently I was not the only one aware of my passion. I was given the opportunity to manage the training and technical program management for my department and then the entire company.\n\nAt Evans Analytical Group, I've had the opportunity to manage global training for the entire company by building its first corporate university from the ground up. This opportunity has been in parallel with my  role of leading the technical program management team. The desire to learn the connection between data and the bottom line made me interested in data science. Which is why I am a data scientist today.\n\nI am passionate about turning data into meaningful stories. Currently, I'm working on machine learning models and data engineering. . During my Masters in Data science at GalvanizeU, I have built statistical data analysis project. \n\n- Interests: Machine Learning, Deep Learning, Natural Language Processing, Learning and Development, Program Mgt\n- Languages: Python, C, C++\n- Frameworks and Tools: Apache Spark Ecosystem (Streaming/ SQL/ MLlib/ GraphX), Hadoop( HDFS, YARN, MapReduce)", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1491350130.604831"
+        }, 
+        {
+            "text": "I am passionate about turning data into meaningful stories. Currently, I'm developing machine learning models for anomaly detection project. This project aims to improve fraud detection for mobile games played by millions. During my Masters in Data science at GalvanizeU, I worked with Skymind, Databricks and Wikipedia on industry data science projects. Prior to joining the GalvanizeU MS Data Science program, I held positions as a Microsoft Student Partner, and Wikipedia campus ambassador. I also co-founded Synergiclinks in London, where I led a team of five engineers in designing civic apps and grew my skills in data management, engineering, and marketing.\n\n- Interests: Deep Learning, Natural Language Processing, Data Engineering and Design\n- Languages: Python, Java; Beginner: Scala, Go\n- Frameworks and Tools: Apache Spark Ecosystem (Streaming/ SQL/ MLlib/ GraphX), Hadoop( HDFS, YARN, MapReduce)", 
+            "type": "message", 
+            "user": "U3P956PB7", 
+            "ts": "1491349421.488300"
+        }, 
+        {
+            "text": "I love making connections. I am passionate about discovering nonintuitive patterns with data, and I want to enable people to make informed, data-driven decisions. This is why I am a data scientist. \n\nI am a Data Scientist with a formal education in applied mathematics and 3 years of programming experience. I have professional experience as an actuarial analyst and as a programmer in the health insurance and financial industries, respectively. I\u2019ve acquired knowledge in machine learning applications, natural language processing, and data engineering. I am familiar with supervised regression and classification techniques, as well as unsupervised techniques such as clustering and Non negative factorization. In my latest project, I used the presidential debate text to train a Naive Bayes classifier that can classify statements to a specific candidate.\n\nBefore I entered the field of data science, I was a programmer for a fortune 500 Financial Services company. Hired on with almost zero programming knowledge, within two years I became a subject matter expert on a data pipeline application. This application transformed VSAM (mainframe) datasets to a relational database that then integrated with a BI reporting tool. As a SME for this application, I was not only responsible for developing custom implementations, but I was also responsible for developing project outlines, estimates, timelines, and planning documents for full software deployment.\n\nMy programming language of choice is Python, where I frequently use numpy, pandas, scikit-learn, nltk, and matplotlib. In addition, I am also proficient in SQL, Linux, bash, COBOL, and have experience with Apache Spark, Hadoop, and AWS.", 
+            "type": "message", 
+            "user": "U3PNUUCAH", 
+            "ts": "1491349419.487947"
+        }, 
+        {
+            "text": "I focus on building great products with data.\nBeen fortunate to build some incredible teams in the consumer and enterprise space\nHad to fight lots of bad guys in the cyber arena\nHad some good luck in Academia working on chaos theory\nWorked in two Administrations on domestic &amp; national security issues.\n\nHere's a bit more detail:\nMost recently DJ was appointed by President Obama to be the first U.S. Chief Data Scientist where his efforts led to the establishment of nearly 40 Chief Data Officer roles across the Federal government. He also established new health care programs including the Precision Medicine Initiative and the Cancer Moonshot, new criminal justice reforms including the Data-Driven Justice and Police Data Initiatives that cover more than 94 million Americans, as well as leading the national data efforts. He also has been active in national security and for his efforts was awarded by Secretary Carter the Dept. of Defense Medal for Distinguished Public Service which the highest honor the department bestows on a civilian. \n\nIn industry, he led the product teams at RelateIQ which was acquired by Salesforce, was founding board member for Crisis Text Line which works to use new technologies to provide on demand mental and crisis support, and was a member of the venture firm Greylock Partners. He has also was Chief Scientist, Chief Security Officer and Head of Analytics and Data Product Teams at the LinkedIn Corporation where he co-coined the term Data Scientist. He has also held a number of roles at Skype, PayPal, and eBay. \n\nAs a member of the faculty at the University of Maryland, his research focused on nonlinear dynamics and chaos theory and he helped start a major research initiative on numerical weather prediction. As an AAAS Science &amp; Technology Policy Fellow for the Department of Defense, Dr. Patil directed new efforts to leverage social network analysis and the melding of computational and social sciences to anticipate emerging threats to the US", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1491349391.483360"
+        }, 
+        {
+            "text": "Galvanize", 
+            "type": "message", 
+            "user": "U3P956PB7", 
+            "ts": "1491349147.442990"
+        }, 
+        {
+            "text": "Phd, math, physics, data, science, computer science,", 
+            "type": "message", 
+            "user": "U3PNUUCAH", 
+            "ts": "1491349118.438068"
+        }, 
+        {
+            "text": "excel", 
+            "type": "message", 
+            "user": "U3PT72C5U", 
+            "ts": "1491349086.432560"
+        }, 
+        {
+            "text": "random forests", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1491349086.432494"
+        }, 
+        {
+            "text": "pattern recognition, agile", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1491349078.431278"
+        }, 
+        {
+            "text": "python", 
+            "type": "message", 
+            "user": "U3P8YMVL4", 
+            "ts": "1491349075.430710"
+        }, 
+        {
+            "text": "computer vision", 
+            "type": "message", 
+            "user": "U3P8YMVL4", 
+            "ts": "1491349073.430407"
+        }, 
+        {
+            "text": "deep learning", 
+            "type": "message", 
+            "user": "U3PS6DGF9", 
+            "ts": "1491349071.430081"
+        }, 
+        {
+            "text": "complex analysis", 
+            "type": "message", 
+            "user": "U3NKZMZ2L", 
+            "ts": "1491349060.428271"
+        }, 
+        {
+            "text": "research, statistics", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1491349058.427959"
+        }, 
+        {
+            "text": "hadoop,clustering, mpi.decision trees,", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1491349047.426009"
+        }, 
+        {
+            "text": "nlp", 
+            "type": "message", 
+            "user": "U3NKZMZ2L", 
+            "ts": "1491349045.425678"
+        }, 
+        {
+            "text": "machine learning, R, matlab, mathematics, sql", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1491348986.415960"
+        }, 
+        {
+            "text": "<@U1XUS6MHB|hema.vakade> has joined the channel", 
+            "type": "message", 
+            "user": "U1XUS6MHB", 
+            "ts": "1490906404.168767", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "I will share the list of the upcoming Pitch Day companies 1 week before the Pitch Day <@U3PLA89C2>", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1490889007.684803"
+        }, 
+        {
+            "text": "Hi Bonny, You'd also mentioned Audi / IBM and others can we have that list of bigger companies too?", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1490836180.177902"
+        }, 
+        {
+            "text": "As asked in the workshop yesterday, here are a list of companies gU1-4 have/are working with for their capstone &amp; internship courses:\n\n- AfterCollege\n- AllScripts Analytics\n- BridgeUS\n- Chef Note\n- City of Palo Alto\n- DataBricks\n- DocuSign\n- Driver\n- Elastica (acquired by Bluecoat, and now acquired by Symantec)\n- Foxtype\n- Hamlet\n- Iron Planet\n- Mashable\n- Metromile\n- Mike Bowles (neural net project with a prior professor)\n- <http://Msg.ai|Msg.ai>\n- Omada Health\n- Orange Silicon Valley\n- Playbigger\n- PowerScout\n- NASA\n- Real Contacts\n- Riskpulse\n- Scientific Revenue\n- Scribie\n- Silicon Valley Bank\n- Simpatica Medicine\n- Skymind\n- Skytruth\n- Swish Analytics\n- Takt\n- The Demand Institute (jointly operated by TCB and Nielsen)\n- Verisk\n- Vidora\n- WaterSmart\n- <http://Well.io|Well.io>\n- <http://wine.com|wine.com>\n- Zynga", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1490836116.169095"
+        }, 
+        {
+            "text": "yes - it may be possible", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1490634550.149232"
+        }, 
+        {
+            "text": "Yes, thank you. So is there possibility to do a capstone for a nonSF company but in the Galvanize network for August?", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1490633767.859963"
+        }, 
+        {
+            "text": "gU5 capstone doesn't begin until late August", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1490631726.109655"
+        }, 
+        {
+            "text": "yes", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1490631705.102112"
+        }, 
+        {
+            "text": "Thank you Bonny - so is there possibility to do a capstone for a nonSF company but in the Galvanize network at this time?", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1490631524.034599"
+        }, 
+        {
+            "text": "<@U3PLA89C2> capstone and internships are overseen by me, not <@U36C8HHU3> or the career services team. Please discuss these with me - but your capstone pitch days are coming up and we will share more info in the coming weeks", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1490630733.730692"
+        }, 
+        {
+            "text": "reminder: <https://www.eventbrite.com/e/state-departments-clean-energy-data-science-challenge-tickets-31550275724>", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1490628748.917137"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "heart", 
+                    "users": [
+                        "U3P4KTU8K", 
+                        "U3PT72C5U"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "ok_hand", 
+                    "users": [
+                        "U36C8HHU3"
+                    ]
+                }
+            ], 
+            "text": "Austin, Texas - Galvanize TRIP SUMMARY:\n\nHello All:\nHere are photos of Galvanize Austin from my trip last week.   In short,  you have all indicated an interest in this visit, here is a summary of what I\u2019ve learned\n\n1)\tIt is possible to get a job placement in Austin (or the State of Texas through the contacts made by the Austin location) by the nature Galvanize\u2019s national presence.   To do so however, we must strictly go through MaryAnn and not through the local Office of interest.\n2)\tGalvanize jobs board &amp; job placement is centered on a specific site where we post our profiles, a site that Galvanize curates \u2013 which we will find out from MaryAnn at some point in the future.\n3)\tOur idea that we discussed prior to my trip \u2013 where we can get a company outside of SF, to consider gU5 students for an internship or capstone -- is currently not a reality for the entire Galvanize national network at this time.  This was made clear during my Austin visit.  \n4)\tHowever, if we are all still interested in such a capstone /internship for ourselves or most likely as an option for future cohorts we may want to mention in our upcoming career service meetings with MaryAnn.\n\nI had a great and highly productive trip, and am happy to share what I learned with you. \n\tRafa", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1490560136.551701"
+        }, 
+        {
+            "username": "rafabaca", 
+            "display_as_bot": false, 
+            "text": "<@U3PLA89C2|rafabaca> uploaded a file: <https://gstudents.slack.com/files/rafabaca/F4P5N86E4/same_vendors.jpg|same vendors.JPG>", 
+            "upload": true, 
+            "ts": "1490560029.544819", 
+            "subtype": "file_share", 
+            "user": "U3PLA89C2", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F4P5N86E4-01c58f6c37/same_vendors_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4P5N86E4-01c58f6c37/same_vendors_64.jpg", 
+                "size": 5644338, 
+                "original_h": 3648, 
+                "thumb_360_w": 360, 
+                "title": "same vendors.JPG", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4P5N86E4/same_vendors.jpg", 
+                "thumb_720_h": 480, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4P5N86E4-01c58f6c37/same_vendors_360.jpg", 
+                "id": "F4P5N86E4", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4P5N86E4-01c58f6c37/same_vendors_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 240, 
+                "thumb_480_h": 320, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1490560024, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4P5N86E4-01c58f6c37/same_vendors_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4P5N86E4/download/same_vendors.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F4P5N86E4-01c58f6c37/same_vendors_1024.jpg", 
+                "user": "U3PLA89C2", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F4P5N86E4-01c58f6c37/same_vendors_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "same vendors.JPG", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4P5N86E4-d9bd118d2b", 
+                "permalink": "https://gstudents.slack.com/files/rafabaca/F4P5N86E4/same_vendors.jpg", 
+                "is_external": false, 
+                "created": 1490560024, 
+                "thumb_1024_h": 683, 
+                "thumb_960_h": 640, 
+                "original_w": 5472, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F4P5N86E4-01c58f6c37/same_vendors_720.jpg", 
+                "channels": [
+                    "C44SQ0YDA"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "rafabaca", 
+            "display_as_bot": false, 
+            "text": "<@U3PLA89C2|rafabaca> uploaded a file: <https://gstudents.slack.com/files/rafabaca/F4P6HUD7B/common_area.jpg|common area.JPG>", 
+            "upload": true, 
+            "ts": "1490559997.542884", 
+            "subtype": "file_share", 
+            "user": "U3PLA89C2", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HUD7B-171dfa3806/common_area_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HUD7B-171dfa3806/common_area_64.jpg", 
+                "size": 4998094, 
+                "original_h": 3648, 
+                "thumb_360_w": 360, 
+                "title": "common area.JPG", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4P6HUD7B/common_area.jpg", 
+                "thumb_720_h": 480, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HUD7B-171dfa3806/common_area_360.jpg", 
+                "id": "F4P6HUD7B", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HUD7B-171dfa3806/common_area_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 240, 
+                "thumb_480_h": 320, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1490559992, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HUD7B-171dfa3806/common_area_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4P6HUD7B/download/common_area.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HUD7B-171dfa3806/common_area_1024.jpg", 
+                "user": "U3PLA89C2", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HUD7B-171dfa3806/common_area_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "common area.JPG", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4P6HUD7B-0ebd3a2569", 
+                "permalink": "https://gstudents.slack.com/files/rafabaca/F4P6HUD7B/common_area.jpg", 
+                "is_external": false, 
+                "created": 1490559992, 
+                "thumb_1024_h": 683, 
+                "thumb_960_h": 640, 
+                "original_w": 5472, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HUD7B-171dfa3806/common_area_720.jpg", 
+                "channels": [
+                    "C44SQ0YDA"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "rafabaca", 
+            "display_as_bot": false, 
+            "text": "<@U3PLA89C2|rafabaca> uploaded a file: <https://gstudents.slack.com/files/rafabaca/F4P6HRHQ9/main_entry.jpg|main entry.JPG>", 
+            "upload": true, 
+            "ts": "1490559958.540350", 
+            "subtype": "file_share", 
+            "user": "U3PLA89C2", 
+            "file": {
+                "thumb_480_w": 320, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HRHQ9-0a527bef36/main_entry_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HRHQ9-0a527bef36/main_entry_64.jpg", 
+                "size": 5230376, 
+                "original_h": 3648, 
+                "thumb_360_w": 240, 
+                "title": "main entry.JPG", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4P6HRHQ9/main_entry.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HRHQ9-0a527bef36/main_entry_360.jpg", 
+                "id": "F4P6HRHQ9", 
+                "ims": [], 
+                "thumb_720_w": 480, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HRHQ9-0a527bef36/main_entry_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1490559951, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HRHQ9-0a527bef36/main_entry_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4P6HRHQ9/download/main_entry.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HRHQ9-0a527bef36/main_entry_1024.jpg", 
+                "user": "U3PLA89C2", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HRHQ9-0a527bef36/main_entry_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "main entry.JPG", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4P6HRHQ9-2ae564bec7", 
+                "permalink": "https://gstudents.slack.com/files/rafabaca/F4P6HRHQ9/main_entry.jpg", 
+                "is_external": false, 
+                "created": 1490559951, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 5472, 
+                "thumb_960_w": 640, 
+                "thumb_1024_w": 683, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HRHQ9-0a527bef36/main_entry_720.jpg", 
+                "channels": [
+                    "C44SQ0YDA"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "rafabaca", 
+            "display_as_bot": false, 
+            "text": "<@U3PLA89C2|rafabaca> uploaded a file: <https://gstudents.slack.com/files/rafabaca/F4PTKK2TE/front_enterance.jpg|Front Entry - Austin.JPG>", 
+            "upload": true, 
+            "ts": "1490559917.537687", 
+            "subtype": "file_share", 
+            "user": "U3PLA89C2", 
+            "file": {
+                "thumb_480_w": 320, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F4PTKK2TE-e1de8bbf76/front_enterance_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4PTKK2TE-e1de8bbf76/front_enterance_64.jpg", 
+                "size": 5139698, 
+                "original_h": 3648, 
+                "thumb_360_w": 240, 
+                "title": "Front Entry - Austin.JPG", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4PTKK2TE/front_enterance.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4PTKK2TE-e1de8bbf76/front_enterance_360.jpg", 
+                "id": "F4PTKK2TE", 
+                "ims": [], 
+                "thumb_720_w": 480, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4PTKK2TE-e1de8bbf76/front_enterance_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1490559911, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4PTKK2TE-e1de8bbf76/front_enterance_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4PTKK2TE/download/front_enterance.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F4PTKK2TE-e1de8bbf76/front_enterance_1024.jpg", 
+                "user": "U3PLA89C2", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F4PTKK2TE-e1de8bbf76/front_enterance_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Front Enterance.JPG", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4PTKK2TE-d890a92fda", 
+                "permalink": "https://gstudents.slack.com/files/rafabaca/F4PTKK2TE/front_enterance.jpg", 
+                "is_external": false, 
+                "created": 1490559911, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 5472, 
+                "thumb_960_w": 640, 
+                "thumb_1024_w": 683, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F4PTKK2TE-e1de8bbf76/front_enterance_720.jpg", 
+                "channels": [
+                    "C44SQ0YDA"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "rafabaca", 
+            "display_as_bot": false, 
+            "text": "<@U3PLA89C2|rafabaca> uploaded a file: <https://gstudents.slack.com/files/rafabaca/F4P6HL8EM/construction_zone.jpg|Galvanize Austin - construction zone>", 
+            "upload": true, 
+            "ts": "1490559870.534912", 
+            "subtype": "file_share", 
+            "user": "U3PLA89C2", 
+            "file": {
+                "thumb_480_w": 320, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HL8EM-cfd029eb78/construction_zone_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HL8EM-cfd029eb78/construction_zone_64.jpg", 
+                "size": 5550346, 
+                "original_h": 3648, 
+                "thumb_360_w": 240, 
+                "title": "Galvanize Austin - construction zone", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4P6HL8EM/construction_zone.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HL8EM-cfd029eb78/construction_zone_360.jpg", 
+                "id": "F4P6HL8EM", 
+                "ims": [], 
+                "thumb_720_w": 480, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HL8EM-cfd029eb78/construction_zone_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1490559864, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HL8EM-cfd029eb78/construction_zone_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4P6HL8EM/download/construction_zone.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HL8EM-cfd029eb78/construction_zone_1024.jpg", 
+                "user": "U3PLA89C2", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HL8EM-cfd029eb78/construction_zone_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Construction Zone.JPG", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4P6HL8EM-ac9b0112b8", 
+                "permalink": "https://gstudents.slack.com/files/rafabaca/F4P6HL8EM/construction_zone.jpg", 
+                "is_external": false, 
+                "created": 1490559864, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 5472, 
+                "thumb_960_w": 640, 
+                "thumb_1024_w": 683, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F4P6HL8EM-cfd029eb78/construction_zone_720.jpg", 
+                "channels": [
+                    "C44SQ0YDA"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel> Hey lovely people! This is a super cool meetup happening on the 30th: <https://twitchandmixpanelfiresidechat.splashthat.com/>\n(You should all go!)", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1490120848.699981", 
+            "attachments": [
+                {
+                    "title": "Twitch And Mixpanel Fireside Chat", 
+                    "text": "Data scientists and machine learning engineers are both creative, technical and interdisciplinary thinkers, and some of the rarest experts across startups and enterprise companies. Their contributions can impact departments across product, marketing, design, operations, and beyond. But in order for innovative businesses to grow and build excellent products, companies must understand the different applications and values behind each discipline. For this March\u2019s Super Office Hours event, Twitch and Mixpanel join forces in a Fireside Chat to discuss why data science and machine learning are two of the most important practices to invest in for company growth. Danny Hernandez, Data Scientist at Twitch, and Jenny Finkel, Head of Machine Learning at Mixpanel, examine how companies use these superpowers to leverage data in more sophisticated ways and build products that win. In this conversation, moderated by Amelia Salyers, Editor of Mixpanel's The Signal, Danny and Jenny will break down the complex concepts of data science and machine learning to help us understand exactly why these two fields will build empires in the new era of technology.", 
+                    "title_link": "https://twitchandmixpanelfiresidechat.splashthat.com/", 
+                    "service_name": "twitchandmixpanelfiresidechat.splashthat.com", 
+                    "id": 1, 
+                    "fallback": "Twitch And Mixpanel Fireside Chat", 
+                    "service_icon": "http://d24wuq6o951i2g.cloudfront.net/img/events/id/274/2743345/assets/cfc.shutterstock_512609593-2-.jpg", 
+                    "from_url": "https://twitchandmixpanelfiresidechat.splashthat.com/"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3PLA89C2"
+                    ]
+                }
+            ], 
+            "text": "Sign up and attendance is free. You will need to upload resume so do it from your laptop ", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1489078608.825638"
+        }, 
+        {
+            "text": "<http://www.datasciencejobfair.com/>", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1489078584.819594"
+        }, 
+        {
+            "text": "Guys in case u missed it ", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1489078581.818738"
+        }, 
+        {
+            "text": "<http://www.datasciencejobfair.com/> i\u2019m going", 
+            "type": "message", 
+            "user": "U3PU46YQN", 
+            "ts": "1489025760.707964"
+        }, 
+        {
+            "text": "^^ ?", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1488906584.000006"
+        }, 
+        {
+            "text": "<https://gstudents.slack.com/team/maryannbarge>", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1488906545.000005"
+        }, 
+        {
+            "text": "<https://www.eventbrite.com/e/state-departments-clean-energy-data-science-challenge-tickets-31550275724?show_onboarding=1&amp;internal_ref=login>", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1488901721.000004"
+        }, 
+        {
+            "text": "IEEE on the resume and networking my be a good idea.  Spoke w/ IEEE and student membership and computer society should be $20 until end of 2017 (please check final price in cart at checkout).  Please see the following link --<https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMC016>", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1488819794.000002", 
+            "attachments": [
+                {
+                    "title": "IEEE Computer Society Membership", 
+                    "text": "All major areas of computing and information technology: computer hardware, software, multimedia, IT, security, networking, mobile computing, and more.", 
+                    "title_link": "https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMC016", 
+                    "service_name": "ieee.org", 
+                    "id": 1, 
+                    "fallback": "IEEE Computer Society Membership", 
+                    "service_icon": "https://www.ieee.org/ucm/groups/webassets/@ieee/@web/@org/documents/images/ieee_favicon.ico", 
+                    "from_url": "https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMC016"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3PHAUK99"
+                    ]
+                }
+            ], 
+            "text": "signed up before it was even cool.", 
+            "type": "message", 
+            "user": "U3P956PB7", 
+            "ts": "1488589555.000031"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "hankey", 
+                    "users": [
+                        "U3PHAUK99", 
+                        "U3PLA89C2"
+                    ]
+                }
+            ], 
+            "text": "<@U3PHAUK99> <@U3P956PB7> <@U3P9DUWJY> just signed up too!... proud of me?:stuck_out_tongue_winking_eye::blush:", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1488588121.000030"
+        }, 
+        {
+            "text": ":flushed::flushed::flushed:", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1488587960.000029"
+        }, 
+        {
+            "thread_ts": "1488405136.000016", 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3PHAUK99"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "ninja", 
+                    "users": [
+                        "U3PHAUK99"
+                    ]
+                }
+            ], 
+            "text": "jc.balakrishnan: I signed up :slightly_smiling_face:", 
+            "ts": "1488434037.000024", 
+            "user": "U23UL5125", 
+            "parent_user_id": "U3PHAUK99", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U3PHAUK99", 
+                        "U23UL5125"
+                    ]
+                }
+            ], 
+            "text": "just registered, let's do it!", 
+            "type": "message", 
+            "user": "U3P9DUWJY", 
+            "ts": "1488405458.000020"
+        }, 
+        {
+            "text": "gr8..thx Bonny", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1488405266.000019"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3PHAUK99"
+                    ]
+                }
+            ], 
+            "text": "everyone should attend ! BAH will be speaking to the class about it at the beginning of next term", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1488405254.000018"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "hamster_dance", 
+                    "users": [
+                        "U3P8YMVL4"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "mountain_cableway", 
+                    "users": [
+                        "U3PLA89C2"
+                    ]
+                }
+            ], 
+            "text": "think it\u2019ll be a good opportunity to collaborate as a class and put our ds skills or lack thereof together - either way to its optimal output :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1488405192.000017"
+        }, 
+        {
+            "thread_ts": "1488405136.000016", 
+            "subscribed": false, 
+            "text": "any1 interested in going to the DS hackathon here in Galvanize ? <https://www.eventbrite.com/e/state-departments-clean-energy-data-science-challenge-tickets-31550275724?show_onboarding=1&amp;internal_ref=login>", 
+            "ts": "1488405136.000016", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U3PHAUK99", 
+            "replies": [
+                {
+                    "user": "U23UL5125", 
+                    "ts": "1488434037.000024"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "all for the most part positive and look forward to more", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1488302791.000015"
+        }, 
+        {
+            "text": "It is however not clear for the discussion of their respective salaries", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1488302781.000014"
+        }, 
+        {
+            "text": "from the panel of 4-5, it took an average of 2-3 moths to gain employment of which everybody in the panel seemed happy with their new jobs", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1488302748.000013"
+        }, 
+        {
+            "text": "Hello All thanks for showing up at the Life After Galvanize event for DSI -- here are some take aways:", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1488302654.000012"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3PU46YQN"
+                    ]
+                }
+            ], 
+            "text": "<https://www.eventbrite.com/e/life-after-galvanize-what-jobs-our-data-science-immersive-alumni-get-tickets-31647628910?invite=&amp;err=29&amp;referrer=&amp;discount=&amp;affiliate=&amp;eventpassword=>", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1488219155.000010"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 4, 
+                    "name": "boom", 
+                    "users": [
+                        "U3P8YMVL4", 
+                        "U3PHAUK99", 
+                        "U3P4KTU8K", 
+                        "U3NKZMZ2L"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "title": "The key to building a data science portfolio that will get you a job", 
+                    "service_name": "Dataquest Blog", 
+                    "ts": 1471014000, 
+                    "title_link": "https://www.dataquest.io/blog/build-a-data-science-portfolio/", 
+                    "text": "Companies are increasingly looking at portfolios when making hiring decisions. Learn how to build an impressive data science portfolio, with examples.", 
+                    "id": 1, 
+                    "fallback": "Dataquest Blog: The key to building a data science portfolio that will get you a job", 
+                    "service_icon": "https://www.dataquest.io/favicon.ico", 
+                    "from_url": "https://www.dataquest.io/blog/build-a-data-science-portfolio/"
+                }
+            ], 
+            "text": "<https://www.dataquest.io/blog/build-a-data-science-portfolio/>", 
+            "ts": "1487707516.000004", 
+            "user": "U23UL5125", 
+            "type": "message"
+        }, 
+        {
+            "text": "if i dont respond on slack for some time and u need to ask something, just pls call / text", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1487131491.000057"
+        }, 
+        {
+            "text": "yes", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1487131432.000056"
+        }, 
+        {
+            "text": "thank JC, just to confirm with you that we only have morning class tmr at 9am till noon, is this correct?", 
+            "type": "message", 
+            "user": "U3P4KTU8K", 
+            "ts": "1487131083.000055"
+        }, 
+        {
+            "text": "but sometimes i am away from desk", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1487128252.000053"
+        }, 
+        {
+            "text": "yes i usually check my slack messages", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1487128245.000052"
+        }, 
+        {
+            "text": "hi tai", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1487128231.000051"
+        }, 
+        {
+            "text": "I send you a message through your phone # or Slack, which is your preference?", 
+            "type": "message", 
+            "user": "U3P4KTU8K", 
+            "ts": "1487126349.000050"
+        }, 
+        {
+            "text": "are you usually check out Slack?", 
+            "type": "message", 
+            "user": "U3P4KTU8K", 
+            "ts": "1487126291.000049"
+        }, 
+        {
+            "text": "hi jC", 
+            "type": "message", 
+            "user": "U3P4KTU8K", 
+            "ts": "1487126250.000048"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "very_metal", 
+                    "users": [
+                        "U3PT72C5U", 
+                        "U3MKH2R1T"
+                    ]
+                }
+            ], 
+            "text": "but i have done a couple of kaggle competitions b4 so i am happy to introduce to every1 how it works", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1487107566.000046"
+        }, 
+        {
+            "text": "the hackathon didnt have anything to do with kaggle", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1487107521.000045"
+        }, 
+        {
+            "text": "for kaggle team - will force me to improve my python", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1487103224.000044"
+        }, 
+        {
+            "text": "im in", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1487103202.000043"
+        }, 
+        {
+            "text": "SUGGESTED KAGGLE IDEA TEMPLATE -- //step 1 -// we have a signup sheet// step 2 - // we try to find a good time when we will have more free time (haha) .  For example beginning of 'mester2  March 11 - 25 -or- start of 'mester 3. // step 3 --// vote on a competition:  <https://www.kaggle.com/competitions/search?DeadlineColumnSort=Descending>       --or---  <https://www.kaggle.com/c/yelp-recruiting>   --or-- <https://www.kaggle.com/c/facebook-v-predicting-check-ins>    it goes on and on", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1487097305.000041", 
+            "attachments": [
+                {
+                    "title": "Competitions | Kaggle", 
+                    "text": "Kaggle is your home for data science. Learn new skills, build your career, collaborate with other data scientists, and compete in world-class machine learning challenges.", 
+                    "title_link": "https://www.kaggle.com/competitions/search?DeadlineColumnSort=Descending", 
+                    "service_name": "kaggle.com", 
+                    "id": 1, 
+                    "fallback": "Competitions | Kaggle", 
+                    "service_icon": "https://www.kaggle.com/content/v/1e4cdaa83f46/kaggle/img/apple-touch-icon.png", 
+                    "from_url": "https://www.kaggle.com/competitions/search?DeadlineColumnSort=Descending"
+                }
+            ]
+        }, 
+        {
+            "text": "Paul/JC any when was your next kaggle hackaton?", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1487094458.000040"
+        }, 
+        {
+            "text": "cohort 4 had companies partners drop out of their capstones, how can we prevent?", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1487094295.000039"
+        }, 
+        {
+            "text": "Up up. ", 
+            "type": "message", 
+            "user": "U3PT72C5U", 
+            "ts": "1487091433.000038"
+        }, 
+        {
+            "text": "tends to play an imp role in predictive models", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1487062362.000037"
+        }, 
+        {
+            "text": "but maybe wait a bit until we have learnt regression", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1487062343.000036"
+        }, 
+        {
+            "text": "+1", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1487062322.000035"
+        }, 
+        {
+            "text": "I'm interested too, no idea how to though, follow ur lead", 
+            "type": "message", 
+            "user": "U3PU46YQN", 
+            "ts": "1487059909.000034"
+        }, 
+        {
+            "text": "cool idea - count me in too", 
+            "type": "message", 
+            "user": "U3P8YMVL4", 
+            "ts": "1487052407.000032"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "point_up", 
+                    "users": [
+                        "U23UL5125"
+                    ]
+                }
+            ], 
+            "text": "Count me in.", 
+            "type": "message", 
+            "user": "U3P9DUWJY", 
+            "ts": "1487051261.000026"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "dougie", 
+                    "users": [
+                        "U23UL5125", 
+                        "U36C8HHU3"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "money_with_wings", 
+                    "users": [
+                        "U3MKH2R1T"
+                    ]
+                }
+            ], 
+            "text": "gu5 Class - form a kaggle competition team?  I saw a few job postings out there that they only want to speak to Data Scientists who actually \"won\" a kaggle competition.  If our group wins we can all put that on our resumes  . . . .", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1487048836.000025"
+        }, 
+        {
+            "text": "Thanks <@U3PLA89C2> :smile:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1487012665.000024"
+        }, 
+        {
+            "text": "Allow me to re-introduce you all to Mary Ann Barge (CC'd), the Career Services Manager who all of you will be working closely with over the next year. \n\nAs mentioned during orientation, there will be mandatory monthly workshops that are extremely important in prepare you preparing you for the data science job search process. Below are the dates for the workshops - mark them on your calendars! All workshops - except the first one - will take place following classes from 4:15pm-5:15pm in the Lower Level Theatre (located in the basement level of Galvanize).\n\nMinimester 1\nFriday, February 10 - this shorter intro one will be 4:00PM-4:30PM in the gU classroom\nTuesday, March 7\nMinimester 2\nTuesday, April 4\nTuesday, May 2\nMinimester 3\nTuesday, June 6\nTuesday, July 11\nMinimester 4\nTuesday, September 5\nTuesday, October 3\nTuesday, October 17\nMinimester 5\nTuesday, November 7", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1487011772.000023"
+        }, 
+        {
+            "text": "<@U3MKH2R1T|thomzi12> has joined the channel", 
+            "type": "message", 
+            "user": "U3MKH2R1T", 
+            "ts": "1487010722.000022", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3PT72C5U|derekl> has joined the channel", 
+            "ts": "1487010227.000021", 
+            "subtype": "channel_join", 
+            "user": "U3PT72C5U", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3PS6DGF9|jerry.khong> has joined the channel", 
+            "ts": "1487010227.000020", 
+            "subtype": "channel_join", 
+            "user": "U3PS6DGF9", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3NHB9L8Z|armyohse> has joined the channel", 
+            "ts": "1487010202.000019", 
+            "subtype": "channel_join", 
+            "user": "U3NHB9L8Z", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U23UL5125|vivimarani> has joined the channel", 
+            "ts": "1487010174.000018", 
+            "subtype": "channel_join", 
+            "user": "U23UL5125", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3P8YMVL4|vnessified> has joined the channel", 
+            "ts": "1487010174.000017", 
+            "subtype": "channel_join", 
+            "user": "U3P8YMVL4", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3PU46YQN|mosquitou> has joined the channel", 
+            "ts": "1487010174.000016", 
+            "subtype": "channel_join", 
+            "user": "U3PU46YQN", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3P4KTU8K|ngtantai> has joined the channel", 
+            "ts": "1487010174.000015", 
+            "subtype": "channel_join", 
+            "user": "U3P4KTU8K", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3PLA89C2|rafabaca> has joined the channel", 
+            "ts": "1487010174.000014", 
+            "subtype": "channel_join", 
+            "user": "U3PLA89C2", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3P956PB7|2check91> has joined the channel", 
+            "ts": "1487010174.000013", 
+            "subtype": "channel_join", 
+            "user": "U3P956PB7", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3NGJPPG8|minhengwu> has joined the channel", 
+            "ts": "1487010174.000012", 
+            "subtype": "channel_join", 
+            "user": "U3NGJPPG8", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3Q2QL6PR|jed_xie> has joined the channel", 
+            "ts": "1487010174.000011", 
+            "subtype": "channel_join", 
+            "user": "U3Q2QL6PR", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3PHAUK99|jc.b> has joined the channel", 
+            "ts": "1487010174.000010", 
+            "subtype": "channel_join", 
+            "user": "U3PHAUK99", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3PDZSHGC|thestrenuous> has joined the channel", 
+            "ts": "1487010174.000009", 
+            "subtype": "channel_join", 
+            "user": "U3PDZSHGC", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3PQYCL87|jet2016> has joined the channel", 
+            "ts": "1487010174.000008", 
+            "subtype": "channel_join", 
+            "user": "U3PQYCL87", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3PNUUCAH|rwolf16> has joined the channel", 
+            "ts": "1487010174.000007", 
+            "subtype": "channel_join", 
+            "user": "U3PNUUCAH", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3P9Y5K37|ashleighdiamond> has joined the channel", 
+            "ts": "1487010173.000006", 
+            "subtype": "channel_join", 
+            "user": "U3P9Y5K37", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3NKZMZ2L|ashvets> has joined the channel", 
+            "ts": "1487010173.000005", 
+            "subtype": "channel_join", 
+            "user": "U3NKZMZ2L", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U3P9DUWJY|adamszabunio> has joined the channel", 
+            "ts": "1487010173.000004", 
+            "subtype": "channel_join", 
+            "user": "U3P9DUWJY", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U36C8HHU3|maryannbarge> has joined the channel", 
+            "ts": "1487010173.000003", 
+            "subtype": "channel_join", 
+            "user": "U36C8HHU3", 
+            "type": "message", 
+            "inviter": "U1XK2HTBJ"
+        }, 
+        {
+            "text": "<@U1XK2HTBJ|bonny> has joined the channel", 
+            "type": "message", 
+            "user": "U1XK2HTBJ", 
+            "ts": "1487010173.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "gu5_sf_jobs", 
+        "name": "gu5_sf_jobs", 
+        "is_channel": true, 
+        "created": 1487010173, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1XK2HTBJ", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U1XK2HTBJ", 
+            "U1XUS6MHB", 
+            "U23UL5125", 
+            "U36C8HHU3", 
+            "U3MKH2R1T", 
+            "U3NGJPPG8", 
+            "U3NHB9L8Z", 
+            "U3NKZMZ2L", 
+            "U3P4KTU8K", 
+            "U3P8YMVL4", 
+            "U3P956PB7", 
+            "U3P9DUWJY", 
+            "U3P9Y5K37", 
+            "U3PDZSHGC", 
+            "U3PHAUK99", 
+            "U3PLA89C2", 
+            "U3PNUUCAH", 
+            "U3PQYCL87", 
+            "U3PS6DGF9", 
+            "U3PT72C5U", 
+            "U3PU46YQN", 
+            "U3Q2QL6PR"
+        ], 
+        "id": "C44SQ0YDA", 
+        "is_shared": false
+    }
+}

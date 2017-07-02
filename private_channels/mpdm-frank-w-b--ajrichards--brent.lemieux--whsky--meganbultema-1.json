@@ -1,0 +1,89 @@
+{
+    "messages": [
+        {
+            "text": "Megan, honestly you have time for one.  You should pick :wink:", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1495813690.699884"
+        }, 
+        {
+            "text": "I am also sending a second project proposal. I can\u2019t stop thinking about an x-ray diffraction project and I want to give it a try. I am willing to complete the first project before I devote a lot of time to the second I would like to give it a try if you all think it has a chance.\n<https://drive.google.com/open?id=0B539APbPZJM0WElMNXBQTGhuWDA>", 
+            "type": "message", 
+            "user": "U4F44DR33", 
+            "ts": "1495813021.456139"
+        }, 
+        {
+            "text": "^^Project Proposal Folder", 
+            "type": "message", 
+            "user": "U4F44DR33", 
+            "ts": "1495638313.506478"
+        }, 
+        {
+            "text": "<https://drive.google.com/open?id=0B539APbPZJM0VFQzV2FDRmhIcGs>", 
+            "type": "message", 
+            "user": "U4F44DR33", 
+            "ts": "1495638247.477687"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495507731.620549"
+        }, 
+        {
+            "text": "yes! thank you.", 
+            "type": "message", 
+            "user": "U4F44DR33", 
+            "ts": "1495507467.589885"
+        }, 
+        {
+            "text": "nVoq: Jon Ford\n<mailto:jon.ford@nvoq.com|jon.ford@nvoq.com>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495505009.290800"
+        }, 
+        {
+            "text": "Is there a list of the presenters and their contact information somewhere? I am looking for the contact of the presenter that discussed speech to text processing. I thought I wrote down his info. but I can't seem to find it. Thanks!", 
+            "type": "message", 
+            "user": "U4F44DR33", 
+            "ts": "1495500436.694651"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1495500318, 
+            "value": "Group messaging", 
+            "creator": "U4F44DR33"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--meganbultema-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--meganbultema-1", 
+        "last_read": "1495813690.699884", 
+        "creator": "U4F44DR33", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1495500318, 
+        "is_group": true, 
+        "members": [
+            "U4F44DR33", 
+            "U33BKEP9Q", 
+            "U34BY2K3K", 
+            "U1Z90HJG3", 
+            "U1WHHHQ7N"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1495500318, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky @meganbultema", 
+            "creator": "U4F44DR33"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5GHVMAH0", 
+        "latest": {
+            "text": "Megan, honestly you have time for one.  You should pick :wink:", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1495813690.699884"
+        }
+    }
+}

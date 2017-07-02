@@ -1,0 +1,142 @@
+{
+    "messages": [
+        {
+            "text": "<@U5DRSC81H|nataliehunt> has joined the channel", 
+            "ts": "1498845002.989230", 
+            "subtype": "channel_join", 
+            "user": "U5DRSC81H", 
+            "type": "message", 
+            "inviter": "U5V8D7YTX"
+        }, 
+        {
+            "text": "<@U5DJK5N0Y|tim.zeiske> has joined the channel", 
+            "ts": "1498845002.989199", 
+            "subtype": "channel_join", 
+            "user": "U5DJK5N0Y", 
+            "type": "message", 
+            "inviter": "U5V8D7YTX"
+        }, 
+        {
+            "text": "<@U5VU3N1C3|jen.shannon> has joined the channel", 
+            "ts": "1498845002.989153", 
+            "subtype": "channel_join", 
+            "user": "U5VU3N1C3", 
+            "type": "message", 
+            "inviter": "U5V8D7YTX"
+        }, 
+        {
+            "text": "<@U44008S0Y|vish> has joined the channel", 
+            "ts": "1498845002.989113", 
+            "subtype": "channel_join", 
+            "user": "U44008S0Y", 
+            "type": "message", 
+            "inviter": "U5V8D7YTX"
+        }, 
+        {
+            "text": "<@U37NDL9PA|delmer> has joined the channel", 
+            "ts": "1498845002.989077", 
+            "subtype": "channel_join", 
+            "user": "U37NDL9PA", 
+            "type": "message", 
+            "inviter": "U5V8D7YTX"
+        }, 
+        {
+            "text": "<@U37NDL9PA> <@U5VU3N1C3> <@U5DJK5N0Y> <@U5DRSC81H> <@U44008S0Y> ", 
+            "type": "message", 
+            "user": "U5V8D7YTX", 
+            "ts": "1498844997.987401"
+        }, 
+        {
+            "text": "<@U5REM0MV2|michaelfrancoeur> has joined the channel", 
+            "ts": "1498842785.217178", 
+            "subtype": "channel_join", 
+            "user": "U5REM0MV2", 
+            "type": "message", 
+            "inviter": "U5V8D7YTX"
+        }, 
+        {
+            "text": "<@U5RH6SV7E|jmfigueroa> has joined the channel", 
+            "ts": "1498842785.217129", 
+            "subtype": "channel_join", 
+            "user": "U5RH6SV7E", 
+            "type": "message", 
+            "inviter": "U5V8D7YTX"
+        }, 
+        {
+            "text": "<@U5W3493E2|brentnicholas> has joined the channel", 
+            "ts": "1498842785.217100", 
+            "subtype": "channel_join", 
+            "user": "U5W3493E2", 
+            "type": "message", 
+            "inviter": "U5V8D7YTX"
+        }, 
+        {
+            "text": "<@U5VD8GPE0|josh.cabrido> has joined the channel", 
+            "ts": "1498842785.217056", 
+            "subtype": "channel_join", 
+            "user": "U5VD8GPE0", 
+            "type": "message", 
+            "inviter": "U5V8D7YTX"
+        }, 
+        {
+            "text": "<@U5S9W0TDL|tegannaicker> has joined the channel", 
+            "ts": "1498842784.217035", 
+            "subtype": "channel_join", 
+            "user": "U5S9W0TDL", 
+            "type": "message", 
+            "inviter": "U5V8D7YTX"
+        }, 
+        {
+            "text": "<@U5V8D7YTX|laurend> set the channel purpose: Campus-wide announcements (non-academic)", 
+            "ts": "1498842784.217014", 
+            "subtype": "channel_purpose", 
+            "user": "U5V8D7YTX", 
+            "type": "message", 
+            "purpose": "Campus-wide announcements (non-academic)"
+        }, 
+        {
+            "text": "<@U5V8D7YTX|laurend> has joined the channel", 
+            "type": "message", 
+            "user": "U5V8D7YTX", 
+            "ts": "1498842784.216867", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "gstudents-nyc", 
+        "name": "gstudents-nyc", 
+        "is_channel": true, 
+        "created": 1498842784, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U5V8D7YTX", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1498842784, 
+            "value": "Campus-wide announcements (non-academic)", 
+            "creator": "U5V8D7YTX"
+        }, 
+        "members": [
+            "U37NDL9PA", 
+            "U44008S0Y", 
+            "U5DJK5N0Y", 
+            "U5DRSC81H", 
+            "U5REM0MV2", 
+            "U5RH6SV7E", 
+            "U5S9W0TDL", 
+            "U5V8D7YTX", 
+            "U5VD8GPE0", 
+            "U5VU3N1C3", 
+            "U5W3493E2"
+        ], 
+        "id": "C62F2G4AH", 
+        "is_shared": false
+    }
+}

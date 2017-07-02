@@ -1,0 +1,175 @@
+{
+    "messages": [
+        {
+            "text": "ha", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1490045255.529128"
+        }, 
+        {
+            "text": "I mean, nope. No mob help from me...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1490044514.224992"
+        }, 
+        {
+            "text": "~I already went through witness relocation once moving to Denver...~", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1490044485.213464"
+        }, 
+        {
+            "text": "Glad you applied!", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1490044282.128277"
+        }, 
+        {
+            "text": "The mob is after me. You want me to just say they should read the fine print? You'll find me with concrete shoes at the bottom of the Platte :droplet: :mans_shoe: :skull:", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1490044279.126831"
+        }, 
+        {
+            "text": "Application submitted too...thanks for the heads-up!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1490044196.091215"
+        }, 
+        {
+            "text": "You gotta read the fine print! Maybe it's modeling 2018...haha. :grin:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1490044182.085211"
+        }, 
+        {
+            "text": "I really want you to apply for this <https://jobs.lever.co/galvanize/b932094a-8cd0-4e7f-a685-bf1a32d27d8e>", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1490042705.397887", 
+            "attachments": [
+                {
+                    "thumb_height": 236, 
+                    "service_icon": "https://jobs.lever.co/favicon.ico", 
+                    "thumb_width": 225, 
+                    "title": "Galvanize - Data Science Resident (DSR) - Denver Platte - Richards", 
+                    "text": "THIS POSITION IS RESERVED FOR FORMER STUDENTS AND GRADUATES OF GALVANIZE IMMERSIVE PROGRAMS Being a Resident (DSR) or gU Resident, you would be here at Galvanize Full Time (40 hours per week). The idea is to solidify your new skills through helping students in the classroom as well as going through the curriculum again. Your classroom responsibilities will mostly include \u2018being on the floor,\u2019 which means helping students through the daily exercises. Other classroom responsibilities include reviewing new student applications, interviewing prospective students, building new / iterating current curriculum, grading student tests, and reviewing student code. As part of the Residency program, you will receive dedicated mentorship from our expert instructors and faculty to cultivate your development as a data scientist or data engineer. It is a 13-week appointment for DSI residents, and a 8-week appointment for gU residents, based on cohort schedules. DSRs do work during Week 7 which is a Break Week and will be compensated for this week. San Francisco &amp; Seattle Rates: For 40-hours of work/ week, the stipend is approximately $1,500/ week for 13- week appointment. **(Approximate because stipend depending on actual days worked.) Austin &amp; Denver Rates: For 40-hours of work/ week, the stipend is approximately $1,250/ week for 13-week appointment. **(Approximate because stipend depending on actual days worked.) We are looking for 1 Resident per cohort depending on staffing.", 
+                    "title_link": "https://jobs.lever.co/galvanize/b932094a-8cd0-4e7f-a685-bf1a32d27d8e", 
+                    "service_name": "jobs.lever.co", 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "Denver", 
+                            "title": "Location"
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "Instructional Team - Contract", 
+                            "title": "Team"
+                        }
+                    ], 
+                    "id": 1, 
+                    "fallback": "Galvanize - Data Science Resident (DSR) - Denver Platte - Richards", 
+                    "thumb_url": "https://lever-client-logos.s3.amazonaws.com/aabb6500-50b4-48ca-be35-be09bf010b1e-1484863610859.png", 
+                    "from_url": "https://jobs.lever.co/galvanize/b932094a-8cd0-4e7f-a685-bf1a32d27d8e"
+                }
+            ]
+        }, 
+        {
+            "text": "that being said", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1490042696.393239"
+        }, 
+        {
+            "text": "I'm losing all my pools and I totally blame you", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1490042693.391961"
+        }, 
+        {
+            "text": "Nice :sunglasses:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489444402.919489"
+        }, 
+        {
+            "text": "The pool I'm in makes you pick each round. if you pick a 16 seat, you get 16 points, pick a 1 seat, you get 1 point. It rewards those who call the upsets, still, this year, I think it is best to play it safe. Yes, if I win, 10% is coming to you", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1489443261.557425"
+        }, 
+        {
+            "text": "Just remember 10% (of winnings only)...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489442513.304703"
+        }, 
+        {
+            "text": "Haha nice!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489442499.299619"
+        }, 
+        {
+            "text": "Alright, just submitted my picks using the model!!", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1489442173.175121"
+        }, 
+        {
+            "text": "trained the currently running model on 2016-2017 regular season data...should be good for making predictions for this year's tourney", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489282918.124982"
+        }, 
+        {
+            "text": "Wait, is this based off the 2016 tournament or the 2017?", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1489275342.665939"
+        }, 
+        {
+            "text": "Haha done and done.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489201654.111717"
+        }, 
+        {
+            "text": "sweet! Thanks man, you've got a deal on teh winnings", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1489178806.852522"
+        }, 
+        {
+            "text": "Let me know if you find anything interesting _(and I get 10% of any winnings)_ :stuck_out_tongue:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489170776.754888"
+        }, 
+        {
+            "text": "<http://SmarterThanNateSilver.com:8080>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489170735.736554"
+        }, 
+        {
+            "text": "Haha, yeah it's a bit confusing at the moment!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489170710.726288"
+        }, 
+        {
+            "text": "Again, great job last night! When you get a moment, can you send me your URL? For the life of me I don't recall the full address", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1489168783.965271"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U2JQYPPTN", 
+            "U34BY2K3K"
+        ]
+    }
+}

@@ -1,0 +1,1345 @@
+{
+    "messages": [
+        {
+            "text": "Perfect bug report, I can tell what is wrong and where to find the mistake, thanks!!!!", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1494349531.549883"
+        }, 
+        {
+            "comment": {
+                "comment": "<@U3Z1PUBB2>", 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "100", 
+                        "users": [
+                            "U3Z1PUBB2"
+                        ]
+                    }
+                ], 
+                "created": 1494347885, 
+                "timestamp": 1494347885, 
+                "is_intro": false, 
+                "user": "U3R672XGQ", 
+                "id": "Fc5AR0UTHR"
+            }, 
+            "text": "<@U3R672XGQ|tylerlangenbrunner> commented on <@U3R672XGQ|tylerlangenbrunner>\u2019s file <https://gstudents.slack.com/files/tylerlangenbrunner/F5BMT6K9V/Untitled.txt|Untitled>: <@U3Z1PUBB2>", 
+            "ts": "1494347885.959945", 
+            "subtype": "file_comment", 
+            "is_intro": false, 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 2, 
+                "channels": [
+                    "C53QDN4LD"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5BMT6K9V", 
+                "size": 194, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5BMT6K9V/Untitled.txt", 
+                "ims": [], 
+                "preview": "Broken link: \r\nhttps://github.com/joshwyatt/classes/blob/master/markdown/markdown/using_this.md\r\n\r\n\tFrom within this article: https://github.com/joshwyatt/classes/blob/master/markdown/shared_properties.md\r\n\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/tylerlangenbrunner/F5BMT6K9V/Untitled.txt/edit", 
+                "username": "", 
+                "timestamp": 1494347731, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5BMT6K9V/download/Untitled.txt", 
+                "user": "U3R672XGQ", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "Untitled.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5BMT6K9V-cc36ea1738", 
+                "permalink": "https://gstudents.slack.com/files/tylerlangenbrunner/F5BMT6K9V/Untitled.txt", 
+                "is_external": false, 
+                "created": 1494347731, 
+                "lines": 7, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Broken link: </pre></div>\n<div><pre>https://github.com/joshwyatt/classes/blob/master/markdown/markdown/using_this.md</pre></div>\n<div><pre></pre></div>\n<div><pre>    From within this article: https://github.com/joshwyatt/classes/blob/master/markdown/shared_properties.md</pre></div>\n<div><pre></pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message"
+        }, 
+        {
+            "username": "tylerlangenbrunner", 
+            "display_as_bot": false, 
+            "text": "<@U3R672XGQ|tylerlangenbrunner> uploaded a file: <https://gstudents.slack.com/files/tylerlangenbrunner/F5BMT6K9V/Untitled.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1494347735.906573", 
+            "subtype": "file_share", 
+            "user": "U3R672XGQ", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 2, 
+                "channels": [
+                    "C53QDN4LD"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5BMT6K9V", 
+                "size": 194, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5BMT6K9V/Untitled.txt", 
+                "ims": [], 
+                "preview": "Broken link: \r\nhttps://github.com/joshwyatt/classes/blob/master/markdown/markdown/using_this.md\r\n\r\n\tFrom within this article: https://github.com/joshwyatt/classes/blob/master/markdown/shared_properties.md\r\n\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/tylerlangenbrunner/F5BMT6K9V/Untitled.txt/edit", 
+                "username": "", 
+                "timestamp": 1494347731, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5BMT6K9V/download/Untitled.txt", 
+                "user": "U3R672XGQ", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "Untitled.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5BMT6K9V-cc36ea1738", 
+                "permalink": "https://gstudents.slack.com/files/tylerlangenbrunner/F5BMT6K9V/Untitled.txt", 
+                "is_external": false, 
+                "created": 1494347731, 
+                "lines": 7, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Broken link: </pre></div>\n<div><pre>https://github.com/joshwyatt/classes/blob/master/markdown/markdown/using_this.md</pre></div>\n<div><pre></pre></div>\n<div><pre>    From within this article: https://github.com/joshwyatt/classes/blob/master/markdown/shared_properties.md</pre></div>\n<div><pre></pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U51QY2VCM", 
+            "ts": "1493915242.044634"
+        }, 
+        {
+            "text": "the local storage works now. Thank you!", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1493913589.411328"
+        }, 
+        {
+            "text": "great! Thank you for your fast response and attention to this issue :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1493913477.365867"
+        }, 
+        {
+            "text": "<@U4M4XGYEN> <@U4M2ULFUK> both issues should be solved", 
+            "type": "message", 
+            "user": "U51QY2VCM", 
+            "ts": "1493913420.343176"
+        }, 
+        {
+            "text": "<@U4M4XGYEN> i can help with that. <@U1UCBDAMN> i\u2019m DMing you.", 
+            "type": "message", 
+            "user": "U51QY2VCM", 
+            "ts": "1493913026.181696"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U4M2ULFUK"
+                    ]
+                }
+            ], 
+            "text": "Oh, haha, nice Ronan, then it might be an easy fix. Thank you", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493912795.088806"
+        }, 
+        {
+            "text": "It happens to me too.", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1493912792.087667"
+        }, 
+        {
+            "text": "Can someone confirm that they get the same behavior or that they can reach the page? In debugging it would help to know if it's class wide or specific to Megan.", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493912776.081005"
+        }, 
+        {
+            "text": "the local storage exercise link is also misspelled. If you click the link it takes you to page 404 but if you correct the spelling its all good. So the link just needs to be spelled correctly.", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1493912755.072011"
+        }, 
+        {
+            "username": "meghanprestemon", 
+            "display_as_bot": false, 
+            "text": "<@U4M4XGYEN|meghanprestemon> uploaded a file: <https://gstudents.slack.com/files/meghanprestemon/F58P5NG4A/screen_shot_2017-05-03_at_5.46.57_pm.png|Screen Shot 2017-05-03 at 5.46.57 PM.png> and commented: This is the pop-up I get", 
+            "upload": true, 
+            "ts": "1493912551.987666", 
+            "subtype": "file_share", 
+            "user": "U4M4XGYEN", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "This is the pop-up I get", 
+                    "created": 1493912545, 
+                    "timestamp": 1493912545, 
+                    "is_intro": true, 
+                    "user": "U4M4XGYEN", 
+                    "id": "Fc58P5Q28J"
+                }, 
+                "filetype": "png", 
+                "thumb_800_h": 119, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F58P5NG4A-cf7074f013/screen_shot_2017-05-03_at_5.46.57_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F58P5NG4A-cf7074f013/screen_shot_2017-05-03_at_5.46.57_pm_64.png", 
+                "size": 47114, 
+                "original_h": 260, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-05-03 at 5.46.57 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F58P5NG4A/screen_shot_2017-05-03_at_5.46.57_pm.png", 
+                "thumb_720_h": 107, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F58P5NG4A-cf7074f013/screen_shot_2017-05-03_at_5.46.57_pm_360.png", 
+                "id": "F58P5NG4A", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F58P5NG4A-cf7074f013/screen_shot_2017-05-03_at_5.46.57_pm_80.png", 
+                "comments_count": 1, 
+                "thumb_360_h": 54, 
+                "thumb_480_h": 71, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F58P5NG4A-cf7074f013/screen_shot_2017-05-03_at_5.46.57_pm_800.png", 
+                "timestamp": 1493912545, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F58P5NG4A-cf7074f013/screen_shot_2017-05-03_at_5.46.57_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F58P5NG4A/download/screen_shot_2017-05-03_at_5.46.57_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F58P5NG4A-cf7074f013/screen_shot_2017-05-03_at_5.46.57_pm_1024.png", 
+                "user": "U4M4XGYEN", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F58P5NG4A-cf7074f013/screen_shot_2017-05-03_at_5.46.57_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-05-03 at 5.46.57 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F58P5NG4A-ecdf1ee05a", 
+                "permalink": "https://gstudents.slack.com/files/meghanprestemon/F58P5NG4A/screen_shot_2017-05-03_at_5.46.57_pm.png", 
+                "is_external": false, 
+                "created": 1493912545, 
+                "thumb_1024_h": 152, 
+                "thumb_960_h": 143, 
+                "original_w": 1746, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F58P5NG4A-cf7074f013/screen_shot_2017-05-03_at_5.46.57_pm_720.png", 
+                "channels": [
+                    "C53QDN4LD"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "When I try to click on the link in the Week-3 table for today\u2019s article, \u201cUser Interface Design\u201d, I get a pop-up that says I don\u2019t have permission to access that page. Here\u2019s the link to the table with the link - <https://learn.galvanize.com/content/gSchool/fs-curriculum/g52/Q1/week-03.md>", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1493912517.974030"
+        }, 
+        {
+            "text": ":+1: ", 
+            "type": "message", 
+            "user": "U51QY2VCM", 
+            "ts": "1493338823.593590"
+        }, 
+        {
+            "text": "<@U51QY2VCM> ^^^", 
+            "type": "message", 
+            "user": "U4WK6BJQM", 
+            "ts": "1493338653.568330"
+        }, 
+        {
+            "text": "I can access the page, now", 
+            "type": "message", 
+            "user": "U4WK6BJQM", 
+            "ts": "1493338639.566306"
+        }, 
+        {
+            "text": "<@U51QY2VCM> Yes, I still see the error message", 
+            "type": "message", 
+            "user": "U4NBAUKD4", 
+            "ts": "1493335371.049888"
+        }, 
+        {
+            "text": "<@U4NBAUKD4> <@U4WK6BJQM> are you still seeing issues? i don\u2019t seem to be having any problems viewing it", 
+            "type": "message", 
+            "user": "U51QY2VCM", 
+            "ts": "1493335306.039252"
+        }, 
+        {
+            "thread_ts": "1493331392.284328", 
+            "text": "I can confirm this", 
+            "ts": "1493334107.826458", 
+            "user": "U4WK6BJQM", 
+            "parent_user_id": "U4NBAUKD4", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1493331392.284328", 
+            "subscribed": false, 
+            "text": "Just tried to revisit the \"Semantic HTML\" article (assigned for Tuesday) and I'm getting \"You do not have permission to access this page\" message. Please help!", 
+            "ts": "1493331392.284328", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U4NBAUKD4", 
+            "replies": [
+                {
+                    "user": "U4WK6BJQM", 
+                    "ts": "1493334107.826458"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "username": "meghanprestemon", 
+            "display_as_bot": false, 
+            "text": "<@U4M4XGYEN|meghanprestemon> uploaded a file: <https://gstudents.slack.com/files/meghanprestemon/F53PX3475/screen_shot_2017-04-24_at_4.03.29_pm.png|Screen Shot 2017-04-24 at 4.03.29 PM.png> and commented: in \u2018Creating Classes with JavaScript\u2019 article it\u2019s missing the random index function inside of the code snippet :disappointed: It\u2019s near the bottom of the page in the \u201cAdd methods to a class\u201d challenge", 
+            "upload": true, 
+            "ts": "1493075164.901513", 
+            "subtype": "file_share", 
+            "user": "U4M4XGYEN", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "in \u2018Creating Classes with JavaScript\u2019 article it\u2019s missing the random index function inside of the code snippet :disappointed: It\u2019s near the bottom of the page in the \u201cAdd methods to a class\u201d challenge", 
+                    "created": 1493075162, 
+                    "timestamp": 1493075162, 
+                    "is_intro": true, 
+                    "user": "U4M4XGYEN", 
+                    "id": "Fc539B76TB"
+                }, 
+                "filetype": "png", 
+                "thumb_800_h": 114, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F53PX3475-322676d4a2/screen_shot_2017-04-24_at_4.03.29_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F53PX3475-322676d4a2/screen_shot_2017-04-24_at_4.03.29_pm_64.png", 
+                "size": 29310, 
+                "original_h": 230, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-04-24 at 4.03.29 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F53PX3475/screen_shot_2017-04-24_at_4.03.29_pm.png", 
+                "thumb_720_h": 102, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F53PX3475-322676d4a2/screen_shot_2017-04-24_at_4.03.29_pm_360.png", 
+                "id": "F53PX3475", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F53PX3475-322676d4a2/screen_shot_2017-04-24_at_4.03.29_pm_80.png", 
+                "comments_count": 1, 
+                "thumb_360_h": 51, 
+                "thumb_480_h": 68, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F53PX3475-322676d4a2/screen_shot_2017-04-24_at_4.03.29_pm_800.png", 
+                "timestamp": 1493075162, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F53PX3475-322676d4a2/screen_shot_2017-04-24_at_4.03.29_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F53PX3475/download/screen_shot_2017-04-24_at_4.03.29_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F53PX3475-322676d4a2/screen_shot_2017-04-24_at_4.03.29_pm_1024.png", 
+                "user": "U4M4XGYEN", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F53PX3475-322676d4a2/screen_shot_2017-04-24_at_4.03.29_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-04-24 at 4.03.29 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F53PX3475-40b0a6032d", 
+                "permalink": "https://gstudents.slack.com/files/meghanprestemon/F53PX3475/screen_shot_2017-04-24_at_4.03.29_pm.png", 
+                "is_external": false, 
+                "created": 1493075162, 
+                "thumb_1024_h": 145, 
+                "thumb_960_h": 136, 
+                "original_w": 1620, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F53PX3475-322676d4a2/screen_shot_2017-04-24_at_4.03.29_pm_720.png", 
+                "channels": [
+                    "C53QDN4LD"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U51QY2VCM|jeffchang> has joined the channel", 
+            "type": "message", 
+            "user": "U51QY2VCM", 
+            "ts": "1493074781.833196", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "is Crushing candy  store2 loopingData1 a bug? It asks to return a new object with the quantity of candy as a value but store2 does not have quantities of candy listed", 
+            "type": "message", 
+            "user": "U4WKPLCTB", 
+            "ts": "1493074117.717479"
+        }, 
+        {
+            "text": "use the values in the red box above.", 
+            "type": "message", 
+            "user": "U4WK6BJQM", 
+            "ts": "1493070087.875063"
+        }, 
+        {
+            "username": "dave.gallup", 
+            "display_as_bot": false, 
+            "text": "<@U4WK6BJQM|dave.gallup> uploaded a file: <https://gstudents.slack.com/files/dave.gallup/F53NWPMU3/pasted_image_at_2017_04_24_02_40_pm.png|Pasted image at 2017-04-24, 2:40 PM> and commented: #strings #parseCSV This is the code challenge on <https://learn.galvanize.com/content/gSchool/javascript-curriculum/master/10_Syntax/06_Strings.md>\n\nIt looks like both the example given and the 3rd test case have a bug where the Price and Markdown values are swapped.  The example shows the following:\n\n```\nid, Product, Price, Markup, Quantity\n1, \"Red T-Shirt\", 10, 20, 5\n2, \"Blue T-Shirt\", 10, 20, 8\n3, \"Green T-Shirt\", 10, 15, 15\n4, \"Yellow T-Shirt\", 10, 20, 3\n```\nBut the example output as well as the tests", 
+            "upload": true, 
+            "ts": "1493070024.859110", 
+            "subtype": "file_share", 
+            "user": "U4WK6BJQM", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "#strings #parseCSV This is the code challenge on <https://learn.galvanize.com/content/gSchool/javascript-curriculum/master/10_Syntax/06_Strings.md>\n\nIt looks like both the example given and the 3rd test case have a bug where the Price and Markdown values are swapped.  The example shows the following:\n\n```\nid, Product, Price, Markup, Quantity\n1, \"Red T-Shirt\", 10, 20, 5\n2, \"Blue T-Shirt\", 10, 20, 8\n3, \"Green T-Shirt\", 10, 15, 15\n4, \"Yellow T-Shirt\", 10, 20, 3\n```\nBut the example output as well as the tests", 
+                    "created": 1493070021, 
+                    "timestamp": 1493070021, 
+                    "is_intro": true, 
+                    "user": "U4WK6BJQM", 
+                    "id": "Fc53NWQ78B"
+                }, 
+                "filetype": "png", 
+                "thumb_800_h": 410, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F53NWPMU3-9bd22379bf/pasted_image_at_2017_04_24_02_40_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F53NWPMU3-9bd22379bf/pasted_image_at_2017_04_24_02_40_pm_64.png", 
+                "size": 122000, 
+                "original_h": 750, 
+                "thumb_360_w": 360, 
+                "title": "Pasted image at 2017-04-24, 2:40 PM", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F53NWPMU3/pasted_image_at_2017_04_24_02_40_pm.png", 
+                "thumb_720_h": 369, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F53NWPMU3-9bd22379bf/pasted_image_at_2017_04_24_02_40_pm_360.png", 
+                "id": "F53NWPMU3", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F53NWPMU3-9bd22379bf/pasted_image_at_2017_04_24_02_40_pm_80.png", 
+                "comments_count": 1, 
+                "thumb_360_h": 184, 
+                "thumb_480_h": 246, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F53NWPMU3-9bd22379bf/pasted_image_at_2017_04_24_02_40_pm_800.png", 
+                "timestamp": 1493070021, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F53NWPMU3-9bd22379bf/pasted_image_at_2017_04_24_02_40_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F53NWPMU3/download/pasted_image_at_2017_04_24_02_40_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F53NWPMU3-9bd22379bf/pasted_image_at_2017_04_24_02_40_pm_1024.png", 
+                "user": "U4WK6BJQM", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F53NWPMU3-9bd22379bf/pasted_image_at_2017_04_24_02_40_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Pasted image at 2017_04_24 02_40 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F53NWPMU3-0bdb7b437f", 
+                "permalink": "https://gstudents.slack.com/files/dave.gallup/F53NWPMU3/pasted_image_at_2017_04_24_02_40_pm.png", 
+                "is_external": false, 
+                "created": 1493070021, 
+                "thumb_1024_h": 525, 
+                "thumb_960_h": 492, 
+                "original_w": 1464, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F53NWPMU3-9bd22379bf/pasted_image_at_2017_04_24_02_40_pm_720.png", 
+                "channels": [
+                    "C53QDN4LD"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U1UCBDAMN|teb> set the channel topic: Reporting errors in Galvanize Curriculum so that they can be fixed! :D", 
+            "ts": "1493069263.659418", 
+            "topic": "Reporting errors in Galvanize Curriculum so that they can be fixed! :D", 
+            "subtype": "channel_topic", 
+            "user": "U1UCBDAMN", 
+            "type": "message"
+        }, 
+        {
+            "username": "meghanprestemon", 
+            "display_as_bot": false, 
+            "text": "<@U4M4XGYEN|meghanprestemon> uploaded a file: <https://gstudents.slack.com/files/meghanprestemon/F53S6MBJ8/screen_shot_2017-04-20_at_7.45.46_pm.png|Screen Shot 2017-04-20 at 7.45.46 PM.png> and commented: #challenge7 \u2018getUserLog\u2019 function - I still don\u2019t understand exactly how or what it wants us to output from the function. I got my function to output this same array of objects but instead of displaying the variable name \u2018tammy\u2019, it actually displays the object located at the address \u2018tammy\u2019 points to\u2026 Not sure how to get it to pass.", 
+            "upload": true, 
+            "ts": "1493068973.579342", 
+            "subtype": "file_share", 
+            "user": "U4M4XGYEN", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "#challenge7 \u2018getUserLog\u2019 function - I still don\u2019t understand exactly how or what it wants us to output from the function. I got my function to output this same array of objects but instead of displaying the variable name \u2018tammy\u2019, it actually displays the object located at the address \u2018tammy\u2019 points to\u2026 Not sure how to get it to pass.", 
+                    "created": 1493068970, 
+                    "timestamp": 1493068970, 
+                    "is_intro": true, 
+                    "user": "U4M4XGYEN", 
+                    "id": "Fc53TGAPK7"
+                }, 
+                "filetype": "png", 
+                "thumb_800_h": 184, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F53S6MBJ8-d2798335e8/screen_shot_2017-04-20_at_7.45.46_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F53S6MBJ8-d2798335e8/screen_shot_2017-04-20_at_7.45.46_pm_64.png", 
+                "size": 110918, 
+                "original_h": 410, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-04-20 at 7.45.46 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F53S6MBJ8/screen_shot_2017-04-20_at_7.45.46_pm.png", 
+                "thumb_720_h": 166, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F53S6MBJ8-d2798335e8/screen_shot_2017-04-20_at_7.45.46_pm_360.png", 
+                "id": "F53S6MBJ8", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F53S6MBJ8-d2798335e8/screen_shot_2017-04-20_at_7.45.46_pm_80.png", 
+                "comments_count": 1, 
+                "thumb_360_h": 83, 
+                "thumb_480_h": 111, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F53S6MBJ8-d2798335e8/screen_shot_2017-04-20_at_7.45.46_pm_800.png", 
+                "timestamp": 1493068970, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F53S6MBJ8-d2798335e8/screen_shot_2017-04-20_at_7.45.46_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F53S6MBJ8/download/screen_shot_2017-04-20_at_7.45.46_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F53S6MBJ8-d2798335e8/screen_shot_2017-04-20_at_7.45.46_pm_1024.png", 
+                "user": "U4M4XGYEN", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F53S6MBJ8-d2798335e8/screen_shot_2017-04-20_at_7.45.46_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-04-20 at 7.45.46 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F53S6MBJ8-da799ceef3", 
+                "permalink": "https://gstudents.slack.com/files/meghanprestemon/F53S6MBJ8/screen_shot_2017-04-20_at_7.45.46_pm.png", 
+                "is_external": false, 
+                "created": 1493068970, 
+                "thumb_1024_h": 236, 
+                "thumb_960_h": 221, 
+                "original_w": 1778, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F53S6MBJ8-d2798335e8/screen_shot_2017-04-20_at_7.45.46_pm_720.png", 
+                "channels": [
+                    "C53QDN4LD"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "meghanprestemon", 
+            "display_as_bot": false, 
+            "text": "<@U4M4XGYEN|meghanprestemon> uploaded a file: <https://gstudents.slack.com/files/meghanprestemon/F537ZDGQ1/screen_shot_2017-04-20_at_7.19.27_pm.png|Screen Shot 2017-04-20 at 7.19.27 PM.png> and commented: #challenge7 \u2018renderChat\u2019 function - It wants you to return a string with \u2018\\n\u2019 returns for each line, not _log_ the user name and message as I originally tried to do.", 
+            "upload": true, 
+            "ts": "1493068674.496806", 
+            "subtype": "file_share", 
+            "user": "U4M4XGYEN", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "#challenge7 \u2018renderChat\u2019 function - It wants you to return a string with \u2018\\n\u2019 returns for each line, not _log_ the user name and message as I originally tried to do.", 
+                    "created": 1493068671, 
+                    "timestamp": 1493068671, 
+                    "is_intro": true, 
+                    "user": "U4M4XGYEN", 
+                    "id": "Fc53S44D5J"
+                }, 
+                "filetype": "png", 
+                "thumb_800_h": 154, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F537ZDGQ1-9440b0a122/screen_shot_2017-04-20_at_7.19.27_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F537ZDGQ1-9440b0a122/screen_shot_2017-04-20_at_7.19.27_pm_64.png", 
+                "size": 275471, 
+                "original_h": 492, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-04-20 at 7.19.27 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F537ZDGQ1/screen_shot_2017-04-20_at_7.19.27_pm.png", 
+                "thumb_720_h": 139, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F537ZDGQ1-9440b0a122/screen_shot_2017-04-20_at_7.19.27_pm_360.png", 
+                "id": "F537ZDGQ1", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F537ZDGQ1-9440b0a122/screen_shot_2017-04-20_at_7.19.27_pm_80.png", 
+                "comments_count": 1, 
+                "thumb_360_h": 69, 
+                "thumb_480_h": 92, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F537ZDGQ1-9440b0a122/screen_shot_2017-04-20_at_7.19.27_pm_800.png", 
+                "timestamp": 1493068671, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F537ZDGQ1-9440b0a122/screen_shot_2017-04-20_at_7.19.27_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F537ZDGQ1/download/screen_shot_2017-04-20_at_7.19.27_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F537ZDGQ1-9440b0a122/screen_shot_2017-04-20_at_7.19.27_pm_1024.png", 
+                "user": "U4M4XGYEN", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F537ZDGQ1-9440b0a122/screen_shot_2017-04-20_at_7.19.27_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-04-20 at 7.19.27 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F537ZDGQ1-b95bc269f2", 
+                "permalink": "https://gstudents.slack.com/files/meghanprestemon/F537ZDGQ1/screen_shot_2017-04-20_at_7.19.27_pm.png", 
+                "is_external": false, 
+                "created": 1493068671, 
+                "thumb_1024_h": 197, 
+                "thumb_960_h": 185, 
+                "original_w": 2556, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F537ZDGQ1-9440b0a122/screen_shot_2017-04-20_at_7.19.27_pm_720.png", 
+                "channels": [
+                    "C53QDN4LD"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "meghanprestemon", 
+            "display_as_bot": false, 
+            "text": "<@U4M4XGYEN|meghanprestemon> uploaded a file: <https://gstudents.slack.com/files/meghanprestemon/F53NJ2ESF/screen_shot_2017-04-20_at_5.58.36_pm.png|Screen Shot 2017-04-20 at 5.58.36 PM.png> and commented: #challenge7 \u2018findFriends\u2019 function - When you look at the test in gitHub it doesn\u2019t account for Victoria so it\u2019s looking for arrays of 4 users instead of 5 and it doesn\u2019t show Victoria as an object with the \u2018friends\u2019 property in it.", 
+            "upload": true, 
+            "ts": "1493068525.454430", 
+            "subtype": "file_share", 
+            "user": "U4M4XGYEN", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "#challenge7 \u2018findFriends\u2019 function - When you look at the test in gitHub it doesn\u2019t account for Victoria so it\u2019s looking for arrays of 4 users instead of 5 and it doesn\u2019t show Victoria as an object with the \u2018friends\u2019 property in it.", 
+                    "created": 1493068522, 
+                    "timestamp": 1493068522, 
+                    "is_intro": true, 
+                    "user": "U4M4XGYEN", 
+                    "id": "Fc53NJ31JP"
+                }, 
+                "filetype": "png", 
+                "thumb_800_h": 218, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F53NJ2ESF-ea0f75b081/screen_shot_2017-04-20_at_5.58.36_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F53NJ2ESF-ea0f75b081/screen_shot_2017-04-20_at_5.58.36_pm_64.png", 
+                "size": 161815, 
+                "original_h": 426, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-04-20 at 5.58.36 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F53NJ2ESF/screen_shot_2017-04-20_at_5.58.36_pm.png", 
+                "thumb_720_h": 196, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F53NJ2ESF-ea0f75b081/screen_shot_2017-04-20_at_5.58.36_pm_360.png", 
+                "id": "F53NJ2ESF", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F53NJ2ESF-ea0f75b081/screen_shot_2017-04-20_at_5.58.36_pm_80.png", 
+                "comments_count": 1, 
+                "thumb_360_h": 98, 
+                "thumb_480_h": 131, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F53NJ2ESF-ea0f75b081/screen_shot_2017-04-20_at_5.58.36_pm_800.png", 
+                "timestamp": 1493068522, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F53NJ2ESF-ea0f75b081/screen_shot_2017-04-20_at_5.58.36_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F53NJ2ESF/download/screen_shot_2017-04-20_at_5.58.36_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F53NJ2ESF-ea0f75b081/screen_shot_2017-04-20_at_5.58.36_pm_1024.png", 
+                "user": "U4M4XGYEN", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F53NJ2ESF-ea0f75b081/screen_shot_2017-04-20_at_5.58.36_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-04-20 at 5.58.36 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F53NJ2ESF-d9d8fc0258", 
+                "permalink": "https://gstudents.slack.com/files/meghanprestemon/F53NJ2ESF/screen_shot_2017-04-20_at_5.58.36_pm.png", 
+                "is_external": false, 
+                "created": 1493068522, 
+                "thumb_1024_h": 279, 
+                "thumb_960_h": 261, 
+                "original_w": 1564, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F53NJ2ESF-ea0f75b081/screen_shot_2017-04-20_at_5.58.36_pm_720.png", 
+                "channels": [
+                    "C53QDN4LD"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U4RKZ1A94> hmmmm I did not run into that problem\u2026", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1493068255.378010"
+        }, 
+        {
+            "text": "oh no, that was the right thing. hahaha", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493068252.377329"
+        }, 
+        {
+            "text": "<https://github.com/gSchool/ccf-data-structures/blob/master/store1/store1-data.js#L14>", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493068228.370349"
+        }, 
+        {
+            "text": "Whoops copied wrong thing", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493068212.365593"
+        }, 
+        {
+            "text": "thanks <@U1UCBDAMN>", 
+            "type": "message", 
+            "user": "U4RKZ1A94", 
+            "ts": "1493068208.364506"
+        }, 
+        {
+            "text": "well then! I will!", 
+            "type": "message", 
+            "user": "U4RKZ1A94", 
+            "ts": "1493068202.362862"
+        }, 
+        {
+            "text": "On the other hand, I don't think that what you're pointing out is a bug <@U4RKZ1A94>. Read the directions carefully then look at the candies sold on January 8th in the data file: <https://github.com/gSchool/ccf-data-structures/blob/master/store1/store1-data.js#L14>", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493068163.351591"
+        }, 
+        {
+            "text": "Another idea, consider adding a link to the live repo instead of code snippets if it's a problem with a Galvanize resource. For example, Grant's bug could be reported like this:\n\n#ccf-data-structures-store-1\n\nThe assert specs for store 1  \u2018loopingdata1\u2019 function are incorrect. that test asks for an array of candy names, of which there are 7 and the test is asking for only 5 of the seven ---and in an order that wouldn\u2019t make sense if you created an if conditional that only pushed names to a list if .indexOf(name) ===  -1     My output -pictured right is the correct number of candies (7)\n\nTest case can be found: <https://github.com/gSchool/ccf-data-structures/blob/master/store1/exercise.spec.js#L17>", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493067943.286421"
+        }, 
+        {
+            "comment": {
+                "comment": "One way to go about it..", 
+                "created": 1493067817, 
+                "timestamp": 1493067817, 
+                "is_intro": false, 
+                "user": "U4RKZ1A94", 
+                "id": "Fc537RN4UR"
+            }, 
+            "text": "<@U4RKZ1A94|grantwillison> commented on <@U4RKZ1A94|grantwillison>\u2019s file <https://gstudents.slack.com/files/grantwillison/F53B7FK52/-.js|Untitled>: One way to go about it..", 
+            "ts": "1493067817.247858", 
+            "subtype": "file_comment", 
+            "is_intro": false, 
+            "file": {
+                "initial_comment": {
+                    "comment": "my output is in the picture on the right (atom-runner)", 
+                    "created": 1493004092, 
+                    "timestamp": 1493004092, 
+                    "is_intro": true, 
+                    "user": "U4RKZ1A94", 
+                    "id": "Fc539TLK8A"
+                }, 
+                "filetype": "javascript", 
+                "lines_more": 9, 
+                "channels": [
+                    "C53QDN4LD"
+                ], 
+                "display_as_bot": false, 
+                "id": "F53B7FK52", 
+                "size": 397, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F53B7FK52/-.js", 
+                "ims": [], 
+                "preview": "function loopingData1(store) {\r\n    let days = Object.keys(store);\r\n    let candyNames =[];\r\n    days.forEach((elem) => {\r\n      let numItems = store[elem].length;\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/grantwillison/F53B7FK52/-.js/edit", 
+                "username": "", 
+                "timestamp": 1493004092, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F53B7FK52/download/-.js", 
+                "user": "U4RKZ1A94", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "JavaScript/JSON", 
+                "name": "-.js", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F53B7FK52-feabf7b60e", 
+                "permalink": "https://gstudents.slack.com/files/grantwillison/F53B7FK52/-.js", 
+                "is_external": false, 
+                "created": 1493004092, 
+                "lines": 14, 
+                "comments_count": 2, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">function</span> <span class=\"cm-def\">loopingData1</span>(<span class=\"cm-def\">store</span>) {</pre></div>\n<div><pre>    <span class=\"cm-keyword\">let</span> <span class=\"cm-def\">days</span> <span class=\"cm-operator\">=</span> <span class=\"cm-variable\">Object</span>.<span class=\"cm-property\">keys</span>(<span class=\"cm-variable-2\">store</span>);</pre></div>\n<div><pre>    <span class=\"cm-keyword\">let</span> <span class=\"cm-def\">candyNames</span> <span class=\"cm-operator\">=</span>[];</pre></div>\n<div><pre>    <span class=\"cm-variable-2\">days</span>.<span class=\"cm-property\">forEach</span>((<span class=\"cm-def\">elem</span>) <span class=\"cm-operator\">=&gt;</span> {</pre></div>\n<div><pre>      <span class=\"cm-keyword\">let</span> <span class=\"cm-def\">numItems</span> <span class=\"cm-operator\">=</span> <span class=\"cm-variable-2\">store</span>[<span class=\"cm-variable-2\">elem</span>].<span class=\"cm-property\">length</span>;</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message"
+        }, 
+        {
+            "username": "grantwillison", 
+            "display_as_bot": false, 
+            "text": "<@U4RKZ1A94|grantwillison> shared a file: <https://gstudents.slack.com/files/grantwillison/F53B7FK52/-.js|Untitled> and commented: my output is in the picture on the right (atom-runner)", 
+            "upload": false, 
+            "ts": "1493067817.247825", 
+            "subtype": "file_share", 
+            "user": "U4RKZ1A94", 
+            "file": {
+                "initial_comment": {
+                    "comment": "my output is in the picture on the right (atom-runner)", 
+                    "created": 1493004092, 
+                    "timestamp": 1493004092, 
+                    "is_intro": true, 
+                    "user": "U4RKZ1A94", 
+                    "id": "Fc539TLK8A"
+                }, 
+                "filetype": "javascript", 
+                "lines_more": 9, 
+                "channels": [
+                    "C53QDN4LD"
+                ], 
+                "display_as_bot": false, 
+                "id": "F53B7FK52", 
+                "size": 397, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F53B7FK52/-.js", 
+                "ims": [], 
+                "preview": "function loopingData1(store) {\r\n    let days = Object.keys(store);\r\n    let candyNames =[];\r\n    days.forEach((elem) => {\r\n      let numItems = store[elem].length;\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/grantwillison/F53B7FK52/-.js/edit", 
+                "username": "", 
+                "timestamp": 1493004092, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F53B7FK52/download/-.js", 
+                "user": "U4RKZ1A94", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "JavaScript/JSON", 
+                "name": "-.js", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F53B7FK52-feabf7b60e", 
+                "permalink": "https://gstudents.slack.com/files/grantwillison/F53B7FK52/-.js", 
+                "is_external": false, 
+                "created": 1493004092, 
+                "lines": 14, 
+                "comments_count": 2, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">function</span> <span class=\"cm-def\">loopingData1</span>(<span class=\"cm-def\">store</span>) {</pre></div>\n<div><pre>    <span class=\"cm-keyword\">let</span> <span class=\"cm-def\">days</span> <span class=\"cm-operator\">=</span> <span class=\"cm-variable\">Object</span>.<span class=\"cm-property\">keys</span>(<span class=\"cm-variable-2\">store</span>);</pre></div>\n<div><pre>    <span class=\"cm-keyword\">let</span> <span class=\"cm-def\">candyNames</span> <span class=\"cm-operator\">=</span>[];</pre></div>\n<div><pre>    <span class=\"cm-variable-2\">days</span>.<span class=\"cm-property\">forEach</span>((<span class=\"cm-def\">elem</span>) <span class=\"cm-operator\">=&gt;</span> {</pre></div>\n<div><pre>      <span class=\"cm-keyword\">let</span> <span class=\"cm-def\">numItems</span> <span class=\"cm-operator\">=</span> <span class=\"cm-variable-2\">store</span>[<span class=\"cm-variable-2\">elem</span>].<span class=\"cm-property\">length</span>;</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "comment": {
+                "comment": "The assert specs for store 1  \u2018loopingdata1\u2019 function are incorrect. that test asks for an array of candy names, of which there are 7 and the test is asking for only 5 of the seven ---and in an order that wouldn\u2019t make sense if you created an if conditional that only pushed names to a list if .indexOf(name) ===  -1     My output -pictured right is the correct number of candies (7)", 
+                "created": 1493067757, 
+                "timestamp": 1493067757, 
+                "is_intro": false, 
+                "user": "U4RKZ1A94", 
+                "id": "Fc534T1X3J"
+            }, 
+            "text": "<@U4RKZ1A94|grantwillison> commented on <@U4RKZ1A94|grantwillison>\u2019s file <https://gstudents.slack.com/files/grantwillison/F539TFFQA/screen_shot_2017-04-23_at_8.15.58_pm.png|Screen Shot 2017-04-23 at 8.15.58 PM.png>: The assert specs for store 1  \u2018loopingdata1\u2019 function are incorrect. that test asks for an array of candy names, of which there are 7 and the test is asking for only 5 of the seven ---and in an order that wouldn\u2019t make sense if you created an if conditional that only pushed names to a list if .indexOf(name) ===  -1     My output -pictured right is the correct number of candies (7)", 
+            "ts": "1493067757.229537", 
+            "subtype": "file_comment", 
+            "is_intro": false, 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "NOT FOR THE WEEKEND - hey parker i just wanted to bring a candy crush bug to light - let me know if there is a better avenue for submitting these bugs in the future.  The assert specs for store 1  \u2018loopingdata1\u2019 function are incorrect. that test asks for an array of candy names, of which there are 7 and the test is asking for only 5 of the seven ---and in an order that wouldn\u2019t make sense if you created an if conditional that only pushed names to a list if .indexOf(name) ===  -1", 
+                    "created": 1493004029, 
+                    "timestamp": 1493004029, 
+                    "is_intro": true, 
+                    "user": "U4RKZ1A94", 
+                    "id": "Fc537NKF3M"
+                }, 
+                "filetype": "png", 
+                "thumb_800_h": 500, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_64.png", 
+                "size": 349742, 
+                "original_h": 900, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-04-23 at 8.15.58 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F539TFFQA/screen_shot_2017-04-23_at_8.15.58_pm.png", 
+                "thumb_720_h": 450, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_360.png", 
+                "id": "F539TFFQA", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_80.png", 
+                "comments_count": 2, 
+                "thumb_360_h": 225, 
+                "thumb_480_h": 300, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_800.png", 
+                "timestamp": 1493004029, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F539TFFQA/download/screen_shot_2017-04-23_at_8.15.58_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_1024.png", 
+                "user": "U4RKZ1A94", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-04-23 at 8.15.58 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F539TFFQA-c2b6846ff1", 
+                "permalink": "https://gstudents.slack.com/files/grantwillison/F539TFFQA/screen_shot_2017-04-23_at_8.15.58_pm.png", 
+                "is_external": false, 
+                "created": 1493004029, 
+                "thumb_1024_h": 640, 
+                "thumb_960_h": 600, 
+                "original_w": 1440, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_720.png", 
+                "channels": [
+                    "C53QDN4LD"
+                ]
+            }, 
+            "type": "message"
+        }, 
+        {
+            "username": "grantwillison", 
+            "display_as_bot": false, 
+            "text": "<@U4RKZ1A94|grantwillison> shared a file: <https://gstudents.slack.com/files/grantwillison/F539TFFQA/screen_shot_2017-04-23_at_8.15.58_pm.png|Screen Shot 2017-04-23 at 8.15.58 PM.png> and commented: NOT FOR THE WEEKEND - hey parker i just wanted to bring a candy crush bug to light - let me know if there is a better avenue for submitting these bugs in the future.  The assert specs for store 1  \u2018loopingdata1\u2019 function are incorrect. that test asks for an array of candy names, of which there are 7 and the test is asking for only 5 of the seven ---and in an order that wouldn\u2019t make sense if you created an if conditional that only pushed names to a list if .indexOf(name) ===  -1", 
+            "upload": false, 
+            "ts": "1493067757.229508", 
+            "subtype": "file_share", 
+            "user": "U4RKZ1A94", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "NOT FOR THE WEEKEND - hey parker i just wanted to bring a candy crush bug to light - let me know if there is a better avenue for submitting these bugs in the future.  The assert specs for store 1  \u2018loopingdata1\u2019 function are incorrect. that test asks for an array of candy names, of which there are 7 and the test is asking for only 5 of the seven ---and in an order that wouldn\u2019t make sense if you created an if conditional that only pushed names to a list if .indexOf(name) ===  -1", 
+                    "created": 1493004029, 
+                    "timestamp": 1493004029, 
+                    "is_intro": true, 
+                    "user": "U4RKZ1A94", 
+                    "id": "Fc537NKF3M"
+                }, 
+                "filetype": "png", 
+                "thumb_800_h": 500, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_64.png", 
+                "size": 349742, 
+                "original_h": 900, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-04-23 at 8.15.58 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F539TFFQA/screen_shot_2017-04-23_at_8.15.58_pm.png", 
+                "thumb_720_h": 450, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_360.png", 
+                "id": "F539TFFQA", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_80.png", 
+                "comments_count": 2, 
+                "thumb_360_h": 225, 
+                "thumb_480_h": 300, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_800.png", 
+                "timestamp": 1493004029, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F539TFFQA/download/screen_shot_2017-04-23_at_8.15.58_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_1024.png", 
+                "user": "U4RKZ1A94", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-04-23 at 8.15.58 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F539TFFQA-c2b6846ff1", 
+                "permalink": "https://gstudents.slack.com/files/grantwillison/F539TFFQA/screen_shot_2017-04-23_at_8.15.58_pm.png", 
+                "is_external": false, 
+                "created": 1493004029, 
+                "thumb_1024_h": 640, 
+                "thumb_960_h": 600, 
+                "original_w": 1440, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F539TFFQA-1f7c384f62/screen_shot_2017-04-23_at_8.15.58_pm_720.png", 
+                "channels": [
+                    "C53QDN4LD"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "you can always search for the original bug by name", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493067685.207241"
+        }, 
+        {
+            "text": "then if you click the little pin at the top near the channel name, you could see a list of ALL the solutions, and if each solution also contained the #bug-name", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493067676.203848"
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C53QDN4LD", 
+                    "text": "You could also pin all \"accepted\" solutions.", 
+                    "author_link": "https://gstudents.slack.com/team/teb", 
+                    "ts": "1493067626.187613", 
+                    "author_name": "Tyler Bettilyon", 
+                    "channel_name": "g52_bugs", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "teb", 
+                    "fallback": "[April 24th, 2017 3:00 PM] teb: You could also pin all \"accepted\" solutions.", 
+                    "author_icon": "https://avatars.slack-edge.com/2016-07-22/62442903991_f060c729b0da0aaf80aa_48.jpg", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U1UCBDAMN|teb> pinned a message to this channel.", 
+            "ts": "1493067636.190996", 
+            "subtype": "pinned_item", 
+            "user": "U1UCBDAMN", 
+            "type": "message"
+        }, 
+        {
+            "text": "You could also pin all \"accepted\" solutions.", 
+            "pinned_to": [
+                "C53QDN4LD"
+            ], 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493067626.187613"
+        }, 
+        {
+            "text": "Now if you search in the search pane for #solution, my comments come up near the top.", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493067553.163030"
+        }, 
+        {
+            "text": "then for a solution, use like #solution #bug-name", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493067521.152801"
+        }, 
+        {
+            "text": "hmmm... it'll definitely be a challenge to do perfectly. My first thought is to use slack hashtags -- tag each bug with a name and some specific technologies", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493067507.148398"
+        }, 
+        {
+            "text": "<@U1UCBDAMN> I'm calling on the powers of your slack prowess. How do you recommend we ought to be able to use this channel so that looking back at a given bug, and/or how it has been addressed, can be easy? <@U4WK6BJQM> here points out that it might get a little crazy keeping organized.", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493067425.122339"
+        }, 
+        {
+            "text": "<@U3R672XGQ> I believe the proper term is 'undocumented feature.'", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1493066905.955234"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "metathumbsup", 
+                    "users": [
+                        "U3Z1PUBB2"
+                    ]
+                }
+            ], 
+            "text": "Seems a little redundant. Didn\u2019t <@U3Z1PUBB2> say everything we do from now on as software engineers is creating and fixing bugs? :smirk::stuck_out_tongue_closed_eyes:", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1493066807.924208"
+        }, 
+        {
+            "text": "I don't see it. Maybe there's a bug...", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1493066783.916576", 
+            "edited": {
+                "user": "U2PSX14KF", 
+                "ts": "1493066794.000000"
+            }
+        }, 
+        {
+            "text": "one two", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493066748.905116"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "bug", 
+                    "users": [
+                        "U3TUZU9RR"
+                    ]
+                }
+            ], 
+            "text": ":microphone: :heavy_check_mark:", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1493066736.901225"
+        }, 
+        {
+            "text": "sure is", 
+            "type": "message", 
+            "user": "U4RKZ1A94", 
+            "ts": "1493066729.899191"
+        }, 
+        {
+            "text": "Hello", 
+            "type": "message", 
+            "user": "U4WKPLCTB", 
+            "ts": "1493066727.898342"
+        }, 
+        {
+            "text": "yes sir", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1493066726.898068", 
+            "edited": {
+                "user": "U4M2ULFUK", 
+                "ts": "1493066737.000000"
+            }
+        }, 
+        {
+            "text": "<@U4TTN1V8D|namkai.fairfield> has joined the channel", 
+            "ts": "1493066715.893869", 
+            "subtype": "channel_join", 
+            "user": "U4TTN1V8D", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U1UCBDAMN|teb> has joined the channel", 
+            "ts": "1493066715.893849", 
+            "subtype": "channel_join", 
+            "user": "U1UCBDAMN", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4RKZ1A94|grantwillison> has joined the channel", 
+            "ts": "1493066715.893828", 
+            "subtype": "channel_join", 
+            "user": "U4RKZ1A94", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U3TUZU9RR|johanb> has joined the channel", 
+            "ts": "1493066715.893807", 
+            "subtype": "channel_join", 
+            "user": "U3TUZU9RR", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U2PSX14KF|kurtishouser> has joined the channel", 
+            "ts": "1493066714.893787", 
+            "subtype": "channel_join", 
+            "user": "U2PSX14KF", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4SCDGADR|ssabu> has joined the channel", 
+            "ts": "1493066714.893764", 
+            "subtype": "channel_join", 
+            "user": "U4SCDGADR", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4QBMKRQA|jeffcrusey> has joined the channel", 
+            "ts": "1493066714.893738", 
+            "subtype": "channel_join", 
+            "user": "U4QBMKRQA", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U3R672XGQ|tylerlangenbrunner> has joined the channel", 
+            "ts": "1493066714.893707", 
+            "subtype": "channel_join", 
+            "user": "U3R672XGQ", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4M2ULFUK|ronanfitzpatrick> has joined the channel", 
+            "ts": "1493066714.893678", 
+            "subtype": "channel_join", 
+            "user": "U4M2ULFUK", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4M4XGYEN|meghanprestemon> has joined the channel", 
+            "ts": "1493066714.893654", 
+            "subtype": "channel_join", 
+            "user": "U4M4XGYEN", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4YB9LF2N|michael_murray> has joined the channel", 
+            "ts": "1493066714.893635", 
+            "subtype": "channel_join", 
+            "user": "U4YB9LF2N", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U506BBZ3N|stephenanderson> has joined the channel", 
+            "ts": "1493066714.893604", 
+            "subtype": "channel_join", 
+            "user": "U506BBZ3N", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4WK6BJQM|dave.gallup> has joined the channel", 
+            "ts": "1493066714.893581", 
+            "subtype": "channel_join", 
+            "user": "U4WK6BJQM", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4NBAUKD4|stelapalii> has joined the channel", 
+            "ts": "1493066714.893560", 
+            "subtype": "channel_join", 
+            "user": "U4NBAUKD4", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<@U4WKPLCTB|allisonbrett> has joined the channel", 
+            "ts": "1493066714.893538", 
+            "subtype": "channel_join", 
+            "user": "U4WKPLCTB", 
+            "type": "message", 
+            "inviter": "U3Z1PUBB2"
+        }, 
+        {
+            "text": "<!channel> is this thing on?", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493066591.854011"
+        }, 
+        {
+            "text": "<@U3Z1PUBB2|joshwyatt> set the channel purpose: Gather curriculum bugs", 
+            "ts": "1493058669.227026", 
+            "subtype": "channel_purpose", 
+            "user": "U3Z1PUBB2", 
+            "type": "message", 
+            "purpose": "Gather curriculum bugs"
+        }, 
+        {
+            "text": "<@U3Z1PUBB2|joshwyatt> has joined the channel", 
+            "type": "message", 
+            "user": "U3Z1PUBB2", 
+            "ts": "1493058669.226840", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1493069263, 
+            "value": "Reporting errors in Galvanize Curriculum so that they can be fixed! :D", 
+            "creator": "U1UCBDAMN"
+        }, 
+        "is_general": false, 
+        "name_normalized": "g52_bugs", 
+        "name": "g52_bugs", 
+        "is_channel": true, 
+        "created": 1493058669, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U3Z1PUBB2", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1493058669, 
+            "value": "Gather curriculum bugs", 
+            "creator": "U3Z1PUBB2"
+        }, 
+        "members": [
+            "U1UCBDAMN", 
+            "U2PSX14KF", 
+            "U3R672XGQ", 
+            "U3TUZU9RR", 
+            "U3Z1PUBB2", 
+            "U4M2ULFUK", 
+            "U4M4XGYEN", 
+            "U4NBAUKD4", 
+            "U4QBMKRQA", 
+            "U4RKZ1A94", 
+            "U4SCDGADR", 
+            "U4TTN1V8D", 
+            "U4WK6BJQM", 
+            "U4WKPLCTB", 
+            "U4YB9LF2N", 
+            "U506BBZ3N", 
+            "U51QY2VCM"
+        ], 
+        "id": "C53QDN4LD", 
+        "is_shared": false
+    }
+}

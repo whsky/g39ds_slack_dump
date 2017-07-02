@@ -1,0 +1,1189 @@
+{
+    "messages": [
+        {
+            "text": "Test-driven development, as we saw today in how we developed our calculator: <http://agiledata.org/essays/tdd.html>", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498800190.030598"
+        }, 
+        {
+            "text": "```\ndef f(x=None):\n    if x is None:\n        x = list()\n    # blah blah\n```", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498622130.392541"
+        }, 
+        {
+            "text": "From class: how to handle default mutable arguments: <http://python-guide-pt-br.readthedocs.io/en/latest/writing/gotchas/>", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498622079.386797"
+        }, 
+        {
+            "text": "Also, when writing messages in Slack, you can use special formatting rules to write things like `code`, *bold*, _italics_, etc. <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages>", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498581481.078669", 
+            "attachments": [
+                {
+                    "thumb_height": 192, 
+                    "service_icon": "http://p4.zdassets.com/hc/settings_assets/138842/200037786/DrEI8e2nSlqhR5qu1UV7Qw-favicon.png", 
+                    "thumb_width": 192, 
+                    "title": "Format your messages", 
+                    "service_name": "Slack Help Center", 
+                    "title_link": "https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages", 
+                    "text": "Adding text formatting to your Slack messages is easy! Here's\u00a0a handy selection of formatting options: Emphasis To emphasize words or phrases, surround your text with\u00a0*asterisks* to create bold tex...", 
+                    "id": 1, 
+                    "fallback": "Slack Help Center: Format your messages", 
+                    "thumb_url": "http://p4.zdassets.com/hc/settings_assets/138842/200037786/1QeULL5NsI7kHG4dOBov4A-help-center-unfurl-image.png", 
+                    "from_url": "https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages"
+                }
+            ]
+        }, 
+        {
+            "text": "To learn more, consult the documentation: `man ls` and `man du`", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498581312.013847"
+        }, 
+        {
+            "text": "`du -d 1 -h`", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498581296.007696"
+        }, 
+        {
+            "text": "Here are some more terminal commands. Try these: `ls -hlS`", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498581291.006034"
+        }, 
+        {
+            "text": "Hi class! Friendly reminder that there is no class on July 4. Therefore, we have two classes this week (June 27 and 29) and one class next week (July 6).", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498580898.851013"
+        }, 
+        {
+            "text": "<https://github.com/zipfian/solns-python-fundamentals-sf-2017-06> Solutions to days 5 and 6 are posted.", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498453699.183161"
+        }, 
+        {
+            "text": "ok, figured it out...needed to have the parameters be list1, second_nbr rather than list, int:relaxed:", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1498411516.228726"
+        }, 
+        {
+            "text": "If I don't hard code the numbers in, and instead have list1= list(), then I get an error:TypeError: 'list' object is not callable", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1498410577.172756"
+        }, 
+        {
+            "text": "If I don", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1498410538.170269"
+        }, 
+        {
+            "text": "def isDivisible (list, int):\n\tlist1 = [10,20,30]\n\tsecond_nbr = 10\n\n\tfor number in list1:\n\t\tif number % second_nbr == 0:\n\t\t\treturn True\n\nif __name__== \"__main__\":\n\tisDivisible([10,20,30],5)", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1498410535.170075"
+        }, 
+        {
+            "text": "Is anyone working on Part 2 q 5 of the Tuesday homework? I'm not getting errors, but no results either. Obviously something I'm not getting about how to call the function:", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1498410504.168498"
+        }, 
+        {
+            "text": "def beers_left(num):\n\tcounter = num\n\tfor remainder in range(0, num+1):\n\t \tcounter -= 1\n\t\tif counter &gt;= 1:\n\t\t\tprint (\"Beers left!\")\n\telse:\n\t\tprint (\"No beers left!\")\n\n\nif __name__== \"__main__\":\n\tbeers_left(10)", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1498352815.682183"
+        }, 
+        {
+            "text": "no, wanted it to do the no beers left at the end. realized the problem: should have had a counter being the thing to test, not the variable:", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1498352811.682027"
+        }, 
+        {
+            "text": "Lenore, is that the result you wanted from looping through 0 to num+1?", 
+            "type": "message", 
+            "user": "U5PDJK9KM", 
+            "ts": "1498351410.623273"
+        }, 
+        {
+            "text": "because I guess it starts with the 0 in the range and then loops through the rest.", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1498345807.391745"
+        }, 
+        {
+            "text": "Thanks, <@U5PDJK9KM>. among other things, looks like I reversed the &gt; sign:face_with_rolling_eyes: But with that code, I get this result:No beers left!\nBeers left!\nBeers left!\nBeers left!\nBeers left!\nBeers left!\nBeers left!\nBeers left!\nBeers left!\nBeers left!\nBeers left!", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1498345774.390220"
+        }, 
+        {
+            "text": "def beers_left(num):\n    for remainder in range(0, num+1):\n        if remainder &gt;= 1:\n            print (\"Beers left!\")\n        else:\n            print (\"No beers left!\")\nif __name__== \"__main__\":\n    beers_left(10)", 
+            "type": "message", 
+            "user": "U5PDJK9KM", 
+            "ts": "1498345151.361656"
+        }, 
+        {
+            "text": "Lenore, would the following produce the output you were looking for:", 
+            "type": "message", 
+            "user": "U5PDJK9KM", 
+            "ts": "1498345142.361254"
+        }, 
+        {
+            "text": "<@U5PFUGZFA> Hi Steve, I'm wondering what's wrong with this code:\ndef beers_left(num):\n\n\tfor remainder in range(0, num+1):\n\t\tif remainder &lt;= 1:\n\t\t\tprint (\"Beers left!\")\n\t\telif remainder  &lt; 1 :\n\t\t\tprint (\"No beers left!\")\n\nif __name__== \"__main__\":\n\tfor num in [10]:\n\t\tprint num, beers_left(num)\t\t\tbecause as a result, I get 10 Beers left!\nBeers left!\nNone", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1498324320.251609"
+        }, 
+        {
+            "username": "stevetjoa", 
+            "display_as_bot": false, 
+            "text": "<@U5PFUGZFA|stevetjoa> uploaded a file: <https://gstudents.slack.com/files/stevetjoa/F5XQNU8JD/tic_tac_toe_starter_code.py|Tic tac toe starter code> and commented: This was some starter code that we did as a class up until 9:30 pm on Thursday. Enjoy!", 
+            "upload": true, 
+            "ts": "1498192290.595445", 
+            "subtype": "file_share", 
+            "user": "U5PFUGZFA", 
+            "file": {
+                "initial_comment": {
+                    "comment": "This was some starter code that we did as a class up until 9:30 pm on Thursday. Enjoy!", 
+                    "created": 1498192289, 
+                    "timestamp": 1498192289, 
+                    "is_intro": true, 
+                    "user": "U5PFUGZFA", 
+                    "id": "Fc5Z6QMV3R"
+                }, 
+                "filetype": "python", 
+                "lines_more": 32, 
+                "channels": [
+                    "C5KVBAA91"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5XQNU8JD", 
+                "size": 714, 
+                "title": "Tic tac toe starter code", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5XQNU8JD/tic_tac_toe_starter_code.py", 
+                "ims": [], 
+                "preview": "ONGOING = 0\r\nPLAYER1 = 1\r\nPLAYER2 = 2\r\nTIE = 3\r\n\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/stevetjoa/F5XQNU8JD/tic_tac_toe_starter_code.py/edit", 
+                "username": "", 
+                "timestamp": 1498192289, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5XQNU8JD/download/tic_tac_toe_starter_code.py", 
+                "user": "U5PFUGZFA", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Python", 
+                "name": "Tic_tac_toe_starter_code.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5XQNU8JD-9144d6e601", 
+                "permalink": "https://gstudents.slack.com/files/stevetjoa/F5XQNU8JD/tic_tac_toe_starter_code.py", 
+                "is_external": false, 
+                "created": 1498192289, 
+                "lines": 37, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">ONGOING</span> = <span class=\"cm-number\">0</span></pre></div>\n<div><pre><span class=\"cm-variable\">PLAYER1</span> = <span class=\"cm-number\">1</span></pre></div>\n<div><pre><span class=\"cm-variable\">PLAYER2</span> = <span class=\"cm-number\">2</span></pre></div>\n<div><pre><span class=\"cm-variable\">TIE</span> = <span class=\"cm-number\">3</span></pre></div>\n<div><pre>&#8203;</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "We got room 312!", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498180615.233956"
+        }, 
+        {
+            "text": "Apologies class; I'm trying to confirm our classroom for today. Just hang out on the 3rd floor for now. Sorry about that.", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498180017.154632"
+        }, 
+        {
+            "text": "We are in room 309 today.", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1498008721.532928"
+        }, 
+        {
+            "text": "super helpful <@U5PDJK9KM> and <@U5PFUGZFA>. thank you.", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1497976505.351062"
+        }, 
+        {
+            "text": "<@U5LSFM0JJ> Yes, I agree with Scott is using the `string.split` method. When combined creatively with, e.g., `string.strip` and `string.replace`, you can split a string any way you want. I would recommend playing around in the IPython console with a variety of strings and the aforementioned string methods to get a good feel for how they work. In the IPython console, append `?` to the end of the method to learn more about how the methods work.", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1497914084.119355"
+        }, 
+        {
+            "text": "ok, cool", 
+            "type": "message", 
+            "user": "U5KC010QY", 
+            "ts": "1497888404.835388"
+        }, 
+        {
+            "text": "If there are any questions, feel free to let me know!", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1497837686.592975"
+        }, 
+        {
+            "text": "Solutions for days 3 and 4 have been posted: <https://github.com/zipfian/solns-python-fundamentals-sf-2017-06>", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1497837677.591823"
+        }, 
+        {
+            "text": "Hi class! I hope you enjoyed the warm weather this weekend. I sure did which is why I haven't gotten back to individual messages yet. Sorry about that.", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1497837666.590737"
+        }, 
+        {
+            "text": "coordinateDict = {}\nwhile inputString != '':\n    inputString = raw_input(\"Please enter a coordinate-word pair formatted (x,y,word) :\")\n    #remove spaces\n    inputString = inputString.replace(\" \", \"\")\n    #create a list made up of entries separated by commas\n    inputList = inputString.split(\",\")\n    inputType = type(inputString)\n    inputListType = type(inputList)\n    print(inputListType)\n    print(inputType)\n    print(inputString)\n    print(inputList)\n    x = inputList[0]\n    y = inputList[1]\n    word = inputList[2]\n    coordinate = x + \",\" + y\n    coordinateDict[coordinate] = word\n    print (coordinateDict)", 
+            "type": "message", 
+            "user": "U5PDJK9KM", 
+            "ts": "1497820824.471618"
+        }, 
+        {
+            "text": "Whoops. That should be:", 
+            "type": "message", 
+            "user": "U5PDJK9KM", 
+            "ts": "1497820821.471476"
+        }, 
+        {
+            "text": "coordinateDict = {}\nwhile inputString != '':\n    inputString = raw_input(\"Please enter a coordinate-word pair formatted (x,y,word) :\")\n    #remove spaces\n    inputString = inputString.replace(\" \", \"\")\n    #create a list made up of entries separated by commas\n    inputList = inputString.split(\",\")\n    inputType = type(inputString)\n    inputListType = type(inputList)\n    print(inputListType)\n    print(inputType)\n    print(inputString)\n    print(inputList)\n    x = inputString[0]\n    y = inputString[1]\n    word = inputString[2]\n    coordinate = x + \",\" + y\n    coordinateDict[coordinate] = word\n    print (coordinateDict)", 
+            "type": "message", 
+            "user": "U5PDJK9KM", 
+            "ts": "1497820675.463236"
+        }, 
+        {
+            "text": "Hi Lenore, you are turning \"input\" into a string and then accessing its individual elements. input[4] is therefore just the value of an individual character of the string input rather than a whole word. Might I recommend using the split command with the commas to create a list and then access its individual elements? Try the following. Since input and dict are built in functions in Python, I changed the names of your input and dict variables to inputString and coordinateDict. I also removed the str() in your raw_input statement since raw_input already returns a string.", 
+            "type": "message", 
+            "user": "U5PDJK9KM", 
+            "ts": "1497820655.462200"
+        }, 
+        {
+            "text": "also wondering how to get the whole word. I did input [4:-1] trying to get to the end, and that results in the final letter being truncated.", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1497804153.541440"
+        }, 
+        {
+            "text": "I'm wondering why I get {'word': 'w', 'coordinates': '2,3'} as the result, i.e. the reverse of what I expected?", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1497803638.513893"
+        }, 
+        {
+            "text": "dict = {}\nwhile input != '':\n\tinput = str(raw_input(\"Please enter a coordinate-word pair formatted (x,y,word) :\"))\n\tinput.split()\n\t#print input[0:3]\n\n\tdict = {'coordinates': input[0:3], 'word': input[4]}\n\tprint dict", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1497803596.511682"
+        }, 
+        {
+            "text": "<@U5PFUGZFA> update: it's progressing now, but with this code:", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1497803591.511432"
+        }, 
+        {
+            "text": "obviously this is not working...could you point me to a clue on how to adjust this? thanks.", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1497803149.487006"
+        }, 
+        {
+            "text": "<@U5PFUGZFA> I'm having some trouble with Part 2 q3 of Thursday, i.e. the dictionary question. To add the inputted values, I have this:dict = {}\nwhile input != '':\n\tinput = str(raw_input(\"Please enter a coordinate-word pair formatted (x,y,word) :\"))\n\tdict = {'coordinates': input[0:2], 'word': input[2]}", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1497803091.483575"
+        }, 
+        {
+            "username": "stevetjoa", 
+            "display_as_bot": false, 
+            "text": "<@U5PFUGZFA|stevetjoa> uploaded a file: <https://gstudents.slack.com/files/stevetjoa/F5UN5F88L/how_to_keep_track_of_letter_counts_using_a_dictionary.py|How to keep track of letter counts using a dictionary>", 
+            "upload": true, 
+            "ts": "1497581673.631918", 
+            "subtype": "file_share", 
+            "user": "U5PFUGZFA", 
+            "file": {
+                "filetype": "python", 
+                "lines_more": 19, 
+                "channels": [
+                    "C5KVBAA91"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5UN5F88L", 
+                "size": 423, 
+                "title": "How to keep track of letter counts using a dictionary", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5UN5F88L/how_to_keep_track_of_letter_counts_using_a_dictionary.py", 
+                "ims": [], 
+                "preview": "s = raw_input('Please enter a word: ')\r\nprint s\r\n\r\n### Solution 1\r\ncounts = dict()\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/stevetjoa/F5UN5F88L/how_to_keep_track_of_letter_counts_using_a_dictionary.py/edit", 
+                "username": "", 
+                "timestamp": 1497581673, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5UN5F88L/download/how_to_keep_track_of_letter_counts_using_a_dictionary.py", 
+                "user": "U5PFUGZFA", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Python", 
+                "name": "How_to_keep_track_of_letter_counts_using_a_dictionary.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5UN5F88L-8187d727c7", 
+                "permalink": "https://gstudents.slack.com/files/stevetjoa/F5UN5F88L/how_to_keep_track_of_letter_counts_using_a_dictionary.py", 
+                "is_external": false, 
+                "created": 1497581673, 
+                "lines": 24, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">s</span> = <span class=\"cm-builtin\">raw_input</span>(<span class=\"cm-string\">'Please enter a word: '</span>)</pre></div>\n<div><pre><span class=\"cm-keyword\">print</span> <span class=\"cm-variable\">s</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-comment\">### Solution 1</span></pre></div>\n<div><pre><span class=\"cm-variable\">counts</span> = <span class=\"cm-builtin\">dict</span>()</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Hi Lenore, class. I will usually post solutions over the following weekend for each assignment so that students have a bit of time to solve them on their own. For example, probably this coming Sunday I will post solutions for days 3 and 4.", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1497569324.017946"
+        }, 
+        {
+            "text": "whoops <@U5PFUGZFA> ...solutions posted yet for day 3?", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1497565643.345212"
+        }, 
+        {
+            "text": "@steve Are solutions posted for day 3? Thanks.", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1497565602.336742"
+        }, 
+        {
+            "text": "Another quick note: try to use four spaces per indent. You can control that by changing the settings in your editor. Search for a setting like \"indentation\" or \"tabs and spaces\", something like that.", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1497555363.316499"
+        }, 
+        {
+            "username": "stevetjoa", 
+            "display_as_bot": false, 
+            "text": "<@U5PFUGZFA|stevetjoa> shared a file: <https://gstudents.slack.com/files/stevetjoa/F5UH03SNQ/In-place_Methods|In-place Methods>", 
+            "upload": false, 
+            "ts": "1497555268.283978", 
+            "subtype": "file_share", 
+            "user": "U5PFUGZFA", 
+            "file": {
+                "filetype": "space", 
+                "channels": [
+                    "C5KVBAA91"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5UH03SNQ", 
+                "size": 1993, 
+                "title": "In-place Methods", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5UH03SNQ/In-place_Methods", 
+                "ims": [], 
+                "state": "locked", 
+                "editor": "U5PFUGZFA", 
+                "preview": "<document><p>Some methods work <b>in place</b>, i.e. they directly modify the object calling it. For example, <code>list.sort</code>:</p><pre>In [1]: x = [2, 3, 1]\n\nIn [2]: x.sort()\n\nIn [3]: x</pre></document>", 
+                "external_type": "", 
+                "username": "", 
+                "updated": 1497555250, 
+                "num_stars": 1, 
+                "timestamp": 1497578143, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5UH03SNQ/download/In-place_Methods", 
+                "user": "U5PFUGZFA", 
+                "groups": [], 
+                "is_public": true, 
+                "last_editor": "U5PFUGZFA", 
+                "pretty_type": "Post", 
+                "name": "In-place_Methods", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5UH03SNQ-1584374c74", 
+                "permalink": "https://gstudents.slack.com/files/stevetjoa/F5UH03SNQ/In-place_Methods", 
+                "is_external": false, 
+                "created": 1497554973, 
+                "comments_count": 0, 
+                "mode": "space"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Sure, thanks Steve :+1:", 
+            "type": "message", 
+            "user": "U5KC010QY", 
+            "ts": "1497467177.094094"
+        }, 
+        {
+            "text": "Certainly a valid question, but I'm afraid that we will keep our regular schedule. Sorry about that!", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1497466161.716844"
+        }, 
+        {
+            "text": "<@U5PFUGZFA>  - since there is a victory parade in Oakland, is there any change in our classes scheduled tomorrow? I know its during day time, but the traffic and BART will be crazy crowded until late evening... so just checking.. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U5KC010QY", 
+            "ts": "1497465511.477468"
+        }, 
+        {
+            "text": "<@U3PQYCL87|jet2016> has joined the channel", 
+            "ts": "1497453155.621441", 
+            "subtype": "channel_join", 
+            "user": "U3PQYCL87", 
+            "type": "message", 
+            "inviter": "U1V8JJSF6"
+        }, 
+        {
+            "text": "Hi class! Solutions for days 1 and 2 are posted at <https://github.com/zipfian/solns-python-fundamentals-sf-2017-06>. See you tomorrow for day 3.", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1497311053.293688"
+        }, 
+        {
+            "text": "hey, I think that did it! looks like it's working now. thanks <@U5NUF2LP2> !", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1497224720.394977"
+        }, 
+        {
+            "text": "<@U5LSFM0JJ> Confirming you're looking for the least common multiple between the two inputs. I'm not sure what your methodology is, but here's one possible way of doing it.  Let's call the variable for the solution \"LCM\". You know that LCM must be some integer (i) times one of the inputs (say input1). For example, if your input input1 is 5, you know the LCM must be 5,10,15,20,25... or so on (not sure which one yet, bu it has to be one of those). You also know that LCM must be divisible by input2.  I hope this can put you on the right path. Good luck!", 
+            "type": "message", 
+            "user": "U5NUF2LP2", 
+            "ts": "1497223609.334718"
+        }, 
+        {
+            "text": "anybody else working on q7? my formula for finding the lcd is if (my_num * test_num) == (new_num * test_num), where test_num is the counter starting at 1. can't get it working so far but don't see what's wrong with it!", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1497222588.277946"
+        }, 
+        {
+            "text": "<@U5N13NC5U> that worked!", 
+            "type": "message", 
+            "user": "U5NUF2LP2", 
+            "ts": "1497027713.324251"
+        }, 
+        {
+            "text": "ipython notebook --browser=Chrome", 
+            "type": "message", 
+            "user": "U5N13NC5U", 
+            "ts": "1496974930.395837"
+        }, 
+        {
+            "text": "if you don't want to edit the file or this is not happening for the error opening ipython notebook then if you put this in the command line it works", 
+            "type": "message", 
+            "user": "U5N13NC5U", 
+            "ts": "1496974928.395594"
+        }, 
+        {
+            "text": "<@U5RUEMPFH|katieslayden> has joined the channel", 
+            "type": "message", 
+            "user": "U5RUEMPFH", 
+            "ts": "1496973614.228852", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "=D", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496968498.565448"
+        }, 
+        {
+            "text": "hello steve are you here i have a friend looking for you", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496968496.565195"
+        }, 
+        {
+            "text": "no worries i was actually looking for the SP500 data but it was right under my nose the whole time", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496967457.421912"
+        }, 
+        {
+            "text": "Correct, for the Unix intermediate section, some commands such as `grep` and others we did not cover in class. Just try your best using online resources, and if it's too difficult, don't worry about it for now. I will post the solutions over the weekend.", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1496952326.767276"
+        }, 
+        {
+            "text": "never mind =D", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496951849.597011"
+        }, 
+        {
+            "text": "or I'm just blind", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496951844.594987"
+        }, 
+        {
+            "text": "For the intermediate section, are we missing materials, expected to find them on the internet?", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496951679.536729"
+        }, 
+        {
+            "text": "Hi Steve, quick question about the Unix Assignment.", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496951649.526156"
+        }, 
+        {
+            "text": "<@U5PTP3BUZ|joshr212> has joined the channel", 
+            "type": "message", 
+            "user": "U5PTP3BUZ", 
+            "ts": "1496896492.945101", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5QGB05N0|cmore415> has joined the channel", 
+            "type": "message", 
+            "user": "U5QGB05N0", 
+            "ts": "1496895710.856754", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "(you just have to be in the right directory for that to work)", 
+            "type": "message", 
+            "user": "U5NUF2LP2", 
+            "ts": "1496884421.508564"
+        }, 
+        {
+            "text": "it allows you to launch atom from the command line. so if you want to edit the readme.md file, you can just type \"atom readme.md\" and it will open it up in atom", 
+            "type": "message", 
+            "user": "U5NUF2LP2", 
+            "ts": "1496884347.499361"
+        }, 
+        {
+            "text": "when you start to feel comfortable enough around the terminal, and if you're using atom, check out this stack overflow. <https://stackoverflow.com/questions/22390709/how-to-open-atom-editor-from-command-line-in-os-x>", 
+            "type": "message", 
+            "user": "U5NUF2LP2", 
+            "ts": "1496884315.495572", 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+                    "thumb_width": 316, 
+                    "title": "How to open Atom editor from command line in OS X?", 
+                    "text": "I have the Atom editor and was wondering how you can open a file or folder from the terminal in Atom. I am using a Mac. I am looking for a way to do this: atom . (opens folder) atom file.js (open...", 
+                    "title_link": "https://stackoverflow.com/questions/22390709/how-to-open-atom-editor-from-command-line-in-os-x", 
+                    "service_name": "stackoverflow.com", 
+                    "id": 1, 
+                    "fallback": "How to open Atom editor from command line in OS X?", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+                    "from_url": "https://stackoverflow.com/questions/22390709/how-to-open-atom-editor-from-command-line-in-os-x"
+                }
+            ]
+        }, 
+        {
+            "text": "Yes, thanks Nick. Your system might not have a default config file, in which case you can generate it as Nick mentioned.", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1496861960.965664"
+        }, 
+        {
+            "text": "<https://stackoverflow.com/questions/32625939/ipython-notebook-where-is-jupyter-notebook-config-py-in-mac>", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496860963.589578", 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+                    "thumb_width": 316, 
+                    "title": "Ipython Notebook: where is jupyter_notebook_config.py in Mac?", 
+                    "text": "I just started using a Mac, so please forgive me if this sounds too naive. I'm trying to install Interactive Parallel. From <https://github.com/ipython/ipyparallel>, it says I need to find", 
+                    "title_link": "https://stackoverflow.com/questions/32625939/ipython-notebook-where-is-jupyter-notebook-config-py-in-mac", 
+                    "service_name": "stackoverflow.com", 
+                    "id": 1, 
+                    "fallback": "Ipython Notebook: where is jupyter_notebook_config.py in Mac?", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+                    "from_url": "https://stackoverflow.com/questions/32625939/ipython-notebook-where-is-jupyter-notebook-config-py-in-mac"
+                }
+            ]
+        }, 
+        {
+            "text": "then you can edit it", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496860950.584706"
+        }, 
+        {
+            "text": "this will create the config file into your jupyter file", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496860946.583106"
+        }, 
+        {
+            "text": "if thats the case you can run this command: jupyter notebook --generate-config", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496860933.577901"
+        }, 
+        {
+            "text": "i was only returned with a 'migrated' file", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496860883.559822"
+        }, 
+        {
+            "text": "when i first searched for the file in my jupyter file in user cd ~/.jupyter/", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496860875.556935"
+        }, 
+        {
+            "text": "hello all, I did a little more troubleshooting with this as it was not working for me. You may need to first generate the jupiter_notebook_config.py file", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496860843.544644"
+        }, 
+        {
+            "text": "To close the IPython Notebook: (1) close your browser window; (2) in the Terminal window from which you launched `ipython notebook`, press `ctrl-c` twice to kill the kernel.", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1496857323.195980"
+        }, 
+        {
+            "username": "stevetjoa", 
+            "display_as_bot": false, 
+            "text": "<@U5PFUGZFA|stevetjoa> shared a file: <https://gstudents.slack.com/files/stevetjoa/F5R1F0N5V/Opening_IPython_Notebook__execution_error__doesn___t_understand_the____open_location____message___-1708_|Opening IPython Notebook: execution error: doesn\u2019t understand the \u201copen location\u201d message. (-1708)>", 
+            "upload": false, 
+            "ts": "1496857177.141654", 
+            "subtype": "file_share", 
+            "user": "U5PFUGZFA", 
+            "file": {
+                "filetype": "space", 
+                "channels": [
+                    "C5KVBAA91"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5R1F0N5V", 
+                "size": 720, 
+                "title": "Opening IPython Notebook: execution error: doesn\u2019t understand the \u201copen location\u201d message. (-1708)", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5R1F0N5V/Opening_IPython_Notebook__execution_error__doesn___t_understand_the____open_location____message___-1708_", 
+                "ims": [], 
+                "state": "locked", 
+                "editor": "U5PFUGZFA", 
+                "preview": "<document><p>To open the Jupyter/IPython notebook, type <code>jupyter notebook</code> or <code>ipython notebook</code> from the Mac Terminal prompt (i.e. the command line).</p><p></p><p>If you get the error in the title above, find the file <code>~/.jupyter/jupyter_notebook_config.py</code> and edit the line:</p><pre>c.NotebookApp.browser = u&#39;chrome&#39;</pre><p>Change <code>chrome</code> to <code>Safari</code> if you use Safari instead.</p></document>", 
+                "external_type": "", 
+                "username": "", 
+                "updated": 1496857148, 
+                "timestamp": 1496857250, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5R1F0N5V/download/Opening_IPython_Notebook__execution_error__doesn___t_understand_the____open_location____message___-1708_", 
+                "user": "U5PFUGZFA", 
+                "groups": [], 
+                "is_public": true, 
+                "last_editor": "U5PFUGZFA", 
+                "pretty_type": "Post", 
+                "name": "Opening_IPython_Notebook__execution_error__doesn___t_understand_the____open_location____message___-1708_", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5R1F0N5V-ad4426b592", 
+                "permalink": "https://gstudents.slack.com/files/stevetjoa/F5R1F0N5V/Opening_IPython_Notebook__execution_error__doesn___t_understand_the____open_location____message___-1708_", 
+                "is_external": false, 
+                "created": 1496856901, 
+                "comments_count": 0, 
+                "mode": "space"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U5PFUGZFA|stevetjoa> has joined the channel", 
+            "type": "message", 
+            "user": "U5PFUGZFA", 
+            "ts": "1496855398.462167", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C5KVBAA91", 
+                    "text": "If you have any questions, you can always reach out to me at\n\n <mailto:Victor.Valdez@galvanize.com|Victor.Valdez@galvanize.com> \n415 - 691 - 2917\nOr book an appointment: <https://victorvaldez.youcanbook.me/>\n\nThank you!", 
+                    "author_link": "https://gstudents.slack.com/team/admssns-victorvaldez", 
+                    "ts": "1496853878.868473", 
+                    "author_name": "Victor Valdez", 
+                    "channel_name": "sf_python_june_2017", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "admssns-victorvaldez", 
+                    "fallback": "[June 7th, 2017 10:44 AM] admssns-victorvaldez: If you have any questions, you can always reach out to me at\n\n <mailto:Victor.Valdez@galvanize.com|Victor.Valdez@galvanize.com> \n415 - 691 - 2917\nOr book an appointment: <https://victorvaldez.youcanbook.me/>\n\nThank you!", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-05-03/179221734119_d26b1bda72f1826209c2_48.jpg", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U3U145QLS|admssns-victorvaldez> pinned a message to this channel.", 
+            "ts": "1496853886.871459", 
+            "subtype": "pinned_item", 
+            "user": "U3U145QLS", 
+            "type": "message"
+        }, 
+        {
+            "text": "If you have any questions, you can always reach out to me at\n\n <mailto:Victor.Valdez@galvanize.com|Victor.Valdez@galvanize.com> \n415 - 691 - 2917\nOr book an appointment: <https://victorvaldez.youcanbook.me/>\n\nThank you!", 
+            "pinned_to": [
+                "C5KVBAA91"
+            ], 
+            "type": "message", 
+            "user": "U3U145QLS", 
+            "ts": "1496853878.868473"
+        }, 
+        {
+            "text": "I hope you all enjoyed the first night of your class! I have just uploaded and pinned two documents to this channel. They will help you prepare for the admissions assessments.", 
+            "type": "message", 
+            "user": "U3U145QLS", 
+            "ts": "1496853809.841392"
+        }, 
+        {
+            "text": "Good morning!", 
+            "type": "message", 
+            "user": "U3U145QLS", 
+            "ts": "1496853758.821970"
+        }, 
+        {
+            "item": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C5KVBAA91"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5Q5HHNG2", 
+                "size": 140682, 
+                "title": "DSI-Admission-Process.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5Q5HHNG2/dsi-admission-process.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1496853740, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5Q5HHNG2/download/dsi-admission-process.pdf", 
+                "user": "U3U145QLS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "DSI-Admission-Process.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5Q5HHNG2-bfea8b7f5a", 
+                "permalink": "https://gstudents.slack.com/files/admssns-victorvaldez/F5Q5HHNG2/dsi-admission-process.pdf", 
+                "is_external": false, 
+                "created": 1496853740, 
+                "pinned_to": [
+                    "C5KVBAA91"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "text": "<@U3U145QLS|admssns-victorvaldez> pinned their PDF <https://gstudents.slack.com/files/admssns-victorvaldez/F5Q5HHNG2/dsi-admission-process.pdf|DSI-Admission-Process.pdf> to this channel.", 
+            "ts": "1496853754.820006", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U3U145QLS", 
+            "type": "message"
+        }, 
+        {
+            "item": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C5KVBAA91"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5R0BF1JT", 
+                "size": 183687, 
+                "title": "DSI-study-resources.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5R0BF1JT/dsi-study-resources.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1496853710, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5R0BF1JT/download/dsi-study-resources.pdf", 
+                "user": "U3U145QLS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "DSI-study-resources.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5R0BF1JT-c1b390c414", 
+                "permalink": "https://gstudents.slack.com/files/admssns-victorvaldez/F5R0BF1JT/dsi-study-resources.pdf", 
+                "is_external": false, 
+                "created": 1496853710, 
+                "pinned_to": [
+                    "C5KVBAA91"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "text": "<@U3U145QLS|admssns-victorvaldez> pinned their PDF <https://gstudents.slack.com/files/admssns-victorvaldez/F5R0BF1JT/dsi-study-resources.pdf|DSI-study-resources.pdf> to this channel.", 
+            "ts": "1496853746.816923", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U3U145QLS", 
+            "type": "message"
+        }, 
+        {
+            "username": "admssns-victorvaldez", 
+            "display_as_bot": false, 
+            "text": "<@U3U145QLS|admssns-victorvaldez> uploaded a file: <https://gstudents.slack.com/files/admssns-victorvaldez/F5Q5HHNG2/dsi-admission-process.pdf|DSI-Admission-Process.pdf>", 
+            "upload": true, 
+            "ts": "1496853740.814858", 
+            "subtype": "file_share", 
+            "user": "U3U145QLS", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C5KVBAA91"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5Q5HHNG2", 
+                "size": 140682, 
+                "title": "DSI-Admission-Process.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5Q5HHNG2/dsi-admission-process.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1496853740, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5Q5HHNG2/download/dsi-admission-process.pdf", 
+                "user": "U3U145QLS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "DSI-Admission-Process.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5Q5HHNG2-bfea8b7f5a", 
+                "permalink": "https://gstudents.slack.com/files/admssns-victorvaldez/F5Q5HHNG2/dsi-admission-process.pdf", 
+                "is_external": false, 
+                "created": 1496853740, 
+                "pinned_to": [
+                    "C5KVBAA91"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "admssns-victorvaldez", 
+            "display_as_bot": false, 
+            "text": "<@U3U145QLS|admssns-victorvaldez> uploaded a file: <https://gstudents.slack.com/files/admssns-victorvaldez/F5R0BF1JT/dsi-study-resources.pdf|DSI-study-resources.pdf>", 
+            "upload": true, 
+            "ts": "1496853711.803667", 
+            "subtype": "file_share", 
+            "user": "U3U145QLS", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C5KVBAA91"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5R0BF1JT", 
+                "size": 183687, 
+                "title": "DSI-study-resources.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5R0BF1JT/dsi-study-resources.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1496853710, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5R0BF1JT/download/dsi-study-resources.pdf", 
+                "user": "U3U145QLS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "DSI-study-resources.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5R0BF1JT-c1b390c414", 
+                "permalink": "https://gstudents.slack.com/files/admssns-victorvaldez/F5R0BF1JT/dsi-study-resources.pdf", 
+                "is_external": false, 
+                "created": 1496853710, 
+                "pinned_to": [
+                    "C5KVBAA91"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Hi!", 
+            "type": "message", 
+            "user": "U3LUKKUS0", 
+            "ts": "1496810716.406569"
+        }, 
+        {
+            "text": "<@U5QJFCW6A|pmou> has joined the channel", 
+            "type": "message", 
+            "user": "U5QJFCW6A", 
+            "ts": "1496809085.229403", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "for anyone that wants to join a sf study group e-mail me at <mailto:brendan.wong23@gmail.com|brendan.wong23@gmail.com>, i'll book a weekly study time! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U5L9720EQ", 
+            "ts": "1496806176.894351"
+        }, 
+        {
+            "text": "<https://github.com/zipfian/python-fundamentals>", 
+            "type": "message", 
+            "user": "U5NUF2LP2", 
+            "ts": "1496803588.592069"
+        }, 
+        {
+            "text": "<@U5PRYU9AR|khen> has joined the channel", 
+            "type": "message", 
+            "user": "U5PRYU9AR", 
+            "ts": "1496800422.196264", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5PLXCLSX|loriluttrell> has joined the channel", 
+            "type": "message", 
+            "user": "U5PLXCLSX", 
+            "ts": "1496799799.113834", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5QHC62A2|mattmirick> has joined the channel", 
+            "type": "message", 
+            "user": "U5QHC62A2", 
+            "ts": "1496799760.109039", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5NUF2LP2|raybhatia> has joined the channel", 
+            "type": "message", 
+            "user": "U5NUF2LP2", 
+            "ts": "1496778344.428111", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5PDJK9KM|scottohalloran> has joined the channel", 
+            "type": "message", 
+            "user": "U5PDJK9KM", 
+            "ts": "1496769567.199821", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5NR6CUN4|yasmeenchakrayapeta> has joined the channel", 
+            "type": "message", 
+            "user": "U5NR6CUN4", 
+            "ts": "1496768661.868619", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5NA5P18R|nkpng2k> has joined the channel", 
+            "type": "message", 
+            "user": "U5NA5P18R", 
+            "ts": "1496686871.317540", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5MKB0P4Y|vigneshram> has joined the channel", 
+            "type": "message", 
+            "user": "U5MKB0P4Y", 
+            "ts": "1496523444.753120", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5MJ6LJJD|jasonshi> has joined the channel", 
+            "type": "message", 
+            "user": "U5MJ6LJJD", 
+            "ts": "1496451950.098611", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5N6PLXB7|priyabhikha> has joined the channel", 
+            "type": "message", 
+            "user": "U5N6PLXB7", 
+            "ts": "1496439513.508976", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5MJGCMNE|jleyva82> has joined the channel", 
+            "type": "message", 
+            "user": "U5MJGCMNE", 
+            "ts": "1496377577.525758", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V8JJSF6|pamela> has joined the channel", 
+            "type": "message", 
+            "user": "U1V8JJSF6", 
+            "ts": "1496362395.700639", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5N13NC5U|cristine> has joined the channel", 
+            "type": "message", 
+            "user": "U5N13NC5U", 
+            "ts": "1496328742.942001", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5LRSPVPV|jennytang1224> has joined the channel", 
+            "type": "message", 
+            "user": "U5LRSPVPV", 
+            "ts": "1496290757.285657", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3U145QLS|admssns-victorvaldez> has joined the channel", 
+            "type": "message", 
+            "user": "U3U145QLS", 
+            "ts": "1496248840.236938", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5L9720EQ|brendanwong> has joined the channel", 
+            "type": "message", 
+            "user": "U5L9720EQ", 
+            "ts": "1496204405.875500", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5LSFM0JJ|lenorealford> has joined the channel", 
+            "type": "message", 
+            "user": "U5LSFM0JJ", 
+            "ts": "1496175225.699624", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5KC010QY|lakshminarayanan> has joined the channel", 
+            "type": "message", 
+            "user": "U5KC010QY", 
+            "ts": "1496173443.106513", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5LRX1P3Q|bkeskin> has joined the channel", 
+            "type": "message", 
+            "user": "U5LRX1P3Q", 
+            "ts": "1496173419.098868", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1YEKSK45|isaac.laughlin> has joined the channel", 
+            "ts": "1496172927.940754", 
+            "subtype": "channel_join", 
+            "user": "U1YEKSK45", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U3LUKKUS0|stevetjoa2> has joined the channel", 
+            "ts": "1496172927.940730", 
+            "subtype": "channel_join", 
+            "user": "U3LUKKUS0", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> set the channel purpose: Channel for the San Francisco Intro to Python Course beginning June 6, 2017", 
+            "ts": "1496172927.940718", 
+            "subtype": "channel_purpose", 
+            "user": "U3F1AHRHT", 
+            "type": "message", 
+            "purpose": "Channel for the San Francisco Intro to Python Course beginning June 6, 2017"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> has joined the channel", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1496172927.940506", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "sf_python_june_2017", 
+        "name": "sf_python_june_2017", 
+        "is_channel": true, 
+        "created": 1496172927, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U3F1AHRHT", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1496172927, 
+            "value": "Channel for the San Francisco Intro to Python Course beginning June 6, 2017", 
+            "creator": "U3F1AHRHT"
+        }, 
+        "members": [
+            "U1V8JJSF6", 
+            "U1YEKSK45", 
+            "U3F1AHRHT", 
+            "U3LUKKUS0", 
+            "U3PQYCL87", 
+            "U3U145QLS", 
+            "U5KC010QY", 
+            "U5L9720EQ", 
+            "U5LRSPVPV", 
+            "U5LRX1P3Q", 
+            "U5LSFM0JJ", 
+            "U5MJ6LJJD", 
+            "U5MJGCMNE", 
+            "U5MKB0P4Y", 
+            "U5N13NC5U", 
+            "U5N6PLXB7", 
+            "U5NA5P18R", 
+            "U5NR6CUN4", 
+            "U5NUF2LP2", 
+            "U5PDJK9KM", 
+            "U5PFUGZFA", 
+            "U5PLXCLSX", 
+            "U5PRYU9AR", 
+            "U5PTP3BUZ", 
+            "U5QGB05N0", 
+            "U5QHC62A2", 
+            "U5QJFCW6A", 
+            "U5RUEMPFH"
+        ], 
+        "id": "C5KVBAA91", 
+        "is_shared": false
+    }
+}

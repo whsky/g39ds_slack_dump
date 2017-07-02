@@ -1,0 +1,56 @@
+{
+    "messages": [
+        {
+            "text": "\"Know\" probably isn't the right word! I was tracking down tech recruiters in the Denver area...Man the tech scene here really is tight-knit!!  ", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489716867.440515"
+        }, 
+        {
+            "text": "hey i saw that you were connected to adam edwards on linked in, he use to be my fraternity president in college, how do you know him", 
+            "type": "message", 
+            "user": "U32PAG2TB", 
+            "ts": "1489691227.283531"
+        }, 
+        {
+            "text": "Rad, thanks bud!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487105342.000005"
+        }, 
+        {
+            "text": "This was that article I was thinking about", 
+            "type": "message", 
+            "user": "U32PAG2TB", 
+            "ts": "1487103443.000004"
+        }, 
+        {
+            "text": "<https://phys.org/news/2017-02-artificial-neural-network-simulate-quantum.html>", 
+            "type": "message", 
+            "user": "U32PAG2TB", 
+            "ts": "1487103422.000002", 
+            "attachments": [
+                {
+                    "image_bytes": 128122, 
+                    "title": "Researchers use artificial neural network to simulate a quantum many-body system", 
+                    "text": "(<http://Phys.org|Phys.org>)\u2014A pair of physicists with ETH Zurich has developed a way to use an artificial neural network to characterize the wave function of a quantum many-body system. In their paper published in the journal Science, Giuseppe Carleo and Matthias Troyer describe how they coaxed a neural network to simulate some aspects of a quantum many-body system. Michael Hush with the University of New South Wales offers a Perspectives piece on the work done by the pair in the same journal issue and also outlines the problems other researchers have faced when attempting to solve the same problem.", 
+                    "image_width": 380, 
+                    "title_link": "https://phys.org/news/2017-02-artificial-neural-network-simulate-quantum.html", 
+                    "image_height": 250, 
+                    "image_url": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/589dc36177917.jpg", 
+                    "service_name": "phys.org", 
+                    "id": 1, 
+                    "fallback": "Researchers use artificial neural network to simulate a quantum many-body system", 
+                    "service_icon": "https://cf3e497594.site.internapcdn.net/favicon.ico", 
+                    "from_url": "https://phys.org/news/2017-02-artificial-neural-network-simulate-quantum.html"
+                }
+            ]
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U32PAG2TB", 
+            "U34BY2K3K"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "text": "No worries.  So far it's felt like one of those weeks- haha.  Got caught up in the neural network homework so haven't had a chance to look at solutions yet, but I'm sure they'll have the answer!", 
+            "type": "message", 
+            "user": "U4GMP2JQP", 
+            "ts": "1493824745.727646"
+        }, 
+        {
+            "text": "Hey Jason, hopefully the solutions helped you through your question! If not, let me know and we can figure it out together...sorry to be short with you, but it was just one of those days.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493775903.435699"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U4GMP2JQP", 
+            "U34BY2K3K"
+        ]
+    }
+}

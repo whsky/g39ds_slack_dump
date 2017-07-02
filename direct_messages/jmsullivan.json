@@ -1,0 +1,104 @@
+{
+    "messages": [
+        {
+            "text": "You here today?  Maybe I'm just blind...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493825526.480336"
+        }, 
+        {
+            "text": "D'oh...nice.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493149349.193647"
+        }, 
+        {
+            "username": "jmsullivan", 
+            "display_as_bot": false, 
+            "text": "<@U4NRF2EE5|jmsullivan> uploaded a file: <https://gstudents.slack.com/files/jmsullivan/F53QQ8LEM/screen_shot_2017-04-25_at_1.27.39_pm.png|Screen Shot 2017-04-25 at 1.27.39 PM.png> and commented: If you were curious i needed to pass in the class name along with the function", 
+            "upload": true, 
+            "ts": "1493148512.777631", 
+            "subtype": "file_share", 
+            "user": "U4NRF2EE5", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "If you were curious i needed to pass in the class name along with the function", 
+                    "created": 1493148509, 
+                    "timestamp": 1493148509, 
+                    "is_intro": true, 
+                    "user": "U4NRF2EE5", 
+                    "id": "Fc54EQFX53"
+                }, 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F53QQ8LEM-9324a7d97d/screen_shot_2017-04-25_at_1.27.39_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F53QQ8LEM-9324a7d97d/screen_shot_2017-04-25_at_1.27.39_pm_64.png", 
+                "size": 33626, 
+                "original_h": 151, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-04-25 at 1.27.39 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F53QQ8LEM/screen_shot_2017-04-25_at_1.27.39_pm.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F53QQ8LEM-9324a7d97d/screen_shot_2017-04-25_at_1.27.39_pm_360.png", 
+                "id": "F53QQ8LEM", 
+                "ims": [
+                    "D54BRCCSG"
+                ], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F53QQ8LEM-9324a7d97d/screen_shot_2017-04-25_at_1.27.39_pm_80.png", 
+                "thumb_360_h": 85, 
+                "thumb_480_h": 114, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1493148509, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F53QQ8LEM-9324a7d97d/screen_shot_2017-04-25_at_1.27.39_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F53QQ8LEM/download/screen_shot_2017-04-25_at_1.27.39_pm.png", 
+                "user": "U4NRF2EE5", 
+                "image_exif_rotation": 1, 
+                "is_public": false, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-04-25 at 1.27.39 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F53QQ8LEM-329a2ccaa7", 
+                "permalink": "https://gstudents.slack.com/files/jmsullivan/F53QQ8LEM/screen_shot_2017-04-25_at_1.27.39_pm.png", 
+                "is_external": false, 
+                "created": 1493148509, 
+                "original_w": 638, 
+                "comments_count": 1, 
+                "mode": "hosted", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "this might help:\n<http://stackoverflow.com/questions/706721/how-do-i-pass-a-method-as-a-parameter-in-python>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493143435.061987", 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+                    "thumb_width": 316, 
+                    "title": "How do I pass a method as a parameter in Python", 
+                    "text": "Is it possible to pass a method as a parameter to a method? self.method2(self.method1) def method1(self): return 'hello world' def method2(self, methodToRun): result = methodToRun.call()...", 
+                    "title_link": "http://stackoverflow.com/questions/706721/how-do-i-pass-a-method-as-a-parameter-in-python", 
+                    "service_name": "stackoverflow.com", 
+                    "id": 1, 
+                    "fallback": "How do I pass a method as a parameter in Python", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+                    "from_url": "http://stackoverflow.com/questions/706721/how-do-i-pass-a-method-as-a-parameter-in-python"
+                }
+            ]
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U4NRF2EE5", 
+            "U34BY2K3K"
+        ]
+    }
+}

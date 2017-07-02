@@ -1,0 +1,598 @@
+{
+    "messages": [
+        {
+            "text": "<@U3NMFC8JX|tomgarrison> has left the channel", 
+            "type": "message", 
+            "user": "U3NMFC8JX", 
+            "ts": "1497545003.792925", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3NHAUUAJ|johng585> has left the channel", 
+            "type": "message", 
+            "user": "U3NHAUUAJ", 
+            "ts": "1496947667.399209", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "no", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1495584716.561500"
+        }, 
+        {
+            "text": "oh wait", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1495584715.561358"
+        }, 
+        {
+            "text": "scrollll up", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1495584706.559967"
+        }, 
+        {
+            "text": "Wait where is this list?", 
+            "type": "message", 
+            "user": "U3N4AHF5L", 
+            "ts": "1495584196.476379"
+        }, 
+        {
+            "text": "i thought I was cray", 
+            "type": "message", 
+            "user": "U3LJRBXTK", 
+            "ts": "1495577822.226716"
+        }, 
+        {
+            "text": "ah i just realized that too lol", 
+            "type": "message", 
+            "user": "U3LJRBXTK", 
+            "ts": "1495577809.223579"
+        }, 
+        {
+            "text": "nope wrong channel", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1495577775.215620"
+        }, 
+        {
+            "text": "wasn't there a list of who we are mentoring somewhere in here? I remember the two I had. Just wondering if something changed?", 
+            "type": "message", 
+            "user": "U3LJRBXTK", 
+            "ts": "1495577744.208523"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "charmander_dancing", 
+                    "users": [
+                        "U1Z9D27QD"
+                    ]
+                }
+            ], 
+            "text": "I could help for a sec. If he comes to the classroom.", 
+            "type": "message", 
+            "user": "U3MU3V24W", 
+            "ts": "1494878470.285227"
+        }, 
+        {
+            "text": "<!channel> anyone available today to help Jeff?", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494877903.071168"
+        }, 
+        {
+            "username": "johng585", 
+            "display_as_bot": false, 
+            "text": "<@U3NHAUUAJ|johng585> uploaded a file: <https://gstudents.slack.com/files/johng585/F5DMVP0CS/bf75e9a8bfd058039b9654bdecd3c714.jpg|bf75e9a8bfd058039b9654bdecd3c714>", 
+            "upload": true, 
+            "ts": "1494866492.748448", 
+            "subtype": "file_share", 
+            "user": "U3NHAUUAJ", 
+            "file": {
+                "thumb_480_w": 480, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "dancing_penguin", 
+                        "users": [
+                            "U3LB06KT2"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5DMVP0CS-e37b0371ac/bf75e9a8bfd058039b9654bdecd3c714_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5DMVP0CS-e37b0371ac/bf75e9a8bfd058039b9654bdecd3c714_64.jpg", 
+                "size": 32132, 
+                "original_h": 564, 
+                "thumb_360_w": 360, 
+                "title": "bf75e9a8bfd058039b9654bdecd3c714", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5DMVP0CS/bf75e9a8bfd058039b9654bdecd3c714.jpg", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5DMVP0CS-e37b0371ac/bf75e9a8bfd058039b9654bdecd3c714_360.jpg", 
+                "id": "F5DMVP0CS", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5DMVP0CS-e37b0371ac/bf75e9a8bfd058039b9654bdecd3c714_80.jpg", 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1494866487, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5DMVP0CS-e37b0371ac/bf75e9a8bfd058039b9654bdecd3c714_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5DMVP0CS/download/bf75e9a8bfd058039b9654bdecd3c714.jpg", 
+                "user": "U3NHAUUAJ", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "bf75e9a8bfd058039b9654bdecd3c714.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5DMVP0CS-7e5865c88f", 
+                "permalink": "https://gstudents.slack.com/files/johng585/F5DMVP0CS/bf75e9a8bfd058039b9654bdecd3c714.jpg", 
+                "is_external": false, 
+                "created": 1494866487, 
+                "original_w": 564, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C59LHBUB1"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "you can like do it to a mirror", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494866139.619172"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "break_it_down_penguin", 
+                    "users": [
+                        "U3LJRBXTK"
+                    ]
+                }
+            ], 
+            "text": "I HAVE SO MUCH TO SAY AND TEACH", 
+            "type": "message", 
+            "user": "U3NHAUUAJ", 
+            "ts": "1494865849.508683"
+        }, 
+        {
+            "text": "g49 is on break week as you guys know, so no mentorshipness for ya", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494865813.495160"
+        }, 
+        {
+            "text": "i\u2019m SO BORED OF BEING SICK", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494544251.888141"
+        }, 
+        {
+            "text": "btw i\u2019m coming in tmrw", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494544245.886960"
+        }, 
+        {
+            "text": "BUT THEN HOW WILL WE MAINTAIN OUR SECRETS WITHIN OUR SECRET CHANNEL", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494544239.885585"
+        }, 
+        {
+            "text": "sorry that was aggresive", 
+            "type": "message", 
+            "user": "U3LB06KT2", 
+            "ts": "1494544228.883788"
+        }, 
+        {
+            "text": "THROW THEM IN", 
+            "type": "message", 
+            "user": "U3LB06KT2", 
+            "ts": "1494544201.878563"
+        }, 
+        {
+            "text": "hahhahahaa", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494544185.875388"
+        }, 
+        {
+            "text": "\u2026the g49ers aren\u2019t in this channel ya dweebs.", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494544183.874931"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "charmander_dancing", 
+                    "users": [
+                        "U1Z9D27QD"
+                    ]
+                }
+            ], 
+            "text": "I can help with Phaser if people are making games and JS", 
+            "type": "message", 
+            "user": "U3NHAUUAJ", 
+            "ts": "1494518029.879549"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "awesome", 
+                    "users": [
+                        "U1Z9D27QD"
+                    ]
+                }
+            ], 
+            "text": "If anyone needs help let me know, I like JS and I like you people", 
+            "type": "message", 
+            "user": "U3LB06KT2", 
+            "ts": "1494517886.817486"
+        }, 
+        {
+            "thread_ts": "1494511535.998271", 
+            "text": "limawebdev: Feel better, Lisa! g44 was awesome and swung by yesterday &amp; we are thankful for their help!", 
+            "ts": "1494514363.234906", 
+            "user": "U2E7KENV8", 
+            "parent_user_id": "U1W6A7QLR", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494511535.998271", 
+            "subscribed": false, 
+            "text": "Hi you guys, sorry the mentor program has been completely unstructured due to me being sick. We\u2019ll start up next week. If you guys feel like it, you guys should see if anyone needs help and stuff like that. Thanks!", 
+            "ts": "1494511535.998271", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U1W6A7QLR", 
+            "replies": [
+                {
+                    "user": "U2E7KENV8", 
+                    "ts": "1494514363.234906"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "Hahaha woops", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494466963.986365"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U2E7KENV8"
+                    ]
+                }
+            ], 
+            "text": "Me too~", 
+            "type": "message", 
+            "user": "U3MMZBDM5", 
+            "ts": "1494463864.553526"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U2E7KENV8"
+                    ]
+                }
+            ], 
+            "text": "I took it lol", 
+            "type": "message", 
+            "user": "U3RBFD5GC", 
+            "ts": "1494463045.437235"
+        }, 
+        {
+            "text": "go find them on linkedin", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494275191.684454"
+        }, 
+        {
+            "text": "if you forget", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494275186.682691"
+        }, 
+        {
+            "text": "right", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494275184.681972"
+        }, 
+        {
+            "text": "OH", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494275183.681738"
+        }, 
+        {
+            "text": "It\u2019s times like this I wish I was good with names instead of just calling everyone \u201cman\u201d", 
+            "type": "message", 
+            "user": "U3NHAUUAJ", 
+            "ts": "1494275141.666219"
+        }, 
+        {
+            "text": "<!channel> please fill out this form so we can get you hooked up with people you like: <https://docs.google.com/forms/d/e/1FAIpQLScSlNkQsqGLQH-ayswsV-YnbBvzVmrlK3UdXPvNyHXssqpVdw/viewform?usp=sf_link>", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494275028.626463"
+        }, 
+        {
+            "text": "hi guys i know i forgot about the survey. i\u2019ll make it tommorow and send it out", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1494220898.588599"
+        }, 
+        {
+            "text": "WOO! g49 is excited!!", 
+            "type": "message", 
+            "user": "U2E7KENV8", 
+            "ts": "1493939578.088035"
+        }, 
+        {
+            "text": "Super excited about this!! Thank you all for jumping in to be awesome mentory-types to the noobs!!!", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1493935245.178253"
+        }, 
+        {
+            "text": "oh god there\u2019s a poop smoothie emoji", 
+            "type": "message", 
+            "user": "U3NHAUUAJ", 
+            "ts": "1493927842.763116"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "pumpgirl", 
+                    "users": [
+                        "U3NMFC8JX"
+                    ]
+                }, 
+                {
+                    "count": 2, 
+                    "name": "sandwich", 
+                    "users": [
+                        "U3MMZBDM5", 
+                        "U3RBFD5GC"
+                    ]
+                }
+            ], 
+            "text": "Foods!!!!! I'll be there.", 
+            "type": "message", 
+            "user": "U3NMFC8JX", 
+            "ts": "1493927189.529638"
+        }, 
+        {
+            "text": "also free lunch is provided", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1493926954.446483"
+        }, 
+        {
+            "text": "oh", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1493926951.445622"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "poopsmoothie", 
+                    "users": [
+                        "U3LKGEKHP"
+                    ]
+                }, 
+                {
+                    "count": 2, 
+                    "name": "skull", 
+                    "users": [
+                        "U3N4AHF5L", 
+                        "U3NMFC8JX"
+                    ]
+                }
+            ], 
+            "text": "I encourage you guys to mingle and figure out who you\u2019d ideally want to mentor. We\u2019ll be sending out a survey to match you guys up with people who you work well with. There aren\u2019t a whole lot of expectations but we\u2019ll go over what they are tomorrow.", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1493926442.267375"
+        }, 
+        {
+            "text": "<@U1Z9D27QD|tara.mclauchlan> has joined the channel", 
+            "ts": "1493926403.254224", 
+            "subtype": "channel_join", 
+            "user": "U1Z9D27QD", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U2E7KENV8|katieajenkins> has joined the channel", 
+            "ts": "1493926403.254215", 
+            "subtype": "channel_join", 
+            "user": "U2E7KENV8", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<!channel> Hi guys, so tomorrow at noon, meet in Quandary (g49's classroom). The structure will be Katie and I will introduce the program and then I would love it if you guys could introduce yourself, talk about what your goals are as a mentor/what your strengths are in the program, and also a technology that you\u2019d love pursuing outside of the current stack.", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1493926282.211673"
+        }, 
+        {
+            "text": "<@U3RBFD5GC|alexandratoo> has joined the channel", 
+            "ts": "1493920270.888623", 
+            "subtype": "channel_join", 
+            "user": "U3RBFD5GC", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U3S7KBRT3|robotsintheattic> has joined the channel", 
+            "ts": "1493920270.888590", 
+            "subtype": "channel_join", 
+            "user": "U3S7KBRT3", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U3LJRBXTK|144> has joined the channel", 
+            "ts": "1493920270.888578", 
+            "subtype": "channel_join", 
+            "user": "U3LJRBXTK", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U3MLWJQT0|jenniferwiner> has joined the channel", 
+            "ts": "1493920270.888563", 
+            "subtype": "channel_join", 
+            "user": "U3MLWJQT0", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U3NHAUUAJ|johng585> has joined the channel", 
+            "ts": "1493920270.888554", 
+            "subtype": "channel_join", 
+            "user": "U3NHAUUAJ", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U3MU3V24W|emilyringoen> has joined the channel", 
+            "ts": "1493920270.888521", 
+            "subtype": "channel_join", 
+            "user": "U3MU3V24W", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U3NMFC8JX|tomgarrison> has joined the channel", 
+            "ts": "1493920270.888501", 
+            "subtype": "channel_join", 
+            "user": "U3NMFC8JX", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U3N4AHF5L|tom-con> has joined the channel", 
+            "ts": "1493920270.888452", 
+            "subtype": "channel_join", 
+            "user": "U3N4AHF5L", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U3MJ2KVHB|tjcutt> has joined the channel", 
+            "ts": "1493920270.888434", 
+            "subtype": "channel_join", 
+            "user": "U3MJ2KVHB", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U3LB06KT2|matthewalbrecht> has joined the channel", 
+            "ts": "1493920269.888428", 
+            "subtype": "channel_join", 
+            "user": "U3LB06KT2", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U3LKGEKHP|ryanpfrazier> has joined the channel", 
+            "ts": "1493920269.888405", 
+            "subtype": "channel_join", 
+            "user": "U3LKGEKHP", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U3MMZBDM5|graciechristineli> has joined the channel", 
+            "ts": "1493920269.888358", 
+            "subtype": "channel_join", 
+            "user": "U3MMZBDM5", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "<@U1W6A7QLR|limawebdev> set the channel purpose: Mentorship channel", 
+            "ts": "1493920269.888339", 
+            "subtype": "channel_purpose", 
+            "user": "U1W6A7QLR", 
+            "type": "message", 
+            "purpose": "Mentorship channel"
+        }, 
+        {
+            "text": "<@U1W6A7QLR|limawebdev> has joined the channel", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1493920269.888177", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g44mentors", 
+        "name": "g44mentors", 
+        "is_channel": true, 
+        "created": 1493920269, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1W6A7QLR", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1493920270, 
+            "value": "Mentorship channel", 
+            "creator": "U1W6A7QLR"
+        }, 
+        "members": [
+            "U1W6A7QLR", 
+            "U1Z9D27QD", 
+            "U2E7KENV8", 
+            "U3LB06KT2", 
+            "U3LJRBXTK", 
+            "U3LKGEKHP", 
+            "U3MJ2KVHB", 
+            "U3MLWJQT0", 
+            "U3MMZBDM5", 
+            "U3MU3V24W", 
+            "U3N4AHF5L", 
+            "U3RBFD5GC", 
+            "U3S7KBRT3"
+        ], 
+        "id": "C59LHBUB1", 
+        "is_shared": false
+    }
+}

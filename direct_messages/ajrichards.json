@@ -1,0 +1,105 @@
+{
+    "messages": [
+        {
+            "text": "Likewise!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1490210729.232216"
+        }, 
+        {
+            "text": "Got it thanks! Looking forward to working with you.", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1490208549.163284"
+        }, 
+        {
+            "text": "Also, thanks again I am really looking forward to this opportunity!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1490200966.017048"
+        }, 
+        {
+            "text": "Just sent an email...but in case you see this first:\n<tel:(720)520-2798|(720) 520-2798>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1490200932.997555"
+        }, 
+        {
+            "text": "Hey what is your phone number?", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1490197098.736995"
+        }, 
+        {
+            "text": "thanks steve", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1486837370.000002"
+        }, 
+        {
+            "text": "Some cells mave be slightly out of order, and Erich helped on the filter col with NaNs...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1486774249.000004"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F442P4U1Z/ml-spark-case-study.ipynb|ML-spark-case-study.ipynb>", 
+            "upload": true, 
+            "ts": "1486774208.000003", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 1453, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F442P4U1Z", 
+                "size": 70311, 
+                "title": "ML-spark-case-study.ipynb", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F442P4U1Z/ml-spark-case-study.ipynb", 
+                "ims": [
+                    "D447AH1D3"
+                ], 
+                "preview": "{\n \"cells\": [\n  {\n   \"cell_type\": \"code\",\n   \"execution_count\": 1,", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/whsky/F442P4U1Z/ml-spark-case-study.ipynb/edit", 
+                "username": "", 
+                "timestamp": 1486774207, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F442P4U1Z/download/ml-spark-case-study.ipynb", 
+                "user": "U34BY2K3K", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Plain Text", 
+                "name": "ML-spark-case-study.ipynb", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F442P4U1Z-3315c32cd9", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F442P4U1Z/ml-spark-case-study.ipynb", 
+                "is_external": false, 
+                "created": 1486774207, 
+                "lines": 1458, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>{</pre></div>\n<div><pre> &quot;cells&quot;: [</pre></div>\n<div><pre>  {</pre></div>\n<div><pre>   &quot;cell_type&quot;: &quot;code&quot;,</pre></div>\n<div><pre>   &quot;execution_count&quot;: 1,</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "here's my (messy) Jupyter notebook for the pySpark ML:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1486774202.000002"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U1Z90HJG3", 
+            "U34BY2K3K"
+        ]
+    }
+}

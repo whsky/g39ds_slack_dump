@@ -1,0 +1,970 @@
+{
+    "messages": [
+        {
+            "text": "<@U1TU3PLMB|katieparker> archived the channel", 
+            "ts": "1485967380.000002", 
+            "subtype": "channel_archive", 
+            "user": "U1TU3PLMB", 
+            "members": [
+                "U1TU3PLMB", 
+                "U1ZBME0TY", 
+                "U1ZC1BCNM", 
+                "U1ZDCU2LT", 
+                "U20HADQN4", 
+                "U20S8BY2K", 
+                "U210DFHT9", 
+                "U21GHF058", 
+                "U25274V33", 
+                "U2529J64X", 
+                "U252BN3M4", 
+                "U259NEYT0", 
+                "U25UQDZGE", 
+                "U25VD4TEF", 
+                "U262YUENT", 
+                "U263A62CR", 
+                "U26FC2D1U", 
+                "U26JSR0ER", 
+                "U2736P9PG", 
+                "U27DSPTN0", 
+                "U280QVB19", 
+                "U2823266L", 
+                "U28RX9WFR", 
+                "U28S4BX6J"
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1ZC0JA3E|jtorrez> has left the channel", 
+            "type": "message", 
+            "user": "U1ZC0JA3E", 
+            "ts": "1483560399.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "Indeed...", 
+            "type": "message", 
+            "user": "U25VD4TEF", 
+            "ts": "1480982157.000015"
+        }, 
+        {
+            "text": "So we're determined to use this slack until the bitter end?", 
+            "type": "message", 
+            "user": "U21GHF058", 
+            "ts": "1480980148.000014"
+        }, 
+        {
+            "text": "<https://www.youtube.com/watch?v=Gx_GK9GDNVs>", 
+            "type": "message", 
+            "user": "U25VD4TEF", 
+            "ts": "1480975171.000012", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/channel/UCqqIH7W-hvESaGdbY46q-4Q", 
+                    "service_name": "YouTube", 
+                    "title": "\u7a7fV\u9886\u7684\u7537\u4eba\u5982\u6b64\u5e05 \u5973\u4eba\u4eec\u5b8c\u5168\u53d7\u4e0d\u4e86", 
+                    "video_html_height": 225, 
+                    "author_name": "Bo Yang", 
+                    "title_link": "https://www.youtube.com/watch?v=Gx_GK9GDNVs", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/Gx_GK9GDNVs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: \u7a7fV\u9886\u7684\u7537\u4eba\u5982\u6b64\u5e05 \u5973\u4eba\u4eec\u5b8c\u5168\u53d7\u4e0d\u4e86", 
+                    "thumb_url": "https://i.ytimg.com/vi/Gx_GK9GDNVs/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=Gx_GK9GDNVs"
+                }
+            ]
+        }, 
+        {
+            "text": "good call", 
+            "type": "message", 
+            "user": "U2736P9PG", 
+            "ts": "1480971683.000011"
+        }, 
+        {
+            "text": "So, all these messages are going to be deleted in a few hours. Not many people seem to have joined the <#C1XK3NE3B|sea_ds_sept_2016> channel in gAlumni yet, but I suggest we post our messages there starting now.", 
+            "type": "message", 
+            "user": "U28RX9WFR", 
+            "ts": "1480969775.000010"
+        }, 
+        {
+            "text": "the google drive folder contains the files we created during today\u2019s scrum (group assignments, interview questions tracker, etc)", 
+            "type": "message", 
+            "user": "U2736P9PG", 
+            "ts": "1480966487.000009"
+        }, 
+        {
+            "text": "<https://drive.google.com/drive/folders/0B8ebWt6os-ryLUJWR0ZfbU9MTjA?usp=sharing>", 
+            "type": "message", 
+            "user": "U2736P9PG", 
+            "ts": "1480966369.000007"
+        }, 
+        {
+            "text": "here\u2019s the calendar ID that you can use to add the group calendar", 
+            "type": "message", 
+            "user": "U2736P9PG", 
+            "ts": "1480966337.000006"
+        }, 
+        {
+            "text": "<mailto:ssg3bmqth6tukio2db1rff27nk@group.calendar.google.com|ssg3bmqth6tukio2db1rff27nk@group.calendar.google.com>", 
+            "type": "message", 
+            "user": "U2736P9PG", 
+            "ts": "1480966327.000005"
+        }, 
+        {
+            "text": "(Dug up from a month ago)", 
+            "type": "message", 
+            "user": "U28RX9WFR", 
+            "ts": "1480966326.000004"
+        }, 
+        {
+            "username": "morgan", 
+            "display_as_bot": false, 
+            "text": "<@U28RX9WFR|morgan> uploaded a file: <https://gstudents.slack.com/files/morgan/F3APFBN8K/img_20161103_165115936.jpg|IMG_20161103_165115936.jpg>", 
+            "upload": true, 
+            "ts": "1480966314.000003", 
+            "subtype": "file_share", 
+            "user": "U28RX9WFR", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3APFBN8K-6136d3bdf3/img_20161103_165115936_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3APFBN8K-6136d3bdf3/img_20161103_165115936_64.jpg", 
+                "size": 1401958, 
+                "original_h": 1944, 
+                "thumb_360_w": 360, 
+                "title": "IMG_20161103_165115936.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3APFBN8K/img_20161103_165115936.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3APFBN8K-6136d3bdf3/img_20161103_165115936_360.jpg", 
+                "id": "F3APFBN8K", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3APFBN8K-6136d3bdf3/img_20161103_165115936_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1480966309, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3APFBN8K-6136d3bdf3/img_20161103_165115936_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3APFBN8K/download/img_20161103_165115936.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F3APFBN8K-6136d3bdf3/img_20161103_165115936_1024.jpg", 
+                "user": "U28RX9WFR", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F3APFBN8K-6136d3bdf3/img_20161103_165115936_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_20161103_165115936.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3APFBN8K-9c25687f8d", 
+                "permalink": "https://gstudents.slack.com/files/morgan/F3APFBN8K/img_20161103_165115936.jpg", 
+                "is_external": false, 
+                "created": 1480966309, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 2592, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F3APFBN8K-6136d3bdf3/img_20161103_165115936_720.jpg", 
+                "channels": [
+                    "C2G3R09N1"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "morgan", 
+            "display_as_bot": false, 
+            "text": "<@U28RX9WFR|morgan> uploaded a file: <https://gstudents.slack.com/files/morgan/F3ATNFPBN/img_20161103_165106634.jpg|IMG_20161103_165106634.jpg>", 
+            "upload": true, 
+            "ts": "1480966270.000002", 
+            "subtype": "file_share", 
+            "user": "U28RX9WFR", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3ATNFPBN-cbb8fd3a2b/img_20161103_165106634_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3ATNFPBN-cbb8fd3a2b/img_20161103_165106634_64.jpg", 
+                "size": 1180473, 
+                "original_h": 1944, 
+                "thumb_360_w": 360, 
+                "title": "IMG_20161103_165106634.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3ATNFPBN/img_20161103_165106634.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3ATNFPBN-cbb8fd3a2b/img_20161103_165106634_360.jpg", 
+                "id": "F3ATNFPBN", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3ATNFPBN-cbb8fd3a2b/img_20161103_165106634_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1480966266, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3ATNFPBN-cbb8fd3a2b/img_20161103_165106634_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3ATNFPBN/download/img_20161103_165106634.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F3ATNFPBN-cbb8fd3a2b/img_20161103_165106634_1024.jpg", 
+                "user": "U28RX9WFR", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F3ATNFPBN-cbb8fd3a2b/img_20161103_165106634_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_20161103_165106634.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3ATNFPBN-87b142c5f0", 
+                "permalink": "https://gstudents.slack.com/files/morgan/F3ATNFPBN/img_20161103_165106634.jpg", 
+                "is_external": false, 
+                "created": 1480966266, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 2592, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F3ATNFPBN-cbb8fd3a2b/img_20161103_165106634_720.jpg", 
+                "channels": [
+                    "C2G3R09N1"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "more for the js side of things, but love the deployment :slightly_smiling_face: <http://jort.technology/>", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1480605147.000014"
+        }, 
+        {
+            "text": "I needed this giggle today: <https://www.mcsweeneys.net/articles/post-election-college-paper-grading-rubric>", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1479223143.000012", 
+            "attachments": [
+                {
+                    "image_bytes": 9756, 
+                    "title": "Post-Election College Paper Grading Rubric", 
+                    "service_name": "McSweeney's Internet Tendency", 
+                    "image_width": 170, 
+                    "title_link": "https://www.mcsweeneys.net/articles/post-election-college-paper-grading-rubric", 
+                    "image_height": 250, 
+                    "image_url": "https://www.mcsweeneys.net/assets/chair-smooth-553f71f12b286fffd3411a9885b59fffe35a4af74b2abd452122bd93c1705fed.png", 
+                    "text": "Dear Students, Because I can no longer claim with any credibility that reading, writing, and critical thinking are essential skills for 21st-cen...", 
+                    "id": 1, 
+                    "fallback": "McSweeney's Internet Tendency: Post-Election College Paper Grading Rubric", 
+                    "service_icon": "https://www.mcsweeneys.net/apple-touch-icon-57x57.png", 
+                    "from_url": "https://www.mcsweeneys.net/articles/post-election-college-paper-grading-rubric"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "tulip", 
+                    "users": [
+                        "U2529J64X"
+                    ]
+                }
+            ], 
+            "text": "For those of you wondering what to do going forward after this election, Amsterdam welcomes you... <https://www.facebook.com/events/314217275643282/>", 
+            "type": "message", 
+            "user": "U21GHF058", 
+            "ts": "1478799254.000011"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "beers", 
+                    "users": [
+                        "U2529J64X", 
+                        "U1ZBME0TY", 
+                        "U210DFHT9"
+                    ]
+                }
+            ], 
+            "text": "I'd probably be just as happy watching it here and drinking a Galvanize beer tonight", 
+            "type": "message", 
+            "user": "U21GHF058", 
+            "ts": "1478625330.000010"
+        }, 
+        {
+            "text": "No, you don't have to RSVP", 
+            "type": "message", 
+            "user": "U21GHF058", 
+            "ts": "1478625301.000009"
+        }, 
+        {
+            "text": "I\u2019m cool with awhile out at that party. I\u2019m not a late-night person, so hoping that it\u2019s a landslide in the correct direction (for me) :wink:", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1478622352.000008"
+        }, 
+        {
+            "text": "I\u2019ll probably go to the Stranger one with y\u2019all. To be clear, you don\u2019t have to RSVP for it right?", 
+            "type": "message", 
+            "user": "U28RX9WFR", 
+            "ts": "1478584149.000007"
+        }, 
+        {
+            "text": "I\u2019m up for an election night get together. The party that David found sounds like it could be fun .. and it\u2019s free. I wouldn\u2019t stay for the whole thing though, because I\u2019m too freaking old to be up that late.", 
+            "type": "message", 
+            "user": "U1ZBME0TY", 
+            "ts": "1478550819.000006"
+        }, 
+        {
+            "text": "<http://www.thestranger.com/events/24598255/the-strangers-election-night-party-with-dan-savage>", 
+            "type": "message", 
+            "user": "U21GHF058", 
+            "ts": "1478544865.000004", 
+            "attachments": [
+                {
+                    "image_bytes": 77873, 
+                    "title": "The Stranger\u2019s Election Night Party with Dan Savage at The Showbox in Seattle, WA on Tues Nov 8 at 4 pm-1 am - Seattle Election Events Calendar - The Stranger", 
+                    "service_name": "The Stranger", 
+                    "image_width": 425, 
+                    "title_link": "http://www.thestranger.com/events/24598255/the-strangers-election-night-party-with-dan-savage", 
+                    "image_height": 250, 
+                    "image_url": "http://media1.fdncms.com/stranger/imager/u/original/24598252/elect.jpg", 
+                    "text": "You\u2019ll already be drinking on election night, so wouldn\u2019t you rather be drinking and watching live, unfettered democracy with Dan Savage and the Stranger Election Control Board? They\u2019ll be working like little elves, slogging election results while you get to relax (ha!) with a beer in your hand and watch the future of the country unfold live on a big screen. What could be more American than that? (Plus, you can bite your nails about the results for the carbon tax, light rail, and the governor\u2019s race.) You\u2019ll either be cheering or crying, but at least you\u2019ll be drunk. JENN CAMPBELL.The Stranger\u2019s Election Night Party with Dan Savage,The Showbox, Seattle, WA, Tues Nov 8 at 4 pm-1 am", 
+                    "id": 1, 
+                    "fallback": "The Stranger: The Stranger\u2019s Election Night Party with Dan Savage at The Showbox in Seattle, WA on Tues Nov 8 at 4 pm-1 am - Seattle Election Events Calendar - The Stranger", 
+                    "service_icon": "http://www.thestranger.com/images/mobile/touchicons/default/touch-icon-60.png", 
+                    "from_url": "http://www.thestranger.com/events/24598255/the-strangers-election-night-party-with-dan-savage"
+                }
+            ]
+        }, 
+        {
+            "text": "and friends\u2026 :wink:", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1478541625.000003"
+        }, 
+        {
+            "text": "People still interested in an Election returns hang-out? I\u2019d like to be someplace with a beverage tomorrow evening :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1478541617.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "+1", 
+                    "users": [
+                        "U20S8BY2K", 
+                        "U27DSPTN0", 
+                        "U2823266L"
+                    ]
+                }
+            ], 
+            "text": "<https://github.com/zipfian/interview-prep/blob/master/review/Model_Comparison_Guide.md>", 
+            "type": "message", 
+            "user": "U1ZC0JA3E", 
+            "ts": "1478188384.000002"
+        }, 
+        {
+            "text": "For those interested in TensorFlow", 
+            "type": "message", 
+            "user": "U28RX9WFR", 
+            "ts": "1477546361.000003"
+        }, 
+        {
+            "text": "<https://events.withgoogle.com/tensorflow-workshop-sea/>", 
+            "type": "message", 
+            "user": "U28RX9WFR", 
+            "ts": "1477546344.000002"
+        }, 
+        {
+            "text": "Open Seattle meetup tomorrow: <https://www.meetup.com/openseattle/events/234835798/>\n\nLightning talks will include\nHey Duwamish \u2013 \nIDEO Outpost Seattle \u2013 Mathias Burton\nSeattle Broadband Speed Test - An Open Data Exploration \u2013 George Richardson\nRedacted police video \u2013 Kyle Hall\nSpokin \u2013 Shelly Farnham\nOpen Data Network \u2013 Chris Metcalf\nOpen Seattle documentation \u2013 Seth Vincent\nand possibly a talk on sentiment analysis of political talk on Twitter using Algorithmia", 
+            "type": "message", 
+            "user": "U21GHF058", 
+            "ts": "1477426244.000002", 
+            "attachments": [
+                {
+                    "thumb_height": 1000, 
+                    "service_icon": "https://a248.e.akamai.net/secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+                    "thumb_width": 1000, 
+                    "title": "Open Seattle", 
+                    "service_name": "Meetup", 
+                    "title_link": "https://www.meetup.com/openseattle/events/234835798/", 
+                    "text": "Talks Hey Duwamish \u2013&amp;nbsp;IDEO Outpost Seattle \u2013 Mathias BurtonSeattle Broadband Speed Test - An Open Data Exploration \u2013 George RichardsonRedacted police video \u2013 Kyle HallSpokin \u2013 Shelly Farnham", 
+                    "id": 1, 
+                    "fallback": "Meetup: Open Seattle", 
+                    "thumb_url": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/a/b/1/highres_445659601.jpeg", 
+                    "from_url": "https://www.meetup.com/openseattle/events/234835798/"
+                }
+            ]
+        }, 
+        {
+            "text": "I'm in for election night get together", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1477145810.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U25VD4TEF"
+                    ]
+                }
+            ], 
+            "text": "The Blerch identifies with those of all shapes\u2026. :wink:", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1476992467.000010"
+        }, 
+        {
+            "text": "That Blerchy run sounds fun, but ZOMG I will be out of shape by then :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U25VD4TEF", 
+            "ts": "1476985845.000009"
+        }, 
+        {
+            "text": "I\u2019m up for both an election night get together and the Blerchy fun run in December.", 
+            "type": "message", 
+            "user": "U1ZBME0TY", 
+            "ts": "1476984113.000008"
+        }, 
+        {
+            "text": "I know a lot of you follow the Oatmeal\u2026and Oat\u2019s love/hate relationship with running: <http://theoatmeal.com/comics/running>", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1476981294.000006", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "http://theoatmeal.com/favicon.ico", 
+                    "thumb_width": 200, 
+                    "title": "The terrible and wonderful reasons why I run long distances - The Oatmeal", 
+                    "service_name": "The Oatmeal", 
+                    "title_link": "http://theoatmeal.com/comics/running", 
+                    "text": "The terrible and wonderful reasons why I run long distances.", 
+                    "id": 1, 
+                    "fallback": "The Oatmeal: The terrible and wonderful reasons why I run long distances - The Oatmeal", 
+                    "thumb_url": "http://s3.amazonaws.com/theoatmeal-img/thumbnails/running.png", 
+                    "from_url": "http://theoatmeal.com/comics/running"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U28RX9WFR"
+                    ]
+                }
+            ], 
+            "text": "Also, any interest in celebrating graduation in December with a 5k or 10k at Beat the Blerch Holiday Fun Run? <https://www.eventbrite.com/e/beat-the-blerch-holiday-green-lake-fun-run-registration-28168512780?aff=erelexpmlt>", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1476981222.000005"
+        }, 
+        {
+            "text": "Yes, I\u2019d love to get together election night at a pub or the likes.", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1476981179.000004"
+        }, 
+        {
+            "text": "^^  Would have loved to, but I was at the UW thing. Perhaps folks from the cohort should have an election night get together?", 
+            "type": "message", 
+            "user": "U25VD4TEF", 
+            "ts": "1476937189.000003"
+        }, 
+        {
+            "text": "Anyone interested in watching debating (if we can call it that) happen tonight?", 
+            "type": "message", 
+            "user": "U21GHF058", 
+            "ts": "1476917652.000002"
+        }, 
+        {
+            "text": "<!group> Just realized that I titled ya\u2019ll as the Web Dev cohort. Your channel is now correctly titled", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1476303979.000009"
+        }, 
+        {
+            "name": "students_sea5", 
+            "text": "<@U1TU3PLMB|katieparker> has renamed the channel from \"students_g34\" to \"students_sea5\"", 
+            "ts": "1476303955.000008", 
+            "subtype": "channel_name", 
+            "user": "U1TU3PLMB", 
+            "old_name": "students_g34", 
+            "type": "message"
+        }, 
+        {
+            "text": "Wind map for our area on Saturday: <https://www.ventusky.com/?p=44.7;-126.6;4&amp;l=gust&amp;t=20161015/21&amp;w=0xIAb9A9A>", 
+            "type": "message", 
+            "user": "U2823266L", 
+            "ts": "1476303869.000006", 
+            "attachments": [
+                {
+                    "image_bytes": 160934, 
+                    "title": "Weather Forecast Maps", 
+                    "text": "Animated wind, rain and temperature maps, detailed forecast for your place, data from the best weather forecast models such as GFS, ICON, GEM", 
+                    "image_width": 476, 
+                    "title_link": "https://www.ventusky.com/?p=44.7;-126.6;4&l=gust&t=20161015/21&w=0xIAb9A9A", 
+                    "image_height": 250, 
+                    "image_url": "https://www.ventusky.com/images/social.jpg", 
+                    "service_name": "Ventusky", 
+                    "id": 1, 
+                    "fallback": "Weather Forecast Maps", 
+                    "service_icon": "https://www.ventusky.com/images/custom_icon.png", 
+                    "from_url": "https://www.ventusky.com/?p=44.7;-126.6;4&l=gust&t=20161015/21&w=0xIAb9A9A"
+                }
+            ]
+        }, 
+        {
+            "text": "Big storm likely to make things interesting this weekend: <http://cliffmass.blogspot.com/2016/10/warming-major-storms-threaten-pacific.html>", 
+            "type": "message", 
+            "user": "U2823266L", 
+            "ts": "1476303837.000004", 
+            "attachments": [
+                {
+                    "image_bytes": 83779, 
+                    "title": "Warning:  Major Storms Threaten the Pacific Northwest", 
+                    "text": "Starting Thursday, we will enter a period of extraordinarily active weather with the potential for heavy rain, flooding, and a highly danger...", 
+                    "image_width": 476, 
+                    "title_link": "http://cliffmass.blogspot.com/2016/10/warming-major-storms-threaten-pacific.html", 
+                    "image_height": 250, 
+                    "image_url": "https://2.bp.blogspot.com/-qxfpsSjCuUc/V_28NM32ZxI/AAAAAAAAnKA/EHXhHJlGEx8yUoaYdKYsksEdXrRQIDj0ACLcB/w1200-h630-p-nu/slp.48.0000%2B%25281%2529.gif", 
+                    "service_name": "cliffmass.blogspot.com", 
+                    "id": 1, 
+                    "fallback": "Warning:  Major Storms Threaten the Pacific Northwest", 
+                    "service_icon": "http://cliffmass.blogspot.com/favicon.ico", 
+                    "from_url": "http://cliffmass.blogspot.com/2016/10/warming-major-storms-threaten-pacific.html"
+                }
+            ]
+        }, 
+        {
+            "text": "p hacking: <http://projects.fivethirtyeight.com/p-hacking/>", 
+            "type": "message", 
+            "user": "U259NEYT0", 
+            "ts": "1476219070.000003"
+        }, 
+        {
+            "text": "This needs tweaking but a good example of showing the images of the digits dataset <http://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html>", 
+            "type": "message", 
+            "user": "U263A62CR", 
+            "ts": "1476209596.000002"
+        }, 
+        {
+            "text": "In the lab getting some work done if anyone was thinking about heading in. Will be here til about 4pm", 
+            "type": "message", 
+            "user": "U1ZC0JA3E", 
+            "ts": "1475953291.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U28RX9WFR"
+                    ]
+                }
+            ], 
+            "text": "For anyone who is interested in collaboration with WebDevel students but wasn't able to join us yesterday, we have a slack channel now. Just join sea_webscience if you're interested in joining the conversation.", 
+            "type": "message", 
+            "user": "U21GHF058", 
+            "ts": "1475767066.000002"
+        }, 
+        {
+            "text": "<@U26JSR0ER> <@U210DFHT9> <@U25274V33>  and anyone else who is interested, sounds like 5 pm in the 2nd floor classroom.", 
+            "type": "message", 
+            "user": "U21GHF058", 
+            "ts": "1475710705.000007"
+        }, 
+        {
+            "text": "me too!", 
+            "type": "message", 
+            "user": "U25274V33", 
+            "ts": "1475693986.000006"
+        }, 
+        {
+            "text": "Keep me in the loop too", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1475688383.000005"
+        }, 
+        {
+            "text": "Keep me in the loop too!", 
+            "type": "message", 
+            "user": "U26FC2D1U", 
+            "ts": "1475687527.000004"
+        }, 
+        {
+            "text": "definitely keep me in the loop - I\u2019m always up for collaboration.", 
+            "type": "message", 
+            "user": "U26JSR0ER", 
+            "ts": "1475686592.000003"
+        }, 
+        {
+            "text": "Some of the full stack students are meeting today at about 5 to talk about ideas for things to work on outside of class projects. If anyone is interested in collaboration, they'd really like us to join in. Let me know and I'll keep you in the loop.", 
+            "type": "message", 
+            "user": "U21GHF058", 
+            "ts": "1475686516.000002"
+        }, 
+        {
+            "text": "I registered for that meetup too. Easy to do the ones hosted at Galvanize :wink:", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1475426892.000010"
+        }, 
+        {
+            "text": "Same here!", 
+            "type": "message", 
+            "user": "U28RX9WFR", 
+            "ts": "1475423551.000009"
+        }, 
+        {
+            "text": "I'm headed to this meetup at Galvanize on 10/11.  \n<https://www.meetup.com/Seattle-Data-Science/events/234179487/>", 
+            "type": "message", 
+            "user": "U25VD4TEF", 
+            "ts": "1475374661.000007", 
+            "attachments": [
+                {
+                    "thumb_height": 187, 
+                    "service_icon": "https://a248.e.akamai.net/secure.meetupstatic.com/s/img/79700127549998368490/m/ios/m_swarm_120.png", 
+                    "thumb_width": 375, 
+                    "title": "Seattle Data Science", 
+                    "service_name": "Meetup", 
+                    "title_link": "https://www.meetup.com/Seattle-Data-Science/events/234179487/", 
+                    "text": "IMPORTANT: Please RSVP via Eventbrite to this event HERE. Come down to Galvanize for a series of thought-provoking talks on data science and applications. For this event, we have two excellent speak", 
+                    "id": 1, 
+                    "fallback": "Meetup: Seattle Data Science", 
+                    "thumb_url": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/4/d/e/6/highres_450139942.jpeg", 
+                    "from_url": "https://www.meetup.com/Seattle-Data-Science/events/234179487/"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U25VD4TEF"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "http://varianceexplained.org/images/apple-touch-icon-precomposed.png", 
+                    "thumb_width": 200, 
+                    "title": "Text analysis of Trump's tweets confirms he writes only the (angrier) Android half", 
+                    "service_name": "Variance Explained", 
+                    "title_link": "http://varianceexplained.org/r/trump-tweets/", 
+                    "text": "I don\u2019t normally post about politics (I\u2019m not particularly savvy about polling, which is where data science has had the largest impact on politics). But this weekend I saw a hypothesis about Donald Trump\u2019s twitter account that simply begged to be investigated with data:", 
+                    "id": 1, 
+                    "fallback": "Variance Explained: Text analysis of Trump's tweets confirms he writes only the (angrier) Android half", 
+                    "thumb_url": "http://varianceexplained.org/images/default-thumb.png", 
+                    "from_url": "http://varianceexplained.org/r/trump-tweets/"
+                }
+            ], 
+            "text": "Interesting tweet sentiment analysis using device type as a screening tool for whom wrote tweets associated with the campaign. Code included in part in text and with a link to full code. <http://varianceexplained.org/r/trump-tweets/>", 
+            "ts": "1475331225.000005", 
+            "user": "U210DFHT9", 
+            "type": "message"
+        }, 
+        {
+            "text": "I'll be there. Miles is often there, and I think Hutch is there sometimes.", 
+            "type": "message", 
+            "user": "U21GHF058", 
+            "ts": "1475192282.000004"
+        }, 
+        {
+            "text": "Anyone else going to this tonight? <https://www.meetup.com/PSPPython/events/233555660/>", 
+            "type": "message", 
+            "user": "U28RX9WFR", 
+            "ts": "1475180093.000002", 
+            "attachments": [
+                {
+                    "thumb_height": 137, 
+                    "service_icon": "https://a248.e.akamai.net/secure.meetupstatic.com/s/img/79700127549998368490/m/ios/m_swarm_120.png", 
+                    "thumb_width": 215, 
+                    "title": "Puget Sound Programming Python (PuPPy)", 
+                    "service_name": "Meetup", 
+                    "title_link": "https://www.meetup.com/PSPPython/events/233555660/", 
+                    "text": "*Note: We will be meeting in the 4th Floor Harbor conference room (the large room next to the kitchen)* Hello Pythonista! Come to work on your Python project, join a project, discuss Python-things", 
+                    "id": 1, 
+                    "fallback": "Meetup: Puget Sound Programming Python (PuPPy)", 
+                    "thumb_url": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/2/f/d/c/highres_433332252.jpeg", 
+                    "from_url": "https://www.meetup.com/PSPPython/events/233555660/"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U25CT20EA|jjbouley> has left the channel", 
+            "type": "message", 
+            "user": "U25CT20EA", 
+            "ts": "1474918626.000029", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U20S8BY2K|zgreyn> has joined the channel", 
+            "ts": "1474918318.000028", 
+            "subtype": "channel_join", 
+            "user": "U20S8BY2K", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U1ZBME0TY|sydney.decoto> has joined the channel", 
+            "ts": "1474918318.000027", 
+            "subtype": "channel_join", 
+            "user": "U1ZBME0TY", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U210DFHT9|ophiolite> has joined the channel", 
+            "ts": "1474918318.000026", 
+            "subtype": "channel_join", 
+            "user": "U210DFHT9", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U25UQDZGE|seansweeney> has joined the channel", 
+            "ts": "1474918317.000025", 
+            "subtype": "channel_join", 
+            "user": "U25UQDZGE", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U252BN3M4|scott_pavlow> has joined the channel", 
+            "ts": "1474918317.000024", 
+            "subtype": "channel_join", 
+            "user": "U252BN3M4", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U2736P9PG|salmank09> has joined the channel", 
+            "ts": "1474918317.000023", 
+            "subtype": "channel_join", 
+            "user": "U2736P9PG", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U263A62CR|robjwentworth> has joined the channel", 
+            "ts": "1474918317.000022", 
+            "subtype": "channel_join", 
+            "user": "U263A62CR", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U20HADQN4|rfriel> has joined the channel", 
+            "ts": "1474918317.000021", 
+            "subtype": "channel_join", 
+            "user": "U20HADQN4", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U1ZC1BCNM|rob-dalton> has joined the channel", 
+            "ts": "1474918317.000020", 
+            "subtype": "channel_join", 
+            "user": "U1ZC1BCNM", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U25VD4TEF|nickbuker> has joined the channel", 
+            "ts": "1474918316.000019", 
+            "subtype": "channel_join", 
+            "user": "U25VD4TEF", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U2529J64X|kathy> has joined the channel", 
+            "ts": "1474918316.000018", 
+            "subtype": "channel_join", 
+            "user": "U2529J64X", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U1ZC0JA3E|jtorrez> has joined the channel", 
+            "ts": "1474918316.000017", 
+            "subtype": "channel_join", 
+            "user": "U1ZC0JA3E", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U25CT20EA|jjbouley> has joined the channel", 
+            "ts": "1474918316.000016", 
+            "subtype": "channel_join", 
+            "user": "U25CT20EA", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U28S4BX6J|jared_jacobsen> has joined the channel", 
+            "ts": "1474918316.000015", 
+            "subtype": "channel_join", 
+            "user": "U28S4BX6J", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U259NEYT0|jhillyard> has joined the channel", 
+            "ts": "1474918316.000014", 
+            "subtype": "channel_join", 
+            "user": "U259NEYT0", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U1ZDCU2LT|grr> has joined the channel", 
+            "ts": "1474918315.000013", 
+            "subtype": "channel_join", 
+            "user": "U1ZDCU2LT", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U262YUENT|daroza> has joined the channel", 
+            "ts": "1474918315.000012", 
+            "subtype": "channel_join", 
+            "user": "U262YUENT", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U26JSR0ER|coradek> has joined the channel", 
+            "ts": "1474918315.000011", 
+            "subtype": "channel_join", 
+            "user": "U26JSR0ER", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U27DSPTN0|dmayeda> has joined the channel", 
+            "ts": "1474918315.000010", 
+            "subtype": "channel_join", 
+            "user": "U27DSPTN0", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U21GHF058|dvalpey> has joined the channel", 
+            "ts": "1474918314.000009", 
+            "subtype": "channel_join", 
+            "user": "U21GHF058", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U26FC2D1U|danius> has joined the channel", 
+            "ts": "1474918314.000008", 
+            "subtype": "channel_join", 
+            "user": "U26FC2D1U", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U2823266L|fosterc94> has joined the channel", 
+            "ts": "1474918314.000007", 
+            "subtype": "channel_join", 
+            "user": "U2823266L", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U25274V33|sallym> has joined the channel", 
+            "ts": "1474918314.000006", 
+            "subtype": "channel_join", 
+            "user": "U25274V33", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U280QVB19|suresh> has joined the channel", 
+            "ts": "1474918314.000005", 
+            "subtype": "channel_join", 
+            "user": "U280QVB19", 
+            "type": "message", 
+            "inviter": "U28RX9WFR"
+        }, 
+        {
+            "text": "<@U28RX9WFR|morgan> has joined the channel", 
+            "ts": "1474911374.000004", 
+            "subtype": "channel_join", 
+            "user": "U28RX9WFR", 
+            "type": "message", 
+            "inviter": "U1TU3PLMB"
+        }, 
+        {
+            "text": "<@U1TU3PLMB|katieparker> set the channel purpose: Channel to be used for g34 student chats, updates, links, ect. Enjoy!", 
+            "ts": "1474911374.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1TU3PLMB", 
+            "type": "message", 
+            "purpose": "Channel to be used for g34 student chats, updates, links, ect. Enjoy!"
+        }, 
+        {
+            "text": "<@U1TU3PLMB|katieparker> has joined the channel", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1474911373.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "students_sea5", 
+        "name": "students_sea5", 
+        "is_channel": true, 
+        "created": 1474911373, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U1TU3PLMB", 
+        "is_org_shared": false, 
+        "previous_names": [
+            "students_g34"
+        ], 
+        "purpose": {
+            "last_set": 1474911374, 
+            "value": "Channel to be used for g34 student chats, updates, links, ect. Enjoy!", 
+            "creator": "U1TU3PLMB"
+        }, 
+        "members": [], 
+        "id": "C2G3R09N1", 
+        "is_shared": false
+    }
+}

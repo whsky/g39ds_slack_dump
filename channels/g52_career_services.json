@@ -1,0 +1,2275 @@
+{
+    "messages": [
+        {
+            "text": "<https://news.ycombinator.com/jobs>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498771157.041589"
+        }, 
+        {
+            "text": "<https://docs.google.com/spreadsheets/d/19LsbtPdeYxyRu9gEtrKGVJ6jPeFxvENBEDJ7RPhSCfA/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498769223.426962"
+        }, 
+        {
+            "text": "<https://docs.google.com/document/d/1UyGDC4k03iZYQSIFHOp6HlaLjCntot2f_JC48bQoJVU/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498768235.095638"
+        }, 
+        {
+            "text": "<https://docs.google.com/document/d/1wFc7ariYEVsUgJ23iQIhni6e7JCZV8WsVBLSydqT9wI/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498163525.920098"
+        }, 
+        {
+            "text": "Nice! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498104794.639543"
+        }, 
+        {
+            "text": "I'm going to this meetup on Friday. <https://www.meetup.com/sfhtml5/events/238957406/> The last one was really fun. Just a thought.", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1498097950.866742", 
+            "attachments": [
+                {
+                    "thumb_height": 432, 
+                    "service_icon": "https://secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+                    "thumb_width": 432, 
+                    "title": "SFHTML5", 
+                    "service_name": "Meetup", 
+                    "title_link": "https://www.meetup.com/sfhtml5/events/238957406/", 
+                    "text": "Speed Perception and Lighthouse with Estelle Weyl and Parvez Ahammad No one likes slow loading webpages, but what aspects of page loading contribute to user perception of \u201cspeed\u201d and how can we measur", 
+                    "id": 1, 
+                    "fallback": "Meetup: SFHTML5", 
+                    "thumb_url": "https://secure.meetupstatic.com/photos/event/1/d/4/e/highres_192727502.jpeg", 
+                    "from_url": "https://www.meetup.com/sfhtml5/events/238957406/"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "page_facing_up", 
+                    "users": [
+                        "U4M4XGYEN"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "amaze", 
+                    "users": [
+                        "U3R672XGQ"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "title": "New to Canva? Sign up!", 
+                    "text": "Canva makes design simple for everyone. Create designs for Web or print: blog graphics, presentations, Facebook covers, flyers, posters, invitations and so much more.", 
+                    "title_link": "https://www.canva.com/", 
+                    "service_name": "canva.com", 
+                    "id": 1, 
+                    "fallback": "New to Canva? Sign up!", 
+                    "service_icon": "https://static.canva.com/static/images/apple-touch-icon-152x152.png", 
+                    "from_url": "https://www.canva.com/"
+                }
+            ], 
+            "text": "This is a cool site for creating a customized resume: <https://www.canva.com/>", 
+            "ts": "1497900421.756760", 
+            "user": "U4SCDGADR", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "joy", 
+                    "users": [
+                        "U4YB9LF2N", 
+                        "U3TUZU9RR"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 349349, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "7 min read", 
+                            "title": "Reading time"
+                        }
+                    ], 
+                    "title": "What if companies interviewed translators the way they interview coders?", 
+                    "service_name": "freeCodeCamp", 
+                    "ts": 1496764281, 
+                    "title_link": "https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6", 
+                    "image_height": 250, 
+                    "image_url": "https://cdn-images-1.medium.com/max/1200/1*kx6KdhaaGWHini5tuAHNmQ.jpeg", 
+                    "image_width": 342, 
+                    "text": "Candidate: Is this the right place for the interview?", 
+                    "id": 1, 
+                    "fallback": "freeCodeCamp: What if companies interviewed translators the way they interview coders?", 
+                    "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*MotlWcSa2n6FrOx3ul89kw.png", 
+                    "from_url": "https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6"
+                }
+            ], 
+            "text": "<!channel> I thought this was funny: <https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6>", 
+            "ts": "1497638565.572183", 
+            "user": "U36C8HHU3", 
+            "type": "message"
+        }, 
+        {
+            "text": "Same as before! 750 + words, about a topic related to technology or your experiences in tech", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1497560686.154930"
+        }, 
+        {
+            "text": "hey, were there any specific details for the q2 articles we should know about?", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1497560001.939185"
+        }, 
+        {
+            "text": "<!channel> Want to talk? Sign up for 1:1s tomorrow! :slightly_smiling_face: <https://docs.google.com/document/d/1BSsqCe3YxqVPzKEGZe0Wmjib3fWP5ysfswWdybepe6I/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1497558371.423449"
+        }, 
+        {
+            "text": "<!channel> Good morning, g52!! Alas, about a million Warriors fans are currently standing in between me and Bart, and I don't think I'll make it to the office today. Please use our lesson time as a study hall to work on your Q2 articles. Slack me if you have any questions! :smile:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1497543501.324789", 
+            "edited": {
+                "user": "U36C8HHU3", 
+                "ts": "1497547209.000000"
+            }
+        }, 
+        {
+            "text": "<https://www.thestreet.com/story/11848371/1/how-to-network-without-sounding-like-a-jerk.html>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1497303168.869701", 
+            "attachments": [
+                {
+                    "image_bytes": 39034, 
+                    "ts": 1361456460, 
+                    "title": "How to Network Without Sounding Like a Jerk", 
+                    "service_name": "TheStreet", 
+                    "image_width": 375, 
+                    "title_link": "https://www.thestreet.com/story/11848371/1/how-to-network-without-sounding-like-a-jerk.html", 
+                    "image_height": 250, 
+                    "image_url": "https://s.thestreet.com/files/tsc/v2008/photos/all-pics/101712_Sp_SmBiz_04_large.jpg", 
+                    "text": "Coming on too strong at networking events can be a disaster. Here are five networking tips on how to do it right.", 
+                    "id": 1, 
+                    "fallback": "TheStreet: How to Network Without Sounding Like a Jerk", 
+                    "service_icon": "http://s.t.st/assets/thestreet-ngbeta/production/358/icon-links/thestreet-60x60-1ce2a07f2cd0044d4be697f2c83c3f8e.png", 
+                    "from_url": "https://www.thestreet.com/story/11848371/1/how-to-network-without-sounding-like-a-jerk.html"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> Happy Monday, everyone! Please remember to get your updated resumes turned in asap if you haven't done so already! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1497287618.653806"
+        }, 
+        {
+            "text": "Portfolio ideas: <http://creative-portfolios.com/>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1497287009.445372"
+        }, 
+        {
+            "text": "<!channel> Events coming up -- here are your free tickets!!\nWe have comp. tickets for Galvanize students for our Get Hired! Recruiter Panel on June 14 at 6pm at Galvanize and our Women in Engineering Panel at Mesosphere, SF  on June 19 at 6pm. Please share the links and code below\n\n *Get Hired! Recruiter Panel on June 14 at 6pm at Galvanize* \nUse code \"gethiredcomp17\" at this link<https://gethiredjune.eventbrite.com> to get free tickets to the event\n\n*Women in Engineering Panel at Mesosphere, SF  on June 19 at 6pm* \n( They are hiring) Event open to women and men.\nUse code \"mesoguest\" at this link to get free tickets to the event", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1497245222.053568", 
+            "attachments": [
+                {
+                    "image_bytes": 666965, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "44 Tehama Street, San Francisco, CA 94105", 
+                            "title": "Where"
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "Wed, Jun 14, 2017 at 6:00 PM", 
+                            "title": "When"
+                        }
+                    ], 
+                    "title": "Get Hired!! Recruiter Panel and Networking", 
+                    "service_name": "Eventbrite", 
+                    "image_width": 500, 
+                    "title_link": "https://gethiredjune.eventbrite.com", 
+                    "image_height": 250, 
+                    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F32205098%2F9608873553%2F1%2Foriginal.jpg?w=1000&rect=0%2C206%2C3608%2C1804&s=2091f269c2d04e432f33b4be441467f0", 
+                    "text": "Get Hired!! Recruiter Panel and Networking Join us for an evening of networking, \u00a0an interactive panel discussion with\u00a0decision makers in the talent acquisition, and recruiter booths. The event is open to women and men of all professional backgrounds. Recruiter Panel Ginny Cheng, Sr. Recruiting Manager, M&amp;A at Facebook Tai Bethune, Senior Sourcing Recruiter at Amazon Web Services Katrina Georgiou, Recruiting Operations and Program Manager at Redditt Stephanie Fong, Engineering Recruiter at Aerotek Jordan Ricardo, Recruiting Lead at Instrumental Inc. Moderator:\u00a0Smitha Prabhu, Director, Talent Experience at SAP Recruiter/Vendor Tables Galvanize AlwaysHired The Creative Group ( Robert Half Staffing) For job announcements and career tips, join our\u00a0Careers and JobSearch FB page. If you are a jobseeker and would like us to share your information with the recruiters, please\u00a0complete this form To learn about our upcoming career events, join our Meetup Group For updates and to connect with others attending the event, join\u00a0the Get Hired event page on Facebook If you are interested in participating in our career fair or sharing job openings at your company with our network, please e-mail us at <mailto:info@theexpatwoman.com|info@theexpatwoman.com> Terms of Participation Agreement:\u00a0 You agree that you are responsible for any accidents or damages that you cause. You also agree to not\u00a0hold The Expat Woman, or any of the event supporters liable for any loss, damage, injury, or any other unforeseeable incident.\u00a0 By Participating at the event, you grant The Expat Woman permission to capture photo/video of the event.\u00a0 By registering for this event,\u00a0you also consent to receive email communication from The Expat Woman and its programs about events and updates that may interest you. Tickets to this event are non-refundable. If you are unable to attend, you have the option of giving it to a friend or team member to attend in your place.", 
+                    "id": 1, 
+                    "fallback": "Eventbrite: Get Hired!! Recruiter Panel and Networking", 
+                    "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+                    "from_url": "https://gethiredjune.eventbrite.com"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.linkedin.com/in/stephenkanderson/>", 
+            "type": "message", 
+            "user": "U506BBZ3N", 
+            "ts": "1497048890.769592"
+        }, 
+        {
+            "text": "<https://docs.google.com/document/d/1Y8ylwLO9OglJVL4NI0bDZ9B64Si8OIOlP5cl1S4Z0lQ/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496952530.514055"
+        }, 
+        {
+            "text": "sounds good - thank you!", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1496938546.649848"
+        }, 
+        {
+            "text": "Nope! Printed copies not needed, but please have it accessible on your computer", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496938262.546676"
+        }, 
+        {
+            "text": "Do we need to actually print a copy?", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1496938204.524859"
+        }, 
+        {
+            "text": "<!channel> Happy Thursday! Please remember to bring your updated resumes to class today - we will be working on them! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496938174.513787"
+        }, 
+        {
+            "text": "As part of the Cognitive Frameworks Festival happening at Galvanize, Watson West, Twitter, and Uber HQ over the next few days...we are activating our Mezzanine for FREE Scala office hours with complimentary coffee service.\n\nWe've got some fantastic mentors up there now, who are available to provide insights to eager devs. They will be here until 4pm.\n\nAlso...4pm today, at Watson West, there will be BBQ and announcements about Cognitive Business, including our very own Jim and Lawrence! Students are welcomed to attend!! They can register here: <https://www.meetup.com/bay-area-ai/events/240457597/>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496870699.500480", 
+            "attachments": [
+                {
+                    "thumb_height": 3000, 
+                    "service_icon": "https://secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+                    "thumb_width": 3000, 
+                    "title": "Bay Area AI", 
+                    "service_name": "Meetup", 
+                    "title_link": "https://www.meetup.com/bay-area-ai/events/240457597/", 
+                    "text": "This high-level event is hosted at IBM Watson West, the leader of industrial cognitive applications. It is the official launch of the Cognitive Frameworks Festival, focusing on the business of AI, as", 
+                    "id": 1, 
+                    "fallback": "Meetup: Bay Area AI", 
+                    "thumb_url": "https://secure.meetupstatic.com/photos/event/c/6/8/b/highres_433370827.jpeg", 
+                    "from_url": "https://www.meetup.com/bay-area-ai/events/240457597/"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "money_mouth_face", 
+                    "users": [
+                        "U4YB9LF2N"
+                    ]
+                }
+            ], 
+            "text": "<!channel> NETWORKING RIGHT NOW AND A FREE BBQ TONIGHT!!!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496870690.497806"
+        }, 
+        {
+            "text": "<!channel> Sign up for 1:1 calls this Friday! <https://docs.google.com/document/d/1DhPm1Q__9v4535bH3WGiYskVDZnkYO_0MD-G6-P3Pws/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496690322.032389"
+        }, 
+        {
+            "text": "Build resume with JSON :smile: <https://jsonresume.org/getting-started/>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1496352182.027377", 
+            "attachments": [
+                {
+                    "title": " Getting Started \u2014 JSON Resume ", 
+                    "text": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes.", 
+                    "title_link": "https://jsonresume.org/getting-started/", 
+                    "service_name": "jsonresume.org", 
+                    "id": 1, 
+                    "fallback": " Getting Started \u2014 JSON Resume ", 
+                    "service_icon": "https://jsonresume.org/favicon.png", 
+                    "from_url": "https://jsonresume.org/getting-started/"
+                }
+            ]
+        }, 
+        {
+            "text": "heading down now for recruiter panel!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496280146.134275"
+        }, 
+        {
+            "text": "<!channel> Reminder! We have a recruiter panel Q&amp;A tonight! 6:15, Speakeasy. See you all there to learn more about the hiring process!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496276051.592133"
+        }, 
+        {
+            "text": "This will be a chance to hear what recruiters are thinking on the other side of your application -- what they look for, what they don't like seeing, etc.", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496249272.897779"
+        }, 
+        {
+            "text": "<!channel> I am hosting a recruiter panel tonight, and you should all come! It will be in the Speakeasy -- be there at 6:15 :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496249239.885891"
+        }, 
+        {
+            "text": "<!channel> Office hours this week: \n<https://calendar.google.com/calendar/embed?src=galvanize.com_4dgcak36o6a8au6kic4hdie8q0%40group.calendar.google.com&amp;ctz=America/Los_Angeles>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496181542.655477"
+        }, 
+        {
+            "text": "<!channel> Sign up for 1:1 calls this week! <https://docs.google.com/document/d/1tLUDvv9rLhLERakkhMwBv5fRVBIW9D_wXcfN9sPvlkc/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496180643.440894"
+        }, 
+        {
+            "text": "<@U36C8HHU3> Ah, LinkedIn. I didn't do that yet. I have put it for your review in my shared google folder. Thanks!", 
+            "type": "message", 
+            "user": "U3TUZU9RR", 
+            "ts": "1496153565.144841"
+        }, 
+        {
+            "text": "<@U3TUZU9RR> Please submit to your personal career googledrive folders for me to take a look at prior to publishing (unless you've already published!). Any easily-readable format is fine, but if you have it as a googledoc and give me editing permission, I can also proofread/typo check for you :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496125492.735622"
+        }, 
+        {
+            "text": "<@U36C8HHU3> Where should we submit the articles? And what format? Mine is currently *.md (markdown).", 
+            "type": "message", 
+            "user": "U3TUZU9RR", 
+            "ts": "1496124112.571299"
+        }, 
+        {
+            "text": "<!channel> Hello hello! I hope you've all enjoyed your time out of the classroom and the long weekend. Reminder that your LinkedIn articles are due tomorrow - looking forward to seeing what you've come up with! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1496118859.071148"
+        }, 
+        {
+            "text": "<!channel> Hello, lovely people! There is a speed networking with recruiters event tonight on campus. You can find info and register here: <https://gethiredmentoring.eventbrite.com> \n\nYou can get *free tickets* using the code: *careercomp*\n\n...but to use the code you must register before this afternoon!!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1495732976.444017", 
+            "attachments": [
+                {
+                    "image_bytes": 152518, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "44 Tehama Street, San Francisco, CA 94103", 
+                            "title": "Where"
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "Thu, May 25, 2017 at 6:00 PM", 
+                            "title": "When"
+                        }
+                    ], 
+                    "title": "Get Hired! Speed Mentoring with Recruiters and Hiring Managers", 
+                    "service_name": "Eventbrite", 
+                    "image_width": 500, 
+                    "title_link": "https://gethiredmentoring.eventbrite.com", 
+                    "image_height": 250, 
+                    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30852296%2F9608873553%2F1%2Foriginal.jpg?w=1000&rect=0%2C674%2C4032%2C2016&s=083670b8586ee115f7ad77c3caf63457", 
+                    "text": "Are you looking for a job or looking to transition into a new career? Would you like to get tips and advice to help you land your dream job? Join us for our Speed Mentoring event where you will get face time and job search advice from recruiters, hiring managers and career counselors\u00a0 The evening will start with short presentations by each mentor followed by the speed mentoring. Jobseekers will then meet recruiters,hiring managers and career counselors\u00a0in a group mentoring format, \u00a0asking questions and advice about your job search and making valuable connections. \u00a0The groups will switch every 10 minutes This event is open to women and men of all professional backgrounds. Mentors Heidi Smith, Sr. Recruiter of Sales, Professional Services &amp; Security Professionals at Splunk Smitha Prabhu, Director, Talent Experience at SAP Gabriel Moncayo, CEO &amp; Co-Founder of AlwaysHired Meg Escobar, People Operations at Pillow Homes Sara Lager, Manager, Direct Hire at DeWinter Group PK\u00a0Phommachanh, Lead Associate at Blueprint Search Partners Selina Ngo, Staffing Manager at Randstad Technologies Jordan Helsloot, Technical Recruiter at Randstad Technologies Erica Schneider, Client Services Director at Robert Half Staffing and Recruiting Stephanie Bennett, Division Director HR Services\u00a0at Robert Half Staffing and Recruiting Recruiter/Vendor Tables Galvanize AlwaysHired Dress code: Business casual or dress for the type of the job you are interested in being hired for. Light refreshments will be served\u00a0 Thank you to our Sponsors Galvanize Galvanize is where you can become a developer, data scientist, or build your tech startup. Join the conversation and connect with other guests prior to the event! Here are several ways you can connect with other guests prior to the event, so you don't have to walk into a room full of strangers Use the hash tag #tewcareers\u00a0for updates and to connect with the event attendees and/or get updates and connect with other attendees on the\u00a0event page on FB Terms of Participation Agreement You agree that you are responsible for any accidents or damages that you cause. You also agree to not hold The Expat Woman, or any of the event supporters liable for any loss, damage, injury, or any other unforeseeable incident. By Participating at the event, you grant The Expat Woman permission to capture photo/video of the event. By registering for this event, you also consent to receive email communication from The Expat Woman and its programs about events and updates that may interest you. Tickets to this event are non-refundable. If you are unable to attend, you have the option of giving it to a friend or team member to attend in your place.", 
+                    "id": 1, 
+                    "fallback": "Eventbrite: Get Hired! Speed Mentoring with Recruiters and Hiring Managers", 
+                    "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+                    "from_url": "https://gethiredmentoring.eventbrite.com"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> Mocktail on the 5th floor now! Come practice networking! :wink:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1495152439.852280"
+        }, 
+        {
+            "text": "podcasts! <https://devchat.tv/js-jabber>   <http://nodeup.com/>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1495138521.384294"
+        }, 
+        {
+            "text": "<http://techcrunch.com|techcrunch.com>", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1495138504.379899"
+        }, 
+        {
+            "text": "<https://www.theverge.com/>", 
+            "type": "message", 
+            "user": "U4SCDGADR", 
+            "ts": "1495138501.379168", 
+            "attachments": [
+                {
+                    "image_bytes": 28080, 
+                    "title": "The Verge", 
+                    "text": "The Verge was founded in 2011 in partnership with Vox Media, and covers the intersection of technology, science, art, and culture. Its mission is to offer in-depth reporting and long-form feature stories, breaking news coverage, product information, and community content in a unified and cohesive manner. The site is powered by Vox Media's Chorus platform, a modern media stack built for web-native news in the 21st century.", 
+                    "image_width": 282, 
+                    "title_link": "https://www.theverge.com/", 
+                    "image_height": 250, 
+                    "image_url": "https://cdn2.vox-cdn.com/community_logos/35025/verge-logo-lg.jpg", 
+                    "service_name": "theverge.com", 
+                    "id": 1, 
+                    "fallback": "The Verge", 
+                    "service_icon": "https://cdn2.vox-cdn.com/uploads/chorus_asset/file/7395359/ios-icon.0.png", 
+                    "from_url": "https://www.theverge.com/"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://news.ycombinator.com/>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1495138495.377728"
+        }, 
+        {
+            "text": "I use FlipBoard for tech news. You tag what you're interested in (JS, node, Express, css, etc, etc)", 
+            "type": "message", 
+            "user": "U3TUZU9RR", 
+            "ts": "1495138495.377635"
+        }, 
+        {
+            "text": "<http://krebsonsecurity.com/>", 
+            "type": "message", 
+            "user": "U4WK6BJQM", 
+            "ts": "1495138482.374658"
+        }, 
+        {
+            "text": "<http://arstechnica.com|arstechnica.com>", 
+            "type": "message", 
+            "user": "U4WK6BJQM", 
+            "ts": "1495138459.369290"
+        }, 
+        {
+            "text": "My thoughts as well...", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1495136280.822455"
+        }, 
+        {
+            "text": "I'll have to catch another one.", 
+            "type": "message", 
+            "user": "U4WK6BJQM", 
+            "ts": "1495130253.161834"
+        }, 
+        {
+            "text": "I don't know about the others, but my q1 project is due tomorrow.", 
+            "type": "message", 
+            "user": "U4WK6BJQM", 
+            "ts": "1495130222.152479"
+        }, 
+        {
+            "text": "<!channel> Hope to see you all tonight at the Mocktail event happening on the 5th floor at 5 pm - come and get in some networking practice!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1495130142.128978"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "bananadance", 
+                    "users": [
+                        "U36C8HHU3", 
+                        "U3TUZU9RR"
+                    ]
+                }
+            ], 
+            "text": "Feel better soon, <@U36C8HHU3> !", 
+            "type": "message", 
+            "user": "U4NBAUKD4", 
+            "ts": "1495047968.000401"
+        }, 
+        {
+            "text": "Thanks <@U4RKZ1A94> ! :smile:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1495042982.558710"
+        }, 
+        {
+            "text": "awww sad face - I Hope you feel better soon <@U36C8HHU3>", 
+            "type": "message", 
+            "user": "U4RKZ1A94", 
+            "ts": "1495042966.554134"
+        }, 
+        {
+            "text": "<!channel> Hey everyone! I'm feeling under the weather today and am working from home. I'm cancelling my office hours today, but am adding some additional 1:1 times for calls on Friday. Sign up here! <https://docs.google.com/document/d/16Dchb4KmnBEc96QsKxiOFd5OZgQrx2mLQTpVVZ8Emvk/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1495042929.543346"
+        }, 
+        {
+            "text": "<!channel> Office hours for this week: \n<https://calendar.google.com/calendar/embed?src=galvanize.com_4dgcak36o6a8au6kic4hdie8q0%40group.calendar.google.com&amp;ctz=America/Los_Angeles>\n\nAnd you can sign up for 1:1 calls on Friday here:\n<https://docs.google.com/document/d/16Dchb4KmnBEc96QsKxiOFd5OZgQrx2mLQTpVVZ8Emvk/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494895370.991148"
+        }, 
+        {
+            "text": "<!channel> FREE TICKETS to this Careers in Tech Recruiter Panel happening this week: <https://www.eventbrite.com/e/careers-in-tech-recruiter-panel-career-fair-and-mixer-tickets-33856385360>\n\nUse promo code: gvpromo17\n\nLet me know if it doesn't work!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494873897.778652"
+        }, 
+        {
+            "text": "<https://www.quora.com/What-are-some-good-examples-of-LinkedIn-bots>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1494540018.704257"
+        }, 
+        {
+            "text": "<https://twitter.com/MaterializeCSS>", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1494539523.607562", 
+            "attachments": [
+                {
+                    "title": "Materialize (@MaterializeCSS) | Twitter", 
+                    "text": "The latest Tweets from Materialize (@MaterializeCSS). A modern responsive front-end framework based on Material Design", 
+                    "title_link": "https://twitter.com/MaterializeCSS", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Materialize (@MaterializeCSS) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/MaterializeCSS"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/getbootstrap>", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1494539488.600913", 
+            "attachments": [
+                {
+                    "title": "Bootstrap (@getbootstrap) | Twitter", 
+                    "text": "The latest Tweets from Bootstrap (@getbootstrap). Official account for Bootstrap, a toolkit providing simple and flexible HTML, CSS, and JS for popular UI components and interactions. Tweets by @mdo. San Francisco, CA", 
+                    "title_link": "https://twitter.com/getbootstrap", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Bootstrap (@getbootstrap) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/getbootstrap"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U4NBAUKD4>", 
+            "type": "message", 
+            "user": "U4NBAUKD4", 
+            "ts": "1494539359.576401"
+        }, 
+        {
+            "text": "<@U4M4XGYEN>", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1494539169.540311"
+        }, 
+        {
+            "text": "@tylerdevs", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1494539131.532973"
+        }, 
+        {
+            "text": "@ronan_fitz13", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1494539075.521889"
+        }, 
+        {
+            "text": "<https://twitter.com/planetpostgres>", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1494538924.492957", 
+            "attachments": [
+                {
+                    "title": "Planet PostgreSQL (@planetpostgres) | Twitter", 
+                    "text": "The latest Tweets from Planet PostgreSQL (@planetpostgres). Blog entries from members of the PostgreSQL community. Anywhere!", 
+                    "title_link": "https://twitter.com/planetpostgres", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Planet PostgreSQL (@planetpostgres) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/planetpostgres"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/datasf>", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1494538796.466868", 
+            "attachments": [
+                {
+                    "title": "Data SF (@DataSF) | Twitter", 
+                    "text": "The latest Tweets from Data SF (@DataSF). DataSF's mission is to empower use of data from the City and County of San Francisco. Need help? Start at <https://t.co/zAodfgdw7J>. San Francisco", 
+                    "title_link": "https://twitter.com/datasf", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Data SF (@DataSF) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/datasf"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/heroku>", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1494538754.458627", 
+            "attachments": [
+                {
+                    "title": "Heroku (@heroku) | Twitter", 
+                    "text": "The latest Tweets from Heroku (@heroku). Heroku provides services and tools to build, run, and scale web and mobile applications. Follow @herokustatus for platform updates. A @salesforce company. San Francisco, CA", 
+                    "title_link": "https://twitter.com/heroku", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Heroku (@heroku) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/heroku"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/reactjs?lang=en>", 
+            "type": "message", 
+            "user": "U4NBAUKD4", 
+            "ts": "1494538315.370191", 
+            "attachments": [
+                {
+                    "title": "React (@reactjs) | Twitter", 
+                    "text": "The latest Tweets from React (@reactjs). React is a declarative, efficient, and flexible JavaScript library for building user interfaces", 
+                    "title_link": "https://twitter.com/reactjs?lang=en", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "React (@reactjs) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/reactjs?lang=en"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/vin65team>", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1494538309.368889", 
+            "attachments": [
+                {
+                    "title": "Vin65 (@vin65team) | Twitter", 
+                    "text": "The latest Tweets from Vin65 (@vin65team). Ecommerce and POS solutions for your winery business. Vin65 platform updates, news, resources and training to help you sell more wine", 
+                    "title_link": "https://twitter.com/vin65team", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Vin65 (@vin65team) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/vin65team"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/InfoGeoSciGuy>", 
+            "type": "message", 
+            "user": "U4YB9LF2N", 
+            "ts": "1494538283.363675", 
+            "attachments": [
+                {
+                    "title": "Grant Willison (@InfoGeoSciGuy) | Twitter", 
+                    "text": "The latest Tweets from Grant Willison (@InfoGeoSciGuy): \"Giving blood at irwin blood center @BloodDrops helps me affirm my commitment to community, its a great way to give back <http://t.co/06sLxbaW>\"", 
+                    "title_link": "https://twitter.com/InfoGeoSciGuy", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Grant Willison (@InfoGeoSciGuy) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/InfoGeoSciGuy"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/Tech_Now_>", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1494538271.360967", 
+            "attachments": [
+                {
+                    "title": "All Tech News Now (@Tech_Now_) | Twitter", 
+                    "text": "The latest Tweets from All Tech News Now (@Tech_Now_): \"This Israeli startup has a battery that can charge an electric car in 5 minutes <https://t.co/vqYUjChg4v> #internet #digital <https://t.co/ITokTRnY2F>\"", 
+                    "title_link": "https://twitter.com/Tech_Now_", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "All Tech News Now (@Tech_Now_) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/Tech_Now_"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/landofcrypto>", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1494538206.347264", 
+            "attachments": [
+                {
+                    "title": "Land of Crypto (@landofcrypto) | Twitter", 
+                    "text": "The latest Tweets from Land of Crypto (@landofcrypto). Introduction to the world of crypto", 
+                    "title_link": "https://twitter.com/landofcrypto", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Land of Crypto (@landofcrypto) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/landofcrypto"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/robertmurray> :parrot_explodyparrot:", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1494538195.344638", 
+            "attachments": [
+                {
+                    "title": "Robert Murray (@robertmurray) | Twitter", 
+                    "text": "The latest Tweets from Robert Murray (@robertmurray). Father. Diversity Advocate. Speaker. Instructor @ galavanize Software Engineer. Technologist. Startup innovator. SF via ATX, NYC, ATL, MIA, LAX. Jamaican. San Francisco, CA", 
+                    "title_link": "https://twitter.com/robertmurray", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Robert Murray (@robertmurray) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/robertmurray"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/DeepLearn007>", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1494538181.341556"
+        }, 
+        {
+            "text": "<https://twitter.com/nytimestech>", 
+            "type": "message", 
+            "user": "U4WK6BJQM", 
+            "ts": "1494538167.338691", 
+            "attachments": [
+                {
+                    "title": "NYTimes Tech (@nytimestech) | Twitter", 
+                    "text": "The latest Tweets from NYTimes Tech (@nytimestech). Tech news and analysis from The New York Times. Banner photo by Jason Henry. San Francisco, CA", 
+                    "title_link": "https://twitter.com/nytimestech", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "NYTimes Tech (@nytimestech) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/nytimestech"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/martinfowler>", 
+            "type": "message", 
+            "user": "U3TUZU9RR", 
+            "ts": "1494538139.332737", 
+            "attachments": [
+                {
+                    "title": "Martin Fowler (@martinfowler) | Twitter", 
+                    "text": "The latest Tweets from Martin Fowler (@martinfowler). Programmer, Loud Mouth, ThoughtWorker. Boston", 
+                    "title_link": "https://twitter.com/martinfowler", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Martin Fowler (@martinfowler) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/martinfowler"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/codeforamerica>", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1494538100.324493", 
+            "attachments": [
+                {
+                    "title": "Code for America (@codeforamerica) | Twitter", 
+                    "text": "The latest Tweets from Code for America (@codeforamerica). Government can work for the people, by the people, in the 21st century. Help us make it so. San Francisco, California", 
+                    "title_link": "https://twitter.com/codeforamerica", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Code for America (@codeforamerica) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/codeforamerica"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/howto_guides>", 
+            "type": "message", 
+            "user": "U4WK6BJQM", 
+            "ts": "1494538086.321479", 
+            "attachments": [
+                {
+                    "title": "Digital Inspiration (@howto_guides) | Twitter", 
+                    "text": "The latest Tweets from Digital Inspiration (@howto_guides). How-To Guides, Google Apps Scripts and Software Tutorials written by @labnol. <mailto:amit@labnol.org|amit@labnol.org>", 
+                    "title_link": "https://twitter.com/howto_guides", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Digital Inspiration (@howto_guides) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/howto_guides"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/TechCrunch?lang=en>", 
+            "type": "message", 
+            "user": "U4NBAUKD4", 
+            "ts": "1494538078.319631", 
+            "attachments": [
+                {
+                    "title": "TechCrunch (@TechCrunch) | Twitter", 
+                    "text": "The latest Tweets from TechCrunch (@TechCrunch). Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech. Got a tip? Let us know <mailto:tips@techcrunch.com|tips@techcrunch.com>. San Francisco, CA", 
+                    "title_link": "https://twitter.com/TechCrunch?lang=en", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "TechCrunch (@TechCrunch) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/TechCrunch?lang=en"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/expressjs>", 
+            "type": "message", 
+            "user": "U3TUZU9RR", 
+            "ts": "1494538074.318863", 
+            "attachments": [
+                {
+                    "title": "Expressjs (@expressjs) | Twitter", 
+                    "text": "The latest Tweets from Expressjs (@expressjs): \"ExpressJS 4.0 has been released - <http://t.co/zaA3oINldj>\"", 
+                    "title_link": "https://twitter.com/expressjs", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Expressjs (@expressjs) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/expressjs"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/DeepLearn007>", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1494538047.313140", 
+            "attachments": [
+                {
+                    "title": "AI (@DeepLearn007) | Twitter", 
+                    "text": "The latest Tweets from AI (@DeepLearn007). #ArtificialIntelligence #MachineLearning #DeepLearning #IoT #fintech #Bigdata #Technology #Science Liberal #Robotics #DL #tech #Blockchain MBA MS #Computing #AI", 
+                    "title_link": "https://twitter.com/DeepLearn007", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "AI (@DeepLearn007) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/DeepLearn007"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/Linus__Torvalds>", 
+            "type": "message", 
+            "user": "U3TUZU9RR", 
+            "ts": "1494538006.304660", 
+            "attachments": [
+                {
+                    "title": "Linus Torvalds (@Linus__Torvalds) | Twitter", 
+                    "text": "The latest Tweets from Linus Torvalds (@Linus__Torvalds). Works at Linux Foundation. Portland, OR", 
+                    "title_link": "https://twitter.com/Linus__Torvalds", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Linus Torvalds (@Linus__Torvalds) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/Linus__Torvalds"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/nodejs>", 
+            "type": "message", 
+            "user": "U3TUZU9RR", 
+            "ts": "1494537955.293871", 
+            "attachments": [
+                {
+                    "title": "Node.js (@nodejs) | Twitter", 
+                    "text": "The latest Tweets from Node.js (@nodejs). The Node.js JavaScript Runtime. Earth", 
+                    "title_link": "https://twitter.com/nodejs", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Node.js (@nodejs) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/nodejs"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/sitepointdotcom>", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1494537926.287783", 
+            "attachments": [
+                {
+                    "title": "SitePoint (@sitepointdotcom) | Twitter", 
+                    "text": "The latest Tweets from SitePoint (@sitepointdotcom). We're helping you create a better web. Curated by the whole SitePoint team. Melbourne, Australia", 
+                    "title_link": "https://twitter.com/sitepointdotcom", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "SitePoint (@sitepointdotcom) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/sitepointdotcom"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/TechCrunch>", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1494537886.279095", 
+            "attachments": [
+                {
+                    "title": "TechCrunch (@TechCrunch) | Twitter", 
+                    "text": "The latest Tweets from TechCrunch (@TechCrunch). Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech. Got a tip? Let us know <mailto:tips@techcrunch.com|tips@techcrunch.com>. San Francisco, CA", 
+                    "title_link": "https://twitter.com/TechCrunch", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "TechCrunch (@TechCrunch) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/TechCrunch"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/wesleygrubbs>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1494537849.271165", 
+            "attachments": [
+                {
+                    "title": "Wes Grubbs (@wesleygrubbs) | Twitter", 
+                    "text": "The latest Tweets from Wes Grubbs (@wesleygrubbs). Founder of data visualization studio Pitch Interactive, technologist, futurist, data artist, traveler, provocateur and aspiring mountaineer. Oakland, CA", 
+                    "title_link": "https://twitter.com/wesleygrubbs", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Wes Grubbs (@wesleygrubbs) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/wesleygrubbs"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/tim_cook>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1494537843.269889", 
+            "attachments": [
+                {
+                    "title": "Tim Cook (@tim_cook) | Twitter", 
+                    "text": "The latest Tweets from Tim Cook (@tim_cook). CEO Apple, Fan of Auburn football and Duke basketball. Cupertino", 
+                    "title_link": "https://twitter.com/tim_cook", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Tim Cook (@tim_cook) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/tim_cook"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/jjg>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1494537834.268084", 
+            "attachments": [
+                {
+                    "title": "Jesse James Garrett (@jjg) | Twitter", 
+                    "text": "The latest Tweets from Jesse James Garrett (@jjg). Human experience designer. Co-founded Adaptive Path, now at Capital One. Wrote The Elements of User Experience. Something Ajax something blogging something. San Francisco", 
+                    "title_link": "https://twitter.com/jjg", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Jesse James Garrett (@jjg) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/jjg"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://twitter.com/aunyks>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1494537828.266863", 
+            "attachments": [
+                {
+                    "title": "Gerald Nash :zap: (@aunyks) | Twitter", 
+                    "text": "The latest Tweets from Gerald Nash :zap: (@aunyks). It's pronounced 'onyx'. I make things that do stuff. Like @everyonetweetz @isaacnewtonbot and a few others. Previously at @gtcomputing. Atlanta", 
+                    "title_link": "https://twitter.com/aunyks", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Gerald Nash \u26a1\ufe0f (@aunyks) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/aunyks"
+                }
+            ]
+        }, 
+        {
+            "username": "meghanprestemon", 
+            "display_as_bot": false, 
+            "text": "<@U4M4XGYEN|meghanprestemon> uploaded a file: <https://gstudents.slack.com/files/meghanprestemon/F5CBG9GPL/-.js|Untitled> and commented: Here\u2019s a short list I found on <http://galvanize.com|galvanize.com>", 
+            "upload": true, 
+            "ts": "1494536350.930831", 
+            "subtype": "file_share", 
+            "user": "U4M4XGYEN", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Here\u2019s a short list I found on <http://galvanize.com|galvanize.com>", 
+                    "created": 1494536344, 
+                    "timestamp": 1494536344, 
+                    "is_intro": true, 
+                    "user": "U4M4XGYEN", 
+                    "id": "Fc5D5LSXLN"
+                }, 
+                "filetype": "javascript", 
+                "lines_more": 0, 
+                "channels": [
+                    "C56DT3R2T"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5CBG9GPL", 
+                "size": 186, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5CBG9GPL/-.js", 
+                "ims": [], 
+                "preview": "Tech titans that hired graduates immediately after the program include Facebook, Twitter, Airbnb, Tesla, Uber, Square, Pivotal Labs, Coursera, TechStars, IBM, American Express, and more.", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/meghanprestemon/F5CBG9GPL/-.js/edit", 
+                "username": "", 
+                "timestamp": 1494536344, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5CBG9GPL/download/-.js", 
+                "user": "U4M4XGYEN", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "JavaScript/JSON", 
+                "name": "-.js", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5CBG9GPL-a00b4f2891", 
+                "permalink": "https://gstudents.slack.com/files/meghanprestemon/F5CBG9GPL/-.js", 
+                "is_external": false, 
+                "created": 1494536344, 
+                "lines": 1, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">Tech</span> <span class=\"cm-variable\">titans</span> <span class=\"cm-variable\">that</span> <span class=\"cm-variable\">hired</span> <span class=\"cm-variable\">graduates</span> <span class=\"cm-variable\">immediately</span> <span class=\"cm-variable\">after</span> <span class=\"cm-variable\">the</span> <span class=\"cm-variable\">program</span> <span class=\"cm-variable\">include</span> <span class=\"cm-variable\">Facebook</span>, <span class=\"cm-variable\">Twitter</span>, <span class=\"cm-variable\">Airbnb</span>, <span class=\"cm-variable\">Tesla</span>, <span class=\"cm-variable\">Uber</span>, <span class=\"cm-variable\">Square</span>, <span class=\"cm-variable\">Pivotal</span> <span class=\"cm-variable\">Labs</span>, <span class=\"cm-variable\">Coursera</span>, <span class=\"cm-variable\">TechStars</span>, <span class=\"cm-variable\">IBM</span>, <span class=\"cm-variable\">American</span> <span class=\"cm-variable\">Express</span>, <span class=\"cm-variable\">and</span> <span class=\"cm-variable\">more</span>.</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "grantwillison", 
+            "display_as_bot": false, 
+            "text": "<@U4RKZ1A94|grantwillison> shared a file: <https://gstudents.slack.com/files/grantwillison/F5CCQGCF6/ticketfly_interview|ticketfly interview>", 
+            "upload": false, 
+            "ts": "1494535668.759329", 
+            "subtype": "file_share", 
+            "user": "U4RKZ1A94", 
+            "file": {
+                "filetype": "gdoc", 
+                "channels": [
+                    "C56DT3R2T"
+                ], 
+                "display_as_bot": false, 
+                "has_rich_preview": false, 
+                "thumb_64": "https://slack.com/img/files/gdoc_64.v.png", 
+                "size": 16247, 
+                "thumb_360_w": 360, 
+                "title": "ticketfly interview", 
+                "url_private": "https://docs.google.com/document/d/1g9KYwTDM-LzgC4ZBrCEcS1i3eFbH1wne_3kKPy4fl2U/edit?usp=sharing", 
+                "thumb_360": "https://slack.com/img/files/gdoc_360.v.png", 
+                "id": "F5CCQGCF6", 
+                "ims": [], 
+                "thumb_360_h": 167, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "timestamp": 1494535666, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "user": "U4RKZ1A94", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "GDocs Document", 
+                "name": "ticketfly interview", 
+                "mimetype": "application/vnd.google-apps.document", 
+                "permalink": "https://gstudents.slack.com/files/grantwillison/F5CCQGCF6/ticketfly_interview", 
+                "is_external": true, 
+                "created": 1494535666, 
+                "comments_count": 0, 
+                "mode": "external"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Informational interview with ticketfly  <https://docs.google.com/document/d/1g9KYwTDM-LzgC4ZBrCEcS1i3eFbH1wne_3kKPy4fl2U/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U4RKZ1A94", 
+            "ts": "1494535664.758291"
+        }, 
+        {
+            "text": "47", 
+            "type": "message", 
+            "user": "U4WK6BJQM", 
+            "ts": "1494533900.304205"
+        }, 
+        {
+            "text": "54", 
+            "type": "message", 
+            "user": "U506BBZ3N", 
+            "ts": "1494533898.303670"
+        }, 
+        {
+            "text": "208", 
+            "type": "message", 
+            "user": "U4NBAUKD4", 
+            "ts": "1494533870.296772"
+        }, 
+        {
+            "text": "216", 
+            "type": "message", 
+            "user": "U3TUZU9RR", 
+            "ts": "1494533846.290879"
+        }, 
+        {
+            "text": "58", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1494533843.289997"
+        }, 
+        {
+            "text": "301", 
+            "type": "message", 
+            "user": "U4SCDGADR", 
+            "ts": "1494533831.286926"
+        }, 
+        {
+            "text": "57", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1494533830.286778"
+        }, 
+        {
+            "text": "12", 
+            "type": "message", 
+            "user": "U4YB9LF2N", 
+            "ts": "1494533823.284880"
+        }, 
+        {
+            "text": "264", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1494533823.284754"
+        }, 
+        {
+            "text": "247", 
+            "type": "message", 
+            "user": "U4RKZ1A94", 
+            "ts": "1494533813.282366"
+        }, 
+        {
+            "text": "34", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1494533793.277249"
+        }, 
+        {
+            "text": "<https://docs.google.com/a/galvanize.com/forms/d/1I7nkL_8HWkL9QxsyMkr598ZNpn4k87-bLf9OECq3E5Q/edit>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494532877.039402"
+        }, 
+        {
+            "text": "nice! thanks!!", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1494345950.080333"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U4M4XGYEN", 
+                        "U4NBAUKD4"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 266, 
+                    "service_icon": "https://secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+                    "thumb_width": 725, 
+                    "title": "SF Beta - Startup Mixers &amp; Events", 
+                    "service_name": "Meetup", 
+                    "title_link": "https://www.meetup.com/sfbeta/events/238885926/", 
+                    "text": "SF Beta is the Bay Area's premier startup mixer. Join us on May 17 for our HealthTech Edition, featuring health... and tech! Presented by 500 Startups, this special event will feature two amazing coho", 
+                    "id": 1, 
+                    "fallback": "Meetup: SF Beta - Startup Mixers &amp; Events", 
+                    "thumb_url": "https://secure.meetupstatic.com/photos/event/6/8/a/0/highres_447146784.jpeg", 
+                    "from_url": "https://www.meetup.com/sfbeta/events/238885926/"
+                }
+            ], 
+            "text": "<@U4NBAUKD4> <@U4M4XGYEN> Thought you might be interested in this one, <https://www.meetup.com/sfbeta/events/238885926/>", 
+            "ts": "1494305025.660949", 
+            "user": "U3R672XGQ", 
+            "type": "message"
+        }, 
+        {
+            "text": "Found a bunch of meetup groups doing tech in San Francisco (and lot\u2019s other other places, but mostly Bay Area) here: <https://www.meetup.com/topics/newtech/all/>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1494303513.545301", 
+            "attachments": [
+                {
+                    "title": "All New Technology Meetups - Meetup", 
+                    "text": "Find Meetups about New Technology and meet people in your local community who share your interests.", 
+                    "title_link": "https://www.meetup.com/topics/newtech/all/", 
+                    "service_name": "meetup.com", 
+                    "id": 1, 
+                    "fallback": "All New Technology Meetups - Meetup", 
+                    "service_icon": "https://secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+                    "from_url": "https://www.meetup.com/topics/newtech/all/"
+                }
+            ]
+        }, 
+        {
+            "text": "HA! doing big things", 
+            "type": "message", 
+            "user": "U4RKZ1A94", 
+            "ts": "1494276285.125786"
+        }, 
+        {
+            "text": "<!channel> Also....I managed to add about 200 new LinkedIn contacts this weekend. Anyone want to see if they can get more than that? :wink:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494274902.783280"
+        }, 
+        {
+            "text": "<!channel> <@U4M4XGYEN> Hey everyone, I've had some requests for 1:1 time. In general, my office hours are times for dropping in and 1:1 isn't guaranteed. Hoping to see you at office hours, but if they don't work out for you, I've also created time slots for this Friday to talk 1:1 -- <https://docs.google.com/document/d/1vV35MmpQhtx4PO777sIL_Rrp6Sy_l6W1fALqeBQFeBg/edit?usp=sharing>\n\nIf none of these times work out for you and you would still like to talk, please get in touch on Slack and we can arrange something! :smile:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494274670.725722"
+        }, 
+        {
+            "text": "<@U36C8HHU3> I apologize if you\u2019ve already mentioned this before but how can we make an appointment to see you during office hours? Or should we just stop by?", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1494274264.626069"
+        }, 
+        {
+            "thread_ts": "1494255775.597734", 
+            "attachments": [
+                {
+                    "title": "Meghan Prestemon (@meghanprestemon) | Twitter", 
+                    "text": "The latest Tweets from Meghan Prestemon (@meghanprestemon)", 
+                    "title_link": "https://twitter.com/meghanprestemon", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Meghan Prestemon (@meghanprestemon) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/meghanprestemon"
+                }
+            ], 
+            "text": "updated Twitter username: <https://twitter.com/meghanprestemon>", 
+            "ts": "1494266440.570475", 
+            "user": "U4M4XGYEN", 
+            "parent_user_id": "U4YB9LF2N", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494255775.597734", 
+            "text": "<https://www.linkedin.com/in/meghanprestemon/>", 
+            "ts": "1494260742.020268", 
+            "user": "U4M4XGYEN", 
+            "parent_user_id": "U4YB9LF2N", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494255775.597734", 
+            "attachments": [
+                {
+                    "title": "Johan Brattemark (@johanbrattemark) | Twitter", 
+                    "text": "The latest Tweets from Johan Brattemark (@johanbrattemark): \"Installed 3.0 on my iPhone y-day night. Must have been lucky as it was all done in 25 minutes.\"", 
+                    "title_link": "https://twitter.com/johanbrattemark", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Johan Brattemark (@johanbrattemark) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/johanbrattemark"
+                }
+            ], 
+            "text": "<https://twitter.com/johanbrattemark>", 
+            "ts": "1494259339.642405", 
+            "user": "U3TUZU9RR", 
+            "parent_user_id": "U4YB9LF2N", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494255775.597734", 
+            "text": "<https://www.linkedin.com/in/johan-brattemark/>", 
+            "ts": "1494259285.625912", 
+            "user": "U3TUZU9RR", 
+            "parent_user_id": "U4YB9LF2N", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "ok_hand", 
+                    "users": [
+                        "U4RKZ1A94", 
+                        "U4M4XGYEN"
+                    ]
+                }
+            ], 
+            "text": "<!channel> Here are office hours for this week: <https://calendar.google.com/calendar/embed?src=galvanize.com_4dgcak36o6a8au6kic4hdie8q0%40group.calendar.google.com&amp;ctz=America/Los_Angeles>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494259175.590061"
+        }, 
+        {
+            "thread_ts": "1494255775.597734", 
+            "text": "<https://www.linkedin.com/in/sandeep-sabu/>", 
+            "ts": "1494258977.533622", 
+            "user": "U4SCDGADR", 
+            "parent_user_id": "U4YB9LF2N", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494255775.597734", 
+            "attachments": [
+                {
+                    "title": "Sandeep Sabu (@sandeepsabu09) | Twitter", 
+                    "text": "The latest Tweets from Sandeep Sabu (@sandeepsabu09)", 
+                    "title_link": "https://twitter.com/sandeepsabu09", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Sandeep Sabu (@sandeepsabu09) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/sandeepsabu09"
+                }
+            ], 
+            "text": "<https://twitter.com/sandeepsabu09>", 
+            "ts": "1494258969.531137", 
+            "user": "U4SCDGADR", 
+            "parent_user_id": "U4YB9LF2N", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494255775.597734", 
+            "attachments": [
+                {
+                    "title": "Kurtis Houser (@kurtishouser) | Twitter", 
+                    "text": "The latest Tweets from Kurtis Houser (@kurtishouser): \"At the #MongoDB 3.4 Launchpad event. <https://t.co/eCNXnRj4D6>\"", 
+                    "title_link": "https://twitter.com/kurtishouser", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Kurtis Houser (@kurtishouser) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/kurtishouser"
+                }
+            ], 
+            "text": "<https://twitter.com/kurtishouser>", 
+            "ts": "1494258718.457095", 
+            "user": "U2PSX14KF", 
+            "parent_user_id": "U4YB9LF2N", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494255775.597734", 
+            "text": "<https://www.linkedin.com/in/kurtishouser/>", 
+            "ts": "1494258704.452915", 
+            "user": "U2PSX14KF", 
+            "parent_user_id": "U4YB9LF2N", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494255775.597734", 
+            "attachments": [
+                {
+                    "title": "Michael Murray (@slurray) | Twitter", 
+                    "text": "The latest Tweets from Michael Murray (@slurray). Software Engineer From Austin,TX :cow: Living in SOMA :the_horns::skin-tone-2:. San Francisco, CA", 
+                    "title_link": "https://twitter.com/slurray", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Michael Murray (@slurray) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/slurray"
+                }
+            ], 
+            "text": "<https://www.linkedin.com/in/michaeltmurray6298/>  <https://twitter.com/slurray>", 
+            "ts": "1494257701.161734", 
+            "user": "U4YB9LF2N", 
+            "parent_user_id": "U4YB9LF2N", 
+            "type": "message"
+        }, 
+        {
+            "slog_is_self_dm": false, 
+            "new_broadcast": true, 
+            "type": "message", 
+            "attachments": [
+                {
+                    "footer": "1 reply", 
+                    "channel_name": "g52_career_services", 
+                    "is_thread_root_unfurl": true, 
+                    "text": "Good morning guys! I say we add our account profile links(twitter, linkdin, etc..) on here just so we can all add each other.", 
+                    "author_link": "https://gstudents.slack.com/team/michael_murray", 
+                    "ts": "1494255775.597734", 
+                    "author_name": "Michael Murray", 
+                    "id": 1, 
+                    "channel_id": "C56DT3R2T", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "michael_murray", 
+                    "from_url": "https://gstudents.slack.com/archives/C56DT3R2T/p1494255775597734", 
+                    "author_icon": "https://secure.gravatar.com/avatar/8233dc8fa36f3b24543b52033b23e245.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0002-48.png", 
+                    "is_msg_unfurl": true, 
+                    "fallback": "[May 8th, 2017 8:02 AM] michael_murray: Good morning guys! I say we add our account profile links(twitter, linkdin, etc..) on here just so we can all add each other."
+                }, 
+                {
+                    "author_link": "https://gstudents.slack.com/team/michael_murray", 
+                    "text": "Here is the thread the add the links", 
+                    "ts": "1494257672.153069", 
+                    "author_name": "Michael Murray", 
+                    "id": 2, 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "michael_murray", 
+                    "fallback": "Here is the thread the add the links", 
+                    "author_icon": "https://secure.gravatar.com/avatar/8233dc8fa36f3b24543b52033b23e245.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0002-48.png", 
+                    "from_url": "https://gstudents.slack.com/archives/C56DT3R2T/p1494257672153069?thread_ts=1494255775597734&cid=C56DT3R2T"
+                }
+            ], 
+            "slog_is_slackbot_dm": false, 
+            "timestamp": "1494257672153069", 
+            "slog_is_mpdm": "0", 
+            "plain_text": "Here is the thread the add the links", 
+            "is_multiteam": false, 
+            "ts": "1494257672.153099", 
+            "subtype": "reply_broadcast", 
+            "slog_is_shared": "0", 
+            "user": "U4YB9LF2N", 
+            "text": "", 
+            "is_thread_broadcast": true
+        }, 
+        {
+            "thread_ts": "1494255775.597734", 
+            "text": "Here is the thread the add the links", 
+            "ts": "1494257672.153069", 
+            "subtype": "thread_broadcast", 
+            "user": "U4YB9LF2N", 
+            "root": {
+                "thread_ts": "1494255775.597734", 
+                "subscribed": false, 
+                "text": "Good morning guys! I say we add our account profile links(twitter, linkdin, etc..) on here just so we can all add each other.", 
+                "ts": "1494255775.597734", 
+                "unread_count": 10, 
+                "reply_count": 10, 
+                "user": "U4YB9LF2N", 
+                "replies": [
+                    {
+                        "user": "U4YB9LF2N", 
+                        "ts": "1494257672.153069"
+                    }, 
+                    {
+                        "user": "U4YB9LF2N", 
+                        "ts": "1494257701.161734"
+                    }, 
+                    {
+                        "user": "U2PSX14KF", 
+                        "ts": "1494258704.452915"
+                    }, 
+                    {
+                        "user": "U2PSX14KF", 
+                        "ts": "1494258718.457095"
+                    }, 
+                    {
+                        "user": "U4SCDGADR", 
+                        "ts": "1494258969.531137"
+                    }, 
+                    {
+                        "user": "U4SCDGADR", 
+                        "ts": "1494258977.533622"
+                    }, 
+                    {
+                        "user": "U3TUZU9RR", 
+                        "ts": "1494259285.625912"
+                    }, 
+                    {
+                        "user": "U3TUZU9RR", 
+                        "ts": "1494259339.642405"
+                    }, 
+                    {
+                        "user": "U4M4XGYEN", 
+                        "ts": "1494260742.020268"
+                    }, 
+                    {
+                        "user": "U4M4XGYEN", 
+                        "ts": "1494266440.570475"
+                    }
+                ], 
+                "type": "message"
+            }, 
+            "type": "message"
+        }, 
+        {
+            "text": "You can slack me your updated LinkedIn profiles, twitter profiles, and article ideas, if you haven't done so already", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494257512.106821"
+        }, 
+        {
+            "text": "<!channel> Everyone, please remember you have some 9 am deadlines today :smile:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494257460.091539"
+        }, 
+        {
+            "text": "Good idea, <@U4YB9LF2N> !!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494257436.084494"
+        }, 
+        {
+            "thread_ts": "1494255775.597734", 
+            "subscribed": false, 
+            "text": "Good morning guys! I say we add our account profile links(twitter, linkdin, etc..) on here just so we can all add each other.", 
+            "ts": "1494255775.597734", 
+            "unread_count": 10, 
+            "reply_count": 10, 
+            "user": "U4YB9LF2N", 
+            "replies": [
+                {
+                    "user": "U4YB9LF2N", 
+                    "ts": "1494257672.153069"
+                }, 
+                {
+                    "user": "U4YB9LF2N", 
+                    "ts": "1494257701.161734"
+                }, 
+                {
+                    "user": "U2PSX14KF", 
+                    "ts": "1494258704.452915"
+                }, 
+                {
+                    "user": "U2PSX14KF", 
+                    "ts": "1494258718.457095"
+                }, 
+                {
+                    "user": "U4SCDGADR", 
+                    "ts": "1494258969.531137"
+                }, 
+                {
+                    "user": "U4SCDGADR", 
+                    "ts": "1494258977.533622"
+                }, 
+                {
+                    "user": "U3TUZU9RR", 
+                    "ts": "1494259285.625912"
+                }, 
+                {
+                    "user": "U3TUZU9RR", 
+                    "ts": "1494259339.642405"
+                }, 
+                {
+                    "user": "U4M4XGYEN", 
+                    "ts": "1494260742.020268"
+                }, 
+                {
+                    "user": "U4M4XGYEN", 
+                    "ts": "1494266440.570475"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "awesome - thank you!!", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1494016669.125136"
+        }, 
+        {
+            "text": "All of these are great for getting to know the people in that industry and we have had students land jobs from the connections they make at these events", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494014948.747214"
+        }, 
+        {
+            "text": "Anyone interested in sustainability and clean tech should refer to this list of events in the bay area: <http://www.elenalucas.co/bay-area-events.html>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494014919.741045", 
+            "attachments": [
+                {
+                    "image_bytes": 26279, 
+                    "title": "Bay Area Events", 
+                    "service_name": "Elena Lucas", 
+                    "image_width": 425, 
+                    "title_link": "http://www.elenalucas.co/bay-area-events.html", 
+                    "image_height": 86, 
+                    "image_url": "http://www.elenalucas.co/uploads/3/0/6/0/30606055/1405623381.png", 
+                    "text": "These events are gathered from a variety of email lists. If you'd like your event to be listed, \u00a0reach out to me.\u00a0", 
+                    "id": 1, 
+                    "fallback": "Elena Lucas: Bay Area Events", 
+                    "service_icon": "http://www.elenalucas.co/favicon.ico", 
+                    "from_url": "http://www.elenalucas.co/bay-area-events.html"
+                }
+            ]
+        }, 
+        {
+            "text": "Thanks for the reminder!!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1494014894.735746"
+        }, 
+        {
+            "text": "<@U36C8HHU3> Hello :slightly_smiling_face: I was wondering if you could slack that information about sustainable companies. Thanks!", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1494014709.694702"
+        }, 
+        {
+            "text": "<!channel> Hey everyone! Lovely seeing you all today. Homework for next week:\n\n*Update your LinkedIn with all the things we talked about in class today...*\n- Name (also add your new Anchor - \"Software Engineer\" or \"Web Developer\" -- and you can change your industry to computer software)\n- Update contact info, including professional email address, Github, Twitter\n- Summary\n- Professional Photo\n- Galvanize added under \"Experience\" with description of Galvanize\n- Experience also includes all previous jobs with descriptions - can be prose or bullet points. Emphasize all things technical and analytical\n- Add Galvanize under Education\n- Make sure skill section is relevant\n\nHere is today's slide deck: <https://docs.google.com/presentation/d/17vMo_3T1oK7KIkuyCE6tzh_7cYj3AuWcw0awUa-iKwo/edit#slide=id.g1de5da8af0_0_131>\n\n*Due Monday, 5/8/2017, 9 am*\n\n*Brainstorm and send me Q1 article idea*\n- Article will be 750+ words long and can be on any topic in tech - tech industry, specific technology, your journey in becoming a web developer, a project you've done, etc....\n\n*Due Monday, 5/8/2017, 9 am*\n\n*Create a Twitter account if you do not already have one*\n- Send me your slack handle <@U36C8HHU3>\n\n*Due Monday, 5/8/2017, 9 am*\n\n*Continue networking and filling out your networking tracker*\n\nLet me know if you have any questions! :smile:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1493939780.539206"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U4M4XGYEN"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 39267, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "6 min read", 
+                            "title": "Reading time"
+                        }
+                    ], 
+                    "title": "I spent 3 months applying to jobs after a coding bootcamp. Here\u2019s what I learned.", 
+                    "service_name": "freeCodeCamp", 
+                    "ts": 1479574110, 
+                    "title_link": "https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331", 
+                    "image_height": 250, 
+                    "image_url": "https://cdn-images-1.medium.com/max/1200/1*tMOJBSqKfYd9M2zOskluFw.png", 
+                    "image_width": 562, 
+                    "text": "A less-talked about part of the bootcamper\u2019s journey is what happens after you graduate \u2014 when you\u2019re searching for that six-figure\u2026", 
+                    "id": 1, 
+                    "fallback": "freeCodeCamp: I spent 3 months applying to jobs after a coding bootcamp. Here\u2019s what I learned.", 
+                    "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*MotlWcSa2n6FrOx3ul89kw.png", 
+                    "from_url": "https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331"
+                }
+            ], 
+            "text": "<https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331>", 
+            "ts": "1493933303.465529", 
+            "user": "U4SCDGADR", 
+            "type": "message"
+        }, 
+        {
+            "text": "I have a lot of tweets to delete! <https://twitter.com/kurtishouser>", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1493932406.272852", 
+            "attachments": [
+                {
+                    "title": "Kurtis Houser (@kurtishouser) | Twitter", 
+                    "text": "The latest Tweets from Kurtis Houser (@kurtishouser): \"I just earned the 'Riding Steady (Level 2)' badge on @untappd! <https://t.co/linL9iHdvH>\"", 
+                    "title_link": "https://twitter.com/kurtishouser", 
+                    "service_name": "twitter.com", 
+                    "id": 1, 
+                    "fallback": "Kurtis Houser (@kurtishouser) | Twitter", 
+                    "service_icon": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png", 
+                    "from_url": "https://twitter.com/kurtishouser"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://namechk.com/>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1493932296.248220", 
+            "attachments": [
+                {
+                    "image_bytes": 65753, 
+                    "title": "Namechk | Username, Domain &amp; Trademark Search", 
+                    "text": "Have a personal or brand #username you love? Check if it's taken or available on popular SM sites using <http://Namechk.com|Namechk.com> #branding", 
+                    "image_width": 372, 
+                    "title_link": "https://namechk.com/", 
+                    "image_height": 250, 
+                    "image_url": "https://namechk.com/assets/share-image-dfeea035aef91c36e163ab2fcaae539eff00ba96c266c7124f4f63ca2878d69b.jpg", 
+                    "service_name": "namechk.com", 
+                    "id": 1, 
+                    "fallback": "Namechk | Username, Domain &amp; Trademark Search", 
+                    "service_icon": "https://namechk.com/favicon.ico", 
+                    "from_url": "https://namechk.com/"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.linkedin.com/in/thomas-stang/>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1493931875.151103"
+        }, 
+        {
+            "text": "<https://www.linkedin.com/in/akrawiec/>", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1493931873.150641"
+        }, 
+        {
+            "text": "Just graduated high school. Didn\u2019t go to college. 0 work experience. Learning Javascript to build cool things that will help people. Hire me pls.", 
+            "type": "message", 
+            "user": "U4YB9LF2N", 
+            "ts": "1493931501.056391"
+        }, 
+        {
+            "text": "<https://www.linkedin.com/in/isisanchalee/>", 
+            "type": "message", 
+            "user": "U4RKZ1A94", 
+            "ts": "1493931006.931006"
+        }, 
+        {
+            "text": "<https://www.linkedin.com/in/ckarthiksriram/>", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1493930528.809586"
+        }, 
+        {
+            "username": "meghanprestemon", 
+            "display_as_bot": false, 
+            "text": "<@U4M4XGYEN|meghanprestemon> uploaded a file: <https://gstudents.slack.com/files/meghanprestemon/F589CQ3NC/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1493930378.771269", 
+            "subtype": "file_share", 
+            "user": "U4M4XGYEN", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 0, 
+                "channels": [
+                    "C56DT3R2T"
+                ], 
+                "display_as_bot": false, 
+                "id": "F589CQ3NC", 
+                "size": 637, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F589CQ3NC/-.txt", 
+                "ims": [], 
+                "preview": "Game designer, developer, and software engineer proficient in concepting, programming, and prototyping. Constantly working to improve and enhance ideas based on work experience, programming expertise, academic training, and real-life experiences to make the most engaging application possible. Great communication skills and ability to effectively collaborate with others to facilitate and build ideas. Skilled in understanding technical options/limitations and utilizing user feedback to unify and enhance web, social, and mobile applications. Dedicated to maintaining a reputation built on quality, creativity, and a solid work ethic. ", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/meghanprestemon/F589CQ3NC/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1493930372, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F589CQ3NC/download/-.txt", 
+                "user": "U4M4XGYEN", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F589CQ3NC-9fb9b1bc23", 
+                "permalink": "https://gstudents.slack.com/files/meghanprestemon/F589CQ3NC/-.txt", 
+                "is_external": false, 
+                "created": 1493930372, 
+                "lines": 1, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Game designer, developer, and software engineer proficient in concepting, programming, and prototyping. Constantly working to improve and enhance ideas based on work experience, programming expertise, academic training, and real-life experiences to make the most engaging application possible. Great communication skills and ability to effectively collaborate with others to facilitate and build ideas. Skilled in understanding technical options/limitations and utilizing user feedback to unify and enhance web, social, and mobile applications. Dedicated to maintaining a reputation built on quality, creativity, and a solid work ethic. </pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://www.linkedin.com/in/gustavogardel/>", 
+            "type": "message", 
+            "user": "U4WK6BJQM", 
+            "ts": "1493930355.765654"
+        }, 
+        {
+            "text": "<https://www.linkedin.com/in/angelazhu1/>", 
+            "type": "message", 
+            "user": "U4YB9LF2N", 
+            "ts": "1493930354.765411"
+        }, 
+        {
+            "text": "<https://www.linkedin.com/in/apparaoindraganti/>", 
+            "type": "message", 
+            "user": "U4M2ULFUK", 
+            "ts": "1493930349.764193"
+        }, 
+        {
+            "text": "Detail-oriented, creative data collector, visualizer, and problem solver", 
+            "type": "message", 
+            "user": "U4SCDGADR", 
+            "ts": "1493930274.745665"
+        }, 
+        {
+            "text": "scrum, RESTful web service, refractor framework codebase", 
+            "type": "message", 
+            "user": "U506BBZ3N", 
+            "ts": "1493929722.604560"
+        }, 
+        {
+            "text": "A/B Testing Driven", 
+            "type": "message", 
+            "user": "U4SCDGADR", 
+            "ts": "1493929721.604326"
+        }, 
+        {
+            "text": "Mobile Application Development", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1493929704.599908"
+        }, 
+        {
+            "text": "Applications Programmer", 
+            "type": "message", 
+            "user": "U3TUZU9RR", 
+            "ts": "1493929702.599506"
+        }, 
+        {
+            "text": "multiple hats", 
+            "type": "message", 
+            "user": "U4SCDGADR", 
+            "ts": "1493929702.599326"
+        }, 
+        {
+            "text": "RESTful Web Web Services", 
+            "type": "message", 
+            "user": "U4SCDGADR", 
+            "ts": "1493929682.594160"
+        }, 
+        {
+            "text": "JavaScript Web Developer", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1493929680.593516"
+        }, 
+        {
+            "text": "UI Web Developer", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1493929666.589975"
+        }, 
+        {
+            "text": "HTML/CSS/ColdFusion/PHP/jQuery and Responsive Design", 
+            "type": "message", 
+            "user": "U4NBAUKD4", 
+            "ts": "1493929664.589586"
+        }, 
+        {
+            "text": "\"Full stack\"", 
+            "type": "message", 
+            "user": "U3TUZU9RR", 
+            "ts": "1493929664.589471"
+        }, 
+        {
+            "text": "Front End Web Developer", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1493929650.585828"
+        }, 
+        {
+            "text": "experience building data driven apps", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1493929631.581087"
+        }, 
+        {
+            "text": "REST APIs", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1493929626.579594"
+        }, 
+        {
+            "text": "matlab, C", 
+            "type": "message", 
+            "user": "U4RKZ1A94", 
+            "ts": "1493929623.578718"
+        }, 
+        {
+            "text": "machine learning, algorithms, computer science, robots, master student, html, ruby, ruby on rails", 
+            "type": "message", 
+            "user": "U3R672XGQ", 
+            "ts": "1493929607.574846"
+        }, 
+        {
+            "text": "mySQL, testing, team leadership, product dev,", 
+            "type": "message", 
+            "user": "U4RKZ1A94", 
+            "ts": "1493929605.573907"
+        }, 
+        {
+            "text": "Express, angular, react, bootstrap", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1493929599.572300"
+        }, 
+        {
+            "text": "Node.js", 
+            "type": "message", 
+            "user": "U4NBAUKD4", 
+            "ts": "1493929571.565300"
+        }, 
+        {
+            "text": "Under skills: Java, C++, Python, etc.", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1493929513.550142"
+        }, 
+        {
+            "text": "Full Stack", 
+            "type": "message", 
+            "user": "U2PSX14KF", 
+            "ts": "1493929495.545463"
+        }, 
+        {
+            "text": "<https://techcrunch.com/2017/05/03/psa-this-google-doc-scam-is-spreading-fast-and-will-email-everyone-you-know/>", 
+            "type": "message", 
+            "user": "U4NBAUKD4", 
+            "ts": "1493846790.896284", 
+            "attachments": [
+                {
+                    "thumb_height": 130, 
+                    "service_icon": "https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico", 
+                    "thumb_width": 200, 
+                    "title": "PSA: This Google Doc scam is spreading fast and will email everyone you\u00a0know", 
+                    "service_name": "TechCrunch", 
+                    "author_name": "Greg Kumparak", 
+                    "title_link": "https://techcrunch.com/2017/05/03/psa-this-google-doc-scam-is-spreading-fast-and-will-email-everyone-you-know/", 
+                    "service_url": "http://techcrunch.com", 
+                    "text": "A new Google Docs phishing scam just reared its head a few hours ago, and it&rsquo;s spreading like wildfire. Google appears to be taking action to stop it, but in the mean time: be super, super wary of Google Doc invites for now. If you fall for this one (and plenty of otherwise eagle-eyed people have already), it&rsquo;ll blast out the bait to everyone on your contact list.\nHere&rsquo;s what you need to know:\nClicking the link takes you to a real Google-hosted page, with a list of your Google accounts ready to click\nIt asks you to select an account and provide an app called &ldquo;Google Docs&rdquo; &mdash; yes, they were somehow allowed to name a third party app &ldquo;Google Docs&rdquo; &mdash; with account permissions\nAs soon as you click the &ldquo;allow&rdquo; button, this not-at-all-actually-Google Docs app now has permission to read your emails and email all your contacts&hellip;. the latter of which it&rsquo;ll start doing pretty much immediately, spreading the worm to pretty much everyone you&rsquo;ve ever emailed.\nThis one is super sneaky; pretty much the only way to detect it before falling for it is to click the small &ldquo;Google Docs&rdquo; link  on the actual Google-hosted page and notice that the developer info seems&hellip; off.\nZach Latta of Hack Club grabbed a video of the whole flow so you don&rsquo;t have to test fate to see it for yourself:\n\n\n@zeynep Just got this as well. Super sophisticated. \n&mdash; Zach Latta (@zachlatta) May 3, 2017\n\nHow do I know if I&rsquo;ve been hit? How do I fix it?\nCheck your Google account&rsquo;s app permissions. There should not be an app called &ldquo;Google Docs&rdquo; there &mdash; actual Google Docs has access to your account by default. If you see it listed there, remove it by tapping the label and hitting &ldquo;Remove&rdquo;\nUpdate: The Google Docs twitter account just acknowledged the attack and says they&rsquo;re working on it, but says not to click on things in the meantime.\n\n\nWe are investigating a phishing email that appears as Google Docs. We encourage you to not click through &amp; report as phishing within Gmail.\n&mdash; Google Docs (@googledocs) May 3, 2017\n\nStory developing&hellip;", 
+                    "id": 1, 
+                    "fallback": "TechCrunch Link: PSA: This Google Doc scam is spreading fast and will email everyone you&nbsp;know", 
+                    "thumb_url": "https://i1.wp.com/tctechcrunch2011.files.wordpress.com/2017/05/gdoc.png?fit=200%2C150&ssl=1", 
+                    "from_url": "https://techcrunch.com/2017/05/03/psa-this-google-doc-scam-is-spreading-fast-and-will-email-everyone-you-know/"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> Code for SF: <https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/239264106/>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1493841097.421897", 
+            "attachments": [
+                {
+                    "thumb_height": 2448, 
+                    "service_icon": "https://secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+                    "thumb_width": 3264, 
+                    "title": "Code for San Francisco - Civic Hack Night", 
+                    "service_name": "Meetup", 
+                    "title_link": "https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/239264106/", 
+                    "text": "Want to see how volunteers are using technology to tackle hard challenges in San Francisco?\u00a0Code for SF is hosting a demo night of the projects our members are building. These volunteers are working t", 
+                    "id": 1, 
+                    "fallback": "Meetup: Code for San Francisco - Civic Hack Night", 
+                    "thumb_url": "https://secure.meetupstatic.com/photos/event/d/a/b/c/highres_443875996.jpeg", 
+                    "from_url": "https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/events/239264106/"
+                }
+            ]
+        }, 
+        {
+            "text": "Some good quora articles: <https://www.quora.com/How-should-I-respond-when-an-interviewer-asks-what-your-current-base-salary-is>\n\n<https://www.quora.com/What-are-some-of-the-biggest-red-flags-in-an-interviewee-1>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1493738882.649317"
+        }, 
+        {
+            "edited": {
+                "user": "U36C8HHU3", 
+                "ts": "1493669026.000000"
+            }, 
+            "attachments": [
+                {
+                    "image_bytes": 235787, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "5 min read", 
+                            "title": "Reading time"
+                        }
+                    ], 
+                    "title": "The Stinky Cow Principle: How to Tell Stories that Make People Trust You", 
+                    "service_name": "Medium", 
+                    "ts": 1493292662, 
+                    "title_link": "https://medium.com/the-mission/the-stinky-cow-principle-how-to-tell-stories-that-make-people-trust-you-c40cdbb1ca4c", 
+                    "image_height": 250, 
+                    "image_url": "https://cdn-images-1.medium.com/max/1200/1*CP-ENp6S1eAX8m3OV1w83w.jpeg", 
+                    "image_width": 376, 
+                    "text": "Details\u2014even the gory ones\u2014make you more likable.", 
+                    "id": 1, 
+                    "fallback": "Medium: The Stinky Cow Principle: How to Tell Stories that Make People Trust You", 
+                    "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*lweRCs77VRPCrZvX8Sv-Jg.png", 
+                    "from_url": "https://medium.com/the-mission/the-stinky-cow-principle-how-to-tell-stories-that-make-people-trust-you-c40cdbb1ca4c"
+                }
+            ], 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "nerd_face", 
+                    "users": [
+                        "U4RKZ1A94"
+                    ]
+                }
+            ], 
+            "text": "<!channel> Good read on how to tell compelling stories - keep this in mind in particular for when you are talking about what motivated you to make the switch into web dev! <https://medium.com/the-mission/the-stinky-cow-principle-how-to-tell-stories-that-make-people-trust-you-c40cdbb1ca4c>", 
+            "ts": "1493669005.246941", 
+            "user": "U36C8HHU3", 
+            "type": "message"
+        }, 
+        {
+            "text": "great - thank you!", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1493337506.462644"
+        }, 
+        {
+            "text": "I'll be checking after they are due on Monday - please submit to your person careers folder", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1493336720.368925"
+        }, 
+        {
+            "text": "After answering the questions should we let you know we\u2019ve completed it or will you be checking on it at a certain point?", 
+            "type": "message", 
+            "user": "U4M4XGYEN", 
+            "ts": "1493336004.281495"
+        }, 
+        {
+            "text": "2) Your homework assignment is to answer the following questions thoughtfully: <https://docs.google.com/document/d/1Ygi4HZWjD6Jd5x5oxEh3sP0jrzm3IRGiwRROWjpCjXM/edit>\n\nPlease make a copy of the doc to your personal careers folder before you answer the questions.\n\nDue: 9 am Monday 5/1", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1493330100.379989", 
+            "edited": {
+                "user": "U36C8HHU3", 
+                "ts": "1493336701.000000"
+            }
+        }, 
+        {
+            "text": "1) Here is my office hour calendar. I update it before the start of every week: <https://calendar.google.com/calendar/embed?src=galvanize.com_4dgcak36o6a8au6kic4hdie8q0%40group.calendar.google.com&amp;ctz=America/Los_Angeles>\n\nI still have some 1:1 timeslots for tomorrow (for talking on hangouts), so please feel free to sign up if you would like to chat!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1493330047.370042"
+        }, 
+        {
+            "text": "Hey everyone! Lovely seeing you earlier. A few things:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1493330008.362674"
+        }, 
+        {
+            "text": "<@U3R672XGQ|tylerlangenbrunner> has joined the channel", 
+            "ts": "1493315552.576487", 
+            "subtype": "channel_join", 
+            "user": "U3R672XGQ", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U506BBZ3N|stephenanderson> has joined the channel", 
+            "ts": "1493315552.576473", 
+            "subtype": "channel_join", 
+            "user": "U506BBZ3N", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U4NBAUKD4|stelapalii> has joined the channel", 
+            "ts": "1493315552.576461", 
+            "subtype": "channel_join", 
+            "user": "U4NBAUKD4", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U4SCDGADR|ssabu> has joined the channel", 
+            "ts": "1493315552.576445", 
+            "subtype": "channel_join", 
+            "user": "U4SCDGADR", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U4M2ULFUK|ronanfitzpatrick> has joined the channel", 
+            "ts": "1493315552.576432", 
+            "subtype": "channel_join", 
+            "user": "U4M2ULFUK", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U4YB9LF2N|michael_murray> has joined the channel", 
+            "ts": "1493315552.576421", 
+            "subtype": "channel_join", 
+            "user": "U4YB9LF2N", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U4M4XGYEN|meghanprestemon> has joined the channel", 
+            "ts": "1493315552.576397", 
+            "subtype": "channel_join", 
+            "user": "U4M4XGYEN", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U2PSX14KF|kurtishouser> has joined the channel", 
+            "ts": "1493315552.576386", 
+            "subtype": "channel_join", 
+            "user": "U2PSX14KF", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U3TUZU9RR|johanb> has joined the channel", 
+            "ts": "1493315552.576377", 
+            "subtype": "channel_join", 
+            "user": "U3TUZU9RR", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U4QBMKRQA|jeffcrusey> has joined the channel", 
+            "ts": "1493315552.576369", 
+            "subtype": "channel_join", 
+            "user": "U4QBMKRQA", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U4RKZ1A94|grantwillison> has joined the channel", 
+            "ts": "1493315552.576359", 
+            "subtype": "channel_join", 
+            "user": "U4RKZ1A94", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U4WK6BJQM|dave.gallup> has joined the channel", 
+            "ts": "1493315552.576347", 
+            "subtype": "channel_join", 
+            "user": "U4WK6BJQM", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U4WKPLCTB|allisonbrett> has joined the channel", 
+            "ts": "1493315552.576336", 
+            "subtype": "channel_join", 
+            "user": "U4WKPLCTB", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U36C8HHU3|maryannbarge> has joined the channel", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1493315417.536021", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g52_career_services", 
+        "name": "g52_career_services", 
+        "is_channel": true, 
+        "created": 1493315417, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U36C8HHU3", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U2PSX14KF", 
+            "U36C8HHU3", 
+            "U3R672XGQ", 
+            "U3TUZU9RR", 
+            "U4M2ULFUK", 
+            "U4M4XGYEN", 
+            "U4NBAUKD4", 
+            "U4QBMKRQA", 
+            "U4RKZ1A94", 
+            "U4SCDGADR", 
+            "U4WK6BJQM", 
+            "U4WKPLCTB", 
+            "U4YB9LF2N", 
+            "U506BBZ3N"
+        ], 
+        "id": "C56DT3R2T", 
+        "is_shared": false
+    }
+}

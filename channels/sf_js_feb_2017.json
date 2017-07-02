@@ -1,0 +1,1528 @@
+{
+    "messages": [
+        {
+            "text": "<@U4B699Z7D>", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1498774811.869594"
+        }, 
+        {
+            "text": "<@U4B699Z7D|caroline> has joined the channel", 
+            "type": "message", 
+            "user": "U4B699Z7D", 
+            "ts": "1498774806.868682", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> un-archived the channel", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1498774788.864777", 
+            "subtype": "channel_unarchive"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> has joined the channel", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1498774788.864771", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> archived the channel", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1494868659.110079", 
+            "subtype": "channel_archive"
+        }, 
+        {
+            "text": "hey <!channel>! Please take a moment to tell us how we did during your part time course. Survey link is here:<https://www.surveymonkey.com/r/R9HY8DJ>", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1491426845.031730", 
+            "attachments": [
+                {
+                    "title": "San Francisco Web Development Foundations with JavaScript Workshop (8 weeks) Exit Survey (17-02-WS-SF-JS)\u00a0", 
+                    "text": "Web survey powered by <http://SurveyMonkey.com|SurveyMonkey.com>. Create your own online survey now with SurveyMonkey's expert certified FREE templates.", 
+                    "title_link": "https://www.surveymonkey.com/r/R9HY8DJ", 
+                    "service_name": "surveymonkey.com", 
+                    "id": 1, 
+                    "fallback": "San Francisco Web Development Foundations with JavaScript Workshop (8 weeks) Exit Survey (17-02-WS-SF-JS)\u00a0", 
+                    "service_icon": "https://www.surveymonkey.com/favicon1.ico", 
+                    "from_url": "https://www.surveymonkey.com/r/R9HY8DJ"
+                }
+            ]
+        }, 
+        {
+            "text": "code <https://github.com/katkinso/galvanize/tree/master/collection>", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1491060361.539278", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "katkinso/galvanize", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/katkinso/galvanize/tree/master/collection", 
+                    "text": "Contribute to galvanize development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: katkinso/galvanize", 
+                    "thumb_url": "https://avatars1.githubusercontent.com/u/1873463?v=3&s=400", 
+                    "from_url": "https://github.com/katkinso/galvanize/tree/master/collection"
+                }
+            ]
+        }, 
+        {
+            "text": "<http://puzzled-rice.surge.sh/>", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1491060074.520093"
+        }, 
+        {
+            "text": "(turns out my page worked on a different browser like safari)", 
+            "type": "message", 
+            "user": "U4AD7RTNU", 
+            "ts": "1490934621.515022"
+        }, 
+        {
+            "text": "well at least you didn\u2019t get this comment from an engineering friend like i did :wink: jk", 
+            "type": "message", 
+            "user": "U4AD7RTNU", 
+            "ts": "1490934600.512503"
+        }, 
+        {
+            "username": "dj", 
+            "display_as_bot": false, 
+            "text": "<@U4AD7RTNU|dj> uploaded a file: <https://gstudents.slack.com/files/dj/F4T61B71D/screen_shot_2017-03-30_at_8.53.57_pm.png|Screen Shot 2017-03-30 at 8.53.57 PM.png>", 
+            "upload": true, 
+            "ts": "1490934590.511525", 
+            "subtype": "file_share", 
+            "user": "U4AD7RTNU", 
+            "file": {
+                "groups": [], 
+                "filetype": "png", 
+                "channels": [
+                    "C4B72NK2R"
+                ], 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4T61B71D-7685c4806e/screen_shot_2017-03-30_at_8.53.57_pm_64.png", 
+                "size": 29264, 
+                "original_h": 246, 
+                "thumb_360_w": 255, 
+                "title": "Screen Shot 2017-03-30 at 8.53.57 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4T61B71D/screen_shot_2017-03-30_at_8.53.57_pm.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4T61B71D-7685c4806e/screen_shot_2017-03-30_at_8.53.57_pm_360.png", 
+                "id": "F4T61B71D", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4T61B71D-7685c4806e/screen_shot_2017-03-30_at_8.53.57_pm_80.png", 
+                "thumb_360_h": 246, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1490934589, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4T61B71D-7685c4806e/screen_shot_2017-03-30_at_8.53.57_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4T61B71D/download/screen_shot_2017-03-30_at_8.53.57_pm.png", 
+                "user": "U4AD7RTNU", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-03-30 at 8.53.57 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4T61B71D-de82aa6810", 
+                "permalink": "https://gstudents.slack.com/files/dj/F4T61B71D/screen_shot_2017-03-30_at_8.53.57_pm.png", 
+                "is_external": false, 
+                "created": 1490934589, 
+                "original_w": 255, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Haha thanks! I should have made it compatible with browsers other than chrome! He's missing the sweet graphics! :slightly_smiling_face: ", 
+            "type": "message", 
+            "user": "U4B6TPQEQ", 
+            "ts": "1490932302.278728"
+        }, 
+        {
+            "username": "dj", 
+            "display_as_bot": false, 
+            "text": "<@U4AD7RTNU|dj> uploaded a file: <https://gstudents.slack.com/files/dj/F4RQAUU5P/screen_shot_2017-03-30_at_8.48.53_pm.png|Screen Shot 2017-03-30 at 8.48.53 PM.png>", 
+            "upload": true, 
+            "ts": "1490932175.265804", 
+            "subtype": "file_share", 
+            "user": "U4AD7RTNU", 
+            "file": {
+                "thumb_480_w": 268, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F4RQAUU5P-71d9ac1c90/screen_shot_2017-03-30_at_8.48.53_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4RQAUU5P-71d9ac1c90/screen_shot_2017-03-30_at_8.48.53_pm_64.png", 
+                "size": 74385, 
+                "original_h": 626, 
+                "thumb_360_w": 201, 
+                "title": "Screen Shot 2017-03-30 at 8.48.53 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4RQAUU5P/screen_shot_2017-03-30_at_8.48.53_pm.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4RQAUU5P-71d9ac1c90/screen_shot_2017-03-30_at_8.48.53_pm_360.png", 
+                "id": "F4RQAUU5P", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4RQAUU5P-71d9ac1c90/screen_shot_2017-03-30_at_8.48.53_pm_80.png", 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1490932174, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4RQAUU5P-71d9ac1c90/screen_shot_2017-03-30_at_8.48.53_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4RQAUU5P/download/screen_shot_2017-03-30_at_8.48.53_pm.png", 
+                "user": "U4AD7RTNU", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-03-30 at 8.48.53 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4RQAUU5P-2a23a8fba1", 
+                "permalink": "https://gstudents.slack.com/files/dj/F4RQAUU5P/screen_shot_2017-03-30_at_8.48.53_pm.png", 
+                "is_external": false, 
+                "created": 1490932174, 
+                "original_w": 349, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C4B72NK2R"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U4B6TPQEQ> your game is famous - my bf even played it and sent me this", 
+            "type": "message", 
+            "user": "U4AD7RTNU", 
+            "ts": "1490932154.263588"
+        }, 
+        {
+            "text": "<https://ianbuchanan.github.io/mapbox/>", 
+            "type": "message", 
+            "user": "U4BAWBY2Z", 
+            "ts": "1490932106.258856"
+        }, 
+        {
+            "text": "<http://intercomofficelocator.paperplane.io/>", 
+            "type": "message", 
+            "user": "U4AD7RTNU", 
+            "ts": "1490932005.248893"
+        }, 
+        {
+            "text": "<mailto:andrew.coenen@gmail.com|andrew.coenen@gmail.com> - please email me at any time if you want to learn more! And I'd appreciate it more than anything if you let me know what you've been up to!", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490930396.081968"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "unicorn", 
+                    "users": [
+                        "U4AD7RTNU"
+                    ]
+                }
+            ], 
+            "text": "<https://jagrvargen.github.io/roshambo/>", 
+            "type": "message", 
+            "user": "U4B6TPQEQ", 
+            "ts": "1490928196.835821"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "pray", 
+                    "users": [
+                        "U1UCBDAMN"
+                    ]
+                }
+            ], 
+            "text": "Alright y'all! Today's the last class and I wanted to let you know how proud I am to have had you all as students. It's really amazing how far you've come in such a short amount of time, and I'm incredibly excited to see what you get into next. As far as good follow-up material goes, my favorite javascript resource out there is Eloquent Javascript, available free here: <http://eloquentjavascript.net/> - this book has, in my opinion, the best way of teaching more advanced JS / programming subject matter and is an extremely invaluable resource for preparing for galvanize's coding bootcamp, if you're interested!\n\nAnd if so, I highly recommend applying as soon as you can. There's no better time than the present, and being able to use the knowledge you've gained in this class as a springboard to next steps is an awesome way to keep gaining momentum as programmers!\n\nAnyway, once again, it's been a huge privilege to get to teach you all even just the tiniest slice of what it is to build things on the web. It's an incredibly rewarding line of work that's made only better by sharing with others. So thanks so much!", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490925892.573196"
+        }, 
+        {
+            "text": "<https://flexbox.io/>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490665973.624444", 
+            "attachments": [
+                {
+                    "image_bytes": 224960, 
+                    "title": "What The Flexbox?!", 
+                    "text": "A simple 20 video course that will help you master CSS Flexbox", 
+                    "image_width": 560, 
+                    "title_link": "https://flexbox.io/", 
+                    "image_height": 250, 
+                    "image_url": "https://flexbox.io/images/WTF/share.png", 
+                    "service_name": "flexbox.io", 
+                    "id": 1, 
+                    "fallback": "What The Flexbox?!", 
+                    "service_icon": "https://flexbox.io/images/WTF/favicon.png", 
+                    "from_url": "https://flexbox.io/"
+                }
+            ]
+        }, 
+        {
+            "text": "oops! sorry that didn't get pasted as a snippet. hope you can use this to your advantage", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490376206.954929"
+        }, 
+        {
+            "text": "&lt;html&gt;\n&lt;head&gt;\n    &lt;script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"&gt;&lt;/script&gt;\n    &lt;style&gt;\n            img {\n        display: block;\n        }\n\n        h4 {\n        margin: 0px 10px 0px 0px;\n        display: inline;\n        }\n\n        .price {\n        display: inline;\n        }\n\n        .product {\n        display: block;\n        width: 400px;\n        margin: 5px 5px 5px 5px;\n        }\n\n        .cart {\n        border: 1px solid black;\n        margin: 5px 5px 5px 5px;\n        }\n    &lt;/style&gt;\n&lt;/head&gt;\n\n\n\n&lt;body&gt;\n    &lt;h2&gt;Products&lt;/h2&gt;\n    &lt;div class=\"productList\"&gt;\n\n    &lt;/div&gt;\n\n    &lt;h2&gt;Cart&lt;/h2&gt;\n    &lt;div class=\"cart\"&gt;\n    &lt;div class=\"total\"&gt;Total: $0.00&lt;/div&gt;\n    &lt;/div&gt;\n&lt;/body&gt;\n\n&lt;script&gt;\nvar products = [\n  {\n    \"id\": 0,\n    \"available\": true,\n    \"price\": \"2936.72\",\n    \"picture\": \"<http://placehold.it/32x32>\",\n    \"description\": \"duis sint Lorem irure velit do sint sunt ipsum incididunt occaecat dolor consequat minim ea\",\n    \"title\": \"non magna\"\n  },\n  {\n    \"id\": 1,\n    \"available\": true,\n    \"price\": \"2759.28\",\n    \"description\": \"dolore ipsum dolore fugiat ut minim magna voluptate Lorem quis Lorem irure velit elit dolore\",\n    \"title\": \"ullamco irure\"\n  },\n  {\n    \"id\": 2,\n    \"available\": false,\n    \"price\": \"2278.79\",\n    \"picture\": \"<http://placehold.it/32x32>\",\n    \"description\": \"quis velit et culpa et id dolor aute voluptate et non excepteur nostrud consequat consequat\",\n    \"title\": \"sit exercitation\"\n  },\n  {\n    \"id\": 3,\n    \"available\": true,\n    \"price\": \"2389.79\",\n    \"picture\": \"<http://placehold.it/32x32>\",\n    \"description\": \"et aliquip veniam velit sit ex Lorem laborum proident Lorem et cupidatat culpa cupidatat ipsum\",\n    \"title\": \"ea ipsum\"\n  },\n  {\n    \"id\": 4,\n    \"available\": true,\n    \"price\": \"1899.72\",\n    \"description\": \"eu esse do ea sint cupidatat in incididunt non pariatur quis veniam minim anim irure\",\n    \"title\": \"aliquip aliquip\"\n  }\n]\n\n//This is where the state of our program will live\nvar cart = [];\n\nfunction createProduct (product) {\n  if (product.available) {\n    var container = $('&lt;div id=product-' + product.id + '&gt;');\n    container.addClass(\"product\");\n\n\n    var productImg = $('&lt;img&gt;');\n    if (product.picture) {\n      productImg.attr('src', product.picture);\n    } else {\n      productImg.attr('src', \"<http://lorempixel.com/32/32>\");\n    }\n    container.append(productImg);\n\n    var title = $('&lt;h4&gt;');\n    title.text(product.title);\n    container.append(title);\n\n    var price = $('&lt;div&gt;');\n    price.text(\"$\"+product.price);\n    price.addClass(\"price\");\n    container.append(price);\n\n    var description = $('&lt;p&gt;');\n    description.text(product.description);\n    container.append(description);\n    return container;\n  }\n}\n\nvar productList = $('.productList');\n\nfunction updateCart () {\n    var totalDiv = $('.total');\n\n    var sum = 0;\n    for (var product of cart) {\n        var price = parseFloat(product.price)\n        sum += price;\n    }\n\n    var newTotal = '$' + sum.toFixed(2);\n    totalDiv.html(newTotal);\n}\n\nfunction handleButtonClick (e) {\n    console.log(e)\n    var parent = $(e.target.parentElement);\n    var id = parent.attr('id');\n    var index = id.replace('product-', '');\n    var product = products[index];\n    cart.push(product);\n    updateCart();\n}\n\nfor (var i=0; i&lt;products.length; i++) {\n  var productContainer = createProduct(products[i]);\n  var buyNowButton = $(\"&lt;button&gt;Buy Now!&lt;/button&gt;\");\n\n  buyNowButton.click(handleButtonClick)\n\n  if (productContainer) {\n    productContainer.append(buyNowButton);\n    productList.append(productContainer);\n  }\n}\n&lt;/script&gt;\n\n&lt;/html&gt;", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490376184.946794", 
+            "attachments": [
+                {
+                    "image_bytes": 2901, 
+                    "image_width": 32, 
+                    "id": 1, 
+                    "image_height": 32, 
+                    "image_url": "http://placehold.it/32x32", 
+                    "from_url": "http://placehold.it/32x32", 
+                    "fallback": "32x32px image"
+                }, 
+                {
+                    "image_bytes": 1049, 
+                    "image_width": 32, 
+                    "id": 2, 
+                    "image_height": 32, 
+                    "image_url": "http://lorempixel.com/32/32", 
+                    "from_url": "http://lorempixel.com/32/32", 
+                    "fallback": "32x32px image"
+                }
+            ]
+        }, 
+        {
+            "text": "Here's the shopping cart exercise we finished in class from last night", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490376178.944992"
+        }, 
+        {
+            "text": "so just to be clear, pick one by monday and we'll get started!", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490326180.027601"
+        }, 
+        {
+            "text": "And friendly reminder! Next week we'll be starting our final projects, which we'll be working on for the remainder of the course! By next class, I'd like for y'all to pick from one of the three projects below:\n1) Collection and Data View: <https://gist.github.com/lizTheDeveloper/dc87232f4010f8cd596f488c570d2b73>\n2) Maps: <https://gist.github.com/lizTheDeveloper/ba94a761379ea10c8d75d5dceadb6c41>\n3) Rock Paper Scissors: <https://gist.github.com/lizTheDeveloper/05380473c4c6fca934301d1d00a970e3>\n\nWe'll be working on the project from here on out, and by the end of class thursday I hope everyone will have a working copy of it hosted somewhere on the internets for all your friends and family to see! So sweet :grapes:", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490325653.974268"
+        }, 
+        {
+            "text": "<https://gist.github.com/lizTheDeveloper/38704fe9d6882caf04e226ea4261cd44>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490325156.921670"
+        }, 
+        {
+            "text": "CollectionView &amp; MapView -<https://gist.github.com/lizTheDeveloper/ba94a761379ea10c8d75d5dceadb6c41>", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1490323932.783571"
+        }, 
+        {
+            "text": "CollectionView &amp; DetailView - <https://gist.github.com/lizTheDeveloper/dc87232f4010f8cd596f488c570d2b73>", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1490323914.781830"
+        }, 
+        {
+            "text": "RoShamBo - <https://gist.github.com/lizTheDeveloper/05380473c4c6fca934301d1d00a970e3>", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1490323895.779688"
+        }, 
+        {
+            "text": "Final Project Choices\nRoShamBo\nCollectionView &amp; DetailView\nCollectionView &amp; MapView", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1490323873.777321"
+        }, 
+        {
+            "text": "Class 13: Managing Files &amp; Static Site Hosting\nAssignments: Deploying Exercises\nTurn in Deploying Files Exercises: <https://goo.gl/forms/tK98wS12jcBphEEP2>\nClass 14: Final Project Proposal and Planning\nClass 15: Final Project Work\nClass 16: Final and Showcase", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1490323824.771915", 
+            "attachments": [
+                {
+                    "image_bytes": 54929, 
+                    "title": "Deployment Exercises", 
+                    "service_name": "Google Docs", 
+                    "image_width": 333, 
+                    "title_link": "https://goo.gl/forms/tK98wS12jcBphEEP2", 
+                    "image_height": 250, 
+                    "image_url": "https://lh3.googleusercontent.com/lC4lKSw2NZD6UoOQNEXWogUwHr5DW4NM9KTvb4BGZot6FRNmPrZISYFDRTSl4aXxHXc", 
+                    "id": 1, 
+                    "fallback": "Google Docs: Deployment Exercises", 
+                    "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png", 
+                    "from_url": "https://goo.gl/forms/tK98wS12jcBphEEP2"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://docs.google.com/forms/d/e/1FAIpQLSdBdDxkEinZtGICnV570srrmO_tnys-l7yMIy0NwHsdkNgy4A/viewform?c=0&amp;w=1>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490151493.090811"
+        }, 
+        {
+            "text": "<https://gist.github.com/lizTheDeveloper/627c0c515e14f9d701a5e6328b08f307>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490151480.089363"
+        }, 
+        {
+            "text": "```\nvar groceryList = [\n  {\n    name: \"Bananas\",\n    qty: 5\n  },\n  {\n    name: \"Strawberries\",\n    qty: 20\n  },\n  {\n    name: \"Frozen Yogurt\",\n    qty: 2\n  },\n  {\n    name: \"Peanut Butter\",\n    qty: 1\n  },\n  {\n    name: \"Chocolate Chips\",\n    qty: 1\n  }\n];\n\n$listSelector = $(\"#list\") //Your list element\n\n// groceryList.forEach(function(obj, index) {\n//     $listSelector.append('&lt;li&gt;' + obj.name + ' (' + obj.qty+ ')&lt;/li&gt;')\n// });\n\nfor (var item of groceryList) {\n  // ...do something with my item\n  var listElement = $('&lt;li&gt;')\n  listElement.text(item.name + '(' + item.qty + ')')\n  $listSelector.append(listElement)\n}\n```", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490147336.589051"
+        }, 
+        {
+            "text": "```", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490147332.588557"
+        }, 
+        {
+            "text": "<https://www.codeschool.com/courses/try-jquery> - also a super useful intro to jQuery for those of you who might want to dive a little deeper!", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490062844.591285", 
+            "attachments": [
+                {
+                    "thumb_height": 440, 
+                    "thumb_width": 440, 
+                    "title": "jQuery Tutorial | Code School", 
+                    "service_name": "Code School", 
+                    "title_link": "https://www.codeschool.com/courses/try-jquery", 
+                    "text": "Learn the basics of jQuery 2.0, a JavaScript library, to modify elements on the page and improve user interaction.", 
+                    "id": 1, 
+                    "fallback": "Code School: jQuery Tutorial | Code School", 
+                    "thumb_url": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/191/completed-try-jquery-872711eae2fc5024011c64863ae69323.png", 
+                    "from_url": "https://www.codeschool.com/courses/try-jquery"
+                }
+            ]
+        }, 
+        {
+            "text": "please submit here! <https://docs.google.com/forms/d/e/1FAIpQLSdNj8O22TQFq4YnCJGfTuEvNUFhryP6j5_pMU43Yk_LU4Z2fA/viewform?c=0&amp;w=1>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490062699.574737"
+        }, 
+        {
+            "text": "<https://gist.github.com/lizTheDeveloper/c6cd9e0423a06d25a5bcfff93a98386b>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1490062364.537525"
+        }, 
+        {
+            "text": "and a submit link! good luck!", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1489719103.364548"
+        }, 
+        {
+            "text": "<https://docs.google.com/forms/d/e/1FAIpQLSeJCxK3kWmWSk5pRAvf0h9UGuzX12f1nuMe51mKIONPHH8j7A/viewform?c=0&amp;w=1>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1489719097.363902"
+        }, 
+        {
+            "text": "Here's the exercises for today's class - <https://gist.github.com/lizTheDeveloper/2cd0e1d4d6e1348fce310f2988afdb17>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1489719084.362528"
+        }, 
+        {
+            "text": "slightly a tangent, but <https://sites.google.com/view/wee-goes-global-live/home> this event is on wed (3/29), free registration, and hosted at galvanize!", 
+            "type": "message", 
+            "user": "U4AD7RTNU", 
+            "ts": "1489687740.283544", 
+            "attachments": [
+                {
+                    "image_bytes": 10364, 
+                    "title": "#WEE Goes Global Live", 
+                    "service_name": "sites.google.com", 
+                    "image_width": 250, 
+                    "title_link": "https://sites.google.com/view/wee-goes-global-live/home", 
+                    "image_height": 250, 
+                    "image_url": "https://www.gstatic.com/images/branding/product/1x/atari_512dp.png", 
+                    "id": 1, 
+                    "fallback": "#WEE Goes Global Live", 
+                    "service_icon": "http://ssl.gstatic.com/atari/images/favicon_2.ico", 
+                    "from_url": "https://sites.google.com/view/wee-goes-global-live/home"
+                }
+            ]
+        }, 
+        {
+            "username": "andycoenen", 
+            "display_as_bot": false, 
+            "text": "<@U4B9LD71B|andycoenen> uploaded a file: <https://gstudents.slack.com/files/andycoenen/F4JHGCQGM/hangman_solution_.js|hangman solution!>", 
+            "upload": true, 
+            "ts": "1489548692.471838", 
+            "subtype": "file_share", 
+            "user": "U4B9LD71B", 
+            "file": {
+                "filetype": "javascript", 
+                "lines_more": 60, 
+                "channels": [
+                    "C4B72NK2R"
+                ], 
+                "display_as_bot": false, 
+                "id": "F4JHGCQGM", 
+                "size": 1588, 
+                "title": "hangman solution!", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4JHGCQGM/hangman_solution_.js", 
+                "ims": [], 
+                "preview": " // 1. Pick a random word.\r\nvar randomWords = ['cat', 'sofa', 'hat','poo']\r\nvar index = Math.floor(Math.random() * randomWords.length)\r\nvar randomWord = randomWords[index]\r\nconsole.log('secret word: ' + randomWord)\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/andycoenen/F4JHGCQGM/hangman_solution_.js/edit", 
+                "username": "", 
+                "timestamp": 1489548692, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4JHGCQGM/download/hangman_solution_.js", 
+                "user": "U4B9LD71B", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "JavaScript/JSON", 
+                "name": "hangman_solution_.js", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4JHGCQGM-3698b48c74", 
+                "permalink": "https://gstudents.slack.com/files/andycoenen/F4JHGCQGM/hangman_solution_.js", 
+                "is_external": false, 
+                "created": 1489548692, 
+                "lines": 65, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre> <span class=\"cm-comment\">// 1. Pick a random word.</span></pre></div>\n<div><pre><span class=\"cm-keyword\">var</span> <span class=\"cm-def\">randomWords</span> <span class=\"cm-operator\">=</span> [<span class=\"cm-string\">'cat'</span>, <span class=\"cm-string\">'sofa'</span>, <span class=\"cm-string\">'hat'</span>,<span class=\"cm-string\">'poo'</span>]</pre></div>\n<div><pre><span class=\"cm-keyword\">var</span> <span class=\"cm-def\">index</span> <span class=\"cm-operator\">=</span> <span class=\"cm-variable\">Math</span>.<span class=\"cm-property\">floor</span>(<span class=\"cm-variable\">Math</span>.<span class=\"cm-property\">random</span>() <span class=\"cm-operator\">*</span> <span class=\"cm-variable\">randomWords</span>.<span class=\"cm-property\">length</span>)</pre></div>\n<div><pre><span class=\"cm-keyword\">var</span> <span class=\"cm-def\">randomWord</span> <span class=\"cm-operator\">=</span> <span class=\"cm-variable\">randomWords</span>[<span class=\"cm-variable\">index</span>]</pre></div>\n<div><pre><span class=\"cm-variable\">console</span>.<span class=\"cm-property\">log</span>(<span class=\"cm-string\">'secret word: '</span> <span class=\"cm-operator\">+</span> <span class=\"cm-variable\">randomWord</span>)</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "```", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1489548667.469224"
+        }, 
+        {
+            "text": "<http://codepen.io/pen/>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1489548492.450853", 
+            "attachments": [
+                {
+                    "image_bytes": 12276, 
+                    "title": "Create a New Pen", 
+                    "service_name": "CodePen", 
+                    "image_width": 445, 
+                    "title_link": "http://codepen.io/pen/", 
+                    "image_height": 250, 
+                    "image_url": "http://s3-us-west-2.amazonaws.com/m.cdpn.io/screenshot-coming-soon-large.png", 
+                    "text": "...", 
+                    "id": 1, 
+                    "fallback": "CodePen: Create a New Pen", 
+                    "service_icon": "https://production-assets.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+                    "from_url": "http://codepen.io/pen/"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://gist.github.com/lizTheDeveloper/be2197c124037345d6ad016ae5d6af39>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1489548443.445976"
+        }, 
+        {
+            "username": "kate", 
+            "display_as_bot": false, 
+            "text": "<@U4BTHJNET|kate> uploaded a file: <https://gstudents.slack.com/files/kate/F4K4WCVB8/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1489541811.678292", 
+            "subtype": "file_share", 
+            "user": "U4BTHJNET", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 38, 
+                "channels": [
+                    "C4B72NK2R"
+                ], 
+                "display_as_bot": false, 
+                "id": "F4K4WCVB8", 
+                "size": 816, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4K4WCVB8/-.txt", 
+                "ims": [], 
+                "preview": "\r\n// 1. Pick a random word.\r\nvar randomWords = ['cat', 'sofa', 'hat','poo']\r\nvar index = Math.floor(Math.random() * randomWords.length)\r\nvar randomWord = randomWords[index]\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/kate/F4K4WCVB8/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1489541811, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4K4WCVB8/download/-.txt", 
+                "user": "U4BTHJNET", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4K4WCVB8-2aebeb248d", 
+                "permalink": "https://gstudents.slack.com/files/kate/F4K4WCVB8/-.txt", 
+                "is_external": false, 
+                "created": 1489541811, 
+                "lines": 43, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre></pre></div>\n<div><pre>// 1. Pick a random word.</pre></div>\n<div><pre>var randomWords = ['cat', 'sofa', 'hat','poo']</pre></div>\n<div><pre>var index = Math.floor(Math.random() * randomWords.length)</pre></div>\n<div><pre>var randomWord = randomWords[index]</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Protip, use three tic marks (`) to wrap long code examples. This way it preserves indentation and other nice things. Your code becomes:\n\n```\nIan Buchanan [8:31 PM] \n&lt;!DOCTYPE html&gt;\n &lt;html&gt;\n &lt;head&gt;\n   &lt;title&gt;Hangman!&lt;/title&gt;\n &lt;/head&gt;\n &lt;body&gt;\n   &lt;h1&gt;Hangman!&lt;/h1&gt;\n &lt;script&gt;\n   // Create an array of words\n\n   // Pick a random word\n\n   // Set up the answer array\n\n   // Save the number of remaining letters\n\n   // The game loop\n   // As long as we have more than one remaining letter\n     // Show the player their progress\n     // Get a guess from the player\n     // If the player does not submit a letter\n       // Exit the game loop\n     // If the player enters more than one letter\n       // Send them an error message\n     // Otherwise\n       // Update the game state with the guess\n   // The end of the game loop\n\n   // Show the answer and congratulate the player\n &lt;/script&gt;\n&lt;/body&gt;\n&lt;/html&gt;\n```\n\nKeep sharing code!! :smile:", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1489506161.010855"
+        }, 
+        {
+            "text": "&lt;!DOCTYPE html&gt;\n  &lt;html&gt;\n  &lt;head&gt;\n    &lt;title&gt;Hangman!&lt;/title&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n    &lt;h1&gt;Hangman!&lt;/h1&gt;\n  &lt;script&gt;\n    // Create an array of words\n\n    // Pick a random word\n\n    // Set up the answer array\n\n    // Save the number of remaining letters\n\n    // The game loop\n    // As long as we have more than one remaining letter\n      // Show the player their progress\n      // Get a guess from the player\n      // If the player does not submit a letter\n        // Exit the game loop\n      // If the player enters more than one letter\n        // Send them an error message\n      // Otherwise\n        // Update the game state with the guess\n    // The end of the game loop\n\n    // Show the answer and congratulate the player\n  &lt;/script&gt;\n&lt;/body&gt;\n&lt;/html&gt;\n", 
+            "type": "message", 
+            "user": "U4BAWBY2Z", 
+            "ts": "1489462319.770958"
+        }, 
+        {
+            "text": "<https://docs.google.com/forms/d/1AbjRJi3gK1CKDTdzZrbYmC8vMOjrqRUTijp81oH7x3U/edit>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488940727.000002"
+        }, 
+        {
+            "text": "<https://docs.google.com/forms/d/1YIgV-1BwrlAHSe0-_Ig8dortaBaNjOtdHBUslE8uUSY/edit>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488854357.000010"
+        }, 
+        {
+            "username": "yann.bovet", 
+            "display_as_bot": false, 
+            "text": "<@U4B6CLSM9|yann.bovet> uploaded a file: <https://gstudents.slack.com/files/yann.bovet/F4F1GCE2J/a_little_code_scrutiny_please.txt|A little code scrutiny please> and commented: It only switches 1 set of cards regardless of the input, I'm trying to figure out why. Thanks for any help!", 
+            "upload": true, 
+            "ts": "1488826110.000006", 
+            "subtype": "file_share", 
+            "user": "U4B6CLSM9", 
+            "file": {
+                "initial_comment": {
+                    "comment": "It only switches 1 set of cards regardless of the input, I'm trying to figure out why. Thanks for any help!", 
+                    "created": 1488826110, 
+                    "timestamp": 1488826110, 
+                    "is_intro": true, 
+                    "user": "U4B6CLSM9", 
+                    "id": "Fc4EAVLCEN"
+                }, 
+                "filetype": "text", 
+                "lines_more": 51, 
+                "channels": [
+                    "C4B72NK2R"
+                ], 
+                "display_as_bot": false, 
+                "id": "F4F1GCE2J", 
+                "size": 1206, 
+                "title": "A little code scrutiny please", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4F1GCE2J/a_little_code_scrutiny_please.txt", 
+                "ims": [], 
+                "preview": "Hey if anyone has time to look at my attempt at a randomizer, go for it. Currently it won't iterate and me staring at it doesn't seem to be working.\r\nvar suits = [\"Hearts\", \"Diamonds\", \"Spades\", \"Clovers\"];\r\nvar faces = [\"Ace\", 2, 3, 4, 5, 6, 7, 8, 9, 10, \"Jack\", \"Queen\", \"Kings\", \"Joker\"]\r\nvar deck = new Array();\r\n\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/yann.bovet/F4F1GCE2J/a_little_code_scrutiny_please.txt/edit", 
+                "username": "", 
+                "timestamp": 1488826110, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4F1GCE2J/download/a_little_code_scrutiny_please.txt", 
+                "user": "U4B6CLSM9", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "A_little_code_scrutiny_please.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4F1GCE2J-f7e1e6f717", 
+                "permalink": "https://gstudents.slack.com/files/yann.bovet/F4F1GCE2J/a_little_code_scrutiny_please.txt", 
+                "is_external": false, 
+                "created": 1488826110, 
+                "lines": 56, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Hey if anyone has time to look at my attempt at a randomizer, go for it. Currently it won't iterate and me staring at it doesn't seem to be working.</pre></div>\n<div><pre>var suits = [&quot;Hearts&quot;, &quot;Diamonds&quot;, &quot;Spades&quot;, &quot;Clovers&quot;];</pre></div>\n<div><pre>var faces = [&quot;Ace&quot;, 2, 3, 4, 5, 6, 7, 8, 9, 10, &quot;Jack&quot;, &quot;Queen&quot;, &quot;Kings&quot;, &quot;Joker&quot;]</pre></div>\n<div><pre>var deck = new Array();</pre></div>\n<div><pre></pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Thank you for sharing your knowledge!", 
+            "type": "message", 
+            "user": "U4BAWBY2Z", 
+            "ts": "1488819300.000005"
+        }, 
+        {
+            "text": "Thanks andy!!", 
+            "type": "message", 
+            "user": "U4AD7RTNU", 
+            "ts": "1488775532.000004"
+        }, 
+        {
+            "text": "thanks, andy! much appreciated!", 
+            "type": "message", 
+            "user": "U4B699Z7D", 
+            "ts": "1488769642.000003"
+        }, 
+        {
+            "text": "hey all, I didn't realize it before but by putting due dates on the previous assignments it prevented anyone who may have missed the deadline from submitting their work later. Anyway, in the interest of making sure everyone has a chance to do all of the <http://repl.it|repl.it> assignments, I've removed due dates from all previous and outstanding assignments, and won't be putting them on any longer. This'll allow anyone who wants/needs to catch up / redo their work to do so! \n\nJust wanna say too that I'm so happy to have all of you in the class, and I couldn't be happier with your progress so far. Just think, last monday you'd never touched JS code and this week you'll be writing real, actual, working programs. It really is amazing! And just remember, the struggle is part of the process - you're gonna learn a million times more having it be kinda hard and overwhelming at times than if it were all smooth sailing.\n\nBest of luck, and see you on Monday! Happy coding!", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488755722.000002"
+        }, 
+        {
+            "text": "<https://docs.google.com/forms/d/13VmqCYX4QoPtoMJgWNusIrpEw4mtYaQ_0WhKUCEhjeE>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488510120.000003"
+        }, 
+        {
+            "text": "thanks - that makes sense now! I just assumed that it was asking to multiple by itself within the loop", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488466805.000002"
+        }, 
+        {
+            "text": "<!channel>: It's worth reading the conversation that <@U4BTHJNET> and I just had -- there is some confusing language in the `while` loops exercise. I hope this discussion is illuminating, and thanks for asking <@U4BTHJNET>! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488419439.000058"
+        }, 
+        {
+            "text": "this code results in the correct solution, but my initial instinct was also to use what you originally posted here:\n```\nvar input = 5; \nvar digitCount = 5; \nvar inputLength = input.toString().length\nwhile (inputLength &lt; digitCount){\n   input = input * input\n   inputLength = input.toString().length\n   console.log(input)\n}\n\nvar result = input; //store the final number in this variable.\n```", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488419393.000057"
+        }, 
+        {
+            "text": "It's always a please to help -- sorry I've just been in meetings all afternoon! Your description of your code is exactly right, and this actually does confuse me a little, now that I'm reading the description again. We now agree that the wording is confusing hahaha. Take a look at this code:\n```\nvar input = 5; \nvar digitCount = 5; \nvar temp = input;\nvar inputLength = input.toString().length\nwhile (inputLength &lt; digitCount){\n   temp = temp * input\n   inputLength = temp.toString().length\n   console.log(temp)\n}\n\nvar result = temp; //store the final number in this variable.\n```\n\nThis way instead of 25*25 the second time through the loop, we compute 25*5... and so on", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488419357.000056"
+        }, 
+        {
+            "text": "don\u2019t want to take any more of your time - I can ask in class. I really appreciate the help!", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488412325.000055"
+        }, 
+        {
+            "text": "I know I am doing something wrong!", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488412081.000054"
+        }, 
+        {
+            "text": "625*625 = 390,625", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488412041.000053"
+        }, 
+        {
+            "text": "25*25 = 625", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488412021.000052"
+        }, 
+        {
+            "text": "5*5 = 25", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488412008.000051"
+        }, 
+        {
+            "text": "sorry for confusing explanation above - I realized I wrote it wrong as soon as I wrote it!", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488411968.000050"
+        }, 
+        {
+            "text": "just trying to sort though it now", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488411890.000049"
+        }, 
+        {
+            "text": "I get \u201c390625\"", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488411881.000048"
+        }, 
+        {
+            "text": "while (inputLength &lt; digitCount){\n    input = input * input\n    inputLength = input.toString().length\n    console.log(input)\n}", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488411835.000047"
+        }, 
+        {
+            "text": "var inputLength = input.toString().length", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488411800.000045"
+        }, 
+        {
+            "text": "1. set to string fisrt to count letters", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488411789.000044"
+        }, 
+        {
+            "text": "test casese don\u2019t seem right tho - or rather they are not coming out right for me - must be doing something wrong!", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488411764.000043", 
+            "edited": {
+                "user": "U4BTHJNET", 
+                "ts": "1488411827.000000"
+            }
+        }, 
+        {
+            "text": "after i wrote that", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488411751.000042"
+        }, 
+        {
+            "text": "yeah I realise that now", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488411745.000041"
+        }, 
+        {
+            "text": "does that make any more sense?", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488411254.000040"
+        }, 
+        {
+            "text": "In the test cases:\n```\nvar input = 5;\nvar digitCount = 5;\n//Result should be 15625, which is a 5 digit number\n\n\nvar input = 5;\nvar digitCount = 10;\n//Result should be 1220703125, which is a ten digit number\n\n\nvar input = 3;\nvar digitCount = 7;\n//Result should be 1594323, which is a 7 digit number\n```", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488411058.000039"
+        }, 
+        {
+            "text": "so if the variable `digitCount` is 2, then the process looks like this:\n\nFirst iteration, input = 5. Multiply 5*5 = 25\nSecond iteration, 25 is a two digit number -- we're finished, return `digitCount` because it is now a 2 digit number", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488410923.000038"
+        }, 
+        {
+            "text": "it's not about the spelling of the number, it's about the number of individual digits in the number.", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488410785.000036", 
+            "edited": {
+                "user": "U1UCBDAMN", 
+                "ts": "1488410792.000000"
+            }
+        }, 
+        {
+            "text": "the number 123 has 3 digits: `'123'.length === 3`", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488410743.000035"
+        }, 
+        {
+            "text": "`'5'.length === 1`", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488410723.000034"
+        }, 
+        {
+            "text": "the number 5 has 1 digit.", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488410715.000033"
+        }, 
+        {
+            "text": "Sorry, actually that's not what the question is asking", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488410710.000032"
+        }, 
+        {
+            "text": "!", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488410258.000031"
+        }, 
+        {
+            "text": "think I get it now - thx for the help", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488410256.000030"
+        }, 
+        {
+            "text": "maybe\u2026 \u201cfor example the number 5 is spelled \u2018five\u2019 and has 4 letters in it\"", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488410238.000029"
+        }, 
+        {
+            "text": "something like...", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488410127.000028"
+        }, 
+        {
+            "text": "humm - let me read this again I am still confused", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488410099.000027"
+        }, 
+        {
+            "text": "How might you restate the problem to be less confusing, now that you understand it?", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488410035.000026"
+        }, 
+        {
+            "text": "yes i know", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488410002.000025"
+        }, 
+        {
+            "text": "you're doing number wise multiplcation", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488409991.000024"
+        }, 
+        {
+            "text": "wording is v. confusing", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409989.000023"
+        }, 
+        {
+            "text": "It's about both, strings and numbers, right?", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488409984.000022"
+        }, 
+        {
+            "text": "ok - talking about strings", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409968.000021"
+        }, 
+        {
+            "text": "yes, exactly -- the length of the string '5' is synonymous with \"how many digits are there in the number 5\"", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488409937.000020"
+        }, 
+        {
+            "text": "is 5 a 5 digit number, or a 1 digit number?", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488409899.000019"
+        }, 
+        {
+            "text": "maybe that\u2019s it??? talking about getting to length of string", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409894.000018"
+        }, 
+        {
+            "text": "input is 5 to start out", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488409888.000017"
+        }, 
+        {
+            "text": "unless we are talking about counting letters in the string or something\u2026.", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409816.000016"
+        }, 
+        {
+            "text": "input = result", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409768.000015"
+        }, 
+        {
+            "text": "it is already correct!", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409735.000014"
+        }, 
+        {
+            "text": "doesn\u2019t need to go into the loop", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409729.000013"
+        }, 
+        {
+            "text": "How many digits are in the result?", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488409729.000012"
+        }, 
+        {
+            "text": "Use a while loop to *multiply the input by itself* until it *has as many digits (or more)* as the digitCount variable", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409716.000011"
+        }, 
+        {
+            "text": "the result makes no sense to me.", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409707.000010"
+        }, 
+        {
+            "text": "var input = 5;\nvar digitCount = 5;\n//Result should be 15625", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409684.000009"
+        }, 
+        {
+            "text": "the tests don\u2019t seem right to me", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409623.000008"
+        }, 
+        {
+            "text": "er", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488409607.000007"
+        }, 
+        {
+            "text": "Try changing the while loop condition to correct that behavior", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488388840.000006"
+        }, 
+        {
+            "text": "what am I missing?", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488378310.000005"
+        }, 
+        {
+            "text": "current state is that they are equal to each other, so it will never fall into the loop.", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488378293.000004"
+        }, 
+        {
+            "text": "\"Use a while loop to *multiply the input by itself* until it *has as many digits (or more)* as the digitCount variable.\"", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488378218.000003"
+        }, 
+        {
+            "text": "looking at this 2nd problem (while) - not sure if i am reading it wrong, but I\u2019m confused about the tests...", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488378181.000002"
+        }, 
+        {
+            "text": "also 6 will be useful too!", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488342405.000054"
+        }, 
+        {
+            "text": "For Thursday! please finish the three new assignments, `Conditionals`, `While loops`, 'For loops'... good luck and hopefully the questions are a bit easier! Also, it'd be great if y'all could read Chapters 3 and 4 of Javascript for Kids by next thursday. Awesome work!", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488342224.000053"
+        }, 
+        {
+            "text": "Parenthesis, Exponents, Multiplication, Division, Addition, Subtraction", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488338410.000052"
+        }, 
+        {
+            "text": "<https://docs.google.com/forms/d/1kycNce0QINAcDPZ_D6Rv79u2NqFY7Ws0ejtmxFoX3zA/edit>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488337810.000050"
+        }, 
+        {
+            "text": "<@U4CFP19FG|jwilson> has joined the channel", 
+            "type": "message", 
+            "user": "U4CFP19FG", 
+            "ts": "1488329085.000049", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "attachments": [
+                {
+                    "image_bytes": 2520, 
+                    "title": "repl.it", 
+                    "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Write, run, save, and share code from your browser!", 
+                    "image_width": 240, 
+                    "title_link": "https://repl.it/student/classrooms/12633", 
+                    "image_height": 240, 
+                    "image_url": "https://repl.it/public/images/logo-small-square.png", 
+                    "service_name": "repl.it", 
+                    "fallback": "repl.it", 
+                    "service_icon": "https://repl.it/public/images/apple-touch-icon.png", 
+                    "id": 1
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U4AD7RTNU|dj> pinned a message to this channel.", 
+            "ts": "1488256163.000048", 
+            "subtype": "pinned_item", 
+            "user": "U4AD7RTNU", 
+            "type": "message"
+        }, 
+        {
+            "attachments": [
+                {
+                    "image_bytes": 2520, 
+                    "title": "repl.it", 
+                    "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Write, run, save, and share code from your browser!", 
+                    "image_width": 240, 
+                    "title_link": "https://repl.it/student/classrooms/12633", 
+                    "image_height": 240, 
+                    "image_url": "https://repl.it/public/images/logo-small-square.png", 
+                    "service_name": "repl.it", 
+                    "id": 1, 
+                    "fallback": "repl.it", 
+                    "service_icon": "https://repl.it/public/images/apple-touch-icon.png", 
+                    "from_url": "https://repl.it/student/classrooms/12633"
+                }
+            ], 
+            "text": "<https://repl.it/student/classrooms/12633>", 
+            "ts": "1488256124.000046", 
+            "pinned_to": [
+                "C4B72NK2R"
+            ], 
+            "user": "U4AD7RTNU", 
+            "type": "message"
+        }, 
+        {
+            "attachments": [
+                {
+                    "image_bytes": 2520, 
+                    "title": "repl.it", 
+                    "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Write, run, save, and share code from your browser!", 
+                    "image_width": 240, 
+                    "title_link": "https://repl.it/languages/javascript", 
+                    "image_height": 240, 
+                    "image_url": "https://repl.it/public/images/logo-small-square.png", 
+                    "service_name": "repl.it", 
+                    "fallback": "repl.it", 
+                    "service_icon": "https://repl.it/public/images/apple-touch-icon.png", 
+                    "id": 1
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U4AD7RTNU|dj> pinned a message to this channel.", 
+            "ts": "1488256104.000045", 
+            "subtype": "pinned_item", 
+            "user": "U4AD7RTNU", 
+            "type": "message"
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C4B72NK2R", 
+                    "text": "<https://docs.google.com/document/d/19ZwXRWwUUALWuhreTTXSwIzSNzph-z9e6h7pGTQL1Eo/edit#heading=h.mdgtg417eiw>", 
+                    "author_link": "https://gstudents.slack.com/team/andycoenen", 
+                    "ts": "1488256088.000042", 
+                    "author_name": "Andy Coenen", 
+                    "channel_name": "sf_js_feb_2017", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "andycoenen", 
+                    "fallback": "[February 27th, 2017 9:28 PM] andycoenen: <https://docs.google.com/document/d/19ZwXRWwUUALWuhreTTXSwIzSNzph-z9e6h7pGTQL1Eo/edit#heading=h.mdgtg417eiw>", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-02-27/147936944279_3cd96b62613b276cec7f_48.png", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U4AD7RTNU|dj> pinned a message to this channel.", 
+            "ts": "1488256098.000044", 
+            "subtype": "pinned_item", 
+            "user": "U4AD7RTNU", 
+            "type": "message"
+        }, 
+        {
+            "text": "<https://docs.google.com/document/d/19ZwXRWwUUALWuhreTTXSwIzSNzph-z9e6h7pGTQL1Eo/edit#heading=h.mdgtg417eiw>", 
+            "pinned_to": [
+                "C4B72NK2R"
+            ], 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488256088.000042"
+        }, 
+        {
+            "attachments": [
+                {
+                    "image_bytes": 2520, 
+                    "title": "repl.it", 
+                    "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Write, run, save, and share code from your browser!", 
+                    "image_width": 240, 
+                    "title_link": "https://repl.it/languages/javascript", 
+                    "image_height": 240, 
+                    "image_url": "https://repl.it/public/images/logo-small-square.png", 
+                    "service_name": "repl.it", 
+                    "id": 1, 
+                    "fallback": "repl.it", 
+                    "service_icon": "https://repl.it/public/images/apple-touch-icon.png", 
+                    "from_url": "https://repl.it/languages/javascript"
+                }
+            ], 
+            "text": "<https://repl.it/languages/javascript>", 
+            "ts": "1488253759.000039", 
+            "pinned_to": [
+                "C4B72NK2R"
+            ], 
+            "user": "U4B9LD71B", 
+            "type": "message"
+        }, 
+        {
+            "text": "<http://pythontutor.com/javascript.html#mode=edit>", 
+            "type": "message", 
+            "user": "U4AD7RTNU", 
+            "ts": "1488252697.000036"
+        }, 
+        {
+            "text": "<http://slides.com/lizh/js-foundations-class-intro#/12/3>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488252693.000034", 
+            "attachments": [
+                {
+                    "image_bytes": 18738, 
+                    "title": "Welcome to JS Foundations by LizTheDeveloper", 
+                    "service_name": "Slides", 
+                    "image_width": 250, 
+                    "title_link": "http://slides.com/lizh/js-foundations-class-intro#/12/3", 
+                    "image_height": 250, 
+                    "image_url": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/57f73108e1e7228b06d07821c84453b6/thumb.jpg", 
+                    "text": "A presentation created with Slides.", 
+                    "id": 1, 
+                    "fallback": "Slides: Welcome to JS Foundations by LizTheDeveloper", 
+                    "service_icon": "http://slides.com/favicon.ico", 
+                    "from_url": "http://slides.com/lizh/js-foundations-class-intro#/12/3"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://repl.it/classroom/invite/D17bxJR>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488250513.000032", 
+            "attachments": [
+                {
+                    "image_bytes": 2520, 
+                    "title": "repl.it", 
+                    "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Write, run, save, and share code from your browser!", 
+                    "image_width": 240, 
+                    "title_link": "https://repl.it/classroom/invite/D17bxJR", 
+                    "image_height": 240, 
+                    "image_url": "https://repl.it/public/images/logo-small-square.png", 
+                    "service_name": "repl.it", 
+                    "id": 1, 
+                    "fallback": "repl.it", 
+                    "service_icon": "https://repl.it/public/images/apple-touch-icon.png", 
+                    "from_url": "https://repl.it/classroom/invite/D17bxJR"
+                }
+            ]
+        }, 
+        {
+            "text": "<http://slides.com/lizh/js-foundations-class-intro#/2>", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488250057.000028", 
+            "attachments": [
+                {
+                    "image_bytes": 18738, 
+                    "title": "Welcome to JS Foundations by LizTheDeveloper", 
+                    "service_name": "Slides", 
+                    "image_width": 250, 
+                    "title_link": "http://slides.com/lizh/js-foundations-class-intro#/2", 
+                    "image_height": 250, 
+                    "image_url": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/57f73108e1e7228b06d07821c84453b6/thumb.jpg", 
+                    "text": "A presentation created with Slides.", 
+                    "id": 1, 
+                    "fallback": "Slides: Welcome to JS Foundations by LizTheDeveloper", 
+                    "service_icon": "http://slides.com/favicon.ico", 
+                    "from_url": "http://slides.com/lizh/js-foundations-class-intro#/2"
+                }
+            ]
+        }, 
+        {
+            "username": "andycoenen", 
+            "display_as_bot": false, 
+            "text": "<@U4B9LD71B|andycoenen> uploaded a file: <https://gstudents.slack.com/files/andycoenen/F4BADPAKW/javascriptforkids.pdf|JavaScriptforKids.pdf>", 
+            "upload": true, 
+            "ts": "1488250001.000027", 
+            "subtype": "file_share", 
+            "user": "U4B9LD71B", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C4B72NK2R"
+                ], 
+                "display_as_bot": false, 
+                "id": "F4BADPAKW", 
+                "size": 10739221, 
+                "title": "JavaScriptforKids.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4BADPAKW/javascriptforkids.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1488250000, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4BADPAKW/download/javascriptforkids.pdf", 
+                "user": "U4B9LD71B", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "JavaScriptforKids.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4BADPAKW-1f5f8e1ee9", 
+                "permalink": "https://gstudents.slack.com/files/andycoenen/F4BADPAKW/javascriptforkids.pdf", 
+                "is_external": false, 
+                "created": 1488250000, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U4B6CLSM9|yann.bovet> has joined the channel", 
+            "type": "message", 
+            "user": "U4B6CLSM9", 
+            "ts": "1488249905.000026", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Ready to rumble", 
+            "type": "message", 
+            "user": "U4AHRTFG9", 
+            "ts": "1488249830.000025"
+        }, 
+        {
+            "text": "hi", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488249830.000024"
+        }, 
+        {
+            "text": "hey", 
+            "type": "message", 
+            "user": "U4AHTGRC1", 
+            "ts": "1488249827.000023"
+        }, 
+        {
+            "text": "Hello", 
+            "type": "message", 
+            "user": "U4BAA751A", 
+            "ts": "1488249818.000022"
+        }, 
+        {
+            "text": "hey everyone", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488249817.000021"
+        }, 
+        {
+            "text": "hi!", 
+            "type": "message", 
+            "user": "U4AD7RTNU", 
+            "ts": "1488249807.000020"
+        }, 
+        {
+            "text": "hi", 
+            "type": "message", 
+            "user": "U4B6TPQEQ", 
+            "ts": "1488249802.000019"
+        }, 
+        {
+            "text": "<@U4AHTGRC1|alexdelsalto> has joined the channel", 
+            "type": "message", 
+            "user": "U4AHTGRC1", 
+            "ts": "1488249520.000018", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "hiya!", 
+            "type": "message", 
+            "user": "U4B699Z7D", 
+            "ts": "1488249234.000017"
+        }, 
+        {
+            "text": "hi all", 
+            "type": "message", 
+            "user": "U4AGY1W0G", 
+            "ts": "1488249230.000016"
+        }, 
+        {
+            "text": "<@U4AHS62MP|rbkham> has joined the channel", 
+            "type": "message", 
+            "user": "U4AHS62MP", 
+            "ts": "1488249222.000015", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4BAA751A|roddeguzman> has joined the channel", 
+            "type": "message", 
+            "user": "U4BAA751A", 
+            "ts": "1488249209.000014", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4AGY1W0G|krbarbour> has joined the channel", 
+            "type": "message", 
+            "user": "U4AGY1W0G", 
+            "ts": "1488249175.000013", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4AHRTFG9|erikadcock> has joined the channel", 
+            "type": "message", 
+            "user": "U4AHRTFG9", 
+            "ts": "1488249163.000012", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4B699Z7D|caroline> has joined the channel", 
+            "type": "message", 
+            "user": "U4B699Z7D", 
+            "ts": "1488249153.000011", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4BAWBY2Z|ianbuchanan> has joined the channel", 
+            "type": "message", 
+            "user": "U4BAWBY2Z", 
+            "ts": "1488249114.000010", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4BTHJNET|kate> has joined the channel", 
+            "type": "message", 
+            "user": "U4BTHJNET", 
+            "ts": "1488241745.000009", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4B9LD71B|andycoenen> has joined the channel", 
+            "type": "message", 
+            "user": "U4B9LD71B", 
+            "ts": "1488240603.000008", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4B6TPQEQ|jagarvargen> has joined the channel", 
+            "type": "message", 
+            "user": "U4B6TPQEQ", 
+            "ts": "1488230781.000007", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4AD7RTNU|dj> has joined the channel", 
+            "type": "message", 
+            "user": "U4AD7RTNU", 
+            "ts": "1488229902.000006", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3T88NYH0|begonagereka> has joined the channel", 
+            "ts": "1488229680.000005", 
+            "subtype": "channel_join", 
+            "user": "U3T88NYH0", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U1UCBDAMN|teb> has joined the channel", 
+            "ts": "1488229497.000004", 
+            "subtype": "channel_join", 
+            "user": "U1UCBDAMN", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> set the channel purpose: Slack channel for attendees of Galvanize Web Development Foundations with JavaScript Part Time Course | February", 
+            "ts": "1488229497.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U3F1AHRHT", 
+            "type": "message", 
+            "purpose": "Slack channel for attendees of Galvanize Web Development Foundations with JavaScript Part Time Course | February"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> has joined the channel", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1488229497.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "sf_js_feb_2017", 
+        "name": "sf_js_feb_2017", 
+        "is_channel": true, 
+        "created": 1488229497, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U3F1AHRHT", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1488229498, 
+            "value": "Slack channel for attendees of Galvanize Web Development Foundations with JavaScript Part Time Course | February", 
+            "creator": "U3F1AHRHT"
+        }, 
+        "members": [
+            "U3F1AHRHT", 
+            "U4B699Z7D"
+        ], 
+        "id": "C4B72NK2R", 
+        "is_shared": false
+    }
+}

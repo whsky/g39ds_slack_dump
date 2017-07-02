@@ -1,0 +1,1113 @@
+{
+    "messages": [
+        {
+            "text": "<@U1W3KGQ4X|sampersian> has left the channel", 
+            "type": "message", 
+            "user": "U1W3KGQ4X", 
+            "ts": "1487105115.000003", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W3CTQA0|ji_kim> has left the channel", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1487104863.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W3R0RJ5|ozwal> has left the channel", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1481920994.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W16N3KM|chay> has left the channel", 
+            "type": "message", 
+            "user": "U1W16N3KM", 
+            "ts": "1479360939.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W3EFZFG|dunbarry> has left the channel", 
+            "type": "message", 
+            "user": "U1W3EFZFG", 
+            "ts": "1478867990.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W1CDFHR|jaimielogan> has left the channel", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1478556237.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1US75J13|dannyfritz> has left the channel", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1478297798.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W3KL3S9|stephen-knutter> has left the channel", 
+            "type": "message", 
+            "user": "U1W3KL3S9", 
+            "ts": "1478207993.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W3CJYD6|maiasamuel> has left the channel", 
+            "type": "message", 
+            "user": "U1W3CJYD6", 
+            "ts": "1476386456.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W2UH1SB|pando-monium> has left the channel", 
+            "type": "message", 
+            "user": "U1W2UH1SB", 
+            "ts": "1474604282.000003", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W2UH1SB|pando-monium> has joined the channel", 
+            "type": "message", 
+            "user": "U1W2UH1SB", 
+            "ts": "1474570528.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3VAN3C|catiecook> has left the channel", 
+            "type": "message", 
+            "user": "U1W3VAN3C", 
+            "ts": "1473788860.000004", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "Please feel free to join!", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1473775366.000003"
+        }, 
+        {
+            "text": "Sam Persian and I will be working on a new iteration of of F31 today in the spirit of CRUD week", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1473775351.000002"
+        }, 
+        {
+            "text": "<https://github.com/function31/function31.github.io>", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1473273061.000002", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "function31/function31.github.io", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/function31/function31.github.io", 
+                    "text": "Contribute to <http://function31.github.io|function31.github.io> development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: function31/function31.github.io", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/21029212?v=3&s=400", 
+                    "from_url": "https://github.com/function31/function31.github.io"
+                }
+            ]
+        }, 
+        {
+            "text": "An additional announcement will be made at the end of class today", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1473185384.000006"
+        }, 
+        {
+            "text": "We\u2019ll have the meeting tomorrow at 12:15", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1473185357.000005"
+        }, 
+        {
+            "text": "<@U1W3AUNNS> ?", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1473185286.000004"
+        }, 
+        {
+            "text": "i don\u2019t think so", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1473185277.000003"
+        }, 
+        {
+            "text": "hey is there an f31 mtg today?", 
+            "type": "message", 
+            "user": "U1W223003", 
+            "ts": "1473182756.000002"
+        }, 
+        {
+            "username": "ji_kim", 
+            "display_as_bot": false, 
+            "text": "<@U1W3CTQA0|ji_kim> shared a file: <https://gstudents.slack.com/files/ji_kim/F234KD2FJ/function31teaminfo-coreteamdirectory|Function31 Team Info>", 
+            "upload": false, 
+            "ts": "1472238971.000007", 
+            "subtype": "file_share", 
+            "user": "U1W3CTQA0", 
+            "file": {
+                "filetype": "gsheet", 
+                "channels": [
+                    "C205FGHU0"
+                ], 
+                "display_as_bot": false, 
+                "thumb_64": "https://slack.com/img/files/gsheet_64.v.png", 
+                "size": 624, 
+                "thumb_360_w": 360, 
+                "title": "Function31 Team Info", 
+                "url_private": "https://docs.google.com/spreadsheets/d/1nQwnNnyfZTknFHW00xo_aP_MgMhCMi9TJbaDfTAjO2Q/edit?usp=drivesdk", 
+                "thumb_360": "https://slack.com/img/files/gsheet_360.v.png", 
+                "id": "F234KD2FJ", 
+                "ims": [], 
+                "thumb_360_h": 167, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "timestamp": 1471631673, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "user": "U1W3CTQA0", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "GDocs Spreadsheet", 
+                "name": "Function31TeamInfo-CoreTeamDirectory", 
+                "mimetype": "application/vnd.google-apps.spreadsheet", 
+                "permalink": "https://gstudents.slack.com/files/ji_kim/F234KD2FJ/function31teaminfo-coreteamdirectory", 
+                "is_external": true, 
+                "created": 1471631673, 
+                "comments_count": 0, 
+                "mode": "external"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://function31.github.io/>\nYou find the link and the repo at anytime in the google docs too- just look at the project notes tab.\n<https://docs.google.com/spreadsheets/d/1nQwnNnyfZTknFHW00xo_aP_MgMhCMi9TJbaDfTAjO2Q/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1472238971.000006"
+        }, 
+        {
+            "text": "link to the live site?", 
+            "type": "message", 
+            "user": "U1W3KGQ4X", 
+            "ts": "1472238785.000005"
+        }, 
+        {
+            "text": "<!channel> ^^", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1472230305.000004"
+        }, 
+        {
+            "text": "Meeting starts at 12:10", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1472229878.000003"
+        }, 
+        {
+            "text": "We have a reservation in the Triforce room starting at noon for todays meeting! Looking forward to seeing you all there!", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1472229826.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "dancer", 
+                    "users": [
+                        "U1W3CTQA0"
+                    ]
+                }
+            ], 
+            "text": "You rock, Ji :muscle::the_horns:", 
+            "type": "message", 
+            "user": "U1W223003", 
+            "ts": "1471667043.000014"
+        }, 
+        {
+            "text": "<!channel> ^", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1471656786.000013"
+        }, 
+        {
+            "text": "Also, please add your emails to the contact form (below), so I can add you to the pivotal tracker project for the stories created for designing the blog. <https://docs.google.com/spreadsheets/d/1nQwnNnyfZTknFHW00xo_aP_MgMhCMi9TJbaDfTAjO2Q/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1471623932.000007", 
+            "edited": {
+                "user": "U1W3CTQA0", 
+                "ts": "1471711776.000000"
+            }
+        }, 
+        {
+            "text": "I\u2019m gonna call this core team the function31\u2019s dev team. :nerd_face:", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1471623796.000006"
+        }, 
+        {
+            "text": "For now, I\u2019ve created the jekyll scaffolding and customized it with a template from which the class can start blogging while we all (this core team) continue working on creating a more custom theme with the look and feel we discussed during our meetings.", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1471623763.000005", 
+            "edited": {
+                "user": "U1W3CTQA0", 
+                "ts": "1471712009.000000"
+            }
+        }, 
+        {
+            "text": "So, I\u2019ll be sending out and invite to this core team as collaborators shortly! Check your email for this\u2026 it\u2019ll be whatever email is tied to your GH account.", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1471623518.000003", 
+            "edited": {
+                "user": "U1W3CTQA0", 
+                "ts": "1471624479.000000"
+            }
+        }, 
+        {
+            "text": "Hi everyone- We made a couple changes during break week on the blog. The blog is now migrated to a function31 GH account so we can host it on GH pages as a <http://function31.github.io|function31.github.io>", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1471623492.000002", 
+            "edited": {
+                "user": "U1W3CTQA0", 
+                "ts": "1471623548.000000"
+            }
+        }, 
+        {
+            "text": "<@U1V31SFNJ|brooks> has joined the channel", 
+            "type": "message", 
+            "user": "U1V31SFNJ", 
+            "ts": "1471545337.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "pizzamelt", 
+                    "users": [
+                        "U1W3KGQ4X"
+                    ]
+                }
+            ], 
+            "text": "No one answered about showing up early so I'm just going to show up @ normal time (maybe a lil early if I can)\n :grin::+1::smile:", 
+            "type": "message", 
+            "user": "U1W223003", 
+            "ts": "1471007737.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U1W22MND9", 
+                        "U1W3AUNNS"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "shia", 
+                    "users": [
+                        "U1W223003"
+                    ]
+                }
+            ], 
+            "text": "<!channel> Hey everybody Lisa and Ben will be bringing in their cameras tomorrow to get class photos for the blog. Feel free to dress yourselves somewhere between the spectrum of professional to ridiculous:champagne::100::unicorn_face:", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1470952443.000024"
+        }, 
+        {
+            "text": "so, for pics.... best time of day for lighting is 8am-10am... can we all get here like 7:45am?", 
+            "type": "message", 
+            "user": "U1W223003", 
+            "ts": "1470952159.000023"
+        }, 
+        {
+            "text": "<@U1W3CJYD6|maiasamuel> has joined the channel", 
+            "type": "message", 
+            "user": "U1W3CJYD6", 
+            "ts": "1470951274.000022", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "I've been doing a lil reading about podcasting/screencasting. Found some good info. \n\n<http://www.opinionpodcasting.com/>\n\nAn app for audio only ^ We could do pow-wows where we review vocab words, concepts, etc. Take turns vocalizing definitions and maybe have a general weekly reviews.\n\n\nWill do more research over break.", 
+            "type": "message", 
+            "user": "U1W223003", 
+            "ts": "1470951029.000021"
+        }, 
+        {
+            "username": "ji_kim", 
+            "display_as_bot": false, 
+            "text": "<@U1W3CTQA0|ji_kim> shared a file: <https://gstudents.slack.com/files/ji_kim/F20JGUCER/meetingnotes8.11.16|Meeting notes 8.11.16>", 
+            "upload": false, 
+            "ts": "1470942399.000018", 
+            "subtype": "file_share", 
+            "user": "U1W3CTQA0", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 2, 
+                        "name": "rocket", 
+                        "users": [
+                            "U1W3AUNNS", 
+                            "U1W223003"
+                        ]
+                    }
+                ], 
+                "filetype": "gdoc", 
+                "channels": [
+                    "C205FGHU0"
+                ], 
+                "display_as_bot": false, 
+                "thumb_64": "https://slack.com/img/files/gdoc_64.v.png", 
+                "size": 714, 
+                "thumb_360_w": 360, 
+                "title": "Meeting notes 8.11.16", 
+                "url_private": "https://docs.google.com/document/d/1t6FJf_NYXh32oVENt5M2qay99nf8toq8t1gUx8KioA8/edit?usp=drivesdk", 
+                "thumb_360": "https://slack.com/img/files/gdoc_360.v.png", 
+                "id": "F20JGUCER", 
+                "ims": [], 
+                "thumb_360_h": 167, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "timestamp": 1470942399, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "user": "U1W3CTQA0", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "GDocs Document", 
+                "name": "Meetingnotes8.11.16", 
+                "mimetype": "application/vnd.google-apps.document", 
+                "permalink": "https://gstudents.slack.com/files/ji_kim/F20JGUCER/meetingnotes8.11.16", 
+                "is_external": true, 
+                "created": 1470942399, 
+                "comments_count": 0, 
+                "mode": "external"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "100", 
+                    "users": [
+                        "U1W223003"
+                    ]
+                }
+            ], 
+            "text": "We had a great discussion today and implemented the kanban method for parsing out tasks. See the meeting notes for more details on the meeting: <https://docs.google.com/document/d/1t6FJf_NYXh32oVENt5M2qay99nf8toq8t1gUx8KioA8/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1470942395.000017"
+        }, 
+        {
+            "username": "ji_kim", 
+            "display_as_bot": false, 
+            "text": "<@U1W3CTQA0|ji_kim> uploaded a file: <https://gstudents.slack.com/files/ji_kim/F20GTSYAX/img_8676.jpg|kanban.jpg>", 
+            "upload": true, 
+            "ts": "1470942150.000016", 
+            "subtype": "file_share", 
+            "user": "U1W3CTQA0", 
+            "file": {
+                "thumb_480_w": 372, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F20GTSYAX-853ee84fb2/img_8676_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F20GTSYAX-853ee84fb2/img_8676_64.jpg", 
+                "size": 390856, 
+                "original_h": 2514, 
+                "thumb_360_w": 279, 
+                "title": "kanban.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F20GTSYAX/img_8676.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F20GTSYAX-853ee84fb2/img_8676_360.jpg", 
+                "id": "F20GTSYAX", 
+                "ims": [], 
+                "thumb_720_w": 558, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F20GTSYAX-853ee84fb2/img_8676_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1470942146, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F20GTSYAX-853ee84fb2/img_8676_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F20GTSYAX/download/img_8676.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F20GTSYAX-853ee84fb2/img_8676_1024.jpg", 
+                "user": "U1W3CTQA0", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F20GTSYAX-853ee84fb2/img_8676_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_8676.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F20GTSYAX-fcc9f106c8", 
+                "permalink": "https://gstudents.slack.com/files/ji_kim/F20GTSYAX/img_8676.jpg", 
+                "is_external": false, 
+                "created": 1470942146, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 1950, 
+                "thumb_960_w": 745, 
+                "thumb_1024_w": 794, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F20GTSYAX-853ee84fb2/img_8676_720.jpg", 
+                "channels": [
+                    "C205FGHU0"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Please enter your contact info on the above google doc!", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1470940572.000015"
+        }, 
+        {
+            "text": "<https://docs.google.com/spreadsheets/d/1im67Uod3uBKQKOlRysaskNaJAzOV_twxWfoWRbc_0XM/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1470940547.000014"
+        }, 
+        {
+            "text": "Anyone who\u2019s interested in designing a logo for function31, dm me", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1470940057.000013"
+        }, 
+        {
+            "text": "Awesome, thanks Jaimie!", 
+            "type": "message", 
+            "user": "U1W3KGQ4X", 
+            "ts": "1470939451.000012"
+        }, 
+        {
+            "text": "<@U1W3KGQ4X>: During the meeting today, we\u2019re going to separate into smaller teams for various tasks that need to be completed (mostly styling related at this point). We can send out information afterwards with the teams and tasks, and you can reach out to those people to see what you can help get started on! Also, start brainstorming some blog ideas and that way we can fill it with some actual content after break! Right now, all of the content is Lorem Ipsum.", 
+            "type": "message", 
+            "user": "U1W1CDFHR", 
+            "ts": "1470939257.000011"
+        }, 
+        {
+            "text": "or we could have another meeting after school and get started on something?", 
+            "type": "message", 
+            "user": "U1W3KGQ4X", 
+            "ts": "1470938333.000010"
+        }, 
+        {
+            "username": "ji_kim", 
+            "display_as_bot": false, 
+            "text": "<@U1W3CTQA0|ji_kim> uploaded a file: <https://gstudents.slack.com/files/ji_kim/F20HP1YRM/img_8551.jpg|IMG_8551.jpg>", 
+            "upload": true, 
+            "ts": "1470938273.000009", 
+            "subtype": "file_share", 
+            "user": "U1W3CTQA0", 
+            "file": {
+                "thumb_480_w": 360, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F20HP1YRM-20b71bec2a/img_8551_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F20HP1YRM-20b71bec2a/img_8551_64.jpg", 
+                "size": 1214039, 
+                "original_h": 3264, 
+                "thumb_360_w": 270, 
+                "title": "IMG_8551.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F20HP1YRM/img_8551.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F20HP1YRM-20b71bec2a/img_8551_360.jpg", 
+                "id": "F20HP1YRM", 
+                "ims": [], 
+                "thumb_720_w": 540, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F20HP1YRM-20b71bec2a/img_8551_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1470938267, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F20HP1YRM-20b71bec2a/img_8551_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F20HP1YRM/download/img_8551.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F20HP1YRM-20b71bec2a/img_8551_1024.jpg", 
+                "user": "U1W3CTQA0", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F20HP1YRM-20b71bec2a/img_8551_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_8551.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F20HP1YRM-f75fdf350d", 
+                "permalink": "https://gstudents.slack.com/files/ji_kim/F20HP1YRM/img_8551.jpg", 
+                "is_external": false, 
+                "created": 1470938267, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 2448, 
+                "thumb_960_w": 720, 
+                "thumb_1024_w": 768, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F20HP1YRM-20b71bec2a/img_8551_720.jpg", 
+                "channels": [
+                    "C205FGHU0"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "ji_kim", 
+            "display_as_bot": false, 
+            "text": "<@U1W3CTQA0|ji_kim> uploaded a file: <https://gstudents.slack.com/files/ji_kim/F20HB95J8/img_8549.jpg|IMG_8549.jpg>", 
+            "upload": true, 
+            "ts": "1470938265.000008", 
+            "subtype": "file_share", 
+            "user": "U1W3CTQA0", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F20HB95J8-97b6db998e/img_8549_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F20HB95J8-97b6db998e/img_8549_64.jpg", 
+                "size": 1001567, 
+                "original_h": 2448, 
+                "thumb_360_w": 360, 
+                "title": "IMG_8549.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F20HB95J8/img_8549.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F20HB95J8-97b6db998e/img_8549_360.jpg", 
+                "id": "F20HB95J8", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F20HB95J8-97b6db998e/img_8549_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1470938258, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F20HB95J8-97b6db998e/img_8549_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F20HB95J8/download/img_8549.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F20HB95J8-97b6db998e/img_8549_1024.jpg", 
+                "user": "U1W3CTQA0", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F20HB95J8-97b6db998e/img_8549_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_8549.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F20HB95J8-0bc3d6254d", 
+                "permalink": "https://gstudents.slack.com/files/ji_kim/F20HB95J8/img_8549.jpg", 
+                "is_external": false, 
+                "created": 1470938258, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 3264, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F20HB95J8-97b6db998e/img_8549_720.jpg", 
+                "channels": [
+                    "C205FGHU0"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "ji_kim", 
+            "display_as_bot": false, 
+            "text": "<@U1W3CTQA0|ji_kim> uploaded a file: <https://gstudents.slack.com/files/ji_kim/F20HWTX0S/img_8547.jpg|IMG_8547.jpg>", 
+            "upload": true, 
+            "ts": "1470938258.000007", 
+            "subtype": "file_share", 
+            "user": "U1W3CTQA0", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F20HWTX0S-85120bda8e/img_8547_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F20HWTX0S-85120bda8e/img_8547_64.jpg", 
+                "size": 964173, 
+                "original_h": 2448, 
+                "thumb_360_w": 360, 
+                "title": "IMG_8547.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F20HWTX0S/img_8547.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F20HWTX0S-85120bda8e/img_8547_360.jpg", 
+                "id": "F20HWTX0S", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F20HWTX0S-85120bda8e/img_8547_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1470938249, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F20HWTX0S-85120bda8e/img_8547_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F20HWTX0S/download/img_8547.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F20HWTX0S-85120bda8e/img_8547_1024.jpg", 
+                "user": "U1W3CTQA0", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F20HWTX0S-85120bda8e/img_8547_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_8547.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F20HWTX0S-17434e5636", 
+                "permalink": "https://gstudents.slack.com/files/ji_kim/F20HWTX0S/img_8547.jpg", 
+                "is_external": false, 
+                "created": 1470938249, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 3264, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F20HWTX0S-85120bda8e/img_8547_720.jpg", 
+                "channels": [
+                    "C205FGHU0"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "-1", 
+                    "users": [
+                        "U1W1CDFHR"
+                    ]
+                }
+            ], 
+            "text": "yo group - im not gonna be at the meeting at lunch but let me know what i need to work on", 
+            "type": "message", 
+            "user": "U1W3KGQ4X", 
+            "ts": "1470938226.000006"
+        }, 
+        {
+            "text": "<https://github.com/bengio777/Function31.github.io>", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1470935218.000004", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "bengio777/Function31.github.io", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/bengio777/Function31.github.io", 
+                    "text": "<http://Function31.github.io|Function31.github.io> - Galvanize Cohort 31 Blog", 
+                    "id": 1, 
+                    "fallback": "GitHub: bengio777/Function31.github.io", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/18623551?v=3&s=400", 
+                    "from_url": "https://github.com/bengio777/Function31.github.io"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1W223003"
+                    ]
+                }
+            ], 
+            "text": "We have the Mortal Kombat room at 12:15-45", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1470934653.000003"
+        }, 
+        {
+            "text": "<@U1W3CLA64|iggirex> has left the channel", 
+            "type": "message", 
+            "user": "U1W3CLA64", 
+            "ts": "1470933990.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U1W22MND9", 
+                        "U1W223003"
+                    ]
+                }
+            ], 
+            "text": "Finally - votes for the title of the blog are in! Majority were in favor of keeping the name Function31. :raised_hands::skin-tone-3:", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1470853692.000026"
+        }, 
+        {
+            "username": "ji_kim", 
+            "display_as_bot": false, 
+            "text": "<@U1W3CTQA0|ji_kim> uploaded a file: <https://gstudents.slack.com/files/ji_kim/F20641WCR/color_scheme1.png|color_scheme.png>", 
+            "upload": true, 
+            "ts": "1470853567.000025", 
+            "subtype": "file_share", 
+            "user": "U1W3CTQA0", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F20641WCR-b2595443a0/color_scheme1_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F20641WCR-b2595443a0/color_scheme1_64.png", 
+                "size": 243598, 
+                "original_h": 569, 
+                "thumb_360_w": 360, 
+                "title": "color_scheme.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F20641WCR/color_scheme1.png", 
+                "thumb_720_h": 472, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F20641WCR-b2595443a0/color_scheme1_360.png", 
+                "id": "F20641WCR", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F20641WCR-b2595443a0/color_scheme1_80.png", 
+                "thumb_360_h": 236, 
+                "thumb_480_h": 315, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1470853564, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F20641WCR-b2595443a0/color_scheme1_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F20641WCR/download/color_scheme1.png", 
+                "user": "U1W3CTQA0", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "color_scheme1.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F20641WCR-c8acf9b226", 
+                "permalink": "https://gstudents.slack.com/files/ji_kim/F20641WCR/color_scheme1.png", 
+                "is_external": false, 
+                "created": 1470853564, 
+                "original_w": 868, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F20641WCR-b2595443a0/color_scheme1_720.png", 
+                "channels": [
+                    "C205FGHU0"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Proposed color scheme", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1470853519.000024"
+        }, 
+        {
+            "username": "ji_kim", 
+            "display_as_bot": false, 
+            "text": "<@U1W3CTQA0|ji_kim> shared a file: <https://gstudents.slack.com/files/ji_kim/F1ZCWRNMT/meetingnotes7.25.16|Meeting Notes 7.25.16>", 
+            "upload": false, 
+            "ts": "1470853467.000022", 
+            "subtype": "file_share", 
+            "user": "U1W3CTQA0", 
+            "file": {
+                "filetype": "gdoc", 
+                "channels": [
+                    "C205FGHU0"
+                ], 
+                "display_as_bot": false, 
+                "thumb_64": "https://slack.com/img/files/gdoc_64.v.png", 
+                "size": 1909, 
+                "thumb_360_w": 360, 
+                "title": "Meeting Notes 7.25.16", 
+                "url_private": "https://docs.google.com/document/d/1vEE125fsbFtdD-leUsIKyUQO2WMmuZWRU1st3ouS5_k/edit?usp=drivesdk", 
+                "thumb_360": "https://slack.com/img/files/gdoc_360.v.png", 
+                "id": "F1ZCWRNMT", 
+                "ims": [], 
+                "thumb_360_h": 167, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "timestamp": 1470690735, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "user": "U1W3CTQA0", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "GDocs Document", 
+                "name": "MeetingNotes7.25.16", 
+                "mimetype": "application/vnd.google-apps.document", 
+                "permalink": "https://gstudents.slack.com/files/ji_kim/F1ZCWRNMT/meetingnotes7.25.16", 
+                "is_external": true, 
+                "created": 1470690735, 
+                "comments_count": 0, 
+                "mode": "external"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Notes from the second meeting", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1470853467.000021", 
+            "edited": {
+                "user": "U1W3CTQA0", 
+                "ts": "1470853475.000000"
+            }
+        }, 
+        {
+            "username": "ji_kim", 
+            "display_as_bot": false, 
+            "text": "<@U1W3CTQA0|ji_kim> shared a file: <https://gstudents.slack.com/files/ji_kim/F1ZCXNBRB/meetingnotes7.21.16|Meeting notes 7.21.16>", 
+            "upload": false, 
+            "ts": "1470853399.000019", 
+            "subtype": "file_share", 
+            "user": "U1W3CTQA0", 
+            "file": {
+                "filetype": "gdoc", 
+                "channels": [
+                    "C205FGHU0"
+                ], 
+                "display_as_bot": false, 
+                "thumb_64": "https://slack.com/img/files/gdoc_64.v.png", 
+                "size": 1720, 
+                "thumb_360_w": 360, 
+                "title": "Meeting notes 7.21.16", 
+                "url_private": "https://docs.google.com/document/d/1989XOwF25lLLm4NzLommGiNqFZOf9qVG5ogoVGUleSM/edit?usp=drivesdk", 
+                "thumb_360": "https://slack.com/img/files/gdoc_360.v.png", 
+                "id": "F1ZCXNBRB", 
+                "ims": [], 
+                "thumb_360_h": 167, 
+                "external_type": "gdrive", 
+                "username": "", 
+                "timestamp": 1470690879, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "user": "U1W3CTQA0", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "GDocs Document", 
+                "name": "Meetingnotes7.21.16", 
+                "mimetype": "application/vnd.google-apps.document", 
+                "permalink": "https://gstudents.slack.com/files/ji_kim/F1ZCXNBRB/meetingnotes7.21.16", 
+                "is_external": true, 
+                "created": 1470690879, 
+                "comments_count": 0, 
+                "mode": "external"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Notes from the first meeting", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1470853399.000018", 
+            "edited": {
+                "user": "U1W3CTQA0", 
+                "ts": "1470853445.000000"
+            }
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1W223003"
+                    ]
+                }
+            ], 
+            "text": "Hey everyone! Here are a few things from the other team that might be good to have for reference", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1470853376.000017"
+        }, 
+        {
+            "text": "<@U1W3EFZFG|dunbarry> has joined the channel", 
+            "ts": "1470852623.000016", 
+            "subtype": "channel_join", 
+            "user": "U1W3EFZFG", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W3KL3S9|stephen-knutter> has joined the channel", 
+            "ts": "1470852437.000015", 
+            "subtype": "channel_join", 
+            "user": "U1W3KL3S9", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W2MHVQQ|samanthaspensley> has joined the channel", 
+            "ts": "1470852359.000014", 
+            "subtype": "channel_join", 
+            "user": "U1W2MHVQQ", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W3KGQ4X|sampersian> has joined the channel", 
+            "ts": "1470852359.000013", 
+            "subtype": "channel_join", 
+            "user": "U1W3KGQ4X", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W3R0RJ5|ozwal> has joined the channel", 
+            "ts": "1470852359.000012", 
+            "subtype": "channel_join", 
+            "user": "U1W3R0RJ5", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W223003|zenvercoder> has joined the channel", 
+            "ts": "1470852359.000011", 
+            "subtype": "channel_join", 
+            "user": "U1W223003", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W1CDFHR|jaimielogan> has joined the channel", 
+            "ts": "1470852359.000010", 
+            "subtype": "channel_join", 
+            "user": "U1W1CDFHR", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W3CLA64|iggirex> has joined the channel", 
+            "ts": "1470852359.000009", 
+            "subtype": "channel_join", 
+            "user": "U1W3CLA64", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W16N3KM|chay> has joined the channel", 
+            "ts": "1470852358.000008", 
+            "subtype": "channel_join", 
+            "user": "U1W16N3KM", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W3VAN3C|catiecook> has joined the channel", 
+            "ts": "1470852358.000007", 
+            "subtype": "channel_join", 
+            "user": "U1W3VAN3C", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W22MND9|colin> has joined the channel", 
+            "ts": "1470852358.000006", 
+            "subtype": "channel_join", 
+            "user": "U1W22MND9", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W3AUNNS|bengio777> has joined the channel", 
+            "ts": "1470852358.000005", 
+            "subtype": "channel_join", 
+            "user": "U1W3AUNNS", 
+            "type": "message", 
+            "inviter": "U1W3CTQA0"
+        }, 
+        {
+            "text": "<@U1W3CTQA0|ji_kim> has joined the channel", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1470852213.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1US75J13|dannyfritz> set the channel purpose: G31 Blog", 
+            "ts": "1470852087.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1US75J13", 
+            "type": "message", 
+            "purpose": "G31 Blog"
+        }, 
+        {
+            "text": "<@U1US75J13|dannyfritz> has joined the channel", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1470852087.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g31_function31", 
+        "name": "g31_function31", 
+        "is_channel": true, 
+        "created": 1470852087, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1US75J13", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1470852087, 
+            "value": "G31 Blog", 
+            "creator": "U1US75J13"
+        }, 
+        "members": [
+            "U1V31SFNJ", 
+            "U1W223003", 
+            "U1W22MND9", 
+            "U1W2MHVQQ", 
+            "U1W3AUNNS"
+        ], 
+        "id": "C205FGHU0", 
+        "is_shared": false
+    }
+}

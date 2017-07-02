@@ -1,0 +1,129 @@
+{
+    "messages": [
+        {
+            "username": "jennkey827", 
+            "display_as_bot": false, 
+            "text": "<@U2N5QR0RG|jennkey827> uploaded a file: <https://gstudents.slack.com/files/jennkey827/F5GLTJ78Q/jenn_key_capstone_proposal.gdoc|Capstone Proposal>", 
+            "upload": true, 
+            "ts": "1495638069.397029", 
+            "subtype": "file_share", 
+            "user": "U2N5QR0RG", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 0, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5GLTJ78Q", 
+                "size": 250, 
+                "title": "Capstone Proposal", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5GLTJ78Q/jenn_key_capstone_proposal.gdoc", 
+                "ims": [], 
+                "preview": "{\"url\": \"https://docs.google.com/open?id=19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ\", \"doc_id\": \"19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ\", \"email\": \"jennkey827@gmail.com\", \"resource_id\": \"document:19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ\"}", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/jennkey827/F5GLTJ78Q/jenn_key_capstone_proposal.gdoc/edit", 
+                "username": "", 
+                "timestamp": 1495638069, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5GLTJ78Q/download/jenn_key_capstone_proposal.gdoc", 
+                "user": "U2N5QR0RG", 
+                "groups": [
+                    "G5HDT6EBF"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Plain Text", 
+                "name": "Jenn Key Capstone proposal.gdoc", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5GLTJ78Q-e61ec5fe52", 
+                "permalink": "https://gstudents.slack.com/files/jennkey827/F5GLTJ78Q/jenn_key_capstone_proposal.gdoc", 
+                "is_external": false, 
+                "created": 1495638069, 
+                "lines": 1, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>{&quot;url&quot;: &quot;https://docs.google.com/open?id=19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ&quot;, &quot;doc_id&quot;: &quot;19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ&quot;, &quot;email&quot;: &quot;jennkey827@gmail.com&quot;, &quot;resource_id&quot;: &quot;document:19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ&quot;}</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1495637968, 
+            "value": "Group messaging", 
+            "creator": "U2N5QR0RG"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--jennkey827--brent.lemieux--whsky-1", 
+        "name": "mpdm-frank-w-b--ajrichards--jennkey827--brent.lemieux--whsky-1", 
+        "last_read": "1495638069.397029", 
+        "creator": "U2N5QR0RG", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1495637968, 
+        "is_group": true, 
+        "members": [
+            "U2N5QR0RG", 
+            "U1WHHHQ7N", 
+            "U1Z90HJG3", 
+            "U33BKEP9Q", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1495637968, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @jennkey827 @brent.lemieux @whsky", 
+            "creator": "U2N5QR0RG"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5HDT6EBF", 
+        "latest": {
+            "username": "jennkey827", 
+            "display_as_bot": false, 
+            "text": "<@U2N5QR0RG|jennkey827> uploaded a file: <https://gstudents.slack.com/files/jennkey827/F5GLTJ78Q/jenn_key_capstone_proposal.gdoc|Capstone Proposal>", 
+            "upload": true, 
+            "ts": "1495638069.397029", 
+            "subtype": "file_share", 
+            "user": "U2N5QR0RG", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 0, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5GLTJ78Q", 
+                "size": 250, 
+                "title": "Capstone Proposal", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5GLTJ78Q/jenn_key_capstone_proposal.gdoc", 
+                "ims": [], 
+                "preview": "{\"url\": \"https://docs.google.com/open?id=19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ\", \"doc_id\": \"19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ\", \"email\": \"jennkey827@gmail.com\", \"resource_id\": \"document:19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ\"}", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/jennkey827/F5GLTJ78Q/jenn_key_capstone_proposal.gdoc/edit", 
+                "username": "", 
+                "timestamp": 1495638069, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5GLTJ78Q/download/jenn_key_capstone_proposal.gdoc", 
+                "user": "U2N5QR0RG", 
+                "groups": [
+                    "G5HDT6EBF"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Plain Text", 
+                "name": "Jenn Key Capstone proposal.gdoc", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5GLTJ78Q-e61ec5fe52", 
+                "permalink": "https://gstudents.slack.com/files/jennkey827/F5GLTJ78Q/jenn_key_capstone_proposal.gdoc", 
+                "is_external": false, 
+                "created": 1495638069, 
+                "lines": 1, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>{&quot;url&quot;: &quot;https://docs.google.com/open?id=19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ&quot;, &quot;doc_id&quot;: &quot;19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ&quot;, &quot;email&quot;: &quot;jennkey827@gmail.com&quot;, &quot;resource_id&quot;: &quot;document:19UgP48jFVijGKyORKaQ8jqVhH4KTeo9RBzaJijB70kQ&quot;}</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    }
+}

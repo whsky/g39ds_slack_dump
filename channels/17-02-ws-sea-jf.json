@@ -1,0 +1,1707 @@
+{
+    "messages": [
+        {
+            "text": "<@U5BJR2HV1|bethanylindsey> has joined the channel", 
+            "ts": "1498580570.084433", 
+            "subtype": "channel_join", 
+            "user": "U5BJR2HV1", 
+            "type": "message", 
+            "inviter": "U1VCJN4DC"
+        }, 
+        {
+            "text": "<!channel> congratulations for finishing up class last night! I hope you all had a great experience and learned a lot. A few quick housekeeping items: \n1) This slack channel will stay open and available to you through Wednesday, July 5th - please collect any information and exchange contact info before it closes!; \n2) Please feel welcome to stay connected with <@U38KEPD62> and I for technical questions or questions about next steps in your learning journey; \n3) I would love to connect with each of you 1:1 to support you in continuing to learn - please book some time on my calendar (<http://laurenlark.youcanbook.me|laurenlark.youcanbook.me>) for us to connect. I'll reach out to those I don't hear from via email in a week or so. \n4) You will be receiving a quick survey in the next day or 2 about your experience in the class. Please reach out to <@U5BJR2HV1> (<mailto:bethany.lindsey@galvanize.com|bethany.lindsey@galvanize.com>) if you have any questions about this OR for any certificate of completion requests; \n5) Have an awesome 4th of July and rest of your summers! :flag-us: :sunny: :galvanize:", 
+            "type": "message", 
+            "user": "U1VCJN4DC", 
+            "ts": "1498580567.083091"
+        }, 
+        {
+            "text": "<https://nodeschool.io/>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1498528218.129876"
+        }, 
+        {
+            "text": "<https://www.hackerrank.com/dashboard>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1498528209.128599", 
+            "attachments": [
+                {
+                    "thumb_height": 629, 
+                    "service_icon": "https://www.hackerrank.com/favicon.ico", 
+                    "thumb_width": 1200, 
+                    "title": "HackerRank", 
+                    "text": "Join over 2 million developers in solving code challenges on HackerRank, one of the best ways to prepare for programming interviews.", 
+                    "title_link": "https://www.hackerrank.com/dashboard", 
+                    "service_name": "hackerrank.com", 
+                    "id": 1, 
+                    "fallback": "HackerRank", 
+                    "thumb_url": "https://hrcdn.net/og/default.jpg", 
+                    "from_url": "https://www.hackerrank.com/dashboard"
+                }
+            ]
+        }, 
+        {
+            "text": "<http://exercism.io/>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1498528200.127415", 
+            "attachments": [
+                {
+                    "thumb_height": 60, 
+                    "thumb_width": 60, 
+                    "title": "Exercism.io: Crowd-sourced code mentorship.", 
+                    "service_name": "Exercism.io", 
+                    "title_link": "http://exercism.io/", 
+                    "text": "Practice having thoughtful conversations about code.", 
+                    "id": 1, 
+                    "fallback": "Exercism.io: Exercism.io: Crowd-sourced code mentorship.", 
+                    "thumb_url": "http://exercism.io/icons/exercism_og.png", 
+                    "from_url": "http://exercism.io/"
+                }
+            ]
+        }, 
+        {
+            "username": "anhtrieu", 
+            "display_as_bot": false, 
+            "text": "<@U56E8G0LC|anhtrieu> uploaded a file: <https://gstudents.slack.com/files/anhtrieu/F5Z786YQY/store-locator.zip|store-locator.zip>", 
+            "upload": true, 
+            "ts": "1498525719.809631", 
+            "subtype": "file_share", 
+            "user": "U56E8G0LC", 
+            "file": {
+                "filetype": "zip", 
+                "channels": [
+                    "C4V21V3P0"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5Z786YQY", 
+                "size": 10450, 
+                "title": "store-locator.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5Z786YQY/store-locator.zip", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1498525718, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5Z786YQY/download/store-locator.zip", 
+                "user": "U56E8G0LC", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Zip", 
+                "name": "store-locator.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5Z786YQY-59019b1f26", 
+                "permalink": "https://gstudents.slack.com/files/anhtrieu/F5Z786YQY/store-locator.zip", 
+                "is_external": false, 
+                "created": 1498525718, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Sorry running late but I'll be there by 7pm", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1498095126.178652"
+        }, 
+        {
+            "text": "Super crazy traffic today", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1498095114.176909"
+        }, 
+        {
+            "text": "Rock Paper Scissors: <https://gist.github.com/lizTheDeveloper/05380473c4c6fca934301d1d00a970e3>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1497923071.049728"
+        }, 
+        {
+            "text": "Map Project: <https://gist.github.com/lizTheDeveloper/ba94a761379ea10c8d75d5dceadb6c41>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1497923057.047889"
+        }, 
+        {
+            "text": "3 Button Site: <https://gist.github.com/lizTheDeveloper/dc87232f4010f8cd596f488c570d2b73>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1497923045.046361"
+        }, 
+        {
+            "text": "Might be a few minutes late.", 
+            "type": "message", 
+            "user": "U56S1PPEZ", 
+            "ts": "1497921830.891261"
+        }, 
+        {
+            "text": "We will be in the Magnuson classroom tonight. 2nd floor right as you come up the stairs. See you all soon!", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1497920940.776570"
+        }, 
+        {
+            "text": "Hi Scott, I'm gonna be late today.", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1497919124.536504"
+        }, 
+        {
+            "text": "<https://surge.sh/help/remembering-a-domain>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1497492374.945148", 
+            "attachments": [
+                {
+                    "title": "Remembering a domain through the CLI or CNAME file \u2022 Surge", 
+                    "text": "Pre-fill your domain in the CLI, so you don\u2019t need to type it in when publishing.", 
+                    "title_link": "https://surge.sh/help/remembering-a-domain", 
+                    "service_name": "surge.sh", 
+                    "id": 1, 
+                    "fallback": "Remembering a domain through the CLI or CNAME file \u2022 Surge", 
+                    "from_url": "https://surge.sh/help/remembering-a-domain"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://gist.github.com/Shurlow/6cfcb317fce860842e5fb0ed6b3af0f6>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1497490678.739493"
+        }, 
+        {
+            "text": ":white_check_mark: Poll successfully deleted.", 
+            "subtype": "bot_message", 
+            "type": "message", 
+            "ts": "1497322363.415112", 
+            "bot_id": "B537FQZ7C"
+        }, 
+        {
+            "text": "JQuery Event Lesson: <https://gist.github.com/rogerwschmidt/98f9aeadcc220aa530c2ac441fa90097>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1497321277.293576"
+        }, 
+        {
+            "text": "<https://oscarotero.com/jquery/>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1497321027.263591", 
+            "attachments": [
+                {
+                    "image_bytes": 211443, 
+                    "title": "jQuery Cheat Sheet", 
+                    "text": "jQuery cheat sheet in HTML with links to the original API documentation. Created by Oscar Otero", 
+                    "image_width": 448, 
+                    "title_link": "https://oscarotero.com/jquery/", 
+                    "image_height": 250, 
+                    "image_url": "https://oscarotero.com/jquery/jquery.png", 
+                    "service_name": "oscarotero.com", 
+                    "id": 1, 
+                    "fallback": "jQuery Cheat Sheet", 
+                    "service_icon": "https://oscarotero.com/jquery/apple-touch-icon.png", 
+                    "from_url": "https://oscarotero.com/jquery/"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://gist.github.com/rogerwschmidt/e4020efed798eedab5c5296793f27113>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1497318256.923134"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "woowoo-alternate", 
+                    "users": [
+                        "U38KEPD62"
+                    ]
+                }
+            ], 
+            "text": "JavaScript warmup for today: <https://repl.it/Ii3A/1>", 
+            "type": "message", 
+            "user": "U3R05SAHW", 
+            "ts": "1497316190.665129"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "charmander_dancing", 
+                    "users": [
+                        "U35LTDGP7"
+                    ]
+                }
+            ], 
+            "text": "```for (var i = 0; i &lt; groceryList.length; i++) {\n  console.log(groceryList[i])\n}\n\nfor (var i in groceryList) {\n  console.log(groceryList[i])\n}\n\nfor (var item of groceryList) {\n  console.log(item)\n}```", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1496892375.990294"
+        }, 
+        {
+            "username": "scotthurlow", 
+            "display_as_bot": false, 
+            "text": "<@U38KEPD62|scotthurlow> uploaded a file: <https://gstudents.slack.com/files/scotthurlow/F5R8Z6GR5/dom_exercise_2_js.js|DOM Exercise 2 JS>", 
+            "upload": true, 
+            "ts": "1496889213.634979", 
+            "subtype": "file_share", 
+            "user": "U38KEPD62", 
+            "file": {
+                "filetype": "javascript", 
+                "lines_more": 13, 
+                "channels": [
+                    "C4V21V3P0"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5R8Z6GR5", 
+                "size": 255, 
+                "title": "DOM Exercise 2 JS", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5R8Z6GR5/dom_exercise_2_js.js", 
+                "ims": [], 
+                "preview": "var groceryList = [{\r\n  name: \"Bananas\",\r\n  qty: 5\r\n}, {\r\n  name: \"Strawberries\",\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/scotthurlow/F5R8Z6GR5/dom_exercise_2_js.js/edit", 
+                "username": "", 
+                "timestamp": 1496889213, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5R8Z6GR5/download/dom_exercise_2_js.js", 
+                "user": "U38KEPD62", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "JavaScript/JSON", 
+                "name": "DOM_Exercise_2_JS.js", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5R8Z6GR5-969b6456ab", 
+                "permalink": "https://gstudents.slack.com/files/scotthurlow/F5R8Z6GR5/dom_exercise_2_js.js", 
+                "is_external": false, 
+                "created": 1496889213, 
+                "lines": 18, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">var</span> <span class=\"cm-def\">groceryList</span> <span class=\"cm-operator\">=</span> [{</pre></div>\n<div><pre>  <span class=\"cm-property\">name</span>: <span class=\"cm-string\">&quot;Bananas&quot;</span>,</pre></div>\n<div><pre>  <span class=\"cm-property\">qty</span>: <span class=\"cm-number\">5</span></pre></div>\n<div><pre>}, {</pre></div>\n<div><pre>  <span class=\"cm-property\">name</span>: <span class=\"cm-string\">&quot;Strawberries&quot;</span>,</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "scotthurlow", 
+            "display_as_bot": false, 
+            "text": "<@U38KEPD62|scotthurlow> uploaded a file: <https://gstudents.slack.com/files/scotthurlow/F5R8E3GT0/dom_exercise_2_html.html|DOM Exercise 2 html>", 
+            "upload": true, 
+            "ts": "1496889189.632120", 
+            "subtype": "file_share", 
+            "user": "U38KEPD62", 
+            "file": {
+                "filetype": "html", 
+                "lines_more": 8, 
+                "channels": [
+                    "C4V21V3P0"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5R8E3GT0", 
+                "size": 317, 
+                "title": "DOM Exercise 2 html", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5R8E3GT0/dom_exercise_2_html.html", 
+                "ims": [], 
+                "preview": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n  <meta charset=\"utf-8\">\r\n  <meta name=\"viewport\" content=\"width=device-width\">\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/scotthurlow/F5R8E3GT0/dom_exercise_2_html.html/edit", 
+                "username": "", 
+                "timestamp": 1496889188, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5R8E3GT0/download/dom_exercise_2_html.html", 
+                "user": "U38KEPD62", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "HTML", 
+                "name": "DOM_Exercise_2_html.html", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5R8E3GT0-be321add35", 
+                "permalink": "https://gstudents.slack.com/files/scotthurlow/F5R8E3GT0/dom_exercise_2_html.html", 
+                "is_external": false, 
+                "created": 1496889188, 
+                "lines": 13, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;!DOCTYPE html&gt;</span></pre></div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;</span><span class=\"cm-tag\">html</span><span class=\"cm-tag cm-bracket\">&gt;</span></pre></div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;</span><span class=\"cm-tag\">head</span><span class=\"cm-tag cm-bracket\">&gt;</span></pre></div>\n<div><pre>  <span class=\"cm-tag cm-bracket\">&lt;</span><span class=\"cm-tag\">meta</span> <span class=\"cm-attribute\">charset</span>=<span class=\"cm-string\">&quot;utf-8&quot;</span><span class=\"cm-tag cm-bracket\">&gt;</span></pre></div>\n<div><pre>  <span class=\"cm-tag cm-bracket\">&lt;</span><span class=\"cm-tag\">meta</span> <span class=\"cm-attribute\">name</span>=<span class=\"cm-string\">&quot;viewport&quot;</span> <span class=\"cm-attribute\">content</span>=<span class=\"cm-string\">&quot;width=device-width&quot;</span><span class=\"cm-tag cm-bracket\">&gt;</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://gist.github.com/Shurlow/c4b69caa84a479fab96f1fabd14797e8>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1496712788.118015"
+        }, 
+        {
+            "text": "<@U44AXSS0Z|mltan4> has joined the channel", 
+            "ts": "1496703760.815481", 
+            "subtype": "channel_join", 
+            "user": "U44AXSS0Z", 
+            "type": "message", 
+            "inviter": "U1VCJN4DC"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "america", 
+                    "users": [
+                        "U1VCJN4DC"
+                    ]
+                }
+            ], 
+            "text": "There is NO class on Monday", 
+            "type": "message", 
+            "user": "U3R05SAHW", 
+            "ts": "1496019781.167780"
+        }, 
+        {
+            "text": "Just checking, but was there class Monday? I can't remember if it was mentioned.", 
+            "type": "message", 
+            "user": "U56S1PPEZ", 
+            "ts": "1496009179.591831"
+        }, 
+        {
+            "text": "A nice post about css selectors: <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495683359.320921", 
+            "attachments": [
+                {
+                    "thumb_height": 600, 
+                    "service_icon": "https://developer.cdn.mozilla.net/static/img/favicon144.a6e4162070f4.png", 
+                    "thumb_width": 600, 
+                    "title": "CSS Selectors", 
+                    "service_name": "Mozilla Developer Network", 
+                    "title_link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors", 
+                    "text": "Selectors define to which elements a set of CSS rules apply.", 
+                    "id": 1, 
+                    "fallback": "Mozilla Developer Network: CSS Selectors", 
+                    "thumb_url": "https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png", 
+                    "from_url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors"
+                }
+            ]
+        }, 
+        {
+            "text": "```&lt;html&gt;\n&lt;head&gt;\n  &lt;title&gt;\n    This is HTML\n  &lt;/title&gt;\n&lt;/head&gt;\n&lt;body&gt;\n  &lt;h1&gt;This is the title of my page&lt;/h1&gt;\n  &lt;p&gt;This is a paragraph&lt;/p&gt;\n&lt;/body&gt;\n&lt;/html&gt;```", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495680836.934551"
+        }, 
+        {
+            "text": "HTML/CSS problems: <https://repl.it/classroom/invite/Eyu6r8R>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495679251.682254"
+        }, 
+        {
+            "text": "Thank you <@U38KEPD62> ", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1495675672.045642"
+        }, 
+        {
+            "text": "I don\u2019t think so", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495675297.977508"
+        }, 
+        {
+            "text": "Is there a baseball game today? ", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1495674506.835920"
+        }, 
+        {
+            "text": "Thank you!", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1495506231.359470"
+        }, 
+        {
+            "text": "`alphabetPosition(\"so long and thanks for all the fish\")`", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495504890.138519"
+        }, 
+        {
+            "username": "polly", 
+            "attachments": [
+                {
+                    "title": "How comfortable do you feel with functions?", 
+                    "color": "35A8E0", 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "one", 
+                            "text": "1", 
+                            "value": "0", 
+                            "type": "button", 
+                            "id": "1"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "two", 
+                            "text": "2", 
+                            "value": "1", 
+                            "type": "button", 
+                            "id": "2"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "three", 
+                            "text": "3", 
+                            "value": "2", 
+                            "type": "button", 
+                            "id": "3"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "four", 
+                            "text": "4", 
+                            "value": "3", 
+                            "type": "button", 
+                            "id": "4"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "five", 
+                            "text": "5", 
+                            "value": "4", 
+                            "type": "button", 
+                            "id": "5"
+                        }
+                    ], 
+                    "callback_id": "oDRLnpLoyC3F96R5X", 
+                    "fallback": "How comfortable do you feel with functions?", 
+                    "id": 1
+                }, 
+                {
+                    "text": "Results for this poll are visible to the author and admins only", 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "add_comments", 
+                            "text": "Add a Comment", 
+                            "value": "umRTBNdx9xt2C9eza", 
+                            "type": "button", 
+                            "id": "6"
+                        }
+                    ], 
+                    "callback_id": "oDRLnpLoyC3F96R5X", 
+                    "mrkdwn_in": [
+                        "fields"
+                    ], 
+                    "fallback": "How comfortable do you feel with functions?", 
+                    "id": 2
+                }
+            ], 
+            "icons": {
+                "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2017-01-27/134410669830_48.png"
+            }, 
+            "text": "<@U38KEPD62> used `/polly`! Votes in this poll are anonymous :lock:. ", 
+            "ts": "1495503631.919410", 
+            "subtype": "bot_message", 
+            "type": "message", 
+            "bot_id": "B2EDJ5UE6"
+        }, 
+        {
+            "username": "polly", 
+            "attachments": [
+                {
+                    "title": "How comfortable do you feel with loops (for &amp; while)?", 
+                    "color": "35A8E0", 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "one", 
+                            "text": "1", 
+                            "value": "0", 
+                            "type": "button", 
+                            "id": "1"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "two", 
+                            "text": "2", 
+                            "value": "1", 
+                            "type": "button", 
+                            "id": "2"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "three", 
+                            "text": "3", 
+                            "value": "2", 
+                            "type": "button", 
+                            "id": "3"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "four", 
+                            "text": "4", 
+                            "value": "3", 
+                            "type": "button", 
+                            "id": "4"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "five", 
+                            "text": "5", 
+                            "value": "4", 
+                            "type": "button", 
+                            "id": "5"
+                        }
+                    ], 
+                    "callback_id": "MRJBYNHM6whaZFqwR", 
+                    "fallback": "How comfortable do you feel with loops (for &amp; while)?", 
+                    "id": 1
+                }, 
+                {
+                    "text": "Results for this poll are visible to the author and admins only", 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "add_comments", 
+                            "text": "Add a Comment", 
+                            "value": "QeLnZswJNS3ay6hZj", 
+                            "type": "button", 
+                            "id": "6"
+                        }
+                    ], 
+                    "callback_id": "MRJBYNHM6whaZFqwR", 
+                    "mrkdwn_in": [
+                        "fields"
+                    ], 
+                    "fallback": "How comfortable do you feel with loops (for &amp; while)?", 
+                    "id": 2
+                }
+            ], 
+            "icons": {
+                "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2017-01-27/134410669830_48.png"
+            }, 
+            "text": "<@U38KEPD62> used `/polly`! Votes in this poll are anonymous :lock:. ", 
+            "ts": "1495503602.913986", 
+            "subtype": "bot_message", 
+            "type": "message", 
+            "bot_id": "B2EDJ5UE6"
+        }, 
+        {
+            "username": "polly", 
+            "attachments": [
+                {
+                    "title": "How comfortable do you feel with If, else &amp; else-if statements? 1 = BAD 5 = GOOD", 
+                    "color": "35A8E0", 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "one", 
+                            "text": "1", 
+                            "value": "0", 
+                            "type": "button", 
+                            "id": "1"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "two", 
+                            "text": "2", 
+                            "value": "1", 
+                            "type": "button", 
+                            "id": "2"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "three", 
+                            "text": "3", 
+                            "value": "2", 
+                            "type": "button", 
+                            "id": "3"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "four", 
+                            "text": "4", 
+                            "value": "3", 
+                            "type": "button", 
+                            "id": "4"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "five", 
+                            "text": "5", 
+                            "value": "4", 
+                            "type": "button", 
+                            "id": "5"
+                        }
+                    ], 
+                    "callback_id": "Bmg2H6vCsEszsGyER", 
+                    "fallback": "How comfortable do you feel with If, else &amp; else-if statements? 1 = BAD 5 = GOOD", 
+                    "id": 1
+                }, 
+                {
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": ":one: `\u2062` 0%", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": true, 
+                            "value": ":two: `\u2062` 0%", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": true, 
+                            "value": ":three: `\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587` 50% (4)", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": true, 
+                            "value": ":four: `\u2587\u2587\u2587\u2587\u2587` 25% (2)", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": true, 
+                            "value": ":five: `\u2587\u2587\u2587\u2587\u2587` 25% (2)", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "8", 
+                            "title": "Total votes"
+                        }
+                    ], 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "add_comments", 
+                            "text": "Add a Comment", 
+                            "value": "PvFECvQZGgH7yrLAd", 
+                            "type": "button", 
+                            "id": "6"
+                        }
+                    ], 
+                    "callback_id": "Bmg2H6vCsEszsGyER", 
+                    "mrkdwn_in": [
+                        "fields"
+                    ], 
+                    "fallback": "How comfortable do you feel with If, else &amp; else-if statements? 1 = BAD 5 = GOOD", 
+                    "id": 2
+                }
+            ], 
+            "icons": {
+                "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2017-01-27/134410669830_48.png"
+            }, 
+            "text": "<@U38KEPD62> used `/polly`! Votes in this poll are anonymous :lock:. ", 
+            "ts": "1495503546.904321", 
+            "subtype": "bot_message", 
+            "type": "message", 
+            "bot_id": "B2EDJ5UE6"
+        }, 
+        {
+            "username": "polly", 
+            "attachments": [
+                {
+                    "title": "How comfortable do you feel with variables &amp; data-types?", 
+                    "color": "35A8E0", 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "one", 
+                            "text": "1", 
+                            "value": "0", 
+                            "type": "button", 
+                            "id": "1"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "two", 
+                            "text": "2", 
+                            "value": "1", 
+                            "type": "button", 
+                            "id": "2"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "three", 
+                            "text": "3", 
+                            "value": "2", 
+                            "type": "button", 
+                            "id": "3"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "four", 
+                            "text": "4", 
+                            "value": "3", 
+                            "type": "button", 
+                            "id": "4"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "five", 
+                            "text": "5", 
+                            "value": "4", 
+                            "type": "button", 
+                            "id": "5"
+                        }
+                    ], 
+                    "callback_id": "6oHhBTYRLx4Jfo2zh", 
+                    "fallback": "How comfortable do you feel with variables &amp; data-types?", 
+                    "id": 1
+                }, 
+                {
+                    "text": "Results for this poll are visible to the author and admins only", 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "add_comments", 
+                            "text": "Add a Comment", 
+                            "value": "kE4nXiTQxFLphToYF", 
+                            "type": "button", 
+                            "id": "6"
+                        }
+                    ], 
+                    "callback_id": "6oHhBTYRLx4Jfo2zh", 
+                    "mrkdwn_in": [
+                        "fields"
+                    ], 
+                    "fallback": "How comfortable do you feel with variables &amp; data-types?", 
+                    "id": 2
+                }
+            ], 
+            "icons": {
+                "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2017-01-27/134410669830_48.png"
+            }, 
+            "text": "<@U38KEPD62> used `/polly`! Votes in this poll are anonymous :lock:. ", 
+            "ts": "1495502807.774135", 
+            "subtype": "bot_message", 
+            "type": "message", 
+            "bot_id": "B2EDJ5UE6"
+        }, 
+        {
+            "text": "I'm a little shy in public, so I'll follow up by direct message. But if anyone wants to start a poll, just type `/poll`.", 
+            "type": "message", 
+            "user": "U2ED0MZ7Y", 
+            "ts": "1495501979.629734", 
+            "bot_id": "B2EDJ5UE6"
+        }, 
+        {
+            "text": "<!channel> Hey everyone! In preparation for class tonight I\u2019d like everyone to get as far as they can in the exercise titled *Functions with Arrays and Objects*. We will start off class with some time to work on this and review any other concepts covered so far. Additionally we will be starting a mini-project (hangman game) so if you\u2019re curious you can read ahead in chapter 7 of _JS for Kids_. See you all tonight!", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495486302.527375"
+        }, 
+        {
+            "text": "Okay, got it. I am on mobile, a little hard to see. Thank you very much!", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1495142639.871090"
+        }, 
+        {
+            "text": "Initially, I only have this `var obj3 = Object.assign({}, obj1, obj2)` but it gave me the `Expected undefined to equal Object({ a: 1 }).` so I added the if statement.", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1495141535.426589"
+        }, 
+        {
+            "text": "I thought that it wants me to give a default value of {a: 1} if either obj1 || obj2 is empty.", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1495141283.316917"
+        }, 
+        {
+            "text": "I also believe that the if statement above is unnecessary", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495140580.994589"
+        }, 
+        {
+            "text": "The error `Expected undefined` happens because nothing was returned in the function so it defaulted to undefined", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495140513.964248"
+        }, 
+        {
+            "text": "<@U56E8G0LC> This part of your solution looks good: `var obj3 = Object.assign({}, obj1, obj2)`", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495140480.949145"
+        }, 
+        {
+            "text": "<@U38KEPD62> Could you please explain why?", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1495126986.289497"
+        }, 
+        {
+            "text": "Here is my code ```function combine(obj1, obj2) {\n\tvar obj3 = Object.assign({}, obj1, obj2)\nif (obj1 || obj2 === undefine) {\n\tobj3.a = 1\n}\n}```", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1495126932.260456"
+        }, 
+        {
+            "text": "I keep getting this while doing the \u201ccombine\u201d problem in Functions with Arrays and Objects", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1495126904.245625"
+        }, 
+        {
+            "text": "<@U38KEPD62> did you want us to do any reading???", 
+            "type": "message", 
+            "user": "U56K43NTX", 
+            "ts": "1495079094.353189"
+        }, 
+        {
+            "text": "```function isPhone(str) {\n  var phoneArray = str.split(\"\");\n  var numCounter = 0;\n  for (var i = 0; i &lt; phoneArray.length; i++) {\n    // If it's NOT not a number \n    // !true === false\n    var num = parseInt(phoneArray[i])\n    if (!isNaN(num)) {\n        numCounter++\n    }\n  }\n  \n  console.log(numCounter === 10)\n}```", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495072581.284793"
+        }, 
+        {
+            "text": "<http://eloquentjavascript.net/>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495071352.062860"
+        }, 
+        {
+            "text": "<https://github.com/airbnb/javascript>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495070417.890941", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://fst.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "airbnb/javascript", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/airbnb/javascript", 
+                    "text": "javascript - JavaScript Style Guide", 
+                    "id": 1, 
+                    "fallback": "GitHub: airbnb/javascript", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/698437?v=3&s=400", 
+                    "from_url": "https://github.com/airbnb/javascript"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U2ED0MZ7Y|polly> has joined the channel", 
+            "ts": "1495069481.717628", 
+            "subtype": "channel_join", 
+            "user": "U2ED0MZ7Y", 
+            "type": "message", 
+            "inviter": "U38KEPD62"
+        }, 
+        {
+            "text": "<@U2ED0MZ7Y>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495069475.716365"
+        }, 
+        {
+            "text": ":thumbsup:", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495056248.252508"
+        }, 
+        {
+            "text": "I like that solution too!", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495056245.251035"
+        }, 
+        {
+            "text": "I did this and it works just fine.\n\n```function isPhone(str) {\n var phoneArray = str.split('');\n for (var i = 0; i &lt; phoneArray.length; i++) {\n   var num = parseInt(phoneArray[i]);\n   if (isNaN(phoneArray[i])) {\n     phoneArray[i] = \"\";\n   }\n   if (phoneArray[i] === \" \") {\n     phoneArray[i] = \"\";\n   }\n }\n if (phoneArray.join('').length === 10) {\n   console.log('true');\n } else {\n   console.log('false')\n }\n}```", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1495055439.920123"
+        }, 
+        {
+            "text": "perhaps just create a counter that records how many valid numbers you have found. The test doesn\u2019t care about actual values, just wether or not the string has 10 numbers total", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495055341.877838"
+        }, 
+        {
+            "text": "The best thing to do is to not splice the `phoneArray` variable directly", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495055237.833572"
+        }, 
+        {
+            "text": "The values being skipped is due to the fact that you alter (splice) the array while you are in the middle of looping over it", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495055209.821241"
+        }, 
+        {
+            "text": "There are two \u2018bugs\u2019 we can fix here. The first is with the usage of `isNaN`. You correctly parse the value from the array (`var num = parseInt(phoneArray[i]);`), but in the if statement you call `isNaN` on the original value in the array, not the newly parsed `num` variable", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495055098.772582", 
+            "edited": {
+                "user": "U38KEPD62", 
+                "ts": "1495055180.000000"
+            }
+        }, 
+        {
+            "text": "```function isPhone(str) {\n var phoneArray = str.split('');\n for (var i = 0; i &lt; phoneArray.length; i++) {\n   var num = parseInt(phoneArray[i]);\n   if (isNaN(phoneArray[i])) {\n     phoneArray.splice(i, 1);\n   }\n }\n}```", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1495054069.282522"
+        }, 
+        {
+            "text": "Would you mind posting the code for the surrounding loop?", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495053146.840796", 
+            "edited": {
+                "user": "U38KEPD62", 
+                "ts": "1495053180.000000"
+            }
+        }, 
+        {
+            "text": "Hmm that is odd. `phoneArray.splice(i, 1)` should just remove 1 value at index `i`", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1495053131.833905"
+        }, 
+        {
+            "text": "Could you explain what\u2019s going on here, please!", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1495052071.324016"
+        }, 
+        {
+            "text": "Well hi there!", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1495051981.281232", 
+            "subtype": "slackbot_response"
+        }, 
+        {
+            "text": "Hi Scott, for the last problem of the First Function assignment, I tried to use ```phoneArray.splice(i, 1)``` to remove all NaN indexes from the array. However, it only remove every other NaN indexes.\n\n```5553331234\n<tel:5553331234|555 3331234>\n27ct sagetnme fct\n25i 5tms5```", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1495051981.281184"
+        }, 
+        {
+            "text": "```var computer = {\n    processor: \"Intel i5\",\n    RAM: \"8GB\",\n    \"Screen Size\" : 15\n};\n\nconsole.log(\"I have a computer and it has the following properties:\")\nfor(var prop in computer) {\n  console.log(prop + \" : \" + computer[prop])\n}\n\nvar travelPlans = [];\ntravelPlans.push({\n    city: \"Toronto\",\n    country: \"Canada\",\n    region: \"North America\",\n    \"packing list\" : [\"Gloves\", \"Hat\", \"Hockey Stick\"]\n})\n\ntravelPlans.push({\n    city: \"Isle of Man\",\n    country: \"United Kingdom... Kind Of\",\n    region: \"Irish Sea\",\n    \"packing list\" : [\"Gloves\", \"Hat\", \"Camera\"]\n})\n\ntravelPlans.push({\n    city: \"Brussels\",\n    country: \"Belgium\",\n    region: \"Europe\",\n    \"packing list\" : [\"Gloves\", \"Hat\", \"Dutch-English Dictionary\"]\n})\n\nconsole.log(\"I plan to travel the world!\")\nfor (var i=0; i&lt;travelPlans.length; i++) {\n  if (i===0) {\n    console.log(\"First, I am going to go to \" + travelPlans[i].region);\n  } else {\n    console.log(\"Next, I am going to go to \" + travelPlans[i].region);\n  }\n  console.log(\"There I'll visit \" + travelPlans[i].country);\n  console.log(\"I'm going to stop in \" + travelPlans[i].city + \" so I'll need to bring:\")\n  var pList = travelPlans[i][\"packing list\"];\n  console.log(pList.slice(0,-1).join(\", \") + \" and a \" + pList[pList.length-1])\n}\n\nvar languages = [\n    {\n        Name: \"English\",\n        Fluency: \"Fluent\",\n        \"Spoken Since Age\": 1\n    },\n    {\n        Name: \"Spanish\",\n        Fluency: \"Conversational\",\n        \"Spoken Since Age\": 16\n    },\n    {\n        Name: \"Japanese\",\n        Fluency: \"Conversational\",\n        \"Spoken Since Age\": 13\n    },\n    {\n        Name: \"Swahili\",\n        Fluency: \"Halting\",\n        \"Spoken Since Age\": 40\n    },\n];\n\nconsole.log(\"I speak several languages\")\nfor (var i=0; i&lt;languages.length; i++) {\n  console.log(\"I speak \" + languages[i].Name + \" \" + languages[i].Fluency + \"ly and I have spoken it since age \" + languages[i][\"Spoken Since Age\"])\n}\n```", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1494899372.202088", 
+            "edited": {
+                "user": "U38KEPD62", 
+                "ts": "1494899383.000000"
+            }
+        }, 
+        {
+            "text": "Running 5 mins late.", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1494466207.928498"
+        }, 
+        {
+            "text": "<@U56CXCTGA|jacobulrich> has left the channel", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1494380919.091673", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U44AXSS0Z|mltan4> has left the channel", 
+            "type": "message", 
+            "user": "U44AXSS0Z", 
+            "ts": "1494380905.088183", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U561Y9MA5|brianjames> has left the channel", 
+            "type": "message", 
+            "user": "U561Y9MA5", 
+            "ts": "1494368349.655169", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U575ZG9U2|njg26crux> has left the channel", 
+            "type": "message", 
+            "user": "U575ZG9U2", 
+            "ts": "1494368335.651154", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U579DJWP7|aldotorres> has left the channel", 
+            "type": "message", 
+            "user": "U579DJWP7", 
+            "ts": "1494368260.629387", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U4UH054CF|christopher_stewart> has left the channel", 
+            "type": "message", 
+            "user": "U4UH054CF", 
+            "ts": "1494351693.970676", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "oh ok .... got it ... thank you! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1494306254.866267"
+        }, 
+        {
+            "text": "You should `console.log` something like this:\n```\na\ne\ni\no\nu\nand sometimes\ny\n```", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1494306128.849043", 
+            "edited": {
+                "user": "U38KEPD62", 
+                "ts": "1494306185.000000"
+            }
+        }, 
+        {
+            "text": "Good question ", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1494305709.790506"
+        }, 
+        {
+            "text": "?", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1494305692.788180"
+        }, 
+        {
+            "text": "mean", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1494305691.788093"
+        }, 
+        {
+            "text": "could you please help clarify what does: Print out each vowel as a string, with \" and sometimes \" in between \"u\" and \"y\"", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1494305690.787932"
+        }, 
+        {
+            "text": "<@U38KEPD62> Looking into the \"Array Creation &amp; Access\" exercise ...", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1494305672.785361"
+        }, 
+        {
+            "text": "We are on the 2nd floor", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1494295416.316773"
+        }, 
+        {
+            "text": "did the room change?", 
+            "type": "message", 
+            "user": "U44AXSS0Z", 
+            "ts": "1494294713.199025", 
+            "edited": {
+                "user": "U44AXSS0Z", 
+                "ts": "1494294724.000000"
+            }
+        }, 
+        {
+            "text": "<@U56E8G0LC> :thumbsup:", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1494294215.118279"
+        }, 
+        {
+            "text": "Hi Scott, I just want to let you know that I will be late. See you in class!", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1494292816.886565"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "hamster_dance", 
+                    "users": [
+                        "U35LTDGP7"
+                    ]
+                }
+            ], 
+            "text": "<!channel> Hey standard JS class, just a reminder to please come to class having completed the <http://repl.it|repl.it> exercises titled *\u201cWhile Loops\u201d* &amp; *\u201cFor Loops\u201d*. We will have time to answer any questions in class, but feel free to slack the group here or me individually anytime. See you all tonight! :charliebrown:", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1494265162.120233"
+        }, 
+        {
+            "text": "<@U43MC4933|kristinawharton> has joined the channel", 
+            "ts": "1494264014.555967", 
+            "subtype": "channel_join", 
+            "user": "U43MC4933", 
+            "type": "message", 
+            "inviter": "U38KEPD62"
+        }, 
+        {
+            "text": "<@U43MC4933>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1494263631.373666"
+        }, 
+        {
+            "text": "<http://www.keybr.com/practice>", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1493954241.157536", 
+            "attachments": [
+                {
+                    "thumb_height": 400, 
+                    "service_icon": "http://www.keybr.com/res/favicon/apple-touch-icon-57x57.png", 
+                    "thumb_width": 400, 
+                    "title": "keybr.com - Typing lessons", 
+                    "text": "Teaching the world to type at the speed of thought! Typing lessons that work.", 
+                    "title_link": "http://www.keybr.com/practice", 
+                    "service_name": "keybr.com", 
+                    "id": 1, 
+                    "fallback": "keybr.com - Typing lessons", 
+                    "thumb_url": "http://www.keybr.com/res/favicon/cover.png", 
+                    "from_url": "http://www.keybr.com/practice"
+                }
+            ]
+        }, 
+        {
+            "text": "```var football = {\n  'afc': ['Broncos', 'Chiefs', 'Patriots'],\n  'nfc': ['seahawks', 'falcons','eagles']\n}\n\nvar basketball = [\n    { \n      name: 'bulls',\n      city: 'chicago'\n    },\n    {\n      name:'raptors',\n      city:'toronto'\n    },\n    {\n      name:'super sonics',\n      city:'seattle'\n    }\n  ]\n\nfor(var i = 0; i &lt; basketball.length; i++){\n  var team = basketball[i]\n  // console.log(team)\n  \n  var name = team.name\n  console.log(name)\n}\n```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1493951860.861747"
+        }, 
+        {
+            "text": "```// key value pair\n\nvar obj = {\n  subject: 'get off my lawn',\n  body: 'You lazy millenials!!!!',\n  attch: 'Poop emoji'\n}\n\nvar keys = Object.keys(obj);\nconsole.log(keys)\n\nfor(var i = 0; i &lt; keys.length; i++){\n  // var key = keys[i];\n  // console.log(key);\n  console.log(obj[keys[i]])\n  \n}\n\n```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1493950672.710312"
+        }, 
+        {
+            "text": "```var alpha = 'abcdefghijkmnloprstuxvwxyz';\nvar alphaArray = alpha.split('');\n\nconsole.log(alphaArray)\n\nfor(var i = 0; i &lt; alphaArray.length; i++){\n  if('aeiouyt'.split('').indexOf(alphaArray[i]) !== -1){\n      alphaArray.splice(i,1)\n    }\n}\n\nconsole.log(alphaArray)```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1493948528.422487"
+        }, 
+        {
+            "text": "```if (enoughSlicesNow === false) {\n  console.log(\"We need more cakes!\")\n  console.log(\"We'll need \" + slicesNeeded + \" more slices.\")\n  \n  // if we can bake enough\n  if (finalSliceCount === attendees) {\n    console.log(\"We can bake enough cakes and we won't have any extra slices.\")\n  } else {\n    console.log(\"We can't make enough cake in time for the party!\")\n  }\n  \n  \n}```", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1493868945.968019"
+        }, 
+        {
+            "text": "```var rand = Math.random()\nconsole.log(rand)\n\nvar scale = rand * 100\nconsole.log(scale)\n\nvar floor = Math.floor(scale)\nconsole.log(floor)```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1493868579.922197"
+        }, 
+        {
+            "text": "```console.log(Math.floor(Math.random() * 10))```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1493868413.902492"
+        }, 
+        {
+            "text": "```var str = '555-555-5555'\n\nconsole.log(str.split('-'))\n\nvar arr = ['Roger', 'Schmidt']\n\nconsole.log(arr.join('_'))\n\n\nvar palindrome = 'abcba';\nconsole.log(palindrome === palindrome.split('').reverse().join(''))\n\nvar str1 = 'asdfghjkl';\nvar str2 = 'lkjhgfdsa';\n\nconsole.log(str1.split('').sort().join('') === str2.split('').sort().join(''))```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1493868227.880213"
+        }, 
+        {
+            "text": "```var slices = (slicesPerCake * cakes)\nvar enoughSlicesNow = slices &gt;= attendees;\nvar slicesNeeded = attendees - slices;\nvar cakesWeCanBake = (bakers * cakeBakingTime) * hoursLeftUntilParty;\nvar finalSliceCount = (cakes + cakesWeCanBake) * slicesPerCake;\nvar extraSlices = finalSliceCount &gt; attendees;```", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1493867529.793427", 
+            "edited": {
+                "user": "U38KEPD62", 
+                "ts": "1493867539.000000"
+            }
+        }, 
+        {
+            "text": "```var cakes = 5;\nvar slicesPerCake = 6;\nvar attendees = prompt(\"How many attendees?\");\nvar bakers = 3;\nvar cakeBakingTime = 1;\nvar hoursLeftUntilParty = 5;\n\n//Add conditionals below:\nvar currentSlices = cakes * slicesPerCake;\n\n// Do we have enough cakes?\nif(attendees &gt; currentSlices){\n  var slicesNeeded = attendees - currentSlices;\n  console.log(\"We need more cakes!\");\n  console.log(\"We need \" + slicesNeeded + \" more slices\");\n  \n  var possibleSlices = currentSlices + (bakers * cakeBakingTime * hoursLeftUntilParty * slicesPerCake) \n\n  if(possibleSlices &gt; attendees){\n    var extraSlices = possibleSlices - attendees;\n    \n    console.log(\"We can bake enough cakes, and we'll have \" + extraSlices + \" extra slices\")\n  }\n  else if(possibleSlices === parseInt(attendees)){\n    console.log(\"We can bake enough cakes and we won't have any extra slices.\")\n  }\n  else {\n    console.log(\"We can't make enough cake in time for the party!\")\n  }\n}\n\n// If not, how many more slices do we need?\n\n// Can we bake enough cakes to have enough slices?\n\n// Will we have extra slices of cake?\n```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1493864092.335898"
+        }, 
+        {
+            "text": "```var givenNumber = prompt(\"What number shall we loop until?\");\n\nfor(var i = 0; i &lt;= parseInt(givenNumber); i++){\n  var isPrime = true\n  if(i &lt; 2){\n    isPrime = false\n  }\n  else{\n    for(var primeIterator = 2; primeIterator &lt; i; primeIterator++){\n      if(i % primeIterator === 0){\n        isPrime = false\n      }\n    }  \n  }\n  \n  var output;\n  if(i % 2 === 0){\n    output = 'even'\n  }\n  else{\n    output = 'odd'\n  }\n \n  if(isPrime){\n    output = output + ' - prime'\n  }\n  console.log(output)\n}\n\n```", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1493863545.262748"
+        }, 
+        {
+            "text": "<@U57EVLR8T> Hey patrick", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1493861863.010329"
+        }, 
+        {
+            "text": "<https://goo.gl/forms/D3RCuInpJqiPEFrA2>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1493861647.979084", 
+            "attachments": [
+                {
+                    "image_bytes": 59330, 
+                    "title": "Datatypes Quiz", 
+                    "service_name": "Google Docs", 
+                    "image_width": 333, 
+                    "title_link": "https://goo.gl/forms/D3RCuInpJqiPEFrA2", 
+                    "image_height": 250, 
+                    "image_url": "https://lh6.googleusercontent.com/gVvpnIONG7gx7qjzKdW3CJ6DQ0pWv_0y01Ym3T98NDFRJ_vZ0QhbSxMg2VNWHL-dqQ0", 
+                    "id": 1, 
+                    "fallback": "Google Docs: Datatypes Quiz", 
+                    "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png", 
+                    "from_url": "https://goo.gl/forms/D3RCuInpJqiPEFrA2"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "dancing", 
+                    "users": [
+                        "U38KEPD62"
+                    ]
+                }
+            ], 
+            "text": "I'll be there in 5 mins", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1493861547.964375"
+        }, 
+        {
+            "text": "Syllabus for standard course: <https://docs.google.com/document/d/1mz5TJl6_RhUqr6RfcvstOrj3DdL63jQXuEDr9g1pS28/edit#heading=h.mdgtg417eiw>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1493861395.940019"
+        }, 
+        {
+            "text": ":flag-ie:", 
+            "type": "message", 
+            "user": "U57EVLR8T", 
+            "ts": "1493861340.931461"
+        }, 
+        {
+            "text": "xD", 
+            "type": "message", 
+            "user": "U57EVLR8T", 
+            "ts": "1493861310.926862"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U56HRAW1J", 
+            "ts": "1493861306.926430"
+        }, 
+        {
+            "text": "<@U58H8BB2A|abott1222> has joined the channel", 
+            "type": "message", 
+            "user": "U58H8BB2A", 
+            "ts": "1493763745.981313", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3R05SAHW|doubleshot> has joined the channel", 
+            "ts": "1493752557.195952", 
+            "subtype": "channel_join", 
+            "user": "U3R05SAHW", 
+            "type": "message", 
+            "inviter": "U38KEPD62"
+        }, 
+        {
+            "text": "<@U3R05SAHW>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1493752555.195024"
+        }, 
+        {
+            "text": "<@U35LTDGP7|amaliaclaire> has joined the channel", 
+            "ts": "1493752542.189186", 
+            "subtype": "channel_join", 
+            "user": "U35LTDGP7", 
+            "type": "message", 
+            "inviter": "U38KEPD62"
+        }, 
+        {
+            "text": "<@U35LTDGP7>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1493752536.186566"
+        }, 
+        {
+            "text": "<@U57EVLR8T|patco> has joined the channel", 
+            "type": "message", 
+            "user": "U57EVLR8T", 
+            "ts": "1493743524.610266", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<https://repl.it/languages/javascript>", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1493691799.193662"
+        }, 
+        {
+            "text": ":octopus:", 
+            "type": "message", 
+            "user": "U580D74PQ", 
+            "ts": "1493690272.955519"
+        }, 
+        {
+            "text": ":joy:", 
+            "type": "message", 
+            "user": "U580UDQAJ", 
+            "ts": "1493690231.948572"
+        }, 
+        {
+            "text": ":slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U579G28E9", 
+            "ts": "1493690121.930078"
+        }, 
+        {
+            "text": "<@U580UDQAJ|heosyamlyy> has joined the channel", 
+            "type": "message", 
+            "user": "U580UDQAJ", 
+            "ts": "1493690111.928486", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": ":dog:", 
+            "type": "message", 
+            "user": "U57G6AU94", 
+            "ts": "1493690096.925911"
+        }, 
+        {
+            "text": ":rocket:", 
+            "type": "message", 
+            "user": "U56LE2R5Y", 
+            "ts": "1493690026.914762"
+        }, 
+        {
+            "text": "<@U579G28E9|soloshoreline> has joined the channel", 
+            "type": "message", 
+            "user": "U579G28E9", 
+            "ts": "1493690024.914471", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": ":hankey:", 
+            "type": "message", 
+            "user": "U56S1PPEZ", 
+            "ts": "1493689995.909852"
+        }, 
+        {
+            "text": ":thinking_face:", 
+            "type": "message", 
+            "user": "U576DSH7E", 
+            "ts": "1493689993.909470"
+        }, 
+        {
+            "text": ":baby_bottle:", 
+            "type": "message", 
+            "user": "U56K43NTX", 
+            "ts": "1493689992.909375"
+        }, 
+        {
+            "text": ":smile::smile:", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1493689987.908407"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1493689982.907584"
+        }, 
+        {
+            "text": "Hello Web dev! :taco:", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1493689980.907345"
+        }, 
+        {
+            "text": "<@U579DJWP7|aldotorres> has joined the channel", 
+            "type": "message", 
+            "user": "U579DJWP7", 
+            "ts": "1493689460.823461", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Syllabus for accelerated javascript course <https://docs.google.com/document/d/1l7JkDw13bM56-ltVrRNCbcjIA6eYYP5QCuWqoKrUGnw/edit#>", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1493689407.815167"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "parrot_ice-cream-parrot", 
+                    "users": [
+                        "U1VCJN4DC"
+                    ]
+                }
+            ], 
+            "text": "Thanks <@U1VCJN4DC> ", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1493688865.726065"
+        }, 
+        {
+            "text": "<@U580D74PQ|popeyethe13th> has joined the channel", 
+            "type": "message", 
+            "user": "U580D74PQ", 
+            "ts": "1493686661.347993", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4UH054CF|christopher_stewart> has joined the channel", 
+            "ts": "1493685286.111606", 
+            "subtype": "channel_join", 
+            "user": "U4UH054CF", 
+            "type": "message", 
+            "inviter": "U38KEPD62"
+        }, 
+        {
+            "text": "<@U4UH054CF>", 
+            "type": "message", 
+            "user": "U38KEPD62", 
+            "ts": "1493685134.084570"
+        }, 
+        {
+            "text": "<@U575ZG9U2|njg26crux> has joined the channel", 
+            "type": "message", 
+            "user": "U575ZG9U2", 
+            "ts": "1493684628.995236", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Hi <@U56GJCMGV> great foresight. Class will begin as scheduled tonight, although we do anticipate some traffic delays. <!channel> please feel welcome to arrive on campus slightly early if you anticipate difficulty with your transportation. If you know you\u2019re going to be late, a slack or an email is always appreciated, but given the circumstance tonight we can be a little bit flexible :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1VCJN4DC", 
+            "ts": "1493678424.633143"
+        }, 
+        {
+            "text": "<@U576DSH7E|xinranli> has joined the channel", 
+            "type": "message", 
+            "user": "U576DSH7E", 
+            "ts": "1493678209.561657", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1VCJN4DC> ... I just heard from my coworker that there are some protests/rallies happening or will happen today in Seattle ... will that impact the scheduled class for today?", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1493676378.895295"
+        }, 
+        {
+            "text": "<@U56SS1QHY|kellyh6> has joined the channel", 
+            "type": "message", 
+            "user": "U56SS1QHY", 
+            "ts": "1493649258.206234", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U56S1PPEZ|danielpetereit> has joined the channel", 
+            "type": "message", 
+            "user": "U56S1PPEZ", 
+            "ts": "1493609606.889700", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U57G6AU94|melinda> has joined the channel", 
+            "type": "message", 
+            "user": "U57G6AU94", 
+            "ts": "1493589479.644037", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U56LE2R5Y|carlyreiter> has joined the channel", 
+            "type": "message", 
+            "user": "U56LE2R5Y", 
+            "ts": "1493566602.049228", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U561Y9MA5|brianjames> has joined the channel", 
+            "type": "message", 
+            "user": "U561Y9MA5", 
+            "ts": "1493522837.201387", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U56K43NTX|samueltomoiaga> has joined the channel", 
+            "type": "message", 
+            "user": "U56K43NTX", 
+            "ts": "1493483457.804557", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U56HRAW1J|ablack> has joined the channel", 
+            "type": "message", 
+            "user": "U56HRAW1J", 
+            "ts": "1493482230.544424", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WFM80C9|rogerschmidt> has joined the channel", 
+            "ts": "1493482090.514481", 
+            "subtype": "channel_join", 
+            "user": "U1WFM80C9", 
+            "type": "message", 
+            "inviter": "U1VCJN4DC"
+        }, 
+        {
+            "text": "<@U38KEPD62|scotthurlow> has joined the channel", 
+            "ts": "1493482088.514095", 
+            "subtype": "channel_join", 
+            "user": "U38KEPD62", 
+            "type": "message", 
+            "inviter": "U1VCJN4DC"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VCJN4DC"
+                    ]
+                }
+            ], 
+            "text": "Thank you <@U1VCJN4DC> ", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1493432931.775374"
+        }, 
+        {
+            "text": "<@U56GJCMGV|kanchan> has joined the channel", 
+            "type": "message", 
+            "user": "U56GJCMGV", 
+            "ts": "1493432890.767429", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U56CXCTGA|jacobulrich> has joined the channel", 
+            "type": "message", 
+            "user": "U56CXCTGA", 
+            "ts": "1493422362.702757", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U44AXSS0Z|mltan4> has joined the channel", 
+            "ts": "1493421638.558315", 
+            "subtype": "channel_join", 
+            "user": "U44AXSS0Z", 
+            "type": "message", 
+            "inviter": "U1VCJN4DC"
+        }, 
+        {
+            "text": "<@U56E8G0LC|anhtrieu> has joined the channel", 
+            "type": "message", 
+            "user": "U56E8G0LC", 
+            "ts": "1493421593.549352", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U38KEPD62>", 
+            "type": "message", 
+            "user": "U1VCJN4DC", 
+            "ts": "1493421021.431081"
+        }, 
+        {
+            "text": "<@U1WFM80C9>", 
+            "type": "message", 
+            "user": "U1VCJN4DC", 
+            "ts": "1493421014.429448"
+        }, 
+        {
+            "text": "<@U1VCJN4DC|laurenlark> set the channel purpose: Web Development Foundations in JavaScript", 
+            "ts": "1491327641.292765", 
+            "subtype": "channel_purpose", 
+            "user": "U1VCJN4DC", 
+            "type": "message", 
+            "purpose": "Web Development Foundations in JavaScript"
+        }, 
+        {
+            "text": "<@U1VCJN4DC|laurenlark> has joined the channel", 
+            "type": "message", 
+            "user": "U1VCJN4DC", 
+            "ts": "1491327641.292508", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "17-02-ws-sea-jf", 
+        "name": "17-02-ws-sea-jf", 
+        "is_channel": true, 
+        "created": 1491327641, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1VCJN4DC", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1491327641, 
+            "value": "Web Development Foundations in JavaScript", 
+            "creator": "U1VCJN4DC"
+        }, 
+        "members": [
+            "U1VCJN4DC", 
+            "U1WFM80C9", 
+            "U2ED0MZ7Y", 
+            "U35LTDGP7", 
+            "U38KEPD62", 
+            "U3R05SAHW", 
+            "U43MC4933", 
+            "U44AXSS0Z", 
+            "U56E8G0LC", 
+            "U56GJCMGV", 
+            "U56HRAW1J", 
+            "U56K43NTX", 
+            "U56LE2R5Y", 
+            "U56S1PPEZ", 
+            "U56SS1QHY", 
+            "U576DSH7E", 
+            "U579G28E9", 
+            "U57EVLR8T", 
+            "U57G6AU94", 
+            "U580D74PQ", 
+            "U580UDQAJ", 
+            "U58H8BB2A", 
+            "U5BJR2HV1"
+        ], 
+        "id": "C4V21V3P0", 
+        "is_shared": false
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "messages": [
+        {
+            "text": "Thanks, Frank! I'll be late this (Tuesday) morning because of a doctors appointment. Hoping to be at Galvanize before before 11:30am. :nerd_face:", 
+            "type": "message", 
+            "user": "U4PK1JBB9", 
+            "ts": "1496126835.703416"
+        }, 
+        {
+            "text": "No prob Jen.  Nice proposal by the way.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1495813599.259868"
+        }, 
+        {
+            "text": "I'm on my way in - had some health issues this morning and am running late. :flushed:", 
+            "type": "message", 
+            "user": "U4PK1JBB9", 
+            "ts": "1495811935.457157"
+        }, 
+        {
+            "username": "jenwaller", 
+            "display_as_bot": false, 
+            "text": "<@U4PK1JBB9|jenwaller> uploaded a file: <https://gstudents.slack.com/files/jenwaller/F5GMA82D6/jennifer_waller_capstone_proposal.pdf|Hello! Proposal is attached.>", 
+            "upload": true, 
+            "ts": "1495639346.213040", 
+            "subtype": "file_share", 
+            "user": "U4PK1JBB9", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5GMA82D6", 
+                "size": 480481, 
+                "title": "Hello! Proposal is attached.", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5GMA82D6/jennifer_waller_capstone_proposal.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495639346, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5GMA82D6/download/jennifer_waller_capstone_proposal.pdf", 
+                "user": "U4PK1JBB9", 
+                "groups": [
+                    "G58QG5BMY"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "Jennifer_Waller_capstone_proposal.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5GMA82D6-ecdcc30ead", 
+                "permalink": "https://gstudents.slack.com/files/jenwaller/F5GMA82D6/jennifer_waller_capstone_proposal.pdf", 
+                "is_external": false, 
+                "created": 1495639346, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1493916189, 
+            "value": "Group messaging", 
+            "creator": "U4PK1JBB9"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--jenwaller-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--jenwaller-1", 
+        "last_read": "1496126835.703416", 
+        "creator": "U4PK1JBB9", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1493916189, 
+        "is_group": true, 
+        "members": [
+            "U4PK1JBB9", 
+            "U33BKEP9Q", 
+            "U34BY2K3K", 
+            "U1Z90HJG3", 
+            "U1WHHHQ7N"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1493916189, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky @jenwaller", 
+            "creator": "U4PK1JBB9"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G58QG5BMY", 
+        "latest": {
+            "text": "Thanks, Frank! I'll be late this (Tuesday) morning because of a doctors appointment. Hoping to be at Galvanize before before 11:30am. :nerd_face:", 
+            "type": "message", 
+            "user": "U4PK1JBB9", 
+            "ts": "1496126835.703416"
+        }
+    }
+}

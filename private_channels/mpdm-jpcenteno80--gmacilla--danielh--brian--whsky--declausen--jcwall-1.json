@@ -1,0 +1,67 @@
+{
+    "messages": [
+        {
+            "text": ":slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U34A9NM7H", 
+            "ts": "1486744294.000005"
+        }, 
+        {
+            "text": "it was good while it lasted.", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1486744164.000004"
+        }, 
+        {
+            "text": "oops.  We're split!", 
+            "type": "message", 
+            "user": "U34A9NM7H", 
+            "ts": "1486743591.000003"
+        }, 
+        {
+            "text": "Hello Team SparkML!", 
+            "type": "message", 
+            "user": "U34A9NM7H", 
+            "ts": "1486743441.000002"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1486743375, 
+            "value": "Group messaging", 
+            "creator": "U34A9NM7H"
+        }, 
+        "name_normalized": "mpdm-jpcenteno80--gmacilla--danielh--brian--whsky--declausen--jcwall-1", 
+        "name": "mpdm-jpcenteno80--gmacilla--danielh--brian--whsky--declausen--jcwall-1", 
+        "last_read": "1486744294.000005", 
+        "creator": "U34A9NM7H", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1486743375, 
+        "is_group": true, 
+        "members": [
+            "U34A9NM7H", 
+            "U2LDP07RN", 
+            "U34BY2K3K", 
+            "U2LUDE27J", 
+            "U3E2TDR2B", 
+            "U3ANAHFHQ", 
+            "U32PAG2TB"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1486743375, 
+            "value": "Group messaging with: @jpcenteno80 @gmacilla @danielh @brian @whsky @declausen @jcwall", 
+            "creator": "U34A9NM7H"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G43V4R87N", 
+        "latest": {
+            "text": ":slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U34A9NM7H", 
+            "ts": "1486744294.000005"
+        }
+    }
+}

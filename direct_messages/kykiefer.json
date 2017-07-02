@@ -1,0 +1,108 @@
+{
+    "messages": [
+        {
+            "text": "cool", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497906192.852627"
+        }, 
+        {
+            "text": "en route", 
+            "type": "message", 
+            "user": "U39J8B4LT", 
+            "ts": "1497906185.850370"
+        }, 
+        {
+            "text": "I have comments on your poster, if you want to come by the classroom if it's convenient...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497906175.847048"
+        }, 
+        {
+            "username": "kykiefer", 
+            "display_as_bot": false, 
+            "text": "<@U39J8B4LT|kykiefer> uploaded a file: <https://gstudents.slack.com/files/kykiefer/F5W1F07U2/ky_kiefer_depression_detect_poster.pdf|ky_kiefer_depression_detect_poster.pdf>", 
+            "upload": true, 
+            "ts": "1497895573.123644", 
+            "subtype": "file_share", 
+            "user": "U39J8B4LT", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5W1F07U2", 
+                "size": 3534300, 
+                "title": "ky_kiefer_depression_detect_poster.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5W1F07U2/ky_kiefer_depression_detect_poster.pdf", 
+                "ims": [
+                    "D5NTRFS0G"
+                ], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1497895571, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5W1F07U2/download/ky_kiefer_depression_detect_poster.pdf", 
+                "user": "U39J8B4LT", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "ky_kiefer_depression_detect_poster.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5W1F07U2-bfb95ecd49", 
+                "permalink": "https://gstudents.slack.com/files/kykiefer/F5W1F07U2/ky_kiefer_depression_detect_poster.pdf", 
+                "is_external": false, 
+                "created": 1497895571, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://stackoverflow.com/questions/15777836/how-to-install-scipy-on-ec2-server>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497557272.218193", 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+                    "thumb_width": 316, 
+                    "title": "How to install Scipy on ec2 server", 
+                    "text": "I'm getting stuck on installing scipy on ec2. So I was trying to get the file to download, and it shows the following errors. What am I missing? Thanks so much! Really newbie here to working with r...", 
+                    "title_link": "https://stackoverflow.com/questions/15777836/how-to-install-scipy-on-ec2-server", 
+                    "service_name": "stackoverflow.com", 
+                    "id": 1, 
+                    "fallback": "How to install Scipy on ec2 server", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+                    "from_url": "https://stackoverflow.com/questions/15777836/how-to-install-scipy-on-ec2-server"
+                }
+            ]
+        }, 
+        {
+            "text": "On the 4th floor if you still need help", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497556162.842236"
+        }, 
+        {
+            "text": "thanks...ya i've been referencing that quite a bit :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U39J8B4LT", 
+            "ts": "1496776213.926383"
+        }, 
+        {
+            "text": "In case you haven't seen this already, this blog post has some good specifics for CNNs with audio spectrograms:\n<http://yerevann.github.io/2015/10/11/spoken-language-identification-with-deep-convolutional-networks/>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496776184.916234"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U39J8B4LT", 
+            "U34BY2K3K"
+        ]
+    }
+}

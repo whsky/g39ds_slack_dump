@@ -1,0 +1,921 @@
+{
+    "messages": [
+        {
+            "text": "There's a happy hour, if you want some free food! Come early if you want!", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1497571480.670961"
+        }, 
+        {
+            "username": "david", 
+            "display_as_bot": false, 
+            "text": "<@U32B53ZAA|david> uploaded a file: <https://gstudents.slack.com/files/david/F5TBDCU72/large_object_example.txt|Large object example>", 
+            "upload": true, 
+            "ts": "1497492862.661720", 
+            "subtype": "file_share", 
+            "user": "U32B53ZAA", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 24, 
+                "channels": [
+                    "C5LKV0FS6"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5TBDCU72", 
+                "size": 873, 
+                "title": "Large object example", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5TBDCU72/large_object_example.txt", 
+                "ims": [], 
+                "preview": "var library = {\r\n    city: \"San Francisco\",\r\n    name: \"SF Public\",\r\n    bestBook: {\r\n            title: \"JavaScript for Dummies\",\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/david/F5TBDCU72/large_object_example.txt/edit", 
+                "username": "", 
+                "timestamp": 1497492861, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5TBDCU72/download/large_object_example.txt", 
+                "user": "U32B53ZAA", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "Large_object_example.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5TBDCU72-8614dedbb0", 
+                "permalink": "https://gstudents.slack.com/files/david/F5TBDCU72/large_object_example.txt", 
+                "is_external": false, 
+                "created": 1497492861, 
+                "lines": 29, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>var library = {</pre></div>\n<div><pre>    city: &quot;San Francisco&quot;,</pre></div>\n<div><pre>    name: &quot;SF Public&quot;,</pre></div>\n<div><pre>    bestBook: {</pre></div>\n<div><pre>            title: &quot;JavaScript for Dummies&quot;,</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "david", 
+            "display_as_bot": false, 
+            "text": "<@U32B53ZAA|david> uploaded a file: <https://gstudents.slack.com/files/david/F5TECEHC1/warmup_solution.txt|Warmup solution> and commented: This sorts numbers accurately. How would we manipulate the string to place single digit numbers into one array and double digit numbers into another array?", 
+            "upload": true, 
+            "ts": "1497492754.648793", 
+            "subtype": "file_share", 
+            "user": "U32B53ZAA", 
+            "file": {
+                "initial_comment": {
+                    "comment": "This sorts numbers accurately. How would we manipulate the string to place single digit numbers into one array and double digit numbers into another array?", 
+                    "created": 1497492754, 
+                    "timestamp": 1497492754, 
+                    "is_intro": true, 
+                    "user": "U32B53ZAA", 
+                    "id": "Fc5URT83JT"
+                }, 
+                "filetype": "text", 
+                "lines_more": 10, 
+                "channels": [
+                    "C5LKV0FS6"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5TECEHC1", 
+                "size": 411, 
+                "title": "Warmup solution", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5TECEHC1/warmup_solution.txt", 
+                "ims": [], 
+                "preview": " var numbers = [1, 4, 8, 14, 17];\r\n\r\nfunction separate(array){\r\n  var singleDigits = [];\r\n  var doubleDigits = [];\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/david/F5TECEHC1/warmup_solution.txt/edit", 
+                "username": "", 
+                "timestamp": 1497492754, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5TECEHC1/download/warmup_solution.txt", 
+                "user": "U32B53ZAA", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "Warmup_solution.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5TECEHC1-5da6e4ca05", 
+                "permalink": "https://gstudents.slack.com/files/david/F5TECEHC1/warmup_solution.txt", 
+                "is_external": false, 
+                "created": 1497492754, 
+                "lines": 15, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre> var numbers = [1, 4, 8, 14, 17];</pre></div>\n<div><pre></pre></div>\n<div><pre>function separate(array){</pre></div>\n<div><pre>  var singleDigits = [];</pre></div>\n<div><pre>  var doubleDigits = [];</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Warmup: Take this array [1, 4, 8, 13, 17] and sort it into 2 arrays. One array containing single digit numbers and the second array containing double digit numbers.", 
+            "type": "message", 
+            "user": "U32B53ZAA", 
+            "ts": "1497488653.148114"
+        }, 
+        {
+            "text": "Check out the updated syllabus and read about tonight\u2019s class project assignment for Class 6: <https://github.com/gSchool/intro-to-js-workshop-phx>", 
+            "type": "message", 
+            "user": "U32B53ZAA", 
+            "ts": "1497406013.519589"
+        }, 
+        {
+            "text": "Warmup: Find the taxes due on a list of items sold. Your company\u2019s accountant needs the tax due for each item sold individually and the tax rate is 8%", 
+            "type": "message", 
+            "user": "U32B53ZAA", 
+            "ts": "1497402339.038807"
+        }, 
+        {
+            "text": "Hey Meryl, I\u2019ll be there today at 5. Thanks!", 
+            "type": "message", 
+            "user": "U5L51FZC2", 
+            "ts": "1497379829.326854"
+        }, 
+        {
+            "text": "I'll be there!", 
+            "type": "message", 
+            "user": "U5P5ZNA2Z", 
+            "ts": "1497378412.790797"
+        }, 
+        {
+            "text": "I'll pop in tomorrow, since I have the class at 6 anyway.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1497302826.345482"
+        }, 
+        {
+            "text": "<!channel> *\u201cCrush the Take Home\u201d* will be on campus from 5pm - 6pm on Tuesday, 6/13/17.\n\nThis is for anyone who needs to complete their take home challenge for the admissions process. Chris Huie will be providing guidance in this tutoring session specifically around the take home challenge needed skills.  Please let me know if you will be attending.", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1497302477.244380"
+        }, 
+        {
+            "text": "The spec for #6 in tonight\u2019s exercises has been corrected. Run \u2018git pull\u2019 again", 
+            "type": "message", 
+            "user": "U32B53ZAA", 
+            "ts": "1496978015.448688"
+        }, 
+        {
+            "text": "And before you start on today\u2019s class exercise, navigate to the \u2018intro-to-js-workshop-phx\u2019 folder in your terminal, type the command \u2018git pull\u2019 and press enter", 
+            "type": "message", 
+            "user": "U32B53ZAA", 
+            "ts": "1496971140.634249"
+        }, 
+        {
+            "text": "Warmup: Working alone or in pairs, write a function that takes two (x, y) pairs as parameters and finds the slope of the line that connects them.", 
+            "type": "message", 
+            "user": "U32B53ZAA", 
+            "ts": "1496970009.481921"
+        }, 
+        {
+            "username": "sdickscheid", 
+            "display_as_bot": false, 
+            "text": "<@U5P5ZNA2Z|sdickscheid> uploaded a file: <https://gstudents.slack.com/files/sdickscheid/F5QE3LX98/variable_scope_example.txt|Variable Scope Example> and commented: to review", 
+            "upload": true, 
+            "ts": "1496888964.105558", 
+            "subtype": "file_share", 
+            "user": "U5P5ZNA2Z", 
+            "file": {
+                "initial_comment": {
+                    "comment": "to review", 
+                    "created": 1496888964, 
+                    "timestamp": 1496888964, 
+                    "is_intro": true, 
+                    "user": "U5P5ZNA2Z", 
+                    "id": "Fc5PPWG94G"
+                }, 
+                "filetype": "text", 
+                "lines_more": 3, 
+                "channels": [
+                    "C5LKV0FS6"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5QE3LX98", 
+                "size": 114, 
+                "title": "Variable Scope Example", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5QE3LX98/variable_scope_example.txt", 
+                "ims": [], 
+                "preview": "var x = 5;\r\n\r\nfunction addSumStuff(num1) {\r\n\tvar sum = num1 + x;\r\n\treturn sum;\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/sdickscheid/F5QE3LX98/variable_scope_example.txt/edit", 
+                "username": "", 
+                "timestamp": 1496888964, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5QE3LX98/download/variable_scope_example.txt", 
+                "user": "U5P5ZNA2Z", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "Variable_Scope_Example.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5QE3LX98-91643f8691", 
+                "permalink": "https://gstudents.slack.com/files/sdickscheid/F5QE3LX98/variable_scope_example.txt", 
+                "is_external": false, 
+                "created": 1496888964, 
+                "lines": 8, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>var x = 5;</pre></div>\n<div><pre></pre></div>\n<div><pre>function addSumStuff(num1) {</pre></div>\n<div><pre>    var sum = num1 + x;</pre></div>\n<div><pre>    return sum;</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Also, here's a few videos (more to come, I'm sure) about git and github. <https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496848164.637810", 
+            "attachments": [
+                {
+                    "thumb_height": 94, 
+                    "service_icon": "https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico", 
+                    "thumb_width": 168, 
+                    "title": "Git &amp; GitHub Tutorial for Beginners - YouTube", 
+                    "service_name": "YouTube", 
+                    "title_link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR", 
+                    "text": "Hey gang, in this Git &amp; GitHub tutorial series I'll explain why you need to be using Git &amp; GitHub in your development workflow and how to do it from the grou...", 
+                    "id": 1, 
+                    "fallback": "YouTube: Git &amp; GitHub Tutorial for Beginners - YouTube", 
+                    "thumb_url": "https://i.ytimg.com/vi/3RjQznt-8kE/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ex6mxEEdBCG7X0YvWaAa4qoffjA", 
+                    "from_url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> Here's a ton of great resources that will help you learn and research alongside what we give you!", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496805244.135279"
+        }, 
+        {
+            "text": "<https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496805193.130008", 
+            "attachments": [
+                {
+                    "thumb_height": 94, 
+                    "service_icon": "https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico", 
+                    "thumb_width": 168, 
+                    "title": "JavaScript Tutorials for Beginners - YouTube", 
+                    "service_name": "YouTube", 
+                    "title_link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET", 
+                    "text": "Go from zero to ninjas in this JavaScript for Beginners complete tutorial playlist. In this playlist we'll start with the basics - what is JavaScript, how do...", 
+                    "id": 1, 
+                    "fallback": "YouTube: JavaScript Tutorials for Beginners - YouTube", 
+                    "thumb_url": "https://i.ytimg.com/vi/qoSksQ4s_hg/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=h3jiU7NT_I6ojRO4krKBoolLx7A", 
+                    "from_url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496805177.128372", 
+            "attachments": [
+                {
+                    "thumb_height": 94, 
+                    "service_icon": "https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico", 
+                    "thumb_width": 168, 
+                    "title": "Web Development Tutorials For Beginners - YouTube", 
+                    "service_name": "YouTube", 
+                    "title_link": "https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc", 
+                    "text": "If you're wanting to learn web development and learn web dev fast, this is your place! I'll cover overviews of each piece of technology and how to put it all...", 
+                    "id": 1, 
+                    "fallback": "YouTube: Web Development Tutorials For Beginners - YouTube", 
+                    "thumb_url": "https://i.ytimg.com/vi/3JluqTojuME/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4YgWTU58qs6769hiiVyBiSPOSbQ", 
+                    "from_url": "https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.youtube.com/watch?v=vEROU2XtPR8>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496805168.127460", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/TechGuyWeb", 
+                    "service_name": "YouTube", 
+                    "title": "JavaScript Fundamentals For Beginners", 
+                    "video_html_height": 225, 
+                    "author_name": "Traversy Media", 
+                    "title_link": "https://www.youtube.com/watch?v=vEROU2XtPR8", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/vEROU2XtPR8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: JavaScript Fundamentals For Beginners", 
+                    "thumb_url": "https://i.ytimg.com/vi/vEROU2XtPR8/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=vEROU2XtPR8"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.packtpub.com/books/content/primitive-data-types-variables-and-operators-object-oriented-javascript>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496805158.126457", 
+            "attachments": [
+                {
+                    "title": "Primitive Data Types, Variables, and  Operators in  | PACKT Books", 
+                    "text": "Primitive Data Types, Variables, and Operators in Object-Oriented JavaScript written by Stoyan Stefanov: one of the many articles from Packt Publishing", 
+                    "title_link": "https://www.packtpub.com/books/content/primitive-data-types-variables-and-operators-object-oriented-javascript", 
+                    "service_name": "packtpub.com", 
+                    "id": 1, 
+                    "fallback": "Primitive Data Types, Variables, and  Operators in  | PACKT Books", 
+                    "service_icon": "http://d1ldz4te4covpm.cloudfront.net/misc/favicon.ico", 
+                    "from_url": "https://www.packtpub.com/books/content/primitive-data-types-variables-and-operators-object-oriented-javascript"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.sitepoint.com/beginners-guide-javascript-variables-and-datatypes/>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496805144.124862", 
+            "attachments": [
+                {
+                    "image_bytes": 21645, 
+                    "ts": 1485892847, 
+                    "title": "A Beginner's Guide to JavaScript Variables and Datatypes \u2014 SitePoint", 
+                    "service_name": "SitePoint", 
+                    "image_width": 250, 
+                    "title_link": "https://www.sitepoint.com/beginners-guide-javascript-variables-and-datatypes/", 
+                    "image_height": 250, 
+                    "image_url": "https://www.sitepoint.com/wp-content/themes/sitepoint/assets/images/icon.javascript.png", 
+                    "text": "Get a solid understanding of the language from first principles, as Tania Rascia explains the basics of JavaScript variables and datatypes.", 
+                    "id": 1, 
+                    "fallback": "SitePoint: A Beginner's Guide to JavaScript Variables and Datatypes \u2014 SitePoint", 
+                    "service_icon": "https://www.sitepoint.com/wp-content/themes/sitepoint/assets/images/apple-touch-icon-57x57-precomposed.png", 
+                    "from_url": "https://www.sitepoint.com/beginners-guide-javascript-variables-and-datatypes/"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496800574.587521", 
+            "attachments": [
+                {
+                    "thumb_height": 600, 
+                    "service_icon": "https://developer.cdn.mozilla.net/static/img/favicon144.a6e4162070f4.png", 
+                    "thumb_width": 600, 
+                    "title": "String.prototype.split()", 
+                    "service_name": "Mozilla Developer Network", 
+                    "title_link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split", 
+                    "text": "The split() method splits a String object into an array of strings by separating the string into substrings.", 
+                    "id": 1, 
+                    "fallback": "Mozilla Developer Network: String.prototype.split()", 
+                    "thumb_url": "https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png", 
+                    "from_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse?v=example>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496800553.584749", 
+            "attachments": [
+                {
+                    "thumb_height": 600, 
+                    "service_icon": "https://developer.cdn.mozilla.net/static/img/favicon144.a6e4162070f4.png", 
+                    "thumb_width": 600, 
+                    "title": "Array.prototype.reverse()", 
+                    "service_name": "Mozilla Developer Network", 
+                    "title_link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse?v=example", 
+                    "text": "The reverse() method reverses an array in place. The first array element becomes the last, and the last array element becomes the first.", 
+                    "id": 1, 
+                    "fallback": "Mozilla Developer Network: Array.prototype.reverse()", 
+                    "thumb_url": "https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png", 
+                    "from_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse?v=example"
+                }
+            ]
+        }, 
+        {
+            "text": "We\u2019ll discuss this in depth during class", 
+            "type": "message", 
+            "user": "U32B53ZAA", 
+            "ts": "1496794648.807744"
+        }, 
+        {
+            "text": "Check out the course syllabus here: <https://github.com/gSchool/intro-to-js-workshop-phx>", 
+            "type": "message", 
+            "user": "U32B53ZAA", 
+            "ts": "1496794641.806708"
+        }, 
+        {
+            "text": "Thank you! :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U5NCUJLN4", 
+            "ts": "1496728161.260442"
+        }, 
+        {
+            "text": "<!channel>", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496721669.591180"
+        }, 
+        {
+            "username": "john.armbruster", 
+            "display_as_bot": false, 
+            "text": "<@U3MB79VMG|john.armbruster> uploaded a file: <https://gstudents.slack.com/files/john.armbruster/F5PU2H4BG/javascriptforkids.pdf|JavaScriptforKids.pdf>", 
+            "upload": true, 
+            "ts": "1496721665.590697", 
+            "subtype": "file_share", 
+            "user": "U3MB79VMG", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C5LKV0FS6"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5PU2H4BG", 
+                "size": 10739221, 
+                "title": "JavaScriptforKids.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5PU2H4BG/javascriptforkids.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1496721663, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5PU2H4BG/download/javascriptforkids.pdf", 
+                "user": "U3MB79VMG", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "JavaScriptforKids.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5PU2H4BG-fb339000bd", 
+                "permalink": "https://gstudents.slack.com/files/john.armbruster/F5PU2H4BG/javascriptforkids.pdf", 
+                "is_external": false, 
+                "created": 1496721663, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "sdickscheid", 
+            "display_as_bot": false, 
+            "text": "<@U5P5ZNA2Z|sdickscheid> uploaded a file: <https://gstudents.slack.com/files/sdickscheid/F5P74PZ0D/html-cheat-sheet.pdf|html-cheat-sheet.pdf> and commented: Cool HTML 5 Code Reference Sheet", 
+            "upload": true, 
+            "ts": "1496721316.553194", 
+            "subtype": "file_share", 
+            "user": "U5P5ZNA2Z", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Cool HTML 5 Code Reference Sheet", 
+                    "created": 1496721316, 
+                    "timestamp": 1496721316, 
+                    "is_intro": true, 
+                    "user": "U5P5ZNA2Z", 
+                    "id": "Fc5PU1B1EJ"
+                }, 
+                "filetype": "pdf", 
+                "channels": [
+                    "C5LKV0FS6"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5P74PZ0D", 
+                "size": 654740, 
+                "title": "html-cheat-sheet.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5P74PZ0D/html-cheat-sheet.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1496721316, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5P74PZ0D/download/html-cheat-sheet.pdf", 
+                "user": "U5P5ZNA2Z", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "html-cheat-sheet.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5P74PZ0D-cab65a4117", 
+                "permalink": "https://gstudents.slack.com/files/sdickscheid/F5P74PZ0D/html-cheat-sheet.pdf", 
+                "is_external": false, 
+                "created": 1496721316, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "david", 
+            "display_as_bot": false, 
+            "text": "<@U32B53ZAA|david> uploaded a file: <https://gstudents.slack.com/files/david/F5P71A8QM/style_css.txt|style.css>", 
+            "upload": true, 
+            "ts": "1496720310.451867", 
+            "subtype": "file_share", 
+            "user": "U32B53ZAA", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 0, 
+                "channels": [
+                    "C5LKV0FS6"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5P71A8QM", 
+                "size": 32, 
+                "title": "style.css", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5P71A8QM/style_css.txt", 
+                "ims": [], 
+                "preview": ".greeting {\r\n  color: blue;\r\n}\r\n", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/david/F5P71A8QM/style_css.txt/edit", 
+                "username": "", 
+                "timestamp": 1496720310, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5P71A8QM/download/style_css.txt", 
+                "user": "U32B53ZAA", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "style_css.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5P71A8QM-b78370fcce", 
+                "permalink": "https://gstudents.slack.com/files/david/F5P71A8QM/style_css.txt", 
+                "is_external": false, 
+                "created": 1496720310, 
+                "lines": 4, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>.greeting {</pre></div>\n<div><pre>  color: blue;</pre></div>\n<div><pre>}</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "david", 
+            "display_as_bot": false, 
+            "text": "<@U32B53ZAA|david> uploaded a file: <https://gstudents.slack.com/files/david/F5NGYVDC1/main_html.txt|main.html>", 
+            "upload": true, 
+            "ts": "1496720291.450014", 
+            "subtype": "file_share", 
+            "user": "U32B53ZAA", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 8, 
+                "channels": [
+                    "C5LKV0FS6"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5NGYVDC1", 
+                "size": 222, 
+                "title": "main.html", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5NGYVDC1/main_html.txt", 
+                "ims": [], 
+                "preview": "<html>\r\n  <head>\r\n    <meta charset=\"utf-8\">\r\n    <title>Hello world!</title>\r\n    <link rel=\"stylesheet\" href=\"style.css\">\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/david/F5NGYVDC1/main_html.txt/edit", 
+                "username": "", 
+                "timestamp": 1496720291, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5NGYVDC1/download/main_html.txt", 
+                "user": "U32B53ZAA", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "main_html.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5NGYVDC1-6aba83ac39", 
+                "permalink": "https://gstudents.slack.com/files/david/F5NGYVDC1/main_html.txt", 
+                "is_external": false, 
+                "created": 1496720291, 
+                "lines": 13, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&lt;html&gt;</pre></div>\n<div><pre>  &lt;head&gt;</pre></div>\n<div><pre>    &lt;meta charset=&quot;utf-8&quot;&gt;</pre></div>\n<div><pre>    &lt;title&gt;Hello world!&lt;/title&gt;</pre></div>\n<div><pre>    &lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot;&gt;</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Those are some commands that you can use in your terminal to navigate around and do things.", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496717957.206161"
+        }, 
+        {
+            "text": "<!channel> ^^^^^^^^^", 
+            "type": "message", 
+            "user": "U3MB79VMG", 
+            "ts": "1496717928.203149"
+        }, 
+        {
+            "text": "Heres is the Unix command \n<https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html>", 
+            "type": "message", 
+            "user": "U55NXF8UA", 
+            "ts": "1496717605.167752"
+        }, 
+        {
+            "text": "touch -&gt; Used to create files inside of directories.", 
+            "type": "message", 
+            "user": "U32B53ZAA", 
+            "ts": "1496717597.166868"
+        }, 
+        {
+            "text": "Good starter list of terminal commands:\n\ncd -&gt; Used to navigate the directories. You can move to any location by path.\nls -&gt; Used to list folder contents. You can view many kinds of file and folder attributes.\ncp -&gt; Copy files.\nmv -&gt; Move files.\nmkdir -&gt; Create directories.", 
+            "type": "message", 
+            "user": "U32B53ZAA", 
+            "ts": "1496717573.164194"
+        }, 
+        {
+            "text": "slaughterdan23 (already accepted invite)", 
+            "type": "message", 
+            "user": "U5L0D3W3A", 
+            "ts": "1496712371.557394"
+        }, 
+        {
+            "text": "reese22adamonis", 
+            "type": "message", 
+            "user": "U5PSQBNVD", 
+            "ts": "1496712355.555605"
+        }, 
+        {
+            "text": "github : BayAreaLeaves", 
+            "type": "message", 
+            "user": "U4NUV30UA", 
+            "ts": "1496712335.553198"
+        }, 
+        {
+            "text": "Nekrocake", 
+            "type": "message", 
+            "user": "U5P3T3T1B", 
+            "ts": "1496712330.552678"
+        }, 
+        {
+            "text": "chrisjannenga", 
+            "type": "message", 
+            "user": "U5LV42GBB", 
+            "ts": "1496712330.552618"
+        }, 
+        {
+            "text": "richardjones", 
+            "type": "message", 
+            "user": "U5L51FZC2", 
+            "ts": "1496712296.548286"
+        }, 
+        {
+            "text": "da8en2", 
+            "type": "message", 
+            "user": "U5NPA32FM", 
+            "ts": "1496712286.547167"
+        }, 
+        {
+            "text": "kylebarker", 
+            "type": "message", 
+            "user": "U5MDK6YSV", 
+            "ts": "1496712277.546056"
+        }, 
+        {
+            "text": "github: smckain96", 
+            "type": "message", 
+            "user": "U5NCUJLN4", 
+            "ts": "1496712275.545819"
+        }, 
+        {
+            "text": "nataliedespain", 
+            "type": "message", 
+            "user": "U5LUBVA2H", 
+            "ts": "1496712274.545750"
+        }, 
+        {
+            "text": "<@U4NUV30UA|thomaselkins> has joined the channel", 
+            "ts": "1496711464.445296", 
+            "subtype": "channel_join", 
+            "user": "U4NUV30UA", 
+            "type": "message", 
+            "inviter": "U3MB79VMG"
+        }, 
+        {
+            "text": "<@U5P5ZNA2Z|sdickscheid> has joined the channel", 
+            "type": "message", 
+            "user": "U5P5ZNA2Z", 
+            "ts": "1496711364.432464", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5PSQBNVD|reese22adamonis> has joined the channel", 
+            "ts": "1496711337.429164", 
+            "subtype": "channel_join", 
+            "user": "U5PSQBNVD", 
+            "type": "message", 
+            "inviter": "U3MB79VMG"
+        }, 
+        {
+            "text": "<@U5LUBVA2H|nataliedespain> has joined the channel", 
+            "ts": "1496711309.425690", 
+            "subtype": "channel_join", 
+            "user": "U5LUBVA2H", 
+            "type": "message", 
+            "inviter": "U3MB79VMG"
+        }, 
+        {
+            "text": "<@U5NCUJLN4|sam_mckain> has joined the channel", 
+            "type": "message", 
+            "user": "U5NCUJLN4", 
+            "ts": "1496710336.293101", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5P3T3T1B|tamiswigart> has joined the channel", 
+            "type": "message", 
+            "user": "U5P3T3T1B", 
+            "ts": "1496698709.167319", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5NPA32FM|dan_en> has joined the channel", 
+            "type": "message", 
+            "user": "U5NPA32FM", 
+            "ts": "1496682781.667831", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5MDK6YSV|kyle_barker> has joined the channel", 
+            "type": "message", 
+            "user": "U5MDK6YSV", 
+            "ts": "1496427912.644906", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5LV42GBB|chrisjannenga> has joined the channel", 
+            "type": "message", 
+            "user": "U5LV42GBB", 
+            "ts": "1496360814.238131", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5LPV8QAX|justinphx> has joined the channel", 
+            "ts": "1496339584.980283", 
+            "subtype": "channel_join", 
+            "user": "U5LPV8QAX", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U5L51FZC2|richardjones> has joined the channel", 
+            "ts": "1496339584.980260", 
+            "subtype": "channel_join", 
+            "user": "U5L51FZC2", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U5L51FZC2> <@U5LPV8QAX>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1496339581.979365"
+        }, 
+        {
+            "text": "<@U32B53ZAA|david> has joined the channel", 
+            "ts": "1496255023.655356", 
+            "subtype": "channel_join", 
+            "user": "U32B53ZAA", 
+            "type": "message", 
+            "inviter": "U3MB79VMG"
+        }, 
+        {
+            "text": "<@U5L0D3W3A|danslaughter> has joined the channel", 
+            "type": "message", 
+            "user": "U5L0D3W3A", 
+            "ts": "1496253661.153598", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5BBM7308|maryjanefrafjord> has joined the channel", 
+            "ts": "1496253373.038686", 
+            "subtype": "channel_join", 
+            "user": "U5BBM7308", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U55NXF8UA|mavpmp> has joined the channel", 
+            "ts": "1496253373.038655", 
+            "subtype": "channel_join", 
+            "user": "U55NXF8UA", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U55NXF8UA> <@U5BBM7308>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1496253369.037601"
+        }, 
+        {
+            "text": "<@U3FV9E35W|laraboogie> has joined the channel", 
+            "ts": "1496253168.961744", 
+            "subtype": "channel_join", 
+            "user": "U3FV9E35W", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U30UDCYF2|chrishuie> has joined the channel", 
+            "ts": "1496253168.961715", 
+            "subtype": "channel_join", 
+            "user": "U30UDCYF2", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U3MB79VMG|john.armbruster> has joined the channel", 
+            "ts": "1496253168.961635", 
+            "subtype": "channel_join", 
+            "user": "U3MB79VMG", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U1UUFQMED|nmuta> has joined the channel", 
+            "ts": "1496253168.961602", 
+            "subtype": "channel_join", 
+            "user": "U1UUFQMED", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U36F34RGA|merylkrich> set the channel purpose: Javascript Accelerated 6 5 17", 
+            "ts": "1496253168.961599", 
+            "subtype": "channel_purpose", 
+            "user": "U36F34RGA", 
+            "type": "message", 
+            "purpose": "Javascript Accelerated 6 5 17"
+        }, 
+        {
+            "text": "<@U36F34RGA|merylkrich> has joined the channel", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1496253167.961388", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "phx_jsa_jun17", 
+        "name": "phx_jsa_jun17", 
+        "is_channel": true, 
+        "created": 1496253167, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U36F34RGA", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1496253168, 
+            "value": "Javascript Accelerated 6 5 17", 
+            "creator": "U36F34RGA"
+        }, 
+        "members": [
+            "U1UUFQMED", 
+            "U30UDCYF2", 
+            "U32B53ZAA", 
+            "U36F34RGA", 
+            "U3FV9E35W", 
+            "U3MB79VMG", 
+            "U4NUV30UA", 
+            "U55NXF8UA", 
+            "U5BBM7308", 
+            "U5L0D3W3A", 
+            "U5L51FZC2", 
+            "U5LPV8QAX", 
+            "U5LUBVA2H", 
+            "U5LV42GBB", 
+            "U5MDK6YSV", 
+            "U5NCUJLN4", 
+            "U5NPA32FM", 
+            "U5P3T3T1B", 
+            "U5P5ZNA2Z", 
+            "U5PSQBNVD"
+        ], 
+        "id": "C5LKV0FS6", 
+        "is_shared": false
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "messages": [
+        {
+            "username": "billv", 
+            "display_as_bot": false, 
+            "text": "<@U4ETSRN2C|billv> uploaded a file: <https://gstudents.slack.com/files/billv/F5K41GFQA/bill_vander_lugt_-_new_capstone_proposal.pdf|Bill Vander Lugt - New Capstone Proposal.pdf> and commented: I'm very sorry to upset the apple cart, but I would like to switch my project to an idea that I had earlier abandoned as too ambitious, but which I now think is doable.  I will spend the rest of this holiday weekend digging deeper into it, so hopefully we can touch base sometime Tuesday to discuss its feasibility (or lack thereof).  Enjoy your holiday.", 
+            "upload": true, 
+            "ts": "1495996607.796753", 
+            "subtype": "file_share", 
+            "user": "U4ETSRN2C", 
+            "file": {
+                "initial_comment": {
+                    "comment": "I'm very sorry to upset the apple cart, but I would like to switch my project to an idea that I had earlier abandoned as too ambitious, but which I now think is doable.  I will spend the rest of this holiday weekend digging deeper into it, so hopefully we can touch base sometime Tuesday to discuss its feasibility (or lack thereof).  Enjoy your holiday.", 
+                    "created": 1495996607, 
+                    "timestamp": 1495996607, 
+                    "is_intro": true, 
+                    "user": "U4ETSRN2C", 
+                    "id": "Fc5K1W2GUB"
+                }, 
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5K41GFQA", 
+                "size": 94934, 
+                "title": "Bill Vander Lugt - New Capstone Proposal.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5K41GFQA/bill_vander_lugt_-_new_capstone_proposal.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495996607, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5K41GFQA/download/bill_vander_lugt_-_new_capstone_proposal.pdf", 
+                "user": "U4ETSRN2C", 
+                "groups": [
+                    "G5H4CG17E"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "Bill Vander Lugt - New Capstone Proposal.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5K41GFQA-97ca2c3f85", 
+                "permalink": "https://gstudents.slack.com/files/billv/F5K41GFQA/bill_vander_lugt_-_new_capstone_proposal.pdf", 
+                "is_external": false, 
+                "created": 1495996607, 
+                "pinned_to": [
+                    "D4FMS0T53"
+                ], 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "I am not on a computer for a bit so I bump it to <@U33BKEP9Q> or <@U34BY2K3K> ", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1495808070.628691"
+        }, 
+        {
+            "text": "Could you please release the solutions for today's sprint and for the NMF day in Week 6?  Thank you!", 
+            "type": "message", 
+            "user": "U4ETSRN2C", 
+            "ts": "1495769598.514055", 
+            "edited": {
+                "user": "U4ETSRN2C", 
+                "ts": "1495779312.000000"
+            }
+        }, 
+        {
+            "text": "Thanks Bill!", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1495586566.656980"
+        }, 
+        {
+            "username": "billv", 
+            "display_as_bot": false, 
+            "text": "<@U4ETSRN2C|billv> uploaded a file: <https://gstudents.slack.com/files/billv/F5H0SJFS7/bill_vander_lugt_proposal.pdf|Bill_Vander_Lugt_Proposal.pdf> and commented: I've got back-up ideas too, but am pretty confident I can get an MVP based on this project-- given the many ways I can simplify or complicate this one.", 
+            "upload": true, 
+            "ts": "1495584895.422304", 
+            "subtype": "file_share", 
+            "user": "U4ETSRN2C", 
+            "file": {
+                "initial_comment": {
+                    "comment": "I've got back-up ideas too, but am pretty confident I can get an MVP based on this project-- given the many ways I can simplify or complicate this one.", 
+                    "created": 1495584894, 
+                    "timestamp": 1495584894, 
+                    "is_intro": true, 
+                    "user": "U4ETSRN2C", 
+                    "id": "Fc5GFNLTGR"
+                }, 
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5H0SJFS7", 
+                "size": 63869, 
+                "title": "Bill_Vander_Lugt_Proposal.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5H0SJFS7/bill_vander_lugt_proposal.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "num_stars": 1, 
+                "timestamp": 1495584894, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5H0SJFS7/download/bill_vander_lugt_proposal.pdf", 
+                "user": "U4ETSRN2C", 
+                "groups": [
+                    "G5H4CG17E"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "Bill_Vander_Lugt_Proposal.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5H0SJFS7-13aa9fe572", 
+                "permalink": "https://gstudents.slack.com/files/billv/F5H0SJFS7/bill_vander_lugt_proposal.pdf", 
+                "is_external": false, 
+                "created": 1495584894, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1495584790, 
+            "value": "Group messaging", 
+            "creator": "U4ETSRN2C"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--billv-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--billv-1", 
+        "last_read": "1495996607.796753", 
+        "creator": "U4ETSRN2C", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1495584790, 
+        "is_group": true, 
+        "members": [
+            "U4ETSRN2C", 
+            "U1Z90HJG3", 
+            "U1WHHHQ7N", 
+            "U34BY2K3K", 
+            "U33BKEP9Q"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1495584790, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky @billv", 
+            "creator": "U4ETSRN2C"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5H4CG17E", 
+        "latest": {
+            "username": "billv", 
+            "display_as_bot": false, 
+            "text": "<@U4ETSRN2C|billv> uploaded a file: <https://gstudents.slack.com/files/billv/F5K41GFQA/bill_vander_lugt_-_new_capstone_proposal.pdf|Bill Vander Lugt - New Capstone Proposal.pdf> and commented: I'm very sorry to upset the apple cart, but I would like to switch my project to an idea that I had earlier abandoned as too ambitious, but which I now think is doable.  I will spend the rest of this holiday weekend digging deeper into it, so hopefully we can touch base sometime Tuesday to discuss its feasibility (or lack thereof).  Enjoy your holiday.", 
+            "upload": true, 
+            "ts": "1495996607.796753", 
+            "subtype": "file_share", 
+            "user": "U4ETSRN2C", 
+            "file": {
+                "initial_comment": {
+                    "comment": "I'm very sorry to upset the apple cart, but I would like to switch my project to an idea that I had earlier abandoned as too ambitious, but which I now think is doable.  I will spend the rest of this holiday weekend digging deeper into it, so hopefully we can touch base sometime Tuesday to discuss its feasibility (or lack thereof).  Enjoy your holiday.", 
+                    "created": 1495996607, 
+                    "timestamp": 1495996607, 
+                    "is_intro": true, 
+                    "user": "U4ETSRN2C", 
+                    "id": "Fc5K1W2GUB"
+                }, 
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5K41GFQA", 
+                "size": 94934, 
+                "title": "Bill Vander Lugt - New Capstone Proposal.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5K41GFQA/bill_vander_lugt_-_new_capstone_proposal.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495996607, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5K41GFQA/download/bill_vander_lugt_-_new_capstone_proposal.pdf", 
+                "user": "U4ETSRN2C", 
+                "groups": [
+                    "G5H4CG17E"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "Bill Vander Lugt - New Capstone Proposal.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5K41GFQA-97ca2c3f85", 
+                "permalink": "https://gstudents.slack.com/files/billv/F5K41GFQA/bill_vander_lugt_-_new_capstone_proposal.pdf", 
+                "is_external": false, 
+                "created": 1495996607, 
+                "pinned_to": [
+                    "D4FMS0T53"
+                ], 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    }
+}

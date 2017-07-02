@@ -1,0 +1,419 @@
+{
+    "messages": [
+        {
+            "text": "No stand-up today... we will sync individually throughout the morning", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1488558140.000040"
+        }, 
+        {
+            "text": "<http://scikit-learn.org/stable/modules/outlier_detection.html>", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1488316907.000039"
+        }, 
+        {
+            "text": "<http://matplotlib.org/basemap/users/examples.html>", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1488316664.000038"
+        }, 
+        {
+            "text": "we are in the lab", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1488315753.000037"
+        }, 
+        {
+            "text": "reminder that stand-up will be at 2.. I will be in around 1", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1488302883.000036"
+        }, 
+        {
+            "text": "The original ldavis paper provides a nice perspective for those of you interested\n<http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf>", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1488252216.000035"
+        }, 
+        {
+            "text": "Sounds good..", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1488220759.000034"
+        }, 
+        {
+            "text": "Hey team. I'm not feeling well and stayed home today. I should be back to good scrumming form tomorrow. ", 
+            "type": "message", 
+            "user": "U3ANAHFHQ", 
+            "ts": "1488212901.000033"
+        }, 
+        {
+            "username": "ajrichards", 
+            "display_as_bot": false, 
+            "text": "<@U1Z90HJG3|ajrichards> uploaded a file: <https://gstudents.slack.com/files/ajrichards/F4AHTLGTV/pasted_image_at_2017_02_23_10_47_am.png|Pasted image at 2017_02_23 10_47 AM.png> and commented: a rough schedule", 
+            "upload": true, 
+            "ts": "1488150760.000032", 
+            "subtype": "file_share", 
+            "user": "U1Z90HJG3", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "a rough schedule", 
+                    "created": 1488150757, 
+                    "timestamp": 1488150757, 
+                    "is_intro": true, 
+                    "user": "U1Z90HJG3", 
+                    "id": "Fc4ANF0XUM"
+                }, 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F4AHTLGTV-6fab84a1a8/pasted_image_at_2017_02_23_10_47_am_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4AHTLGTV-6fab84a1a8/pasted_image_at_2017_02_23_10_47_am_64.png", 
+                "size": 142360, 
+                "original_h": 932, 
+                "thumb_360_w": 360, 
+                "title": "Pasted image at 2017_02_23 10_47 AM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4AHTLGTV/pasted_image_at_2017_02_23_10_47_am.png", 
+                "thumb_720_h": 544, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4AHTLGTV-6fab84a1a8/pasted_image_at_2017_02_23_10_47_am_360.png", 
+                "id": "F4AHTLGTV", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4AHTLGTV-6fab84a1a8/pasted_image_at_2017_02_23_10_47_am_80.png", 
+                "comments_count": 1, 
+                "thumb_360_h": 272, 
+                "thumb_480_h": 363, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1488150757, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4AHTLGTV-6fab84a1a8/pasted_image_at_2017_02_23_10_47_am_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4AHTLGTV/download/pasted_image_at_2017_02_23_10_47_am.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F4AHTLGTV-6fab84a1a8/pasted_image_at_2017_02_23_10_47_am_1024.png", 
+                "user": "U1Z90HJG3", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F4AHTLGTV-6fab84a1a8/pasted_image_at_2017_02_23_10_47_am_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Pasted image at 2017_02_23 10_47 AM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4AHTLGTV-6d36e49688", 
+                "permalink": "https://gstudents.slack.com/files/ajrichards/F4AHTLGTV/pasted_image_at_2017_02_23_10_47_am.png", 
+                "is_external": false, 
+                "created": 1488150757, 
+                "thumb_1024_h": 773, 
+                "thumb_960_h": 725, 
+                "original_w": 1234, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F4AHTLGTV-6fab84a1a8/pasted_image_at_2017_02_23_10_47_am_720.png", 
+                "channels": [
+                    "C47Q1C0CX"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://issues.apache.org/jira/browse/SPARK-14489>", 
+            "type": "message", 
+            "user": "U3ANAHFHQ", 
+            "ts": "1487959538.000031"
+        }, 
+        {
+            "text": "Documentation about the ml.als bug.  I believe this affects the transform method.", 
+            "type": "message", 
+            "user": "U3ANAHFHQ", 
+            "ts": "1487959533.000030"
+        }, 
+        {
+            "username": "ajrichards", 
+            "display_as_bot": false, 
+            "text": "<@U1Z90HJG3|ajrichards> uploaded a file: <https://gstudents.slack.com/files/ajrichards/F4AQGCH0E/heatmap.py|Heatmap.py>", 
+            "upload": true, 
+            "ts": "1487956277.000029", 
+            "subtype": "file_share", 
+            "user": "U1Z90HJG3", 
+            "file": {
+                "filetype": "python", 
+                "lines_more": 305, 
+                "channels": [
+                    "C47Q1C0CX"
+                ], 
+                "display_as_bot": false, 
+                "id": "F4AQGCH0E", 
+                "size": 9312, 
+                "title": "Heatmap.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4AQGCH0E/heatmap.py", 
+                "ims": [], 
+                "preview": "#!/usr/bin/env python\n\"\"\"\nproduce a clustering heatmap\n\nhttp://docs.scipy.org/doc/scipy-0.14.0/reference/cluster.hierarchy.html", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/ajrichards/F4AQGCH0E/heatmap.py/edit", 
+                "username": "", 
+                "timestamp": 1487956276, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4AQGCH0E/download/heatmap.py", 
+                "user": "U1Z90HJG3", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Python", 
+                "name": "Heatmap.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4AQGCH0E-5283c390ff", 
+                "permalink": "https://gstudents.slack.com/files/ajrichards/F4AQGCH0E/heatmap.py", 
+                "is_external": false, 
+                "created": 1487956276, 
+                "lines": 310, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\">#!/usr/bin/env python</span></pre></div>\n<div><pre><span class=\"cm-string\">&quot;&quot;&quot;</span></pre></div>\n<div><pre><span class=\"cm-string\">produce a clustering heatmap</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-string\">http://docs.scipy.org/doc/scipy-0.14.0/reference/cluster.hierarchy.html</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Hey are we meeting the the lab at 9:30?", 
+            "type": "message", 
+            "user": "U34QVRJLB", 
+            "ts": "1487953716.000028"
+        }, 
+        {
+            "text": "Sounds good, thanks", 
+            "type": "message", 
+            "user": "U2LDP07RN", 
+            "ts": "1487867000.000027"
+        }, 
+        {
+            "text": "We will still do our stand-up and <@U2LDP07RN> we can sync after", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1487866983.000026"
+        }, 
+        {
+            "text": "Hi, I'm running late this morning. I think I'll be there between 9:45 and 10.", 
+            "type": "message", 
+            "user": "U2LDP07RN", 
+            "ts": "1487864514.000025"
+        }, 
+        {
+            "text": "Scrum at 11.  I have to do an interview", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1487780658.000024"
+        }, 
+        {
+            "text": "GitHub capstone project repo: <https://github.com/declausen/capstone_project>", 
+            "type": "message", 
+            "user": "U3ANAHFHQ", 
+            "ts": "1487705363.000022", 
+            "attachments": [
+                {
+                    "title": "GitHub - declausen/capstone_project", 
+                    "text": "Contribute to capstone_project development by creating an account on GitHub.", 
+                    "title_link": "https://github.com/declausen/capstone_project", 
+                    "service_name": "github.com", 
+                    "id": 1, 
+                    "fallback": "GitHub - declausen/capstone_project", 
+                    "service_icon": "https://assets-cdn.github.com/favicon.ico", 
+                    "from_url": "https://github.com/declausen/capstone_project"
+                }
+            ]
+        }, 
+        {
+            "text": "Probably could use a better name than News App but it's a start", 
+            "type": "message", 
+            "user": "U3AQUNZPX", 
+            "ts": "1487703651.000021"
+        }, 
+        {
+            "text": "Github project page - <https://github.com/scottmsul/News-App>", 
+            "type": "message", 
+            "user": "U3AQUNZPX", 
+            "ts": "1487703626.000019", 
+            "attachments": [
+                {
+                    "title": "GitHub - scottmsul/News-App: A web app which looks for disagreements in the news", 
+                    "text": "News-App - A web app which looks for disagreements in the news", 
+                    "title_link": "https://github.com/scottmsul/News-App", 
+                    "service_name": "github.com", 
+                    "id": 1, 
+                    "fallback": "GitHub - scottmsul/News-App: A web app which looks for disagreements in the news", 
+                    "service_icon": "https://assets-cdn.github.com/favicon.ico", 
+                    "from_url": "https://github.com/scottmsul/News-App"
+                }
+            ]
+        }, 
+        {
+            "text": "JP Centeno GitHub Project Page: <https://github.com/jpcenteno80/document_image_classification>", 
+            "type": "message", 
+            "user": "U2LDP07RN", 
+            "ts": "1487699754.000017", 
+            "attachments": [
+                {
+                    "title": "GitHub - jpcenteno80/document_image_classification: OCR and enhanced text recognition using a neural network to classify large volume of documents in image files", 
+                    "text": "document_image_classification - OCR and enhanced text recognition using a neural network to classify large volume of documents in image files", 
+                    "title_link": "https://github.com/jpcenteno80/document_image_classification", 
+                    "service_name": "github.com", 
+                    "id": 1, 
+                    "fallback": "GitHub - jpcenteno80/document_image_classification: OCR and enhanced text recognition using a neural network to classify large volume of documents in image files", 
+                    "service_icon": "https://assets-cdn.github.com/favicon.ico", 
+                    "from_url": "https://github.com/jpcenteno80/document_image_classification"
+                }
+            ]
+        }, 
+        {
+            "text": "The notebook in this repo shows how to use LDA-Viz\n<https://github.com/zipfian/live_coding>", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1487699667.000015", 
+            "edited": {
+                "user": "U1Z90HJG3", 
+                "ts": "1487699684.000000"
+            }
+        }, 
+        {
+            "text": "Scrums at 9:30AM unless we decide otherwise.", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1487699115.000014"
+        }, 
+        {
+            "text": "Github Repo: <https://github.com/brendan-drew/County-Medicare-Spending>", 
+            "type": "message", 
+            "user": "U34QVRJLB", 
+            "ts": "1487698323.000012", 
+            "attachments": [
+                {
+                    "title": "GitHub - brendan-drew/County-Medicare-Spending: Analysis of Medicare Spending at the County Level", 
+                    "text": "County-Medicare-Spending - Analysis of Medicare Spending at the County Level", 
+                    "title_link": "https://github.com/brendan-drew/County-Medicare-Spending", 
+                    "service_name": "github.com", 
+                    "id": 1, 
+                    "fallback": "GitHub - brendan-drew/County-Medicare-Spending: Analysis of Medicare Spending at the County Level", 
+                    "service_icon": "https://assets-cdn.github.com/favicon.ico", 
+                    "from_url": "https://github.com/brendan-drew/County-Medicare-Spending"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U205HNSAV|neilbezdek> has joined the channel", 
+            "ts": "1487353806.000011", 
+            "subtype": "channel_join", 
+            "user": "U205HNSAV", 
+            "type": "message", 
+            "inviter": "U1Z90HJG3"
+        }, 
+        {
+            "text": "<@U33MWHP0D|sbs205c5> has joined the channel", 
+            "ts": "1487353806.000010", 
+            "subtype": "channel_join", 
+            "user": "U33MWHP0D", 
+            "type": "message", 
+            "inviter": "U1Z90HJG3"
+        }, 
+        {
+            "text": "<@U1YRGUYH0|kaylathomas> has joined the channel", 
+            "ts": "1487353806.000009", 
+            "subtype": "channel_join", 
+            "user": "U1YRGUYH0", 
+            "type": "message", 
+            "inviter": "U1Z90HJG3"
+        }, 
+        {
+            "text": "<@U3AQUNZPX|scottmsul> has joined the channel", 
+            "ts": "1487353806.000008", 
+            "subtype": "channel_join", 
+            "user": "U3AQUNZPX", 
+            "type": "message", 
+            "inviter": "U1Z90HJG3"
+        }, 
+        {
+            "text": "<@U3ANAHFHQ|declausen> has joined the channel", 
+            "ts": "1487353806.000007", 
+            "subtype": "channel_join", 
+            "user": "U3ANAHFHQ", 
+            "type": "message", 
+            "inviter": "U1Z90HJG3"
+        }, 
+        {
+            "text": "<@U2LUDE27J|gmacilla> has joined the channel", 
+            "ts": "1487353806.000006", 
+            "subtype": "channel_join", 
+            "user": "U2LUDE27J", 
+            "type": "message", 
+            "inviter": "U1Z90HJG3"
+        }, 
+        {
+            "text": "<@U34QVRJLB|brendan_drew> has joined the channel", 
+            "ts": "1487353806.000005", 
+            "subtype": "channel_join", 
+            "user": "U34QVRJLB", 
+            "type": "message", 
+            "inviter": "U1Z90HJG3"
+        }, 
+        {
+            "text": "<@U2LDP07RN|jpcenteno80> has joined the channel", 
+            "ts": "1487353805.000004", 
+            "subtype": "channel_join", 
+            "user": "U2LDP07RN", 
+            "type": "message", 
+            "inviter": "U1Z90HJG3"
+        }, 
+        {
+            "text": "<@U1Z90HJG3|ajrichards> set the channel purpose: organize the scrum team", 
+            "ts": "1487353805.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1Z90HJG3", 
+            "type": "message", 
+            "purpose": "organize the scrum team"
+        }, 
+        {
+            "text": "<@U1Z90HJG3|ajrichards> has joined the channel", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1487353805.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "den6-scrummage", 
+        "name": "den6-scrummage", 
+        "is_channel": true, 
+        "created": 1487353805, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1Z90HJG3", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1487353806, 
+            "value": "organize the scrum team", 
+            "creator": "U1Z90HJG3"
+        }, 
+        "members": [
+            "U1YRGUYH0", 
+            "U1Z90HJG3", 
+            "U205HNSAV", 
+            "U2LDP07RN", 
+            "U2LUDE27J", 
+            "U33MWHP0D", 
+            "U34QVRJLB", 
+            "U3ANAHFHQ", 
+            "U3AQUNZPX"
+        ], 
+        "id": "C47Q1C0CX", 
+        "is_shared": false
+    }
+}

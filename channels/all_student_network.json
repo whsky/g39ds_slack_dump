@@ -1,0 +1,1091 @@
+{
+    "messages": [
+        {
+            "text": "<@U5LV42GBB|chrisjannenga> has joined the channel", 
+            "type": "message", 
+            "user": "U5LV42GBB", 
+            "ts": "1498582107.177696", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5V3UAALB|maryk> has left the channel", 
+            "type": "message", 
+            "user": "U5V3UAALB", 
+            "ts": "1498497810.384812", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U41PHLSJW|fcfreyre> has left the channel", 
+            "type": "message", 
+            "user": "U41PHLSJW", 
+            "ts": "1498493472.804347", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U34TA50NQ|wadere> has left the channel", 
+            "type": "message", 
+            "user": "U34TA50NQ", 
+            "ts": "1498319820.866945", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U4JRWQXD2|rohanvahalia> has left the channel", 
+            "type": "message", 
+            "user": "U4JRWQXD2", 
+            "ts": "1498229060.285067", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3SC52Y04|tayroberts7> has left the channel", 
+            "type": "message", 
+            "user": "U3SC52Y04", 
+            "ts": "1497722063.659572", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U5V3UAALB|maryk> has joined the channel", 
+            "type": "message", 
+            "user": "U5V3UAALB", 
+            "ts": "1497646503.221264", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3NMFC8JX|tomgarrison> has left the channel", 
+            "type": "message", 
+            "user": "U3NMFC8JX", 
+            "ts": "1497531204.335752", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3UNLV865|tgodfrey> has left the channel", 
+            "type": "message", 
+            "user": "U3UNLV865", 
+            "ts": "1497320493.965200", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U4FK10F99|d4> has left the channel", 
+            "type": "message", 
+            "user": "U4FK10F99", 
+            "ts": "1497071234.054307", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U4HRVTMD3|tylerkeesling> has joined the channel", 
+            "type": "message", 
+            "user": "U4HRVTMD3", 
+            "ts": "1496259394.598311", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4JBZGQUB|roxy.baldwin> has joined the channel", 
+            "type": "message", 
+            "user": "U4JBZGQUB", 
+            "ts": "1496259389.596408", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U58AAL11T|renaissance> has joined the channel", 
+            "type": "message", 
+            "user": "U58AAL11T", 
+            "ts": "1496259376.591974", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3LB06KT2|matthewalbrecht> has left the channel", 
+            "type": "message", 
+            "user": "U3LB06KT2", 
+            "ts": "1494864246.627028", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U31UTK4GM>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1491423581.816604"
+        }, 
+        {
+            "text": "<@U2QGMF4NB|rphillips4417> has left the channel", 
+            "type": "message", 
+            "user": "U2QGMF4NB", 
+            "ts": "1491418715.478772", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3NHAUUAJ|johng585> has left the channel", 
+            "type": "message", 
+            "user": "U3NHAUUAJ", 
+            "ts": "1491418019.270671", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3N4AHF5L|tom-con> has left the channel", 
+            "type": "message", 
+            "user": "U3N4AHF5L", 
+            "ts": "1491417899.234206", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3100JZUY|lnamba> has joined the channel", 
+            "ts": "1491417219.029676", 
+            "subtype": "channel_join", 
+            "user": "U3100JZUY", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U3100JZUY>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1491417216.028662"
+        }, 
+        {
+            "text": "<@U36F34RGA|merylkrich> has joined the channel", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1491349263.474146", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2ZE04V5X|haleykalb> has joined the channel", 
+            "type": "message", 
+            "user": "U2ZE04V5X", 
+            "ts": "1491317784.077810", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3NMFC8JX|tomgarrison> has joined the channel", 
+            "type": "message", 
+            "user": "U3NMFC8JX", 
+            "ts": "1491317682.042939", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2P556JHZ|ninjames> has joined the channel", 
+            "type": "message", 
+            "user": "U2P556JHZ", 
+            "ts": "1491235411.273921", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U43F8KF9C|jordandoig> has left the channel", 
+            "type": "message", 
+            "user": "U43F8KF9C", 
+            "ts": "1490910805.010249", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "If you no longer wish to participate, you can opt out at any time by leaving this channel. It\u2019s best to do this before a new pairing. Thanks!", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1490909733.787981"
+        }, 
+        {
+            "text": "<!channel> The 2nd pairing will happen on Monday, April 3 at 10:00am MT\n\nFeel free to DM me or post feedback, share experiences, etc.", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1490905576.744655", 
+            "edited": {
+                "user": "U1TTQUYEQ", 
+                "ts": "1490905588.000000"
+            }
+        }, 
+        {
+            "text": "<@U3SC52Y04|tayroberts7> has joined the channel", 
+            "type": "message", 
+            "user": "U3SC52Y04", 
+            "ts": "1490630197.064268", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2AP9MP5H|laura-b> has left the channel", 
+            "type": "message", 
+            "user": "U2AP9MP5H", 
+            "ts": "1490624157.140777", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U2HB2RJR1|tvanmaren> has left the channel", 
+            "type": "message", 
+            "user": "U2HB2RJR1", 
+            "ts": "1490594418.940384", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "thread_ts": "1490045281.783760", 
+            "edited": {
+                "user": "U1TTQUYEQ", 
+                "ts": "1490587398.000000"
+            }, 
+            "text": "<@U4FK10F99> <#C3E89J6RG|denver_students> may be the best place to post that question.", 
+            "ts": "1490587386.425182", 
+            "user": "U1TTQUYEQ", 
+            "parent_user_id": "U4FK10F99", 
+            "type": "message"
+        }, 
+        {
+            "text": "added an integration to this channel: <https://gstudents.slack.com/services/B4P8N4F6D|github>", 
+            "ts": "1490587021.396820", 
+            "subtype": "bot_add", 
+            "user": "U4L823ZG9", 
+            "type": "message", 
+            "bot_id": "B4P8N4F6D"
+        }, 
+        {
+            "text": "<@U34TA50NQ|wadere> has joined the channel", 
+            "type": "message", 
+            "user": "U34TA50NQ", 
+            "ts": "1490394401.086787", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2ZV30EKY|egranato> has left the channel", 
+            "type": "message", 
+            "user": "U2ZV30EKY", 
+            "ts": "1490393948.024284", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3MLWJQT0|jenniferwiner> has joined the channel", 
+            "type": "message", 
+            "user": "U3MLWJQT0", 
+            "ts": "1490371717.509436", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1YBJPJM9|fraida> has joined the channel", 
+            "type": "message", 
+            "user": "U1YBJPJM9", 
+            "ts": "1490134267.789618", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3ZF44MT9|nick_mckendry> has joined the channel", 
+            "type": "message", 
+            "user": "U3ZF44MT9", 
+            "ts": "1490132092.332401", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4KFPC4PR|lindacall> has joined the channel", 
+            "type": "message", 
+            "user": "U4KFPC4PR", 
+            "ts": "1490049975.665953", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "thread_ts": "1490045281.783760", 
+            "subscribed": false, 
+            "text": "Denver question: Does any know if the south platte river trail is open all the way up to 38th street (for bikes). I know there has been some construction closure.", 
+            "ts": "1490045281.783760", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U4FK10F99", 
+            "replies": [
+                {
+                    "user": "U1TTQUYEQ", 
+                    "ts": "1490587386.425182"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "I am excited to hear your feedback at the end of this first pairing! Thanks for joining Galvanizers.", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1490036349.479260"
+        }, 
+        {
+            "text": "Yes! Definitely! I\u2019m really shy when meeting new people face to face and I felt this is a great opportunity for me to me new people!", 
+            "type": "message", 
+            "user": "U3MMZBDM5", 
+            "ts": "1490036071.400370", 
+            "attachments": [
+                {
+                    "footer": "Posted in #all_student_network", 
+                    "channel_id": "C3ZPZFB7F", 
+                    "color": "D0D0D0", 
+                    "text": "Greetings all! Are you guys as stoked as I am to start this thing?!?", 
+                    "author_link": "https://gstudents.slack.com/team/sirwilliamiii", 
+                    "ts": "1490032347.330721", 
+                    "author_name": "Will Carpenter", 
+                    "is_share": true, 
+                    "channel_name": "all_student_network", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "sirwilliamiii", 
+                    "fallback": "[March 20th, 2017 11:52 AM] sirwilliamiii: Greetings all! Are you guys as stoked as I am to start this thing?!?", 
+                    "author_icon": "https://secure.gravatar.com/avatar/c5a6c37d09dbf8d62373093f9d1c9d76.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0013-48.png", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/C3ZPZFB7F/p1490032347330721"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U4FK10F99|d4> has joined the channel", 
+            "type": "message", 
+            "user": "U4FK10F99", 
+            "ts": "1490032461.364879", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Greetings all! Are you guys as stoked as I am to start this thing?!?", 
+            "type": "message", 
+            "user": "U4L823ZG9", 
+            "ts": "1490032347.330721"
+        }, 
+        {
+            "text": "<@U4L823ZG9|sirwilliamiii> has joined the channel", 
+            "type": "message", 
+            "user": "U4L823ZG9", 
+            "ts": "1490032187.282713", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3K3KB12P|warandoates> has joined the channel", 
+            "type": "message", 
+            "user": "U3K3KB12P", 
+            "ts": "1490032003.227298", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Everyone should have received a private message from donut with their their first networking partner! Enjoy &amp; please post any questions you might have.", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1490027342.796416"
+        }, 
+        {
+            "text": "<@U3MU3V24W|emilyringoen> has joined the channel", 
+            "type": "message", 
+            "user": "U3MU3V24W", 
+            "ts": "1490026435.509071", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3ME5LH1B|rhysgoehring> has joined the channel", 
+            "type": "message", 
+            "user": "U3ME5LH1B", 
+            "ts": "1490026230.450926", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3SHG81GR|djamesjones4> has left the channel", 
+            "type": "message", 
+            "user": "U3SHG81GR", 
+            "ts": "1489966771.417632", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3PQYCL87|jet2016> has joined the channel", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1489957525.963119", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3SM7D51Q|tkahn> has joined the channel", 
+            "type": "message", 
+            "user": "U3SM7D51Q", 
+            "ts": "1489864536.624912", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C3ZPZFB7F", 
+                    "text": "Galvanize staff - Please make sure you have admin access to gStudents slack in order to avoid being paired.", 
+                    "author_link": "https://gstudents.slack.com/team/kelly.kawa", 
+                    "ts": "1488401855.000002", 
+                    "author_name": "\ud83d\udc3eKelly Kawa", 
+                    "channel_name": "all_student_network", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "kelly.kawa", 
+                    "fallback": "[March 1st, 2017 1:57 PM] kelly.kawa: Galvanize staff - Please make sure you have admin access to gStudents slack in order to avoid being paired.", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-05-31/191475486470_d8f67638837eb001680d_48.jpg", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U1TTQUYEQ|kelly.kawa> pinned a message to this channel.", 
+            "ts": "1489851501.976345", 
+            "subtype": "pinned_item", 
+            "user": "U1TTQUYEQ", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U3RD2LJAG|gflauta> has joined the channel", 
+            "type": "message", 
+            "user": "U3RD2LJAG", 
+            "ts": "1489846303.735227", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2APAU2D9|ohendrick1223> has joined the channel", 
+            "type": "message", 
+            "user": "U2APAU2D9", 
+            "ts": "1489796683.033069", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3NCECYLR|zfsang> has joined the channel", 
+            "type": "message", 
+            "user": "U3NCECYLR", 
+            "ts": "1489786855.924926", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3P69HJKZ|kh_anita> has joined the channel", 
+            "type": "message", 
+            "user": "U3P69HJKZ", 
+            "ts": "1489781432.795939", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2HB2RJR1|tvanmaren> has joined the channel", 
+            "type": "message", 
+            "user": "U2HB2RJR1", 
+            "ts": "1489769280.572317", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2QG3S5GS|emilef> has joined the channel", 
+            "type": "message", 
+            "user": "U2QG3S5GS", 
+            "ts": "1489768792.433902", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2QGMF4NB|rphillips4417> has joined the channel", 
+            "type": "message", 
+            "user": "U2QGMF4NB", 
+            "ts": "1489768713.412033", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2AP9MP5H|laura-b> has joined the channel", 
+            "type": "message", 
+            "user": "U2AP9MP5H", 
+            "ts": "1489768683.403569", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2LDP07RN|jpcenteno80> has joined the channel", 
+            "type": "message", 
+            "user": "U2LDP07RN", 
+            "ts": "1489768044.218657", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3KKM9MKM|rnjeri> has joined the channel", 
+            "type": "message", 
+            "user": "U3KKM9MKM", 
+            "ts": "1489767886.172151", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4JRWQXD2|rohanvahalia> has joined the channel", 
+            "type": "message", 
+            "user": "U4JRWQXD2", 
+            "ts": "1489767829.155800", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3P9DUWJY|adamszabunio> has joined the channel", 
+            "type": "message", 
+            "user": "U3P9DUWJY", 
+            "ts": "1489767752.132972", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W181QD9|isaac_miller> has joined the channel", 
+            "type": "message", 
+            "user": "U1W181QD9", 
+            "ts": "1489767622.096370", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3NHAUUAJ|johng585> has joined the channel", 
+            "type": "message", 
+            "user": "U3NHAUUAJ", 
+            "ts": "1489767580.084401", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3R05SAHW|doubleshot> has joined the channel", 
+            "type": "message", 
+            "user": "U3R05SAHW", 
+            "ts": "1489767558.078104", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3KANEQ13|mary> has joined the channel", 
+            "type": "message", 
+            "user": "U3KANEQ13", 
+            "ts": "1489767551.075731", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U496BBFQ9|skumar> has joined the channel", 
+            "type": "message", 
+            "user": "U496BBFQ9", 
+            "ts": "1489663496.277879", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1Z9D27QD|tara.mclauchlan> has left the channel", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1489606422.421407", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3GKBMBPS|maripqz> has joined the channel", 
+            "type": "message", 
+            "user": "U3GKBMBPS", 
+            "ts": "1489444653.993930", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2PMM23M5|brianlee> has joined the channel", 
+            "type": "message", 
+            "user": "U2PMM23M5", 
+            "ts": "1489425965.241374", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3M0XV866|alexkrawiec> has joined the channel", 
+            "type": "message", 
+            "user": "U3M0XV866", 
+            "ts": "1489425631.139666", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3RBFD5GC|alexandratoo> has joined the channel", 
+            "type": "message", 
+            "user": "U3RBFD5GC", 
+            "ts": "1489421548.878607", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2XA3K1FG|jeffh> has joined the channel", 
+            "type": "message", 
+            "user": "U2XA3K1FG", 
+            "ts": "1489417809.665081", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2H7HTVKR|caspeter> has joined the channel", 
+            "type": "message", 
+            "user": "U2H7HTVKR", 
+            "ts": "1489416389.209007", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4F44DR33|meganbultema> has joined the channel", 
+            "type": "message", 
+            "user": "U4F44DR33", 
+            "ts": "1489379712.752184", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3QMPQ2RE|joshua.warren> has joined the channel", 
+            "type": "message", 
+            "user": "U3QMPQ2RE", 
+            "ts": "1489368398.981258", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2ZBQPZJ9|mjeffs> has joined the channel", 
+            "type": "message", 
+            "user": "U2ZBQPZJ9", 
+            "ts": "1489364445.742166", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U23FBQ8UQ|vijeth> has joined the channel", 
+            "type": "message", 
+            "user": "U23FBQ8UQ", 
+            "ts": "1489361185.582814", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3GD4QSGG|lihua> has joined the channel", 
+            "type": "message", 
+            "user": "U3GD4QSGG", 
+            "ts": "1489358601.460608", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3UNLV865|tgodfrey> has joined the channel", 
+            "type": "message", 
+            "user": "U3UNLV865", 
+            "ts": "1489358345.448437", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3EQ2NHSS|zoe_richards> has joined the channel", 
+            "type": "message", 
+            "user": "U3EQ2NHSS", 
+            "ts": "1489357409.403653", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2ZV30EKY|egranato> has joined the channel", 
+            "type": "message", 
+            "user": "U2ZV30EKY", 
+            "ts": "1489357159.391531", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3KF3S6N6|louis_antweiler> has joined the channel", 
+            "type": "message", 
+            "user": "U3KF3S6N6", 
+            "ts": "1489356891.378702", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2MLAC3JL|ikobdk> has joined the channel", 
+            "type": "message", 
+            "user": "U2MLAC3JL", 
+            "ts": "1489356305.349444", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3Z7JPZTP|ghetto_geek> has joined the channel", 
+            "type": "message", 
+            "user": "U3Z7JPZTP", 
+            "ts": "1489355836.324523", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2H8HKLTE|rally.jinx> has joined the channel", 
+            "type": "message", 
+            "user": "U2H8HKLTE", 
+            "ts": "1489355789.322218", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3N4AHF5L|tom-con> has joined the channel", 
+            "type": "message", 
+            "user": "U3N4AHF5L", 
+            "ts": "1489355670.316467", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2GJVA6P4|jordan> has joined the channel", 
+            "type": "message", 
+            "user": "U2GJVA6P4", 
+            "ts": "1489355344.300502", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U37J19K62|prakhar> has joined the channel", 
+            "type": "message", 
+            "user": "U37J19K62", 
+            "ts": "1489354936.281518", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3NGA49SR|vince.kumar> has joined the channel", 
+            "type": "message", 
+            "user": "U3NGA49SR", 
+            "ts": "1489354918.280601", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3KA2HGDD|jeffmli> has joined the channel", 
+            "type": "message", 
+            "user": "U3KA2HGDD", 
+            "ts": "1489353953.233587", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3LB06KT2|matthewalbrecht> has joined the channel", 
+            "type": "message", 
+            "user": "U3LB06KT2", 
+            "ts": "1489353327.203298", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3LJRBXTK|144> has joined the channel", 
+            "type": "message", 
+            "user": "U3LJRBXTK", 
+            "ts": "1489352866.180255", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3S7KBRT3|robotsintheattic> has joined the channel", 
+            "type": "message", 
+            "user": "U3S7KBRT3", 
+            "ts": "1489352440.157558", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2PKX5VNX|daniel.marc.gardner> has joined the channel", 
+            "type": "message", 
+            "user": "U2PKX5VNX", 
+            "ts": "1489351258.098780", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2JNP2NLE|xchau> has joined the channel", 
+            "type": "message", 
+            "user": "U2JNP2NLE", 
+            "ts": "1489350695.070909", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2ZHQL4GM|bzhawaii> has joined the channel", 
+            "type": "message", 
+            "user": "U2ZHQL4GM", 
+            "ts": "1489350635.067828", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3VQTDDS5|molly.b> has joined the channel", 
+            "type": "message", 
+            "user": "U3VQTDDS5", 
+            "ts": "1489348673.968161", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3EK8AHSB|chenzhih03> has joined the channel", 
+            "type": "message", 
+            "user": "U3EK8AHSB", 
+            "ts": "1489348665.967785", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3MMZBDM5|graciechristineli> has joined the channel", 
+            "type": "message", 
+            "user": "U3MMZBDM5", 
+            "ts": "1489348463.957840", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3MC1HJPJ|dariadesiderata> has joined the channel", 
+            "type": "message", 
+            "user": "U3MC1HJPJ", 
+            "ts": "1489348030.936601", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3K9NKWE8|tkstang> has joined the channel", 
+            "type": "message", 
+            "user": "U3K9NKWE8", 
+            "ts": "1489347760.923179", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2MM19XFC|jamiesonbates> has joined the channel", 
+            "type": "message", 
+            "user": "U2MM19XFC", 
+            "ts": "1489347648.917814", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4B699Z7D|caroline> has joined the channel", 
+            "type": "message", 
+            "user": "U4B699Z7D", 
+            "ts": "1489347401.905847", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3GEBV00H|etownbetty> has joined the channel", 
+            "type": "message", 
+            "user": "U3GEBV00H", 
+            "ts": "1489347379.904835", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<!channel> Welcome! The first student pairing will take place on Monday, March 20 at 10:00am MT and change every 2 weeks.", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1489347353.903496"
+        }, 
+        {
+            "text": "<@U3SHG81GR|djamesjones4> has joined the channel", 
+            "type": "message", 
+            "user": "U3SHG81GR", 
+            "ts": "1489346417.859120", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3KHPRKE1|rpd> has joined the channel", 
+            "type": "message", 
+            "user": "U3KHPRKE1", 
+            "ts": "1488996766.049156", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1UCBDAMN|teb> has joined the channel", 
+            "type": "message", 
+            "user": "U1UCBDAMN", 
+            "ts": "1488592050.000011", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3HCN3R34|paolacl> has joined the channel", 
+            "type": "message", 
+            "user": "U3HCN3R34", 
+            "ts": "1488589297.000010", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U41PHLSJW|fcfreyre> has joined the channel", 
+            "type": "message", 
+            "user": "U41PHLSJW", 
+            "ts": "1488471629.000009", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2M645VPG|tristannica> has joined the channel", 
+            "type": "message", 
+            "user": "U2M645VPG", 
+            "ts": "1488471501.000008", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U43F8KF9C|jordandoig> has joined the channel", 
+            "type": "message", 
+            "user": "U43F8KF9C", 
+            "ts": "1488471457.000007", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3YESQ4RE|jperryman> has joined the channel", 
+            "type": "message", 
+            "user": "U3YESQ4RE", 
+            "ts": "1488471262.000006", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Oh okay! Thanks !!", 
+            "type": "message", 
+            "user": "U365TCNH3", 
+            "ts": "1488404902.000005"
+        }, 
+        {
+            "text": "<@U365TCNH3> Pairing hasn\u2019t officially begun yet. That was a test so hold tight!", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1488403675.000004"
+        }, 
+        {
+            "text": "I am a student and was paired with a staff member a few days ago. Is it possible to be re-paired? :)", 
+            "type": "message", 
+            "user": "U365TCNH3", 
+            "ts": "1488401935.000003"
+        }, 
+        {
+            "text": "Galvanize staff - Please make sure you have admin access to gStudents slack in order to avoid being paired.", 
+            "pinned_to": [
+                "C3ZPZFB7F"
+            ], 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1488401855.000002"
+        }, 
+        {
+            "text": "<@U23MJ5E3E|olitreadwell> has joined the channel", 
+            "type": "message", 
+            "user": "U23MJ5E3E", 
+            "ts": "1487705981.000003", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3Z6NCR|scott.miller> has left the channel", 
+            "type": "message", 
+            "user": "U1W3Z6NCR", 
+            "ts": "1487692722.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U365TCNH3|jng> has joined the channel", 
+            "type": "message", 
+            "user": "U365TCNH3", 
+            "ts": "1487041026.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3Z6NCR|scott.miller> has joined the channel", 
+            "ts": "1486414541.000004", 
+            "subtype": "channel_join", 
+            "user": "U1W3Z6NCR", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U2JQYPPTN|brad.miller> has joined the channel", 
+            "ts": "1486414541.000003", 
+            "subtype": "channel_join", 
+            "user": "U2JQYPPTN", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U3Q82DWV9|mororke> has joined the channel", 
+            "type": "message", 
+            "user": "U3Q82DWV9", 
+            "ts": "1486408891.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> set the channel topic: Donut Integration allowing students to connect with one another across all Galvanize campuses. Participants will be paired with one another every 4 weeks. ", 
+            "ts": "1485987923.000009", 
+            "topic": "Donut Integration allowing students to connect with one another across all Galvanize campuses. Participants will be paired with one another every 4 weeks. ", 
+            "subtype": "channel_topic", 
+            "user": "U1TTQUYEQ", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U3Z1D4TAM|donut> has joined the channel", 
+            "ts": "1485985062.000008", 
+            "subtype": "channel_join", 
+            "user": "U3Z1D4TAM", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U1Z9D27QD|tara.mclauchlan> has joined the channel", 
+            "ts": "1485985003.000007", 
+            "subtype": "channel_join", 
+            "user": "U1Z9D27QD", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U2F9JJWAU|jessicacox> has joined the channel", 
+            "ts": "1485985003.000006", 
+            "subtype": "channel_join", 
+            "user": "U2F9JJWAU", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U1TU3PLMB|katieparker> has joined the channel", 
+            "ts": "1485985003.000005", 
+            "subtype": "channel_join", 
+            "user": "U1TU3PLMB", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> has joined the channel", 
+            "ts": "1485985003.000004", 
+            "subtype": "channel_join", 
+            "user": "U3F1AHRHT", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> set the channel purpose: Donut Integration allowing students to connect with one another across all Galvanize campuses", 
+            "ts": "1485985003.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1TTQUYEQ", 
+            "type": "message", 
+            "purpose": "Donut Integration allowing students to connect with one another across all Galvanize campuses"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> has joined the channel", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1485985002.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1485987923, 
+            "value": "Donut Integration allowing students to connect with one another across all Galvanize campuses. Participants will be paired with one another every 4 weeks. ", 
+            "creator": "U1TTQUYEQ"
+        }, 
+        "is_general": false, 
+        "name_normalized": "all_student_network", 
+        "name": "all_student_network", 
+        "is_channel": true, 
+        "created": 1485985002, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1TTQUYEQ", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1485985003, 
+            "value": "Donut Integration allowing students to connect with one another across all Galvanize campuses", 
+            "creator": "U1TTQUYEQ"
+        }, 
+        "members": [
+            "U1TTQUYEQ", 
+            "U1TU3PLMB", 
+            "U1UCBDAMN", 
+            "U1W181QD9", 
+            "U1YBJPJM9", 
+            "U23FBQ8UQ", 
+            "U23MJ5E3E", 
+            "U2APAU2D9", 
+            "U2F9JJWAU", 
+            "U2GJVA6P4", 
+            "U2H7HTVKR", 
+            "U2H8HKLTE", 
+            "U2JNP2NLE", 
+            "U2JQYPPTN", 
+            "U2LDP07RN", 
+            "U2M645VPG", 
+            "U2MLAC3JL", 
+            "U2P556JHZ", 
+            "U2PKX5VNX", 
+            "U2QG3S5GS", 
+            "U2XA3K1FG", 
+            "U2ZBQPZJ9", 
+            "U2ZHQL4GM", 
+            "U3100JZUY", 
+            "U31UTK4GM", 
+            "U365TCNH3", 
+            "U36F34RGA", 
+            "U37J19K62", 
+            "U3EQ2NHSS", 
+            "U3F1AHRHT", 
+            "U3GD4QSGG", 
+            "U3HCN3R34", 
+            "U3K3KB12P", 
+            "U3K9NKWE8", 
+            "U3KA2HGDD", 
+            "U3KANEQ13", 
+            "U3KF3S6N6", 
+            "U3KHPRKE1", 
+            "U3KKM9MKM", 
+            "U3LJRBXTK", 
+            "U3M0XV866", 
+            "U3MC1HJPJ", 
+            "U3MMZBDM5", 
+            "U3NCECYLR", 
+            "U3NGA49SR", 
+            "U3P9DUWJY", 
+            "U3PQYCL87", 
+            "U3Q82DWV9", 
+            "U3QMPQ2RE", 
+            "U3RD2LJAG", 
+            "U3S7KBRT3", 
+            "U3SM7D51Q", 
+            "U3VQTDDS5", 
+            "U3YESQ4RE", 
+            "U3Z1D4TAM", 
+            "U3Z7JPZTP", 
+            "U3ZF44MT9", 
+            "U41KXK1ND", 
+            "U444JBGCS", 
+            "U496BBFQ9", 
+            "U4B699Z7D", 
+            "U4HRVTMD3", 
+            "U4JBZGQUB", 
+            "U58AAL11T", 
+            "U5LV42GBB"
+        ], 
+        "id": "C3ZPZFB7F", 
+        "is_shared": false
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "messages": [
+        {
+            "text": "Thanks for your help Thomas!", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498662115.420460"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "fireball", 
+                    "users": [
+                        "U2P556JHZ"
+                    ]
+                }
+            ], 
+            "text": "it was fun to volunteer on saturday! i'm pretty sure me and the rest of g43 are getting kicked off gstudents sometime in the near future as we just graduated, but if y'all still need any help at basic training hit me up on gAlumni @tcatsl or denver devs <@U3F4FRWSK> or <mailto:thomas.castleman@gmail.com|thomas.castleman@gmail.com>", 
+            "type": "message", 
+            "user": "U3F4FRWSK", 
+            "ts": "1498621079.024993"
+        }, 
+        {
+            "text": "<@U2JQYPPTN|brad.miller> has joined the channel", 
+            "ts": "1498491755.118045", 
+            "subtype": "channel_join", 
+            "user": "U2JQYPPTN", 
+            "type": "message", 
+            "inviter": "U1X2N7XAM"
+        }, 
+        {
+            "text": "<@U3052PE5D|joshcouper> has joined the channel", 
+            "ts": "1498488837.909807", 
+            "subtype": "channel_join", 
+            "user": "U3052PE5D", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "100", 
+                    "users": [
+                        "U2P556JHZ"
+                    ]
+                }
+            ], 
+            "text": "Can we make required information fill out on Eventbrite?", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498355872.804761"
+        }, 
+        {
+            "text": "Como des\u00e9es...", 
+            "type": "message", 
+            "user": "U3QMYKCE4", 
+            "ts": "1498353669.707897"
+        }, 
+        {
+            "text": "A self-categorization might get the job done", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1498352208.642132"
+        }, 
+        {
+            "text": "Porque no los dos?", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1498352162.640350"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "aw_yeah", 
+                    "users": [
+                        "U41PHLSJW"
+                    ]
+                }
+            ], 
+            "text": "I wonder if allowing students to self-identify into useful categories such as \u201cI\u2019ve never coded before\u201d, \u201cI\u2019m learning with an online resource (ie. codecademy)\u201c, \u201cI code or see code at work\u201d, or \u201cI\u2019m a pro\u201d would help get a feel for the level of the group without having to assign (or develop) a pre-test? <@U1X2N7XAM>", 
+            "type": "message", 
+            "user": "U3QMYKCE4", 
+            "ts": "1498351626.617979"
+        }, 
+        {
+            "text": "Admit all of them", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1498348866.496022"
+        }, 
+        {
+            "text": "<@U1X2N7XAM> you should probably know that the basic training students who stuck around clapped  amazingly for beginners; I was profoundly impressed", 
+            "type": "message", 
+            "user": "U3F4FRWSK", 
+            "ts": "1498348701.487778", 
+            "edited": {
+                "user": "U3F4FRWSK", 
+                "ts": "1498348728.000000"
+            }
+        }, 
+        {
+            "text": "<!channel> THANK YOU to everyone for helping out today!! Hopefully it was a good time and you all learned something as well!", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1498347303.428004"
+        }, 
+        {
+            "text": "My thoughts: I should do a better job framing the what/why of this style. Particularly that teaching != learning.\n\nWe need to work on the branding- make sure that people don't think it's just JavaScript, and figure out a compelling pitch for the event.\n\nWe should see if we can get most of the administriva knocked out ahead of time so we can hit the ground running.\n\nAs part of the emphasis on learning over teaching, we should figure out a way to measure how much was learned and play that up for everyone at the end.\n\nPart of the interactivity should include a better job of community learning and peer guidance.\n\nMaybe a pretest for everyone to give us an idea of the landscape ahead of time?", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1498347214.424084"
+        }, 
+        {
+            "text": "```\n# Basic Training Feedback\n\nSTART\n- Ending at 4pm (most people left 12-3pm)\n- Something to engage class (some students sat at desk all day)\n- Break the day up with an interactive event\n- Javascript breakouts earlier as well\n\nSTOP\n- giving assignments as codepen projects (pro account required for more than one)\n- Posting the schedule on the Eventbrite\n\nCONTINUE\n- Breakouts went well (Students attending were new to concepts)\n- Doing breakouts as needed (don't pre-plan)\n- Slack + Learn\n```", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498344686.307153"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498342534.208049"
+        }, 
+        {
+            "text": "The crowd is dwindling. Lets stand down/retro at 4:20pm", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498342101.186537"
+        }, 
+        {
+            "text": "Perfect!", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1498340942.127901"
+        }, 
+        {
+            "text": "<https://docs.google.com/a/galvanize.com/forms/d/19mW5tw7wj8ZBacXL4v5kLubaqXq_9Ga-LnoQdvxSUBE/edit>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498340836.122633"
+        }, 
+        {
+            "text": "Awesome! Make sure you survey them before they go", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1498340545.108369"
+        }, 
+        {
+            "text": "People really like going at their own pace.", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498340413.101535"
+        }, 
+        {
+            "text": "We did a CSS breakout and 2 javascript breakouts this afternoon.", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498340406.101103"
+        }, 
+        {
+            "text": "Lots of heads down work which seems like a good thing.", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498340350.098501"
+        }, 
+        {
+            "text": "Well.", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498340336.097856"
+        }, 
+        {
+            "text": "How's everything going?", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1498339638.062789"
+        }, 
+        {
+            "text": "<@U4PT4E7FW|robpuls> has joined the channel", 
+            "type": "message", 
+            "user": "U4PT4E7FW", 
+            "ts": "1498330009.525611", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4XUXDR7F|austinjohnston> has joined the channel", 
+            "type": "message", 
+            "user": "U4XUXDR7F", 
+            "ts": "1498326646.319227", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3F4FRWSK|tcastl> has joined the channel", 
+            "ts": "1498326208.291344", 
+            "subtype": "channel_join", 
+            "user": "U3F4FRWSK", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "Schedule for today: <https://docs.google.com/document/d/1d-e7yPgNshpl4wA7bbYR3zDKPyG7Lnb_sZ2BB5qKu5g/edit>", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498326014.279451"
+        }, 
+        {
+            "text": "I\u2019m watching HTML breakout. If you need me for help give me a holler on slack!", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498322474.047768"
+        }, 
+        {
+            "text": "<@U2P556JHZ|ninjames> has joined the channel", 
+            "ts": "1498317222.693872", 
+            "subtype": "channel_join", 
+            "user": "U2P556JHZ", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<@U3QMYKCE4|bradg81> has joined the channel", 
+            "ts": "1498316156.622164", 
+            "subtype": "channel_join", 
+            "user": "U3QMYKCE4", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "Once we add students, you'll be able to see their progress here: <https://learn.galvanize.com/cohorts/218/challenges>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498314747.535822"
+        }, 
+        {
+            "text": "Cohort page is here: <https://learn.galvanize.com/cohorts/218/units>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498314724.534202"
+        }, 
+        {
+            "text": "<@U5KJA4YKY|shawna.doering> has joined the channel", 
+            "ts": "1498314706.533112", 
+            "subtype": "channel_join", 
+            "user": "U5KJA4YKY", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U41PHLSJW|fcfreyre> has joined the channel", 
+            "ts": "1498314696.532482", 
+            "subtype": "channel_join", 
+            "user": "U41PHLSJW", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U1X2N7XAM|kylecoberly> has joined the channel", 
+            "ts": "1498314664.530330", 
+            "subtype": "channel_join", 
+            "user": "U1X2N7XAM", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U2WBQ64BY|chad.drummond> has joined the channel", 
+            "ts": "1498314656.529734", 
+            "subtype": "channel_join", 
+            "user": "U2WBQ64BY", 
+            "type": "message", 
+            "inviter": "U1USJGEG2"
+        }, 
+        {
+            "text": "<@U1USJGEG2|cj> has joined the channel", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498314648.528985", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "basic-training-inst", 
+        "name": "basic-training-inst", 
+        "is_channel": true, 
+        "created": 1498314648, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1USJGEG2", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U1USJGEG2", 
+            "U1X2N7XAM", 
+            "U2JQYPPTN", 
+            "U2P556JHZ", 
+            "U2WBQ64BY", 
+            "U3052PE5D", 
+            "U3F4FRWSK", 
+            "U3QMYKCE4", 
+            "U41PHLSJW", 
+            "U4PT4E7FW", 
+            "U4XUXDR7F", 
+            "U5KJA4YKY"
+        ], 
+        "id": "C5Z2NUBBN", 
+        "is_shared": false
+    }
+}

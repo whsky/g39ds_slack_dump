@@ -1,0 +1,87 @@
+{
+    "messages": [
+        {
+            "text": "Hey guys, I just wanted to throw my hat in the ring for the DSR position for the next cohort!  Let me know if you need anything more formal from me.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487531135.000002"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F42QQBM0V/capstone-steve_iannaccone.pdf|Capstone-Steve_Iannaccone.pdf>", 
+            "upload": true, 
+            "ts": "1486571417.000002", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F42QQBM0V", 
+                "size": 124402, 
+                "title": "Capstone-Steve_Iannaccone.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F42QQBM0V/capstone-steve_iannaccone.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1486571416, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F42QQBM0V/download/capstone-steve_iannaccone.pdf", 
+                "user": "U34BY2K3K", 
+                "groups": [
+                    "G4219QNL8"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "Capstone-Steve_Iannaccone.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F42QQBM0V-fbe51f7d7a", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F42QQBM0V/capstone-steve_iannaccone.pdf", 
+                "is_external": false, 
+                "created": 1486571416, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1486571299, 
+            "value": "Group messaging", 
+            "creator": "U34BY2K3K"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ewellinger--ajrichards--whsky-1", 
+        "name": "mpdm-frank-w-b--ewellinger--ajrichards--whsky-1", 
+        "last_read": "1487531135.790462", 
+        "creator": "U34BY2K3K", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1486571299, 
+        "is_group": true, 
+        "members": [
+            "U34BY2K3K", 
+            "U1WHHHQ7N", 
+            "U1XEGP6GZ", 
+            "U1Z90HJG3"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1486571299, 
+            "value": "Group messaging with: @frank-w-b @ewellinger @ajrichards @whsky", 
+            "creator": "U34BY2K3K"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G4219QNL8", 
+        "latest": {
+            "text": "Hey guys, I just wanted to throw my hat in the ring for the DSR position for the next cohort!  Let me know if you need anything more formal from me.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487531135.000002"
+        }
+    }
+}

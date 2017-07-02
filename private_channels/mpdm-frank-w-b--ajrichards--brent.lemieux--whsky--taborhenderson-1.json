@@ -1,0 +1,154 @@
+{
+    "messages": [
+        {
+            "text": "Tabor, you have a couple options.  1) Come in use the Mac Minis  or 2) get up on AWS.  I'll bring in my old linux laptop tomorrow and you can try that too.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1497382950.226633"
+        }, 
+        {
+            "text": "Hey guys kinda freakin out but I think I got it under control. My fat white MacBook is no longer cutting it now that I'm training on 40x30 images plus sensor data. It couldn't even make it through my break-in. So, I think I'm just gonna go snag something a little faster- even a netbook would be more powerful than what I've been using. Any recommendations? I'm also planning on dumping a bunch of data to disk so I can put things on AWS to re-train.", 
+            "type": "message", 
+            "user": "U4PJRJRV4", 
+            "ts": "1497380827.464578"
+        }, 
+        {
+            "text": "Nah just rest up and be ready for tomorrow.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1496194114.891287"
+        }, 
+        {
+            "text": "Sorry for the chaotic day guys. Was there anything or any hw about the case study?", 
+            "type": "message", 
+            "user": "U4PJRJRV4", 
+            "ts": "1496191500.530743"
+        }, 
+        {
+            "text": "No worries...intro to web dev / flask apps now.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496159085.601312"
+        }, 
+        {
+            "text": "Running late! But I'll be in by 11 at the latest.", 
+            "type": "message", 
+            "user": "U4PJRJRV4", 
+            "ts": "1496158796.480964"
+        }, 
+        {
+            "username": "taborhenderson", 
+            "display_as_bot": false, 
+            "text": "<@U4PJRJRV4|taborhenderson> uploaded a file: <https://gstudents.slack.com/files/taborhenderson/F5HB4DKBL/neural_swarms_project_proposal.md|Neural_Swarms_Project_Proposal.md>", 
+            "upload": true, 
+            "ts": "1495638276.738554", 
+            "subtype": "file_share", 
+            "user": "U4PJRJRV4", 
+            "file": {
+                "filetype": "markdown", 
+                "lines_more": 63, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5HB4DKBL", 
+                "size": 3985, 
+                "title": "Neural_Swarms_Project_Proposal.md", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5HB4DKBL/neural_swarms_project_proposal.md", 
+                "ims": [], 
+                "preview": "\n## Project Proposal: Neural.Swarms\nTabor Henderson, May 24, 2017\n\n", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/taborhenderson/F5HB4DKBL/neural_swarms_project_proposal.md/edit", 
+                "username": "", 
+                "timestamp": 1495638275, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5HB4DKBL/download/neural_swarms_project_proposal.md", 
+                "user": "U4PJRJRV4", 
+                "groups": [
+                    "G54P5G97V"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Markdown (raw)", 
+                "name": "Neural_Swarms_Project_Proposal.md", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5HB4DKBL-2110d4a8f5", 
+                "permalink": "https://gstudents.slack.com/files/taborhenderson/F5HB4DKBL/neural_swarms_project_proposal.md", 
+                "is_external": false, 
+                "created": 1495638275, 
+                "lines": 68, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-header cm-header-2\">## </span><span class=\"cm-header cm-header-2\">Project</span><span class=\"cm-header cm-header-2\"> </span><span class=\"cm-header cm-header-2\">Proposal:</span><span class=\"cm-header cm-header-2\"> </span><span class=\"cm-header cm-header-2\">Neural.Swarms</span></pre></div>\n<div><pre>Tabor Henderson, May 24, 2017</pre></div>\n<div><pre>&#8203;</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Sorry to hear that...if you don't make it in, make sure you look over the materials for today. Profit curves are the business extension of the ROC curves. Map Reduce is our first foray into _\"BIG DATA\"_ and how we have to rethink computation.\nLet one of us know if something isn't clear to you...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1494341528.080145"
+        }, 
+        {
+            "text": "I woke up with a migraine so I'm gonna try to get my pain under control and come in late, but I may just have to chill today.", 
+            "type": "message", 
+            "user": "U4PJRJRV4", 
+            "ts": "1494340754.750388"
+        }, 
+        {
+            "text": "Cool...I think Brent was going to get his lecture on Random Forests rolling by 9ish.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493219454.544446"
+        }, 
+        {
+            "text": "sounds good.", 
+            "type": "message", 
+            "user": "U1Z90HJG3", 
+            "ts": "1493218702.202800"
+        }, 
+        {
+            "text": "Something came up at home so I'm running a bit late, but should be there by 930.", 
+            "type": "message", 
+            "user": "U4PJRJRV4", 
+            "ts": "1493217442.643875"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1493217413, 
+            "value": "Group messaging", 
+            "creator": "U4PJRJRV4"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--taborhenderson-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--taborhenderson-1", 
+        "last_read": "1497382950.226633", 
+        "creator": "U4PJRJRV4", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1493217413, 
+        "is_group": true, 
+        "members": [
+            "U4PJRJRV4", 
+            "U1Z90HJG3", 
+            "U1WHHHQ7N", 
+            "U34BY2K3K", 
+            "U33BKEP9Q"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1493217413, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky @taborhenderson", 
+            "creator": "U4PJRJRV4"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G54P5G97V", 
+        "latest": {
+            "text": "Tabor, you have a couple options.  1) Come in use the Mac Minis  or 2) get up on AWS.  I'll bring in my old linux laptop tomorrow and you can try that too.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1497382950.226633"
+        }
+    }
+}

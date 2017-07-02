@@ -1,0 +1,874 @@
+{
+    "messages": [
+        {
+            "text": "<@U1X2N7XAM|kylecoberly> archived the channel", 
+            "ts": "1479146628.000002", 
+            "subtype": "channel_archive", 
+            "user": "U1X2N7XAM", 
+            "members": [
+                "U1USJGEG2", 
+                "U1W1L64SX", 
+                "U1W2SPFK5", 
+                "U1W3QQT61", 
+                "U1W439CQH", 
+                "U1W45810F", 
+                "U1W4F1UP2", 
+                "U1W6D6A5B", 
+                "U1W7HDQMU", 
+                "U1W9GQ50V", 
+                "U1WEVHA4W", 
+                "U1WFMEB6Y", 
+                "U1WFPAELQ", 
+                "U1WFYBSE9", 
+                "U1WG32S49", 
+                "U1X2N7XAM", 
+                "U1XGTA087"
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1USK393L|berto> has left the channel", 
+            "type": "message", 
+            "user": "U1USK393L", 
+            "ts": "1477963627.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1UVAKDA6|elana> has left the channel", 
+            "type": "message", 
+            "user": "U1UVAKDA6", 
+            "ts": "1477065019.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1US75J13|dannyfritz> has left the channel", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1475648187.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<!channel> Reminder! Here comes another game party! 9/24, Saturday, from 6pm - 10pm in the basement of Platte. Come with your laptop, board games, consoles, and card games and get ready to have some fun.\n\n:computer: Games for OSX available at Game Party: :halo: Halo, Age of Empires, Battlefield 1942, Dungeon Siege 2, Flatout 2, Quake 3, :lightsabers: Star Wars Jedi Knights Jedi Outcast, :zergling: StarCraft: Broodware, Typing of the Dead, and :worm: Worm's Armageddon.\n\n:game_die: There are board games in the basement you can play such as Settlers of Catan or you can bring your own!\n\n:spades: :magic: Playing card games are always welcome. If you can find someone else to bring some Magic the Gathering cards to play with you should go for it.", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1474642486.000002"
+        }, 
+        {
+            "username": "dannyfritz", 
+            "display_as_bot": false, 
+            "text": "<@U1US75J13|dannyfritz> uploaded a file: <https://gstudents.slack.com/files/dannyfritz/F2EPW3LF8/img_20160922_101707091.jpg|So happy>", 
+            "upload": true, 
+            "ts": "1474561202.000002", 
+            "subtype": "file_share", 
+            "user": "U1US75J13", 
+            "file": {
+                "thumb_480_w": 360, 
+                "reactions": [
+                    {
+                        "count": 2, 
+                        "name": "+1", 
+                        "users": [
+                            "U1WEVHA4W", 
+                            "U1W4F1UP2"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2EPW3LF8-0564230fcf/img_20160922_101707091_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2EPW3LF8-0564230fcf/img_20160922_101707091_64.jpg", 
+                "size": 1372295, 
+                "original_h": 2592, 
+                "thumb_360_w": 270, 
+                "title": "So happy", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2EPW3LF8/img_20160922_101707091.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2EPW3LF8-0564230fcf/img_20160922_101707091_360.jpg", 
+                "id": "F2EPW3LF8", 
+                "ims": [], 
+                "thumb_720_w": 540, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2EPW3LF8-0564230fcf/img_20160922_101707091_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1474561197, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2EPW3LF8-0564230fcf/img_20160922_101707091_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2EPW3LF8/download/img_20160922_101707091.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F2EPW3LF8-0564230fcf/img_20160922_101707091_1024.jpg", 
+                "user": "U1US75J13", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F2EPW3LF8-0564230fcf/img_20160922_101707091_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_20160922_101707091.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2EPW3LF8-498d0b6bd1", 
+                "permalink": "https://gstudents.slack.com/files/dannyfritz/F2EPW3LF8/img_20160922_101707091.jpg", 
+                "is_external": false, 
+                "created": 1474561197, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 1944, 
+                "thumb_960_w": 720, 
+                "thumb_1024_w": 768, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F2EPW3LF8-0564230fcf/img_20160922_101707091_720.jpg", 
+                "channels": [
+                    "C1XLA33TK"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel> Here comes another game party! 9/24, Saturday, from 6pm - 10pm in the basement of Platte. Come with your laptop, board games, consoles, and card games and get ready to have some fun.\n\n:computer: Games for OSX available at Game Party: :halo: Halo, Age of Empires, Battlefield 1942, Dungeon Siege 2, Flatout 2, Quake 3, :lightsabers: Star Wars Jedi Knights Jedi Outcast, :zergling: StarCraft: Broodware, Typing of the Dead, and :worm: Worm's Armageddon.\n\n:game_die: There are board games in the basement you can play such as Settlers of Catan or you can bring your own!\n\n:spades: :magic: Playing card games are always welcome. If you can find someone else to bring some Magic the Gathering cards to play with you should go for it.", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1473719744.000002", 
+            "edited": {
+                "user": "U1US75J13", 
+                "ts": "1473720339.000000"
+            }
+        }, 
+        {
+            "text": "```\nES6: The Right Parts\n\nThe unedited videos will be up here for 3 weeks --&gt; <https://livestream.com/accounts/4894689/events/6216758>\n\nCode exercises --&gt; <http://frontendmasters.com/assets/resources/kylesimpson/getify-es6-workshop.zip>\n```", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1472587551.000006"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "100", 
+                    "users": [
+                        "U1WFYBSE9"
+                    ]
+                }
+            ], 
+            "text": "<!channel> from Anna re: the ES6 videos from yesterday:", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1472587543.000005"
+        }, 
+        {
+            "text": "<@U1W6D6A5B|andyknolla> has joined the channel", 
+            "type": "message", 
+            "user": "U1W6D6A5B", 
+            "ts": "1472159226.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Whiteboarding checklist: <https://docs.google.com/document/d/1i7sMJ5FmuE6pNreOOc_vVFUQx0UhIPfDxaj6b7UwaUQ/edit>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1472144764.000003"
+        }, 
+        {
+            "text": "<https://drive.google.com/file/d/0B9lO4Z67wOq9aXFCVktyVjQwX00/view?usp=drivesdk>", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1472144640.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "+1", 
+                    "users": [
+                        "U1W7HDQMU", 
+                        "U1W439CQH", 
+                        "U1W45810F"
+                    ]
+                }
+            ], 
+            "text": "<!channel>:\nFrom Justin:\n```\n\"Thanks again for having me!\n\nIf you\u2019d want to pass this along, we\u2019re doing our monthly creative technology meetup tomorrow night: <http://www.meetup.com/denver-creative-tech/>\n\nAnd here are my creative coding notes that I was reading through today: \n<https://github.com/cacheflowe/creative-coding-class-notes/blob/master/creative-coding-overview.md>\n\nIf you want to pass along my email, I\u2019d be happy to field questions: <mailto:cacheflowe@cacheflowe.com|cacheflowe@cacheflowe.com>\n\nAnd my personal work is here: \n<http://cacheflowe.com>\n<http://twitter.com/cacheflowe>\n<http://instagram.com/cacheflowe> \"\n```", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1472071274.000002"
+        }, 
+        {
+            "text": "<@U1V31SFNJ|brooks> has left the channel", 
+            "type": "message", 
+            "user": "U1V31SFNJ", 
+            "ts": "1471545270.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1WEVHA4W|lucy> has joined the channel", 
+            "type": "message", 
+            "user": "U1WEVHA4W", 
+            "ts": "1471360739.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W4F1UP2|kristiemcgoldrick> has joined the channel", 
+            "type": "message", 
+            "user": "U1W4F1UP2", 
+            "ts": "1471275913.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W2SPFK5|heatherblairs> has joined the channel", 
+            "type": "message", 
+            "user": "U1W2SPFK5", 
+            "ts": "1470838318.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WFPAELQ|wthomas> has joined the channel", 
+            "type": "message", 
+            "user": "U1WFPAELQ", 
+            "ts": "1470800261.000086", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1US75J13|dannyfritz> has joined the channel", 
+            "type": "message", 
+            "user": "U1US75J13", 
+            "ts": "1470799239.000085", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V31SFNJ|brooks> has joined the channel", 
+            "type": "message", 
+            "user": "U1V31SFNJ", 
+            "ts": "1470798212.000084", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W439CQH|danielpabbott> has joined the channel", 
+            "type": "message", 
+            "user": "U1W439CQH", 
+            "ts": "1470795871.000083", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3QQT61|laneysmith> has joined the channel", 
+            "type": "message", 
+            "user": "U1W3QQT61", 
+            "ts": "1470784042.000082", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Let it never be said that the icebox is where things go to die.", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782979.000081"
+        }, 
+        {
+            "text": "And with that, the icebox is COMPLETE!!", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782955.000080"
+        }, 
+        {
+            "text": "---------------------------------------------", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782863.000079"
+        }, 
+        {
+            "text": "Pretty bleeding edge, don't worry too much about it if it doesn't immediately interest you", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782858.000078"
+        }, 
+        {
+            "text": "<http://cycle.js.org/streams.html>", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782827.000076", 
+            "attachments": [
+                {
+                    "title": "Streams \u203a Cycle.js", 
+                    "text": "A fully reactive JavaScript framework for Human-Computer Interaction", 
+                    "title_link": "http://cycle.js.org/streams.html", 
+                    "service_name": "cycle.js.org", 
+                    "id": 1, 
+                    "fallback": "Streams \u203a Cycle.js", 
+                    "service_icon": "http://cycle.js.org/apple-icon-57x57.png", 
+                    "from_url": "http://cycle.js.org/streams.html"
+                }
+            ]
+        }, 
+        {
+            "text": "This is a key idea in reactive programming", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782708.000075"
+        }, 
+        {
+            "text": "An observable is a new-ish concept, where you have objects that have subscribers, and the observer can notify the subscribers when things happen.", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782695.000074"
+        }, 
+        {
+            "text": "------------------------------------------", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782632.000073"
+        }, 
+        {
+            "text": "they all bring a ton of complexity, which may or may not be worth it for any particular app", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782579.000071"
+        }, 
+        {
+            "text": "by pushing all of the logic to the client, they offer instant responsiveness, and a really smooth \"modern\" experience", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782542.000070"
+        }, 
+        {
+            "text": "different parts of your app (the client, API, DB) can scale differently, and even have multiple consumers", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782517.000069"
+        }, 
+        {
+            "text": "SPAs/decoupled apps, by comparison, offer a ton of flexibility", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782463.000068"
+        }, 
+        {
+            "text": "they're comparatively stupid-easy to make, and may even provide the best UX", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782356.000067"
+        }, 
+        {
+            "text": "all Word Press / Drupal sites are server-rendered", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782325.000066"
+        }, 
+        {
+            "text": "Wikipedia is a server-rendered app", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782316.000065"
+        }, 
+        {
+            "text": "Depending on the user's machine, they also may be way faster", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782290.000064"
+        }, 
+        {
+            "text": "Server-side rendered is way cheaper (since your servers don't need to be as robust), doesn't depend on the user's machine, and \"hide\" your implementation code from the user", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782276.000063"
+        }, 
+        {
+            "text": "Why do server-side rendered vs. decoupled with an SPA front-end?", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782210.000062"
+        }, 
+        {
+            "text": "----------------------------------------", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782153.000061"
+        }, 
+        {
+            "text": "it's the entire underpinning principle in OOP, though", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782146.000060"
+        }, 
+        {
+            "text": "you're basically saying that you want to be able to change _state_, which is a no-no in FP", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782131.000059"
+        }, 
+        {
+            "text": "```\niago.name = \"Sir Iago\";\niago.speak(); // \"My name is Sir Iago\"\n```", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470782024.000058"
+        }, 
+        {
+            "text": "in the above example, I could then do something like:", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781993.000057"
+        }, 
+        {
+            "text": "`this` is the only way you \"save\" that name in a way that's accessible after you use `new`", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781919.000056"
+        }, 
+        {
+            "text": "```\nvar iago = new dog(\"Iago\");\niago.speak(); // \"My name is Iago\"\n```", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781777.000055"
+        }, 
+        {
+            "text": "```\nvar dog = function(name){\n    this.name: name,\n    this.speak: function(){\n        console.log(\"My name is \" + this.name);\n    }\n};\n```", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781731.000054"
+        }, 
+        {
+            "text": "So...", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781572.000053"
+        }, 
+        {
+            "text": "If you want to make objects with reusable behavior, you'll refer to other things on that object with `this`", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781565.000052"
+        }, 
+        {
+            "text": "`this` is mostly about encapsulating state and behavior in objects", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781470.000051"
+        }, 
+        {
+            "text": "You can actually live your entire javascript life without using `this`- it's even considered a \"smell\" by functional programmers", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781358.000049", 
+            "edited": {
+                "user": "U1X2N7XAM", 
+                "ts": "1470781431.000000"
+            }
+        }, 
+        {
+            "text": "Why use `this`?", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781278.000048"
+        }, 
+        {
+            "text": "-----------------------------------------", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781213.000047"
+        }, 
+        {
+            "text": "In client-side, it takes a request, finds the first pattern that matches, and decides which route/controller/view should be loaded in the browser", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781190.000046"
+        }, 
+        {
+            "text": "In server-side, it takes a request, finds the first pattern that matches, and the thing that matches generates a response to the client", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470781156.000045"
+        }, 
+        {
+            "text": "Both client-side and server-side routing are based on pattern matching", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780980.000044"
+        }, 
+        {
+            "text": "----------------------------------------", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780884.000043"
+        }, 
+        {
+            "text": "most devs know it, but few use it", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780861.000042"
+        }, 
+        {
+            "text": "but it's a mostly academic curiousity", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780848.000041"
+        }, 
+        {
+            "text": "there's some tricks for calculating permissions in octal in your head, online calculators you can use, etc.", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780842.000040"
+        }, 
+        {
+            "text": "so the \"real\" syntax for something like `chmod ugo+rwx my_file` is `chmod 777 my_file`", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780808.000039"
+        }, 
+        {
+            "text": "the permissions in unix (ugo+rwx) are, under the hood, represented as octal", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780766.000038"
+        }, 
+        {
+            "text": "9 in decimal is 11 in octal, etc.", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780732.000037"
+        }, 
+        {
+            "text": "but what would be \"8\" is represented as \"10\"", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780719.000036"
+        }, 
+        {
+            "text": "starts off the same as decimal (0, 1, 2, 3, 4, 5, 6, 7)", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780694.000035"
+        }, 
+        {
+            "text": "Octal is a counting system that's based on 8s", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780654.000034"
+        }, 
+        {
+            "text": "--------------------------------------", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780569.000033"
+        }, 
+        {
+            "text": "but it's about load times- it doesn't really expose an API or anything that you would use to build a chat room", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780559.000032"
+        }, 
+        {
+            "text": "HTTP2 is basically just making SPDY an official protocol", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780524.000030", 
+            "edited": {
+                "user": "U1X2N7XAM", 
+                "ts": "1470780533.000000"
+            }
+        }, 
+        {
+            "text": "it's based off a tool that Google made that's used all over the place called SPDY (pronounced \"speedy\")", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780510.000029"
+        }, 
+        {
+            "text": "or weave them together, so they come in one stream", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780487.000028"
+        }, 
+        {
+            "text": "HTTP2 allows you to \"Multiplex\" these requests", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780475.000027"
+        }, 
+        {
+            "text": "one of them has to complete before the 7th can start", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780453.000026"
+        }, 
+        {
+            "text": "so if you have 50 assets to load on a page, between stylesheets, javascript files, images, videos, music, etc., you can only start loading 6 of them at a time", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780446.000025"
+        }, 
+        {
+            "text": "you may not have realized it, but HTTP1 is limited to 6 simultaneously requests", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780387.000024"
+        }, 
+        {
+            "text": "While a server can initiate communication in HTTP2, it's not really an API that you use as a developer", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780363.000023"
+        }, 
+        {
+            "text": "HTTP2 and Websockets are not really for the same thing", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780293.000022"
+        }, 
+        {
+            "text": "----------------------------------------", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780232.000021"
+        }, 
+        {
+            "text": "even in a strongly-typed language, you can get away with not using interfaces- their purpose is to save your sanity. The compiler will throw an error if you didn't implement the interface correctly, which can save you some troubleshooting headaches.", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780208.000020"
+        }, 
+        {
+            "text": "javascript doesn't have real interfaces though, because it isn't strongly typed.", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780145.000019"
+        }, 
+        {
+            "text": "this concept can be more broadly applied to functions- as long as the inputs give you the expected outputs, nothing should depend on how it got there", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780125.000018"
+        }, 
+        {
+            "text": "the specific implementation of that method should be irrelevant, and should be able to change without breaking anything as long as it continues to adhere to that interface", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470780036.000017"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "100", 
+                    "users": [
+                        "U1WFPAELQ"
+                    ]
+                }
+            ], 
+            "text": "in other words, if a class implements an interface that guarantees the class will have a method called `sumTwoNumbers` that accepts two floats and returns a double, that should be all I need to know to use that method", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779991.000016"
+        }, 
+        {
+            "text": "An OOP principle is that you program to interfaces, not implementations", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779656.000015"
+        }, 
+        {
+            "text": "It says that a class _will_ implement certain methods, and those methods will accept specific types as parameters and return specific types", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779633.000014"
+        }, 
+        {
+            "text": "An \"interface\" in programming is a contract about how something will work.", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779496.000013"
+        }, 
+        {
+            "text": "---------------------------------------", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779440.000012"
+        }, 
+        {
+            "text": "For more reading: <https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting/commit-level-operations>", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779432.000010", 
+            "attachments": [
+                {
+                    "image_bytes": 96711, 
+                    "title": "Resetting, Checking Out, and Reverting - Commit level operations", 
+                    "service_name": "Atlassian Git Tutorial", 
+                    "image_width": 476, 
+                    "title_link": "https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting/commit-level-operations", 
+                    "image_height": 250, 
+                    "image_url": "https://www.atlassian.com/git/images/atlassian-getting-git-right.jpg", 
+                    "text": "The advanced features of git log: formatting how each commit is displayed and filtering which commits are included in the output.", 
+                    "id": 1, 
+                    "fallback": "Atlassian Git Tutorial: Resetting, Checking Out, and Reverting - Commit level operations", 
+                    "service_icon": "https://www.atlassian.com/git/images/global/favicons/favicon-152.png", 
+                    "from_url": "https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting/commit-level-operations"
+                }
+            ]
+        }, 
+        {
+            "text": "`git checkout` ostensibly switches branches, but can also be used to reset changes you've made but haven't committed- either the entire branch or just single files", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779408.000009"
+        }, 
+        {
+            "text": "reverting lets you rollback to the commits you're ostensibly overwriting", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779329.000008"
+        }, 
+        {
+            "text": "`git revert` does the same thing, but makes a _new_ commit, which is also in the history", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779308.000007"
+        }, 
+        {
+            "text": "it's a way to delete previous commits", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779281.000006"
+        }, 
+        {
+            "text": "`git reset` is for a destructive rollback- \"Oh shit, why did I do the last two commits?\"", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779265.000005"
+        }, 
+        {
+            "text": "`git reset`, `git revert`, and `git checkout` are all kind of similar", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779212.000004"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "100", 
+                    "users": [
+                        "U1WFPAELQ"
+                    ]
+                }
+            ], 
+            "text": "Going to go through some of the icebox things:", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470779195.000003"
+        }, 
+        {
+            "text": "<@U1X2N7XAM|kylecoberly> has joined the channel", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1470778930.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W45810F|chrisco> has joined the channel", 
+            "type": "message", 
+            "user": "U1W45810F", 
+            "ts": "1470364315.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1XGTA087|lbarbula> has joined the channel", 
+            "type": "message", 
+            "user": "U1XGTA087", 
+            "ts": "1470252213.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WFYBSE9|zz> has joined the channel", 
+            "type": "message", 
+            "user": "U1WFYBSE9", 
+            "ts": "1470239549.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WG32S49|tttimmusgrove> has joined the channel", 
+            "type": "message", 
+            "user": "U1WG32S49", 
+            "ts": "1470235847.000003", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WFMEB6Y|stevenleelawson> has joined the channel", 
+            "type": "message", 
+            "user": "U1WFMEB6Y", 
+            "ts": "1470232444.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W1L64SX|amandamontanapearce> has joined the channel", 
+            "type": "message", 
+            "user": "U1W1L64SX", 
+            "ts": "1470206981.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1USK393L|berto> has joined the channel", 
+            "type": "message", 
+            "user": "U1USK393L", 
+            "ts": "1470199816.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1UVAKDA6|elana> has joined the channel", 
+            "type": "message", 
+            "user": "U1UVAKDA6", 
+            "ts": "1470191325.000006", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W7HDQMU|bradford-hamilton> has joined the channel", 
+            "type": "message", 
+            "user": "U1W7HDQMU", 
+            "ts": "1470188438.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W9GQ50V|mairinbailey> has joined the channel", 
+            "type": "message", 
+            "user": "U1W9GQ50V", 
+            "ts": "1470187455.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1USJGEG2|cj> set the channel purpose: Links from G25 Instructors", 
+            "ts": "1470186462.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1USJGEG2", 
+            "type": "message", 
+            "purpose": "Links from G25 Instructors"
+        }, 
+        {
+            "text": "<@U1USJGEG2|cj> has joined the channel", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1470186461.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g25_instructor_links", 
+        "name": "g25_instructor_links", 
+        "is_channel": true, 
+        "created": 1470186461, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U1USJGEG2", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1470186462, 
+            "value": "Links from G25 Instructors", 
+            "creator": "U1USJGEG2"
+        }, 
+        "members": [], 
+        "id": "C1XLA33TK", 
+        "is_shared": false
+    }
+}

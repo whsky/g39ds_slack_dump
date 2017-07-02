@@ -1,0 +1,76 @@
+{
+    "messages": [
+        {
+            "text": "<https://github.com/be-ns/event_fraud>", 
+            "type": "message", 
+            "user": "U3SVB50MB", 
+            "ts": "1496356582.491891", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "be-ns/event_fraud", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/be-ns/event_fraud", 
+                    "text": "event_fraud - Detecting Fraud in Event Ticket Sales", 
+                    "id": 1, 
+                    "fallback": "GitHub: be-ns/event_fraud", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/25065196?v=3&s=400", 
+                    "from_url": "https://github.com/be-ns/event_fraud"
+                }
+            ]
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1496356578, 
+            "value": "Group messaging", 
+            "creator": "U3SVB50MB"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--brent.lemieux--whsky--bens-1", 
+        "name": "mpdm-frank-w-b--brent.lemieux--whsky--bens-1", 
+        "last_read": "1496356582.491891", 
+        "creator": "U3SVB50MB", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1496356578, 
+        "is_group": true, 
+        "members": [
+            "U3SVB50MB", 
+            "U33BKEP9Q", 
+            "U34BY2K3K", 
+            "U1WHHHQ7N"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1496356578, 
+            "value": "Group messaging with: @frank-w-b @brent.lemieux @whsky @bens", 
+            "creator": "U3SVB50MB"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5MFNPP7U", 
+        "latest": {
+            "text": "<https://github.com/be-ns/event_fraud>", 
+            "type": "message", 
+            "user": "U3SVB50MB", 
+            "ts": "1496356582.491891", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "be-ns/event_fraud", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/be-ns/event_fraud", 
+                    "text": "event_fraud - Detecting Fraud in Event Ticket Sales", 
+                    "id": 1, 
+                    "fallback": "GitHub: be-ns/event_fraud", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/25065196?v=3&s=400", 
+                    "from_url": "https://github.com/be-ns/event_fraud"
+                }
+            ]
+        }
+    }
+}

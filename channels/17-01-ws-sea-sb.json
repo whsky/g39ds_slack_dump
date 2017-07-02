@@ -1,0 +1,1176 @@
+{
+    "messages": [
+        {
+            "text": "<@U3VUPGQQK|maxgrossenbacher> has joined the channel", 
+            "ts": "1498772559.460372", 
+            "subtype": "channel_join", 
+            "user": "U3VUPGQQK", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U4CTPDQ2K|kennyd> has joined the channel", 
+            "ts": "1497289230.160508", 
+            "subtype": "channel_join", 
+            "user": "U4CTPDQ2K", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U48RD8RA6|rsalota> has joined the channel", 
+            "type": "message", 
+            "user": "U48RD8RA6", 
+            "ts": "1487766622.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1VN4QD29|miles> has left the channel", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1486566035.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1TU3PLMB|katieparker> has left the channel", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1486515324.000006", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<!group> Reminder, your Galvanize Slack account will be deleted at eod today.", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1486511788.000005"
+        }, 
+        {
+            "text": "<@U431DQ9HD|v> has joined the channel", 
+            "type": "message", 
+            "user": "U431DQ9HD", 
+            "ts": "1486504900.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3XNT2SAF|sarah_shipley> has left the channel", 
+            "type": "message", 
+            "user": "U3XNT2SAF", 
+            "ts": "1486055785.000003", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3VUACF51|roland_sannicolas> has left the channel", 
+            "type": "message", 
+            "user": "U3VUACF51", 
+            "ts": "1486055762.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "smiley", 
+                    "users": [
+                        "U3X4CTSFJ"
+                    ]
+                }
+            ], 
+            "text": "<!group> Correction, we will extend access to Galvanize Slack to next Monday, 2/6 so you all have time to still test the assignments and reach out to instructors if needed. I will update the original slack to reflect this :thumbsup::skin-tone-4:", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1485804077.000005"
+        }, 
+        {
+            "text": "I would say the best thing to do is either copy/paste or screenshot images to be sent to yourself via email", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1485803608.000004"
+        }, 
+        {
+            "text": "Is there a way to archive/download the channel contents for future reference?", 
+            "type": "message", 
+            "user": "U3YFQ4RPH", 
+            "ts": "1485803051.000003"
+        }, 
+        {
+            "text": "<!group> Hey all! Hope you had a lovely time this past weekend and learned alot. Be aware that Galvanize Slack access will be discontinued next week, *Monday, 2/6 end of day*. Be sure to email yourself any important information from this channel. As well as collect staff/student information for future contacts. You can reach the Galvanize Admissions Officer at <mailto:amara.wilson@galvanize.com|amara.wilson@galvanize.com>. Best! :galvanize:", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1485802772.000002", 
+            "edited": {
+                "user": "U1TU3PLMB", 
+                "ts": "1485804110.000000"
+            }
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "joy", 
+                    "users": [
+                        "U3YFQ4RPH"
+                    ]
+                }
+            ], 
+            "text": "<!channel> Thanks for joining us! *Please* don\u2019t forget to terminate your AWS EMR clusters.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485737388.000033"
+        }, 
+        {
+            "text": "Coming Meetup : <https://www.eventbrite.com/e/working-with-an-ide-pythonjupyter-notebooks-rstudio-spark-and-r-shiny-app-221-tickets-30469144030>", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485736479.000032"
+        }, 
+        {
+            "text": "Survey : <https://galvanize-review.typeform.com/to/mT0UP8>", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485736309.000030", 
+            "attachments": [
+                {
+                    "image_bytes": 117295, 
+                    "title": "Galvanize Intro to Spark for Data Science - Review (Jan 17)", 
+                    "text": "Built with Typeform, the FREE online form builder that lets you create beautiful, mobile-friendly online forms, surveys &amp; much more. Try it out now!", 
+                    "image_width": 476, 
+                    "title_link": "https://galvanize-review.typeform.com/to/mT0UP8", 
+                    "image_height": 250, 
+                    "image_url": "https://galvanize-review.typeform.com/bundles/quickyformapp/images/share_typeform.jpg", 
+                    "service_name": "galvanize-review.typeform.com", 
+                    "id": 1, 
+                    "fallback": "Galvanize Intro to Spark for Data Science - Review (Jan 17)", 
+                    "service_icon": "https://galvanize-review.typeform.com/favicon.ico", 
+                    "from_url": "https://galvanize-review.typeform.com/to/mT0UP8"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://spark-summit.org/2017/call-for-presentations/?utm_content=43876418&amp;utm_medium=social&amp;utm_source=twitter>", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485736241.000029"
+        }, 
+        {
+            "text": "<http://www.kdnuggets.com/>", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485736133.000028"
+        }, 
+        {
+            "text": "Can you recommend some references or books for getting up to speed on spark?", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485735730.000027"
+        }, 
+        {
+            "text": "also in spark : <https://spark.apache.org/docs/latest/ml-clustering.html#k-means>", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485734747.000026"
+        }, 
+        {
+            "text": "<@U28PELW9E> what I mean was k-means clustering :joy:", 
+            "type": "message", 
+            "user": "U3YFCUCSJ", 
+            "ts": "1485734661.000025"
+        }, 
+        {
+            "text": ":tophat:", 
+            "type": "message", 
+            "user": "U3XQU05MY", 
+            "ts": "1485734033.000024"
+        }, 
+        {
+            "text": "It looks like the monitoring page on port 4040 is no longer supported.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485733454.000023"
+        }, 
+        {
+            "text": "If you\u2019ve set up the proxy successfully in Firefox, you now can access the Spark History Server at <http://ec2-XX-XX-XX-XX.us-west-2.compute.amazonaws.com:18080> (substitute your cluster master hostname)", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485733439.000022"
+        }, 
+        {
+            "text": "so you divert the error log into a file and output only the good parts", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485732790.000021"
+        }, 
+        {
+            "text": "and I would even suggest running :\n```\nspark-submit --master yarn sent_analysis.py <s3a://jfomhover/datasets/reviews_Video_Games_5.json.gz> 2&gt; error.log\n```", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485732745.000019", 
+            "edited": {
+                "user": "U28PELW9E", 
+                "ts": "1485732757.000000"
+            }
+        }, 
+        {
+            "text": "thanks", 
+            "type": "message", 
+            "user": "U3XNT2SAF", 
+            "ts": "1485732636.000018"
+        }, 
+        {
+            "text": "yes it is", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485732632.000017"
+        }, 
+        {
+            "text": "is the full command: _spark-submit --master yarn sent_analysis.py <s3a://jfomhover/datasets/reviews_Musical_Instruments_5.json.gz_> ?", 
+            "type": "message", 
+            "user": "U3XNT2SAF", 
+            "ts": "1485732327.000016"
+        }, 
+        {
+            "text": "```\nsent_analysis.py <s3a://jfomhover/datasets/reviews_Musical_Instruments_5.json.gz>\n```", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485731846.000015"
+        }, 
+        {
+            "text": "<s3a://jfomhover/datasets/reviews_Musical_Instruments_5.json.gz>", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485731831.000014"
+        }, 
+        {
+            "text": "fyi - nice article from Netflix on recommendations and issues with ratings: <http://techblog.netflix.com/2012/04/netflix-recommendations-beyond-5-stars.html>", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485718093.000012", 
+            "attachments": [
+                {
+                    "image_bytes": 103246, 
+                    "title": "Netflix Recommendations: Beyond the 5 stars (Part 1)", 
+                    "text": "by Xavier Amatriain and Justin Basilico (Personalization Science and Engineering) In this two-part blog post, we will open the doors of one...", 
+                    "image_width": 400, 
+                    "title_link": "http://techblog.netflix.com/2012/04/netflix-recommendations-beyond-5-stars.html", 
+                    "image_height": 250, 
+                    "image_url": "http://4.bp.blogspot.com/-22y2c1qT3CA/T3-aKF-i6pI/AAAAAAAAAO0/nCJZ2OotiRw/w1200-h630-p-k-nu/NetflixPrize.png", 
+                    "service_name": "techblog.netflix.com", 
+                    "id": 1, 
+                    "fallback": "Netflix Recommendations: Beyond the 5 stars (Part 1)", 
+                    "service_icon": "http://techblog.netflix.com/favicon.ico", 
+                    "from_url": "http://techblog.netflix.com/2012/04/netflix-recommendations-beyond-5-stars.html"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "ok_hand", 
+                    "users": [
+                        "U3YFCUCSJ", 
+                        "U1VN4QD29"
+                    ]
+                }
+            ], 
+            "text": "I'll take 'Bag Of Words' for $200. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485713613.000011"
+        }, 
+        {
+            "text": "Walkthrough 1 is suffixed `bow`\u2026 what does that stand for?", 
+            "type": "message", 
+            "user": "U3YFCUCSJ", 
+            "ts": "1485712944.000010"
+        }, 
+        {
+            "text": "<@U3XNT2SAF> That\u2019s a different error, indicating that the `AWS_ACCESS_KEY_ID` being used by `aws-cli` is not the current one. You can try `aws configure list` to see where it\u2019s getting your access key ID.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485712243.000009"
+        }, 
+        {
+            "text": "I tried to get new aws keys this morning but they still don't work- I'm getting the _\"An error occurred (InvalidAccessKeyId) when calling the ListBuckets operation: The AWS Access Key Id you provided does not exist in our records.\"_", 
+            "type": "message", 
+            "user": "U3XNT2SAF", 
+            "ts": "1485711030.000008"
+        }, 
+        {
+            "text": "Sorry to hear that <@U3X3JSYCX> we\u2019ll cover module spark-nlpml this morning.", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485709179.000007"
+        }, 
+        {
+            "text": "<@U3WP8T3MZ> let\u2019s try to debug that before the morning starts", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485708371.000006"
+        }, 
+        {
+            "text": "dealing with a stomach bug will try to get in for afternoon sessions", 
+            "type": "message", 
+            "user": "U3X3JSYCX", 
+            "ts": "1485707569.000005"
+        }, 
+        {
+            "text": "I tried upgrading numpy and ipython.", 
+            "type": "message", 
+            "user": "U3WP8T3MZ", 
+            "ts": "1485706033.000004"
+        }, 
+        {
+            "text": "When I try importing nltk in ipython, I get a ValueError: numpy.dtype has the wrong size, try recompiling. Expected 88, got 96. Anyone else have this issue?", 
+            "type": "message", 
+            "user": "U3WP8T3MZ", 
+            "ts": "1485705939.000003"
+        }, 
+        {
+            "text": "<@U3YFCUCSJ> it is classical!", 
+            "type": "message", 
+            "user": "U3V9M7S49", 
+            "ts": "1485676779.000002"
+        }, 
+        {
+            "text": "If anyone is interested into learning more about recommendation engines, my boss authored an _awesome_ book on crowd-sourced data: <https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325>", 
+            "type": "message", 
+            "user": "U3YFCUCSJ", 
+            "ts": "1485654383.000087"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "smile", 
+                    "users": [
+                        "U3YFQ4RPH"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "Kevin Markham", 
+                            "title": "Written by"
+                        }, 
+                        {
+                            "short": true, 
+                            "value": "machine learning, R, popular", 
+                            "title": "Filed under"
+                        }
+                    ], 
+                    "title": "In-depth introduction to machine learning in 15 hours of expert videos", 
+                    "service_name": "Data School", 
+                    "ts": 1409698814, 
+                    "title_link": "http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/", 
+                    "text": "In January 2014, Stanford University professors Trevor Hastie and Rob Tibshirani (authors of the legendary Elements of Statistical Learning textbook) taught an online course based on their newest textbook, An Introduction to Statistical Learning with Applications in R (ISLR). I found it to be an excellent course in statistical learning...", 
+                    "id": 1, 
+                    "fallback": "Data School: In-depth introduction to machine learning in 15 hours of expert videos", 
+                    "service_icon": "http://www.dataschool.io/apple-touch-icon-57x57.png", 
+                    "from_url": "http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/"
+                }
+            ], 
+            "text": "If you\u2019re into Data Science and Machine Learning, we recommend this ressource for an in-depth introduction : <http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/> (there\u2019s a link to download \u201cIntroduction to Statistical Learning\u201d in PDF which is a classical textbook of the domain)", 
+            "ts": "1485652096.000085", 
+            "user": "U28PELW9E", 
+            "type": "message"
+        }, 
+        {
+            "text": "(spark-intro, spark-sql and spark-nlpml have been ported to python3, it is kind of experimental but should work)", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485651457.000084"
+        }, 
+        {
+            "text": "by the way, there is a new branch in the spark-workshop repo for python3 versions of the notebooks we use :\n`<https://github.com/zipfian/spark-workshop/tree/python3>`", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485651422.000083"
+        }, 
+        {
+            "text": "\u2026 that and try to make the assignment spark-sql if you haven\u2019t finished it :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485651380.000082"
+        }, 
+        {
+            "text": "Homework for tomorrow:\n- install nltk : `conda install nltk`\n- download corporas for nltk: type the following in a terminal\n```\nipython -c \"import nltk; \\\nnltk.download('stopwords'); \\\nnltk.download('punkt'); \\\nnltk.download('averaged_perceptron_tagger'); \\\nnltk.download('maxent_treebank_pos_tagger')\"\n```", 
+            "type": "message", 
+            "user": "U28PELW9E", 
+            "ts": "1485651342.000081"
+        }, 
+        {
+            "text": "for anyone having trouble creating ssl tunnel, the jupyter port is 8889 instead of 9999", 
+            "type": "message", 
+            "user": "U3V9M7S49", 
+            "ts": "1485649467.000080"
+        }, 
+        {
+            "text": "us-west-2", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485647633.000079"
+        }, 
+        {
+            "text": "what is the default region?", 
+            "type": "message", 
+            "user": "U3YDLM6F8", 
+            "ts": "1485647625.000078"
+        }, 
+        {
+            "text": "*warning* you\u2019ll need to change the hostname", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485645387.000077"
+        }, 
+        {
+            "text": "```# PySpark Cluster\nHost spark\n  HostName <http://ec2-54-214-188-138.us-west-2.compute.amazonaws.com|ec2-54-214-188-138.us-west-2.compute.amazonaws.com>\n  User hadoop\n  IdentityFile ~/.ssh/sparkfun.pem```", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485645377.000076"
+        }, 
+        {
+            "text": "This is the mod I had to do...\n\n```\n\nexport AWS_ACCESS_KEY_ID=$(tail -n 1 $AWS_CREDENTIALS_FILE | cut -f 3 -d ,)\nexport AWS_SECRET_ACCESS_KEY=$(tail -n 1 $AWS_CREDENTIALS_FILE | cut -f 4 -d ,)\n\n```\n\n...note the changed cut arguments.", 
+            "type": "message", 
+            "user": "U3XQU05MY", 
+            "ts": "1485644084.000075"
+        }, 
+        {
+            "username": "miles", 
+            "display_as_bot": false, 
+            "text": "<@U1VN4QD29|miles> uploaded a file: <https://gstudents.slack.com/files/miles/F3XQ3TB99/-.sh|Untitled> and commented: Note: the credentials filename may be `credentials.csv` or `accessKeys.csv`", 
+            "upload": true, 
+            "ts": "1485643689.000074", 
+            "subtype": "file_share", 
+            "user": "U1VN4QD29", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Note: the credentials filename may be `credentials.csv` or `accessKeys.csv`", 
+                    "created": 1485643689, 
+                    "timestamp": 1485643689, 
+                    "is_intro": true, 
+                    "user": "U1VN4QD29", 
+                    "id": "Fc3X5BM5J4"
+                }, 
+                "filetype": "shell", 
+                "lines_more": 0, 
+                "channels": [
+                    "C3V9FR7FB"
+                ], 
+                "display_as_bot": false, 
+                "id": "F3XQ3TB99", 
+                "size": 245, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3XQ3TB99/-.sh", 
+                "ims": [], 
+                "preview": "# Add AWS keys to environment\r\nexport AWS_CREDENTIALS_FILE=$HOME/.aws/credentials.csv\r\nexport AWS_ACCESS_KEY_ID=$(tail -n 1 $AWS_CREDENTIALS_FILE | cut -f 2 -d ,)\r\nexport AWS_SECRET_ACCESS_KEY=$(tail -n 1 $AWS_CREDENTIALS_FILE | cut -f 3 -d ,)\r\n", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/miles/F3XQ3TB99/-.sh/edit", 
+                "username": "", 
+                "timestamp": 1485643689, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3XQ3TB99/download/-.sh", 
+                "user": "U1VN4QD29", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Shell", 
+                "name": "-.sh", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3XQ3TB99-da67d1aaf5", 
+                "permalink": "https://gstudents.slack.com/files/miles/F3XQ3TB99/-.sh", 
+                "is_external": false, 
+                "created": 1485643689, 
+                "lines": 5, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\"># Add AWS keys to environment</span></pre></div>\n<div><pre><span class=\"cm-keyword\">export</span> <span class=\"cm-def\">AWS_CREDENTIALS_FILE</span><span class=\"cm-operator\">=</span><span class=\"cm-def\">$HOME</span>/.aws/credentials.csv</pre></div>\n<div><pre><span class=\"cm-keyword\">export</span> <span class=\"cm-def\">AWS_ACCESS_KEY_ID</span><span class=\"cm-operator\">=</span><span class=\"cm-quote\">$(tail -n 1 </span><span class=\"cm-def\">$AWS_CREDENTIALS_FILE</span><span class=\"cm-quote\"> | cut -f 2 -d ,)</span></pre></div>\n<div><pre><span class=\"cm-keyword\">export</span> <span class=\"cm-def\">AWS_SECRET_ACCESS_KEY</span><span class=\"cm-operator\">=</span><span class=\"cm-quote\">$(tail -n 1 </span><span class=\"cm-def\">$AWS_CREDENTIALS_FILE</span><span class=\"cm-quote\"> | cut -f 3 -d ,)</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "could you add the terminal syntax for deleting those two files to the chat?", 
+            "type": "message", 
+            "user": "U3XNT2SAF", 
+            "ts": "1485641168.000073"
+        }, 
+        {
+            "text": "Who is going to tell Jeff his hair is sticking up straight?", 
+            "type": "message", 
+            "user": "U3XQU05MY", 
+            "ts": "1485638386.000072"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "kissing", 
+                    "users": [
+                        "U3XQST7DY"
+                    ]
+                }
+            ], 
+            "text": "the data is local in `data/users`", 
+            "type": "message", 
+            "user": "U3YFQ4RPH", 
+            "ts": "1485634896.000071"
+        }, 
+        {
+            "text": "Nope.  I'm getting a kind of auth error.", 
+            "type": "message", 
+            "user": "U3XQU05MY", 
+            "ts": "1485634892.000070"
+        }, 
+        {
+            "text": "Anyone else able to pull the 'user' data from S3?  (java.io.IOException: Bucket sparkdatasets does not exist)", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485634811.000069"
+        }, 
+        {
+            "text": "It\u2019s still Hive under the hood (the metastore DB is still configured in `hive-site.xml`), but it supports SQL 2003.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485630921.000068"
+        }, 
+        {
+            "text": "thank you -- so many SQL on hadoop tools, so little time. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485630856.000067"
+        }, 
+        {
+            "text": "<@U3XQST7DY> <http://spark.apache.org/releases/spark-release-2-0-0.html#sql>", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485630798.000066"
+        }, 
+        {
+            "text": "(Welcome!)", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485630753.000065"
+        }, 
+        {
+            "text": "This is the workshop.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485630718.000064"
+        }, 
+        {
+            "text": "Is this the slack channel for the the workshop that's going on right now? Or is this a general channel?", 
+            "type": "message", 
+            "user": "U3YFQ4RPH", 
+            "ts": "1485630505.000063"
+        }, 
+        {
+            "text": "<@U3XQU05MY> Details, if you like reading things like PEPs and RFCs: <https://www.python.org/dev/peps/pep-3113/>", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485630037.000061", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://www.python.org/static/apple-touch-icon-precomposed.png", 
+                    "thumb_width": 200, 
+                    "title": "PEP 3113 -- Removal of Tuple Parameter Unpacking", 
+                    "service_name": "Python.org", 
+                    "title_link": "https://www.python.org/dev/peps/pep-3113/", 
+                    "text": "The official home of the Python Programming Language", 
+                    "id": 1, 
+                    "fallback": "Python.org: PEP 3113 -- Removal of Tuple Parameter Unpacking", 
+                    "thumb_url": "https://www.python.org/static/opengraph-icon-200x200.png", 
+                    "from_url": "https://www.python.org/dev/peps/pep-3113/"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U3XQU05MY> ```\ndef casting_function(line):\n    \"\"\"Parse a line of text into ID, date, store, state, product, and amount.\"\"\"\n    id, date, store, state, product, amount = line\n    return((int(id), date, int(store), state, int(product), float(amount), int(id)+int(product)))\n```", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485629816.000060"
+        }, 
+        {
+            "text": "Running spark on alluxio = 100x performance increase at Alibaba", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485629612.000059"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VN4QD29"
+                    ]
+                }
+            ], 
+            "text": "Off topic, but lots of interesting storage options using Alluxio (Tachyon), Ignite, or even Hazelcast", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485629571.000058"
+        }, 
+        {
+            "text": "Absolutely! So you can persist an object in memory and/or to disk to prevent the need to reload from S3.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485629524.000057"
+        }, 
+        {
+            "text": "RE: S3 -- given storage is cheap (free) then I want to optimize response time rather than storage space.", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485629456.000056"
+        }, 
+        {
+            "text": "Ahh, I see", 
+            "type": "message", 
+            "user": "U3YFCUCSJ", 
+            "ts": "1485629398.000055"
+        }, 
+        {
+            "text": "One still has the option of storing replicated data in HDFS, but one must decide to do so. It is not the default action.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485629396.000054"
+        }, 
+        {
+            "text": "Instead of replicating the data by default, Spark remembers where it came from. If data is lost, Spark will get it again from the same source.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485629376.000053"
+        }, 
+        {
+            "text": "(a replication factor of 3 is the default in Hadoop)", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485629322.000052"
+        }, 
+        {
+            "text": "If I store it in HDFS, by default, it will be replicated 3 times on my cluster and will use 30GB of storage.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485629295.000051"
+        }, 
+        {
+            "text": "Imagine that I download 10GB of data from an S3 bucket.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485629258.000050"
+        }, 
+        {
+            "text": "I see\u2026 but how is that related to resiliency?", 
+            "type": "message", 
+            "user": "U3YFCUCSJ", 
+            "ts": "1485629236.000049"
+        }, 
+        {
+            "text": "I\u2019ll update it for Python 3 on my end and paste the revised code in here. Standby.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485628910.000048"
+        }, 
+        {
+            "text": "No dice.", 
+            "type": "message", 
+            "user": "U3XQU05MY", 
+            "ts": "1485628884.000047"
+        }, 
+        {
+            "text": "(pardon my nerdspeak)", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485628852.000046"
+        }, 
+        {
+            "text": "In other words, it\u2019s not clueless about how the data was generated. It knows exactly how it was generated. So, \u201cclueful\u201d is the opposite of \u201cclueless.\u201d", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485628830.000045"
+        }, 
+        {
+            "text": "So, if a portion of the data is lost, it can repeat the action that were taken to generate it.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485628804.000044"
+        }, 
+        {
+            "text": "Spark maintains a graph of the actions used to generate each RDD.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485628787.000043"
+        }, 
+        {
+            "text": "Ok, saw that on the signature definition\u2013I'll try another change.", 
+            "type": "message", 
+            "user": "U3XQU05MY", 
+            "ts": "1485628760.000042"
+        }, 
+        {
+            "text": "(in other words, it\u2019s clueless about the origin of the data)", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485628757.000041"
+        }, 
+        {
+            "text": "So, HDFS stores multiple copies of each row of data. But it doesn\u2019t know how the data got there.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485628739.000040"
+        }, 
+        {
+            "text": "Oops. Yes. Sorry.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485628727.000039"
+        }, 
+        {
+            "text": "<@U1VN4QD29> can you explain the concept of _cluefulness_?", 
+            "type": "message", 
+            "user": "U3YFCUCSJ", 
+            "ts": "1485628715.000038"
+        }, 
+        {
+            "text": "<@U3XQU05MY> The issue is that Python 3 no longer unpacks tuples in function arguments (including lambdas).", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485628537.000036"
+        }, 
+        {
+            "text": "<@U3XQST7DY> Fortunately for us all, Spark 2 supports SQL fully. Stay on board. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485628316.000035"
+        }, 
+        {
+            "text": "<@U3XQU05MY> You bet!", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485628275.000034"
+        }, 
+        {
+            "text": "RE: RDD Join -- guessing Spark is using the column name 'State' -- this seems confusing compared to SQL -- join on a.c1 = b.c1", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485628141.000033"
+        }, 
+        {
+            "text": "<@U3X4CTSFJ|gabriel.hug> has joined the channel", 
+            "type": "message", 
+            "user": "U3X4CTSFJ", 
+            "ts": "1485628110.000032", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1VN4QD29> I'm not able to modify the casting function or lambdas to work on 3.5.2\u2013can you look at this with me when there's a break?", 
+            "type": "message", 
+            "user": "U3XQU05MY", 
+            "ts": "1485628060.000031"
+        }, 
+        {
+            "text": "<@U3XQST7DY> It certainly may be a lot faster to generate an RDD from HDFS than from S3, *especially* if your Spark cluster isn\u2019t on AWS.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485627565.000030"
+        }, 
+        {
+            "text": "Thank you -- mainly trying to figure out when to pull large data files from S3 vs when to copy from S3 to local storage (HDFS)", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485627265.000029"
+        }, 
+        {
+            "text": "<@U3XQST7DY> Let me know if I answered the right question. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485627206.000027"
+        }, 
+        {
+            "text": "So, whereas HDFS is resilient solely due to redundancy, Spark is resilient primarily via cluefulness.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485627165.000026"
+        }, 
+        {
+            "username": "miles", 
+            "display_as_bot": false, 
+            "text": "<@U1VN4QD29|miles> uploaded a file: <https://gstudents.slack.com/files/miles/F3X53S857/-.txt|Untitled> and commented: <http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/nsdi_spark.pdf>", 
+            "upload": true, 
+            "ts": "1485627110.000025", 
+            "subtype": "file_share", 
+            "user": "U1VN4QD29", 
+            "file": {
+                "initial_comment": {
+                    "comment": "<http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/nsdi_spark.pdf>", 
+                    "created": 1485627110, 
+                    "timestamp": 1485627110, 
+                    "is_intro": true, 
+                    "user": "U1VN4QD29", 
+                    "id": "Fc3XP2MVPD"
+                }, 
+                "filetype": "text", 
+                "lines_more": 0, 
+                "channels": [
+                    "C3V9FR7FB"
+                ], 
+                "display_as_bot": false, 
+                "id": "F3X53S857", 
+                "size": 1295, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3X53S857/-.txt", 
+                "ims": [], 
+                "preview": "The main challenge in designing RDDs is defining a programming interface that can provide fault tolerance efficiently. Existing abstractions for in-memory storage on clusters, such as distributed shared memory [24], key- value stores [25], databases, and Piccolo [27], offer an interface based on fine-grained updates to mutable state (e.g., cells in a table). With this interface, the only ways to provide fault tolerance are to replicate the data across machines or to log updates across machines. Both ap- proaches are expensive for data-intensive workloads, as they require copying large amounts of data over the clus- ter network, whose bandwidth is far lower than that of RAM, and they incur substantial storage overhead.\r\nIn contrast to these systems, RDDs provide an inter- face based on coarse-grained transformations (e.g., map, filter and join) that apply the same operation to many data items. This allows them to efficiently provide fault tolerance by logging the transformations used to build a dataset (its li...", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/miles/F3X53S857/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1485627110, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3X53S857/download/-.txt", 
+                "user": "U1VN4QD29", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3X53S857-3ca52495e3", 
+                "permalink": "https://gstudents.slack.com/files/miles/F3X53S857/-.txt", 
+                "is_external": false, 
+                "created": 1485627110, 
+                "lines": 2, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>The main challenge in designing RDDs is defining a programming interface that can provide fault tolerance efficiently. Existing abstractions for in-memory storage on clusters, such as distributed shared memory [24], key- value stores [25], databases, and Piccolo [27], offer an interface based on fine-grained updates to mutable state (e.g., cells in a table). With this interface, the only ways to provide fault tolerance are to replicate the data across machines or to log updates across machines. Both ap- proaches are expensive for data-intensive workloads, as they require copying large amounts of data over the clus- ter network, whose bandwidth is far lower than that of RAM, and they incur substantial storage overhead.</pre></div>\n<div><pre>In contrast to these systems, RDDs provide an inter- face based on coarse-grained transformations (e.g., map, filter and join) that apply the same operation to many data items. This allows them to efficiently provide fault tolerance by logging the transformations used to build a dataset (its li...</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "It\u2019s not quite the same as Hadoop. HDFS makes sure to store multiple copies of each row, whereas Spark maintains a graph of the actions necessary to reconstitute each row.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485626930.000024"
+        }, 
+        {
+            "text": "TY - understand lazy data binding, but wondering how the data from S3 gets copied to multiple data nodes in the Spark cluster as compared to HDFS which has separate data nodes.", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485626800.000023"
+        }, 
+        {
+            "text": "```&gt;&gt;&gt; pyspark.__version__\n\u20182.1.0+hadoop2.7\u2019```", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485626775.000021", 
+            "edited": {
+                "user": "U1VN4QD29", 
+                "ts": "1485626780.000000"
+            }
+        }, 
+        {
+            "text": ":tophat:", 
+            "type": "message", 
+            "user": "U3XQU05MY", 
+            "ts": "1485626733.000020"
+        }, 
+        {
+            "text": "2.1", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485626726.000019"
+        }, 
+        {
+            "text": "What version of the PySpark API is used for this class?", 
+            "type": "message", 
+            "user": "U3XQU05MY", 
+            "ts": "1485626721.000018"
+        }, 
+        {
+            "text": "Yes. But, due to lazy evaluation, it won\u2019t even access the S3 bucket until it needs to return results.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485626697.000017"
+        }, 
+        {
+            "text": "RE: S3 access -- how does pulling a large file into a cluster work? Will the RDD distribute the data over the nodes?", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485626623.000016"
+        }, 
+        {
+            "text": "I\u2019ll come up front.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485626090.000015"
+        }, 
+        {
+            "text": "I can help.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485626084.000014"
+        }, 
+        {
+            "text": "I keep getting a long error in Juptyer that starts - Py4JJavaError  An error occurred while calling None.org.apache.spark.api.java.JavaSparkContext", 
+            "type": "message", 
+            "user": "U3XNT2SAF", 
+            "ts": "1485626077.000013"
+        }, 
+        {
+            "text": "Correct. It can be serialized as Parquet in memory if storage constraints require that, but then Spark has to deserialize it each time an operation is performed.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485625857.000012"
+        }, 
+        {
+            "text": "Thank you\nSpark can read Parquet files, but is the RDD actually in the Parquet column-store format? I'm guessing 'no' since the aggregation and other RDD functions are ties to the JVM data objects.", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485625811.000011"
+        }, 
+        {
+            "edited": {
+                "user": "U1VN4QD29", 
+                "ts": "1485625647.000000"
+            }, 
+            "attachments": [
+                {
+                    "title": "Spark Programming Guide - Spark 2.1.0 Documentation", 
+                    "text": "Spark 2.1.0 programming guide in Java, Scala and Python", 
+                    "title_link": "http://spark.apache.org/docs/latest/programming-guide.html#rdd-persistence", 
+                    "service_name": "spark.apache.org", 
+                    "id": 1, 
+                    "fallback": "Spark Programming Guide - Spark 2.1.0 Documentation", 
+                    "service_icon": "http://spark.apache.org/favicon.ico", 
+                    "from_url": "http://spark.apache.org/docs/latest/programming-guide.html#rdd-persistence"
+                }
+            ], 
+            "text": "<@U3XQST7DY> To answer the question about how RDDs are stored behind the scenes: by default, RDDs are kept in memory as JVM objects. However, Spark can be configured to store RDDs in a variety of ways, including serializing them to a compressed format called Parquet in memory or on disk. Details here: <http://spark.apache.org/docs/latest/programming-guide.html#rdd-persistence>", 
+            "ts": "1485625584.000007", 
+            "user": "U1VN4QD29", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U3XQU05MY|dalek> has joined the channel", 
+            "type": "message", 
+            "user": "U3XQU05MY", 
+            "ts": "1485623145.000006", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3YFCUCSJ|zeantsoi> has joined the channel", 
+            "type": "message", 
+            "user": "U3YFCUCSJ", 
+            "ts": "1485623045.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3XNT2SAF|sarah_shipley> has joined the channel", 
+            "type": "message", 
+            "user": "U3XNT2SAF", 
+            "ts": "1485623038.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3YFQ4RPH|lewisinc> has joined the channel", 
+            "type": "message", 
+            "user": "U3YFQ4RPH", 
+            "ts": "1485622992.000003", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3XQST7DY|sbethune> has joined the channel", 
+            "type": "message", 
+            "user": "U3XQST7DY", 
+            "ts": "1485622705.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3YDLM6F8|nadiya> has joined the channel", 
+            "type": "message", 
+            "user": "U3YDLM6F8", 
+            "ts": "1485588556.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Great, thanks guys.", 
+            "type": "message", 
+            "user": "U3X3JSYCX", 
+            "ts": "1485557846.000002"
+        }, 
+        {
+            "text": "<@U3WP8T3MZ|kbetts> has joined the channel", 
+            "type": "message", 
+            "user": "U3WP8T3MZ", 
+            "ts": "1485438869.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "But, if you're installing Anaconda for the first time, using the 2.7 version will be easiest.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485384352.000012"
+        }, 
+        {
+            "text": "Steve is right: regardless of whether you use the 2.7 or 3.5 installer, you can use `conda` to install additional virtual environments with the Python version of your choice.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485384289.000011"
+        }, 
+        {
+            "text": "I think Bill was asking which anaconda installer should be used rather than  the actual python env. I think you could use either installer to install anaconda depends on your system configs, then you could  create virtual python env with different python version using anaconda.", 
+            "type": "message", 
+            "user": "U3V9M7S49", 
+            "ts": "1485382518.000010"
+        }, 
+        {
+            "text": "Please feel free to ask questions here in this Slack channel.\n\nWe also have a Spark Installation Party meetup tonight at 6:30 p.m., here at Galvanize, and all of you are invited: <https://www.eventbrite.com/e/seattle-data-science-workshop-apache-spark-installation-party-125-tickets-30567943542?aff=es2>", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485368831.000009"
+        }, 
+        {
+            "text": "If you want to use your own computer at the workshop, you will need to have Spark installed before you arrive.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485368723.000008"
+        }, 
+        {
+            "text": "Welcome, everyone! Thanks for getting started on the installations.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485368693.000007"
+        }, 
+        {
+            "text": "This class will be using Python 2.7. We are big fans of Python 3, but we won't be using it this weekend.", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485368674.000006"
+        }, 
+        {
+            "text": "question on anaconda install - python 2.7 or 3.5?", 
+            "type": "message", 
+            "user": "U3X3JSYCX", 
+            "ts": "1485366962.000005"
+        }, 
+        {
+            "text": ":octopus:", 
+            "type": "message", 
+            "user": "U3X3JSYCX", 
+            "ts": "1485366124.000004"
+        }, 
+        {
+            "text": "<@U3X3JSYCX|billillib> has joined the channel", 
+            "type": "message", 
+            "user": "U3X3JSYCX", 
+            "ts": "1485366063.000003", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U33GBLQTF>", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1485298677.000011"
+        }, 
+        {
+            "text": "<@U3V9M7S49|stevegocoding> has joined the channel", 
+            "type": "message", 
+            "user": "U3V9M7S49", 
+            "ts": "1485296926.000010", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2N5QR0RG|jennkey827> has joined the channel", 
+            "ts": "1485296888.000009", 
+            "subtype": "channel_join", 
+            "user": "U2N5QR0RG", 
+            "type": "message", 
+            "inviter": "U1TU3PLMB"
+        }, 
+        {
+            "text": ":tada: :galvanize:", 
+            "type": "message", 
+            "user": "U1VN4QD29", 
+            "ts": "1485296301.000007", 
+            "edited": {
+                "user": "U1VN4QD29", 
+                "ts": "1485296308.000000"
+            }
+        }, 
+        {
+            "text": "<@U33GBLQTF|amarawilson> has joined the channel", 
+            "ts": "1485296291.000006", 
+            "subtype": "channel_join", 
+            "user": "U33GBLQTF", 
+            "type": "message", 
+            "inviter": "U1TU3PLMB"
+        }, 
+        {
+            "text": "<@U1TV4KHUP|caroleolivier> has joined the channel", 
+            "ts": "1485296291.000005", 
+            "subtype": "channel_join", 
+            "user": "U1TV4KHUP", 
+            "type": "message", 
+            "inviter": "U1TU3PLMB"
+        }, 
+        {
+            "text": "<@U28PELW9E|jf.omhover> has joined the channel", 
+            "ts": "1485296282.000004", 
+            "subtype": "channel_join", 
+            "user": "U28PELW9E", 
+            "type": "message", 
+            "inviter": "U1TU3PLMB"
+        }, 
+        {
+            "text": "<@U1VN4QD29|miles> has joined the channel", 
+            "ts": "1485296282.000003", 
+            "subtype": "channel_join", 
+            "user": "U1VN4QD29", 
+            "type": "message", 
+            "inviter": "U1TU3PLMB"
+        }, 
+        {
+            "text": "<@U1TU3PLMB|katieparker> has joined the channel", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1485296263.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "17-01-ws-sea-sb", 
+        "name": "17-01-ws-sea-sb", 
+        "is_channel": true, 
+        "created": 1485296263, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1TU3PLMB", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U1TV4KHUP", 
+            "U28PELW9E", 
+            "U2N5QR0RG", 
+            "U3VUPGQQK", 
+            "U48RD8RA6", 
+            "U4CTPDQ2K"
+        ], 
+        "id": "C3V9FR7FB", 
+        "is_shared": false
+    }
+}

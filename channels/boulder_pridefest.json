@@ -1,0 +1,756 @@
+{
+    "messages": [
+        {
+            "text": "<@U1Z9D27QD|tara.mclauchlan> has left the channel", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1486447937.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W6A7QLR|limawebdev> has left the channel", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1474745951.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "except maria because fb doesn\u2019t want us", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1474416028.000012"
+        }, 
+        {
+            "text": "and adding you all as fwands.", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1474415984.000011"
+        }, 
+        {
+            "text": "i\u2019m putting these on fb", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1474415980.000010"
+        }, 
+        {
+            "text": ":heart: :heart: :heart:", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1474393912.000009"
+        }, 
+        {
+            "text": "my face in every photo", 
+            "type": "message", 
+            "user": "U1W4YNBT4", 
+            "ts": "1474390323.000008"
+        }, 
+        {
+            "text": "hehehehe. my face in the first photo", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1474389957.000007"
+        }, 
+        {
+            "text": "great balloons! it looks like such a fun tent", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1474389775.000006"
+        }, 
+        {
+            "text": ":bob_ross:", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1474389736.000005"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "flying_squirrel", 
+                    "users": [
+                        "U1X83R62E", 
+                        "U1XJ4CWJW"
+                    ]
+                }
+            ], 
+            "text": "\u2026.delayed photo upload\u2026 :-d", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1474389719.000004"
+        }, 
+        {
+            "username": "tara.mclauchlan", 
+            "display_as_bot": false, 
+            "text": "<@U1Z9D27QD|tara.mclauchlan> uploaded a file: <https://gstudents.slack.com/files/tara.mclauchlan/F2DN4PC9H/img_0940.jpg|IMG 0940>", 
+            "upload": true, 
+            "ts": "1474389712.000003", 
+            "subtype": "file_share", 
+            "user": "U1Z9D27QD", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2DN4PC9H-a5d111f2e1/img_0940_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2DN4PC9H-a5d111f2e1/img_0940_64.jpg", 
+                "size": 3173584, 
+                "original_h": 3024, 
+                "thumb_360_w": 360, 
+                "title": "IMG 0940", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2DN4PC9H/img_0940.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2DN4PC9H-a5d111f2e1/img_0940_360.jpg", 
+                "id": "F2DN4PC9H", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2DN4PC9H-a5d111f2e1/img_0940_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1474389707, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2DN4PC9H-a5d111f2e1/img_0940_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2DN4PC9H/download/img_0940.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F2DN4PC9H-a5d111f2e1/img_0940_1024.jpg", 
+                "user": "U1Z9D27QD", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F2DN4PC9H-a5d111f2e1/img_0940_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_0940.JPG", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2DN4PC9H-8ff4ae5cbf", 
+                "permalink": "https://gstudents.slack.com/files/tara.mclauchlan/F2DN4PC9H/img_0940.jpg", 
+                "is_external": false, 
+                "created": 1474389707, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 4032, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F2DN4PC9H-a5d111f2e1/img_0940_720.jpg", 
+                "channels": [
+                    "C250W2E2E"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "tara.mclauchlan", 
+            "display_as_bot": false, 
+            "text": "<@U1Z9D27QD|tara.mclauchlan> uploaded a file: <https://gstudents.slack.com/files/tara.mclauchlan/F2DPKNWP8/img_0942.jpg|IMG 0942>", 
+            "upload": true, 
+            "ts": "1474389695.000002", 
+            "subtype": "file_share", 
+            "user": "U1Z9D27QD", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2DPKNWP8-4eca587b7b/img_0942_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2DPKNWP8-4eca587b7b/img_0942_64.jpg", 
+                "size": 3105658, 
+                "original_h": 3024, 
+                "thumb_360_w": 360, 
+                "title": "IMG 0942", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2DPKNWP8/img_0942.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2DPKNWP8-4eca587b7b/img_0942_360.jpg", 
+                "id": "F2DPKNWP8", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2DPKNWP8-4eca587b7b/img_0942_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1474389690, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2DPKNWP8-4eca587b7b/img_0942_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2DPKNWP8/download/img_0942.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F2DPKNWP8-4eca587b7b/img_0942_1024.jpg", 
+                "user": "U1Z9D27QD", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F2DPKNWP8-4eca587b7b/img_0942_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_0942.JPG", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2DPKNWP8-238cd209e4", 
+                "permalink": "https://gstudents.slack.com/files/tara.mclauchlan/F2DPKNWP8/img_0942.jpg", 
+                "is_external": false, 
+                "created": 1474389690, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 4032, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F2DPKNWP8-4eca587b7b/img_0942_720.jpg", 
+                "channels": [
+                    "C250W2E2E"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "it was a lot of fun!  proud to do it!", 
+            "type": "message", 
+            "user": "U1W4YNBT4", 
+            "ts": "1473650211.000009"
+        }, 
+        {
+            "text": "HUGE amounts of gratitude towards you all! It was fun hanging out, and you all rep\u2019d Galvanize so incredibly well. Feeling proud and grateful!!", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473649803.000008"
+        }, 
+        {
+            "username": "matieub", 
+            "display_as_bot": false, 
+            "text": "<@U1X83R62E|matieub> uploaded a file: <https://gstudents.slack.com/files/matieub/F2AFGJ5Q8/slack_for_ios_upload.jpg|Slack for iOS Upload>", 
+            "upload": true, 
+            "ts": "1473645302.000006", 
+            "subtype": "file_share", 
+            "user": "U1X83R62E", 
+            "file": {
+                "thumb_480_w": 360, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "lemon", 
+                        "users": [
+                            "U1W6A7QLR"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2AFGJ5Q8-f488186dbd/slack_for_ios_upload_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2AFGJ5Q8-f488186dbd/slack_for_ios_upload_64.jpg", 
+                "size": 621377, 
+                "original_h": 1632, 
+                "thumb_360_w": 270, 
+                "title": "Slack for iOS Upload", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2AFGJ5Q8/slack_for_ios_upload.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2AFGJ5Q8-f488186dbd/slack_for_ios_upload_360.jpg", 
+                "id": "F2AFGJ5Q8", 
+                "ims": [], 
+                "thumb_720_w": 540, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2AFGJ5Q8-f488186dbd/slack_for_ios_upload_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473645297, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2AFGJ5Q8-f488186dbd/slack_for_ios_upload_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2AFGJ5Q8/download/slack_for_ios_upload.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F2AFGJ5Q8-f488186dbd/slack_for_ios_upload_1024.jpg", 
+                "user": "U1X83R62E", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F2AFGJ5Q8-f488186dbd/slack_for_ios_upload_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Slack for iOS Upload.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2AFGJ5Q8-ecd19b0a3b", 
+                "permalink": "https://gstudents.slack.com/files/matieub/F2AFGJ5Q8/slack_for_ios_upload.jpg", 
+                "is_external": false, 
+                "created": 1473645297, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 1224, 
+                "thumb_960_w": 720, 
+                "thumb_1024_w": 768, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F2AFGJ5Q8-f488186dbd/slack_for_ios_upload_720.jpg", 
+                "channels": [
+                    "C250W2E2E"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "bensen", 
+                    "users": [
+                        "U1W4YNBT4"
+                    ]
+                }
+            ], 
+            "text": "<!channel> thanks soooo much all of you for showing up today :) it was a chill time with some meaningful community connections made", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473645191.000005"
+        }, 
+        {
+            "text": "sounds great! good coffee:) thanks", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473622903.000004"
+        }, 
+        {
+            "text": ":rainbow:", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473621386.000003"
+        }, 
+        {
+            "text": "Hey <!channel>! I\u2019m getting some work done at Brewing Market. Holler at me if folks want a rotation out of booth duties \u2014 I\u2019m just 2 blocks away!", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473621382.000002"
+        }, 
+        {
+            "text": "see you then :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473548009.000012"
+        }, 
+        {
+            "text": "I\u2019ll be there a little before 10", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473543879.000011"
+        }, 
+        {
+            "text": "beautiful.", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473543768.000010"
+        }, 
+        {
+            "text": "Classroom code 483967*", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473543744.000009"
+        }, 
+        {
+            "text": "thank you much!", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473543711.000008"
+        }, 
+        {
+            "text": "<@U1Z9D27QD>: I can meet you at galvanize to help load up", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473543695.000007"
+        }, 
+        {
+            "text": "OH! also \u2014 can someone provide me the code to get into the student area? All the codes I have are for the rest of the member area, and weren\u2019t working on the door into the classrooms. The cornhole game is in there, as well as potentially another sign :confused:", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473543661.000006"
+        }, 
+        {
+            "text": "I will be there at 10am to unload stuff; if at least one other person could be there at that time to help set up (i will then need to move my car) that would be most appreciated. Text me tomorrow morning - <tel:(206)940-5155|(206) 940-5155>", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473543568.000005"
+        }, 
+        {
+            "username": "tara.mclauchlan", 
+            "display_as_bot": false, 
+            "text": "<@U1Z9D27QD|tara.mclauchlan> uploaded a file: <https://gstudents.slack.com/files/tara.mclauchlan/F2AB72FPF/vendor_booth_list_updated__1_.png|Vendor Booth list>", 
+            "upload": true, 
+            "ts": "1473543464.000004", 
+            "subtype": "file_share", 
+            "user": "U1Z9D27QD", 
+            "file": {
+                "thumb_480_w": 371, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2AB72FPF-6a6e3eaf6f/vendor_booth_list_updated__1__480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2AB72FPF-6a6e3eaf6f/vendor_booth_list_updated__1__64.png", 
+                "size": 2324376, 
+                "original_h": 3300, 
+                "thumb_360_w": 278, 
+                "title": "Vendor Booth list", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2AB72FPF/vendor_booth_list_updated__1_.png", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2AB72FPF-6a6e3eaf6f/vendor_booth_list_updated__1__360.png", 
+                "id": "F2AB72FPF", 
+                "ims": [], 
+                "thumb_720_w": 556, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2AB72FPF-6a6e3eaf6f/vendor_booth_list_updated__1__80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473543458, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2AB72FPF-6a6e3eaf6f/vendor_booth_list_updated__1__160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2AB72FPF/download/vendor_booth_list_updated__1_.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F2AB72FPF-6a6e3eaf6f/vendor_booth_list_updated__1__1024.png", 
+                "user": "U1Z9D27QD", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F2AB72FPF-6a6e3eaf6f/vendor_booth_list_updated__1__960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "vendor booth list UPDATED (1).png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2AB72FPF-d55c14b953", 
+                "permalink": "https://gstudents.slack.com/files/tara.mclauchlan/F2AB72FPF/vendor_booth_list_updated__1_.png", 
+                "is_external": false, 
+                "created": 1473543458, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 2550, 
+                "thumb_960_w": 742, 
+                "thumb_1024_w": 791, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F2AB72FPF-6a6e3eaf6f/vendor_booth_list_updated__1__720.png", 
+                "channels": [
+                    "C250W2E2E"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "tara.mclauchlan", 
+            "display_as_bot": false, 
+            "text": "<@U1Z9D27QD|tara.mclauchlan> uploaded a file: <https://gstudents.slack.com/files/tara.mclauchlan/F2AB9ET8F/pride_vendor_map_2016__1_.png|pride vendor map 2016 (1).png> and commented: We are in the Youth/Family area (Close to the stage) \u2014 Y8", 
+            "upload": true, 
+            "ts": "1473543129.000003", 
+            "subtype": "file_share", 
+            "user": "U1Z9D27QD", 
+            "file": {
+                "thumb_480_w": 371, 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "We are in the Youth/Family area (Close to the stage) \u2014 Y8", 
+                    "created": 1473543120, 
+                    "timestamp": 1473543120, 
+                    "is_intro": true, 
+                    "user": "U1Z9D27QD", 
+                    "id": "Fc2AB6GV7X"
+                }, 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2AB9ET8F-d5c8730c3d/pride_vendor_map_2016__1__480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2AB9ET8F-d5c8730c3d/pride_vendor_map_2016__1__64.png", 
+                "size": 6562316, 
+                "original_h": 3300, 
+                "thumb_360_w": 278, 
+                "title": "pride vendor map 2016 (1).png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2AB9ET8F/pride_vendor_map_2016__1_.png", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2AB9ET8F-d5c8730c3d/pride_vendor_map_2016__1__360.png", 
+                "id": "F2AB9ET8F", 
+                "ims": [], 
+                "thumb_720_w": 556, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2AB9ET8F-d5c8730c3d/pride_vendor_map_2016__1__80.png", 
+                "comments_count": 1, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473543120, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2AB9ET8F-d5c8730c3d/pride_vendor_map_2016__1__160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2AB9ET8F/download/pride_vendor_map_2016__1_.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F2AB9ET8F-d5c8730c3d/pride_vendor_map_2016__1__1024.png", 
+                "user": "U1Z9D27QD", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F2AB9ET8F-d5c8730c3d/pride_vendor_map_2016__1__960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "pride vendor map 2016 (1).png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2AB9ET8F-57a07db99a", 
+                "permalink": "https://gstudents.slack.com/files/tara.mclauchlan/F2AB9ET8F/pride_vendor_map_2016__1_.png", 
+                "is_external": false, 
+                "created": 1473543120, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 2550, 
+                "thumb_960_w": 742, 
+                "thumb_1024_w": 791, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F2AB9ET8F-d5c8730c3d/pride_vendor_map_2016__1__720.png", 
+                "channels": [
+                    "C250W2E2E"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Hey hey <!channel>! Sorry for the delay, but here are a couple of delightful and helpful docs", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473543057.000002"
+        }, 
+        {
+            "text": "<@U1Z9D27QD> WHERE ARE WE MEETING?!?!?!?!??!!", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1473480087.000003"
+        }, 
+        {
+            "text": "<@U1W59F4FK|ksztengel> has joined the channel", 
+            "ts": "1473480075.000002", 
+            "subtype": "channel_join", 
+            "user": "U1W59F4FK", 
+            "type": "message", 
+            "inviter": "U1W6A7QLR"
+        }, 
+        {
+            "text": "seeya :bob_ross:", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473357051.000013"
+        }, 
+        {
+            "text": "Awesome. See y\u2019all soon!", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473356992.000012"
+        }, 
+        {
+            "text": "c\u2019est bon:rice_ball:", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473356236.000011"
+        }, 
+        {
+            "text": "i\u2019ll come find you; need to grab grub as well.", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1473356177.000010"
+        }, 
+        {
+            "text": "hok.", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1473356165.000009"
+        }, 
+        {
+            "text": "on the 5th floor patio I meant*", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473356137.000008"
+        }, 
+        {
+            "text": "haha, bouchard doesn\u2019t know, maybe Lolitas or chipotle", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473356124.000007"
+        }, 
+        {
+            "text": "that sounds good to me", 
+            "type": "message", 
+            "user": "U1W4YNBT4", 
+            "ts": "1473356091.000006"
+        }, 
+        {
+            "text": "k kewl. where are you going bouchard?", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1473356082.000005"
+        }, 
+        {
+            "text": "we can do a combo, I need to get something so maybe we just meet on the patio at 12:15/12:20 on 2nd floor", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473356065.000004"
+        }, 
+        {
+            "text": "oh, i brought my lunch, i thought we were brown-bagging it", 
+            "type": "message", 
+            "user": "U1W4YNBT4", 
+            "ts": "1473356024.000003"
+        }, 
+        {
+            "text": "anyone want to go somewhere particular for lunch?", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473356002.000002"
+        }, 
+        {
+            "text": "That should be good! I\u2019m coordinating with some folks on other campuses to see what all fun marketing materials we can pull in for the weekend :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473277025.000008"
+        }, 
+        {
+            "text": "alright! was just gonna check with you to confirm too Tara, sounds like a go?", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473276273.000007"
+        }, 
+        {
+            "text": "hooray!", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1473267606.000006"
+        }, 
+        {
+            "text": "ya", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1473262362.000005"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "bensen", 
+                    "users": [
+                        "U1W4YNBT4"
+                    ]
+                }
+            ], 
+            "text": "cool! sounds like tomorrow (Thursday) during lunch we will circle up :bob_ross::sunrise::thinking::rainbow:", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473262353.000004"
+        }, 
+        {
+            "text": "<@U1W3138VD|bamason> has joined the channel", 
+            "ts": "1473262232.000003", 
+            "subtype": "channel_join", 
+            "user": "U1W3138VD", 
+            "type": "message", 
+            "inviter": "U1X83R62E"
+        }, 
+        {
+            "text": "Thursday lunch is good for me", 
+            "type": "message", 
+            "user": "U1W4YNBT4", 
+            "ts": "1473261149.000002"
+        }, 
+        {
+            "text": "yah i\u2019m free whenevs during lunch tmrw works.", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1473209566.000002"
+        }, 
+        {
+            "text": "hey ya\u2019ll! We are looking to talk the 4 of us (Lisa, Maria, Tara and I) on Thursday\u2026is there a time in the afternoon that works, or maybe over lunch?  Pridefest is Sunday 11-6 so be thinking about times you might be free to hang out there :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1473202692.000002"
+        }, 
+        {
+            "text": "Hey <@U1X83R62E> this is super exciting! I\u2019m all in \u2014 let\u2019s chat sometime about logistics and what\u2019s needed to prep for this! :smile:", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1472657566.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1XJ4CWJW"
+                    ]
+                }
+            ], 
+            "text": "we haven\u2019t met or discussed anything yet :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1472505639.000004"
+        }, 
+        {
+            "text": "<@U1Z9D27QD> hey Tara, welcome to Boulder! just letting you know we made a channel on slack with some of the ppl who are interested in helping with pridefest", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1472505622.000003"
+        }, 
+        {
+            "text": "<@U1Z9D27QD|tara.mclauchlan> has joined the channel", 
+            "ts": "1472505577.000002", 
+            "subtype": "channel_join", 
+            "user": "U1Z9D27QD", 
+            "type": "message", 
+            "inviter": "U1X83R62E"
+        }, 
+        {
+            "text": "<@U1W4YNBT4|mariajcb> has joined the channel", 
+            "ts": "1472160127.000002", 
+            "subtype": "channel_join", 
+            "user": "U1W4YNBT4", 
+            "type": "message", 
+            "inviter": "U1X83R62E"
+        }, 
+        {
+            "text": "<@U1W6A7QLR|limawebdev> has joined the channel", 
+            "ts": "1472142336.000004", 
+            "subtype": "channel_join", 
+            "user": "U1W6A7QLR", 
+            "type": "message", 
+            "inviter": "U1X83R62E"
+        }, 
+        {
+            "text": "<@U1XJ4CWJW|emkintner> has joined the channel", 
+            "ts": "1472142335.000003", 
+            "subtype": "channel_join", 
+            "user": "U1XJ4CWJW", 
+            "type": "message", 
+            "inviter": "U1X83R62E"
+        }, 
+        {
+            "text": "<@U1X83R62E|matieub> has joined the channel", 
+            "type": "message", 
+            "user": "U1X83R62E", 
+            "ts": "1472142335.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "boulder_pridefest", 
+        "name": "boulder_pridefest", 
+        "is_channel": true, 
+        "created": 1472142335, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1X83R62E", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U1W3138VD", 
+            "U1W4YNBT4", 
+            "U1W59F4FK", 
+            "U1X83R62E", 
+            "U1XJ4CWJW"
+        ], 
+        "id": "C250W2E2E", 
+        "is_shared": false
+    }
+}

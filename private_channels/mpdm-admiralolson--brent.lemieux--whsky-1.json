@@ -1,0 +1,51 @@
+{
+    "messages": [
+        {
+            "text": "Briefly and dependent on daughter behavioral status (dbs).", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1498239464.725240"
+        }, 
+        {
+            "text": "Well, Brent may be kicked off now, but are you guys going to Jan's thing Sunday?", 
+            "type": "message", 
+            "user": "U4GMP2JQP", 
+            "ts": "1498238861.515070"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1498238835, 
+            "value": "Group messaging", 
+            "creator": "U4GMP2JQP"
+        }, 
+        "name_normalized": "mpdm-admiralolson--brent.lemieux--whsky-1", 
+        "name": "mpdm-admiralolson--brent.lemieux--whsky-1", 
+        "last_read": "1498239464.725240", 
+        "creator": "U4GMP2JQP", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1498238835, 
+        "is_group": true, 
+        "members": [
+            "U4GMP2JQP", 
+            "U33BKEP9Q", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1498238835, 
+            "value": "Group messaging with: @admiralolson @brent.lemieux @whsky", 
+            "creator": "U4GMP2JQP"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5Y2L09Q8", 
+        "latest": {
+            "text": "Briefly and dependent on daughter behavioral status (dbs).", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1498239464.725240"
+        }
+    }
+}

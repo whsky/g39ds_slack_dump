@@ -1,0 +1,76 @@
+{
+    "messages": [
+        {
+            "text": "Nah", 
+            "type": "message", 
+            "user": "U3E2KMZ9C", 
+            "ts": "1483730169.000008"
+        }, 
+        {
+            "text": "Sorry was feeding (meal #4). I read the slide deck, seemed straight forward...where there any \"gotchas\" in the lecture?", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1483728568.000007"
+        }, 
+        {
+            "text": "lmk", 
+            "type": "message", 
+            "user": "U3E2KMZ9C", 
+            "ts": "1483725147.000006"
+        }, 
+        {
+            "text": "I was just going to call you :wink:", 
+            "type": "message", 
+            "user": "U3E2KMZ9C", 
+            "ts": "1483725105.000005"
+        }, 
+        {
+            "text": "ha, only if you want a good view of me in Mr. Mom mode!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1483725093.000004"
+        }, 
+        {
+            "text": "Or call you and you can follow along with the slides?", 
+            "type": "message", 
+            "user": "U3E2KMZ9C", 
+            "ts": "1483725075.000003"
+        }, 
+        {
+            "text": "Want me to facetime you in to the lecture?", 
+            "type": "message", 
+            "user": "U3E2KMZ9C", 
+            "ts": "1483725032.000002"
+        }, 
+        {
+            "text": "<http://www.urbandictionary.com/define.php?term=munging>", 
+            "type": "message", 
+            "user": "U3E2KMZ9C", 
+            "ts": "1481820347.000002", 
+            "attachments": [
+                {
+                    "title": "munging", 
+                    "service_name": "Urban Dictionary", 
+                    "title_link": "http://www.urbandictionary.com/define.php?term=munging", 
+                    "text": "1) Go to a graveyard with four of your buddies 2) Dig up Fresh corpse (female) and have a gang bang. 3) Afterwards, one of them puts there mouth ov...", 
+                    "id": 1, 
+                    "fallback": "Urban Dictionary: munging", 
+                    "service_icon": "http://www.urbandictionary.com/favicon.ico", 
+                    "from_url": "http://www.urbandictionary.com/define.php?term=munging"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/heyjcm/OOP>", 
+            "type": "message", 
+            "user": "U3E2KMZ9C", 
+            "ts": "1481678432.000002"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U3E2KMZ9C", 
+            "U34BY2K3K"
+        ]
+    }
+}

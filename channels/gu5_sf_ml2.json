@@ -1,0 +1,3665 @@
+{
+    "messages": [
+        {
+            "text": "I need access to grade your assignments so please do this ASAP. Thanks!", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498848641.761381", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1498848816.000000"
+            }
+        }, 
+        {
+            "username": "edward", 
+            "display_as_bot": false, 
+            "text": "<@U3Q3TKFPA|edward> uploaded a file: <https://gstudents.slack.com/files/edward/F62GW8JGM/pasted_image_at_2017_06_30_11_50_am.png|Pasted image at 2017-06-30, 11:50 AM>", 
+            "upload": true, 
+            "ts": "1498848614.752288", 
+            "subtype": "file_share", 
+            "user": "U3Q3TKFPA", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 276, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F62GW8JGM-198f33e993/pasted_image_at_2017_06_30_11_50_am_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F62GW8JGM-198f33e993/pasted_image_at_2017_06_30_11_50_am_64.png", 
+                "size": 67521, 
+                "original_h": 520, 
+                "thumb_360_w": 360, 
+                "title": "Pasted image at 2017-06-30, 11:50 AM", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F62GW8JGM/pasted_image_at_2017_06_30_11_50_am.png", 
+                "thumb_720_h": 249, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F62GW8JGM-198f33e993/pasted_image_at_2017_06_30_11_50_am_360.png", 
+                "id": "F62GW8JGM", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F62GW8JGM-198f33e993/pasted_image_at_2017_06_30_11_50_am_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 124, 
+                "thumb_480_h": 166, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F62GW8JGM-198f33e993/pasted_image_at_2017_06_30_11_50_am_800.png", 
+                "timestamp": 1498848612, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F62GW8JGM-198f33e993/pasted_image_at_2017_06_30_11_50_am_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F62GW8JGM/download/pasted_image_at_2017_06_30_11_50_am.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F62GW8JGM-198f33e993/pasted_image_at_2017_06_30_11_50_am_1024.png", 
+                "user": "U3Q3TKFPA", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F62GW8JGM-198f33e993/pasted_image_at_2017_06_30_11_50_am_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Pasted image at 2017_06_30 11_50 AM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F62GW8JGM-4a60615051", 
+                "permalink": "https://gstudents.slack.com/files/edward/F62GW8JGM/pasted_image_at_2017_06_30_11_50_am.png", 
+                "is_external": false, 
+                "created": 1498848612, 
+                "thumb_1024_h": 354, 
+                "thumb_960_h": 331, 
+                "original_w": 1506, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F62GW8JGM-198f33e993/pasted_image_at_2017_06_30_11_50_am_720.png", 
+                "channels": [
+                    "C5FEQLJHE"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel> could y'all add me as a collaborator to your backprop and perceptrons repos? i.e. `<http://github.com/&lt;username&gt;/DSCI6005-Perceptrons|github.com/&lt;username&gt;/DSCI6005-Perceptrons>` and `<http://github.com/&lt;username&gt;/DSCI6005-Backprop|github.com/&lt;username&gt;/DSCI6005-Backprop>`", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498848575.739456"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3P8YMVL4"
+                    ]
+                }
+            ], 
+            "text": "<!channel> I added some slides on multi-label classification to this page <https://learn.galvanize.com/cohorts/182/units/2420/content_files/45970>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498513576.517272"
+        }, 
+        {
+            "text": "Sketch-RNN Demos - A.I. Experiments\n<https://aiexperiments.withgoogle.com/sketch-rnn-demo>", 
+            "type": "message", 
+            "user": "U3P8YMVL4", 
+            "ts": "1498499871.857643", 
+            "attachments": [
+                {
+                    "image_bytes": 48813, 
+                    "title": "Sketch-RNN Demos - A.I. Experiments", 
+                    "service_name": "A.I. Experiments", 
+                    "image_width": 467, 
+                    "title_link": "https://aiexperiments.withgoogle.com/sketch-rnn-demo", 
+                    "image_height": 250, 
+                    "image_url": "https://aiexperiments.withgoogle.com/assets/img/share_700x375-1.jpg", 
+                    "text": "This experiment lets you draw together with a recurrent neural network model called Sketch-RNN. We taught this neural net to draw by training it on millions of doodles collected from the Quick, Draw! game. Once you start drawing an object, Sketch-RNN will come up with many possible ways to continue drawing this object based on where you left off. The model can also mimic your drawings and produce similar doodles. It\u2019s just another example of how you can use machine learning in fun and creative ways.", 
+                    "id": 1, 
+                    "fallback": "A.I. Experiments: Sketch-RNN Demos - A.I. Experiments", 
+                    "service_icon": "https://aiexperiments.withgoogle.com/assets/img/favicon.png", 
+                    "from_url": "https://aiexperiments.withgoogle.com/sketch-rnn-demo"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1498492680.210248", 
+            "attachments": [
+                {
+                    "image_bytes": 653614, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "23 min read", 
+                            "title": "Reading time"
+                        }
+                    ], 
+                    "title": "How HBO\u2019s Silicon Valley built \u201cNot Hotdog\u201d with mobile TensorFlow, Keras &amp; React Native", 
+                    "service_name": "Medium", 
+                    "ts": 1498480037, 
+                    "title_link": "https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3", 
+                    "image_height": 250, 
+                    "image_url": "https://cdn-images-1.medium.com/focal/1200/632/63/18/1*FZSvtomVWXV6hQp1Mkdk3A.png", 
+                    "image_width": 475, 
+                    "text": "How we beat the state of the art to build a real-life A.I. app.", 
+                    "id": 1, 
+                    "fallback": "Medium: How HBO\u2019s Silicon Valley built \u201cNot Hotdog\u201d with mobile TensorFlow, Keras &amp; React Native", 
+                    "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*W0nmth_X8nFKjn6BZ388UQ.png", 
+                    "from_url": "https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "the_horns", 
+                    "users": [
+                        "U3PU46YQN", 
+                        "U3P4KTU8K"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "raised_hands", 
+                    "users": [
+                        "U3P8YMVL4"
+                    ]
+                }
+            ], 
+            "text": "<!channel> videos from today have been posted <https://learn.galvanize.com/cohorts/182/units/2541/content_files/45809>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498271610.097376"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "very_metal", 
+                    "users": [
+                        "U3PT72C5U"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "hamster_dance", 
+                    "users": [
+                        "U3P8YMVL4"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1498266147.000000"
+            }, 
+            "text": "<!channel> one of your classmates asked for more materials regarding class imbalance. I've created a unit called profit curves which links to slide decks from DSI as well as a learn exercise. Let me know if you have any permission issues. Enjoy! <https://learn.galvanize.com/cohorts/182/units/2607>", 
+            "ts": "1498266118.753616", 
+            "user": "U3Q3TKFPA", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "badger3", 
+                    "users": [
+                        "U3PT72C5U"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3P8YMVL4"
+                    ]
+                }
+            ], 
+            "text": "Ah OK thanks. Even that being said we won't hold lecture because we don't want you to have to end your vacation early, especially those who have already made arrangements", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498256379.604240"
+        }, 
+        {
+            "text": "that wednesday is July 5th\u2026 the 4th is that tuesday", 
+            "type": "message", 
+            "user": "U3P8YMVL4", 
+            "ts": "1498253481.018682"
+        }, 
+        {
+            "text": "Ah I see now. No we will not have lecture that day as it's July 4 and we won't expect y'all to come to class on a holiday", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498253424.005749"
+        }, 
+        {
+            "thread_ts": "1498191912.321897", 
+            "text": "rafabaca: I bet LA Times felt an aftershock on that one.", 
+            "ts": "1498251027.399561", 
+            "user": "U21KL4T8C", 
+            "parent_user_id": "U3PLA89C2", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U3Q3TKFPA>  since we will have our break till Tuesday(7/4), we will miss 2 lectures, thats why I am wondering will Wednesday be a makeup lecture.", 
+            "type": "message", 
+            "user": "U3PT72C5U", 
+            "ts": "1498250525.257691"
+        }, 
+        {
+            "text": "<@U3PT72C5U> no. There are never lectures on Wednesday. Perhaps I am missing something?", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498250417.227064", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1498250458.000000"
+            }
+        }, 
+        {
+            "text": "<@U3Q3TKFPA>  Will there be a lecture next Wednesday?", 
+            "type": "message", 
+            "user": "U3PT72C5U", 
+            "ts": "1498250109.138418"
+        }, 
+        {
+            "text": "Videos are currently rendering but are coming", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498248257.598075"
+        }, 
+        {
+            "text": "Uploaded demo notebooks that we wrote today in class <https://learn.galvanize.com/cohorts/182/units/2541/content_files/45809>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498248247.595193"
+        }, 
+        {
+            "username": "ngtantai", 
+            "display_as_bot": false, 
+            "text": "<@U3P4KTU8K|ngtantai> uploaded a file: <https://gstudents.slack.com/files/ngtantai/F5Y5F5EJV/vgg16.png|vgg16.png>", 
+            "upload": true, 
+            "ts": "1498237724.139858", 
+            "subtype": "file_share", 
+            "user": "U3P4KTU8K", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 3, 
+                        "name": "+1::skin-tone-6", 
+                        "users": [
+                            "U3P956PB7", 
+                            "U3PHAUK99", 
+                            "U3PDZSHGC"
+                        ]
+                    }, 
+                    {
+                        "count": 1, 
+                        "name": "mindblown", 
+                        "users": [
+                            "U3P8YMVL4"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "png", 
+                "channels": [
+                    "C5FEQLJHE"
+                ], 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5Y5F5EJV-a1e76a32d7/vgg16_64.png", 
+                "size": 46325, 
+                "original_h": 276, 
+                "thumb_360_w": 360, 
+                "title": "vgg16.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5Y5F5EJV/vgg16.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5Y5F5EJV-a1e76a32d7/vgg16_360.png", 
+                "id": "F5Y5F5EJV", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5Y5F5EJV-a1e76a32d7/vgg16_80.png", 
+                "thumb_360_h": 211, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1498237723, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5Y5F5EJV-a1e76a32d7/vgg16_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5Y5F5EJV/download/vgg16.png", 
+                "user": "U3P4KTU8K", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "vgg16.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5Y5F5EJV-87c6fa6fa7", 
+                "permalink": "https://gstudents.slack.com/files/ngtantai/F5Y5F5EJV/vgg16.png", 
+                "is_external": false, 
+                "created": 1498237723, 
+                "original_w": 470, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "thread_ts": "1498191912.321897", 
+            "attachments": [
+                {
+                    "image_bytes": 108001, 
+                    "title": "Robot Journalist Accidentally Reports on Earthquake from 1925", 
+                    "service_name": "Gizmodo", 
+                    "image_width": 444, 
+                    "title_link": "http://gizmodo.com/robot-journalist-accidentally-reports-on-earthquake-fro-1796325030", 
+                    "image_height": 250, 
+                    "image_url": "https://i.kinja-img.com/gawker-media/image/upload/s--RdBkMoFc--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/biugsnafqkhk3w5lhlbw.jpg", 
+                    "text": "Yesterday, the Los Angeles Times reported on a 6.8 earthquake that struck Santa Barbara at 4:51pm. Which might be surprising to the people of Santa Barbara who didn\u2019t feel anything. The big problem with the story? The earthquake happened in 1925.", 
+                    "id": 1, 
+                    "fallback": "Gizmodo: Robot Journalist Accidentally Reports on Earthquake from 1925", 
+                    "service_icon": "https://i.kinja-img.com/gawker-media/image/upload/s---erriNCS--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/fdj3buryz5nuzyf2k620.png", 
+                    "from_url": "http://gizmodo.com/robot-journalist-accidentally-reports-on-earthquake-fro-1796325030"
+                }
+            ], 
+            "subscribed": false, 
+            "text": "Oops everyone fake quake:    <http://gizmodo.com/robot-journalist-accidentally-reports-on-earthquake-fro-1796325030>", 
+            "ts": "1498191912.321897", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U3PLA89C2", 
+            "replies": [
+                {
+                    "user": "U21KL4T8C", 
+                    "ts": "1498251027.399561"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "Let me know if I broke something in the process or any of the links don't work", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498084782.816368"
+        }, 
+        {
+            "text": "Added some more lessons in the backpropagation unit <https://learn.galvanize.com/cohorts/182/units/2296/content_files/48915> and training unit <https://learn.galvanize.com/cohorts/182/units/2337/content_files/48916> + <https://learn.galvanize.com/cohorts/182/units/2337/content_files/48917>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498084753.810617"
+        }, 
+        {
+            "text": "thanks <@U3Q3TKFPA>", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1498081418.013179"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3P8YMVL4"
+                    ]
+                }
+            ], 
+            "text": "<!channel> I've made accessible all content from last term in the convolution <https://learn.galvanize.com/cohorts/176/units/2413> and recurrent <https://learn.galvanize.com/cohorts/176/units/2539> units. There you will find lecture, demo, and lab materials", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1498081403.009234"
+        }, 
+        {
+            "text": "^ he developed the stanford course we\u2019ve been referencing", 
+            "type": "message", 
+            "user": "U3P8YMVL4", 
+            "ts": "1498016285.406605"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3NKZMZ2L"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 90, 
+                    "service_icon": "https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico", 
+                    "thumb_width": 199, 
+                    "title": "Tesla hires deep learning expert Andrej Karpathy to lead Autopilot\u00a0vision", 
+                    "service_name": "TechCrunch", 
+                    "author_name": "Darrell Etherington", 
+                    "title_link": "https://techcrunch.com/2017/06/20/tesla-hires-deep-learning-expert-andrej-karpathy-to-lead-autopilot-vision/", 
+                    "service_url": "http://techcrunch.com", 
+                    "text": "Tesla has hired deep learning and computer vision expert Andrej Karpathy in a key Autopilot role. Karpathy most recently held a role as a researcher at OpenAI, the artificial intelligence nonprofit backed by Elon Musk. He has an extensive background in AI-related fields, having completed a PhD at Stanford University in computer vision.", 
+                    "id": 1, 
+                    "fallback": "TechCrunch Link: Tesla hires deep learning expert Andrej Karpathy to lead Autopilot&nbsp;vision", 
+                    "thumb_url": "https://i2.wp.com/tctechcrunch2011.files.wordpress.com/2017/01/autopilotnew.jpg?fit=200%2C150&ssl=1", 
+                    "from_url": "https://techcrunch.com/2017/06/20/tesla-hires-deep-learning-expert-andrej-karpathy-to-lead-autopilot-vision/"
+                }
+            ], 
+            "text": "<https://techcrunch.com/2017/06/20/tesla-hires-deep-learning-expert-andrej-karpathy-to-lead-autopilot-vision/>", 
+            "ts": "1498016159.392475", 
+            "user": "U3P8YMVL4", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-5", 
+                    "users": [
+                        "U3PHAUK99"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3PU46YQN"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/ultrarelativistic", 
+                    "service_name": "YouTube", 
+                    "title": "20170619 RNN", 
+                    "video_html_height": 225, 
+                    "author_name": "ultra", 
+                    "title_link": "https://youtu.be/cWkbHjeMhIU", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/cWkbHjeMhIU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: 20170619 RNN", 
+                    "thumb_url": "https://i.ytimg.com/vi/cWkbHjeMhIU/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/cWkbHjeMhIU"
+                }
+            ], 
+            "text": "<https://youtu.be/cWkbHjeMhIU>", 
+            "ts": "1497914222.208562", 
+            "user": "U21KL4T8C", 
+            "type": "message"
+        }, 
+        {
+            "text": "<https://youtu.be/yqUXjIf2lAo>", 
+            "type": "message", 
+            "user": "U21KL4T8C", 
+            "ts": "1497398191.352235", 
+            "attachments": [
+                {
+                    "author_link": "https://www.youtube.com/user/ultrarelativistic", 
+                    "service_name": "YouTube", 
+                    "title": "20170613", 
+                    "video_html_height": 300, 
+                    "author_name": "ultra", 
+                    "title_link": "https://youtu.be/yqUXjIf2lAo", 
+                    "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/yqUXjIf2lAo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: 20170613", 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "from_url": "https://youtu.be/yqUXjIf2lAo"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U3P8YMVL4", 
+                        "U21KL4T8C"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stats/img/favicon.ico?v=573163e34adf", 
+                    "thumb_width": 316, 
+                    "title": "Guideline to select the hyperparameters in Deep Learning", 
+                    "text": "I'm looking for a paper that could help in giving a guideline on how to choose the hyperparameters of a deep architecture, like stacked auto-encoders or deep believe networks. There are a lot of", 
+                    "title_link": "https://stats.stackexchange.com/questions/95495/guideline-to-select-the-hyperparameters-in-deep-learning", 
+                    "service_name": "stats.stackexchange.com", 
+                    "id": 1, 
+                    "fallback": "Guideline to select the hyperparameters in Deep Learning", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stats/img/apple-touch-icon@2.png?v=344f57aa10cc", 
+                    "from_url": "https://stats.stackexchange.com/questions/95495/guideline-to-select-the-hyperparameters-in-deep-learning"
+                }
+            ], 
+            "text": "This one is a keeper:  Thanks Vince for the suggestion: <https://stats.stackexchange.com/questions/95495/guideline-to-select-the-hyperparameters-in-deep-learning>", 
+            "ts": "1497386532.552251", 
+            "user": "U3PLA89C2", 
+            "type": "message"
+        }, 
+        {
+            "text": "<https://youtu.be/Gohz4zY_AU0>", 
+            "type": "message", 
+            "user": "U21KL4T8C", 
+            "ts": "1497382086.992478", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/ultrarelativistic", 
+                    "service_name": "YouTube", 
+                    "title": "20170612   CNN", 
+                    "video_html_height": 225, 
+                    "author_name": "ultra", 
+                    "title_link": "https://youtu.be/Gohz4zY_AU0", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/Gohz4zY_AU0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: 20170612   CNN", 
+                    "thumb_url": "https://i.ytimg.com/vi/Gohz4zY_AU0/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/Gohz4zY_AU0"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "blush", 
+                    "users": [
+                        "U3PQYCL87", 
+                        "U3P8YMVL4"
+                    ]
+                }, 
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U3PQYCL87", 
+                        "U3P8YMVL4"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1497319199.000000"
+            }, 
+            "text": "Visualizing neural networks in 3d:\n<https://arogozhnikov.github.io/3d_nn/>", 
+            "ts": "1497319148.772844", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "text": "if your running tensorflow on a newer mac and see the following in jupyter logs when running tensor flow \u2018The TensorFlow library wasn\u2019t compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.\u2019 .  You have the option of getting it to run faster (35-50%) on your local machine by building tensorflow from scratch and enabling additonal instruction set, <https://stackoverflow.com/questions/41293077/how-to-compile-tensorflow-with-sse4-2-and-avx-instructions>", 
+            "type": "message", 
+            "user": "U21KL4T8C", 
+            "ts": "1497303682.165487", 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+                    "thumb_width": 316, 
+                    "title": "How to compile Tensorflow with SSE4.2 and AVX instructions?", 
+                    "text": "This is the message received from running a script to check if Tensorflow is working: I tensorflow/stream_executor/dso_loader.cc:125] successfully opened CUDA library libcublas.so.8.0 locally I", 
+                    "title_link": "https://stackoverflow.com/questions/41293077/how-to-compile-tensorflow-with-sse4-2-and-avx-instructions", 
+                    "service_name": "stackoverflow.com", 
+                    "id": 1, 
+                    "fallback": "How to compile Tensorflow with SSE4.2 and AVX instructions?", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+                    "from_url": "https://stackoverflow.com/questions/41293077/how-to-compile-tensorflow-with-sse4-2-and-avx-instructions"
+                }
+            ]
+        }, 
+        {
+            "username": "adamszabunio", 
+            "display_as_bot": false, 
+            "text": "<@U3P9DUWJY|adamszabunio> uploaded a file: <https://gstudents.slack.com/files/adamszabunio/F5SLF46DC/keras_cheat_sheet_python.pdf|Keras_Cheat_Sheet_Python.pdf>", 
+            "upload": true, 
+            "ts": "1497138543.917026", 
+            "subtype": "file_share", 
+            "user": "U3P9DUWJY", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 2, 
+                        "name": "+1::skin-tone-5", 
+                        "users": [
+                            "U3PHAUK99", 
+                            "U3PU46YQN"
+                        ]
+                    }, 
+                    {
+                        "count": 1, 
+                        "name": "keras", 
+                        "users": [
+                            "U3P8YMVL4"
+                        ]
+                    }, 
+                    {
+                        "count": 1, 
+                        "name": "tada", 
+                        "users": [
+                            "U3P8YMVL4"
+                        ]
+                    }, 
+                    {
+                        "count": 1, 
+                        "name": "aw_yeah", 
+                        "users": [
+                            "U3P956PB7"
+                        ]
+                    }
+                ], 
+                "filetype": "pdf", 
+                "channels": [
+                    "C5FEQLJHE"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5SLF46DC", 
+                "size": 139989, 
+                "title": "Keras_Cheat_Sheet_Python.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5SLF46DC/keras_cheat_sheet_python.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1497138542, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5SLF46DC/download/keras_cheat_sheet_python.pdf", 
+                "user": "U3P9DUWJY", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "Keras_Cheat_Sheet_Python.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5SLF46DC-ed269f072d", 
+                "permalink": "https://gstudents.slack.com/files/adamszabunio/F5SLF46DC/keras_cheat_sheet_python.pdf", 
+                "is_external": false, 
+                "created": 1497138542, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "heart", 
+                    "users": [
+                        "U3PQYCL87"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "blush", 
+                    "users": [
+                        "U3PQYCL87"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U3P8YMVL4", 
+                "ts": "1497056282.000000"
+            }, 
+            "text": "<@U3PQYCL87> yes... at least that worked for me", 
+            "ts": "1497056263.396928", 
+            "user": "U3P8YMVL4", 
+            "type": "message"
+        }, 
+        {
+            "text": "meaning--- for creating virtual machine - it asks us to choose region \u201cus-west1-b\u201d,,,should we keep everything the same as per the tuotrial link", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1497049381.688248"
+        }, 
+        {
+            "text": "<@U3Q3TKFPA> do we follow the exact setup steps as per the links you sent us", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1497049346.682661"
+        }, 
+        {
+            "text": "Directions for Unit 6 Lession 02 didn\u2019t work for me. This worked for me\u2026\n\n# steps to install\n\n# <https://cloud.google.com/sdk/docs/quickstart-mac-os-x>\n\n#yours might have a different project and server name\ngcloud compute --project \u201cdsci6005\u201d ssh --zone \u201cus-west1-b\u201d \u201cinstance-1\u201d\n\n\n# execute this on google cloud machine\nalias python=python3\n\nwhich python # should be python3.7\n\nwget <https://repo.continuum.io/archive/Anaconda3-4.4.0-MacOSX-x86_64.sh>\nbash Anaconda3-4.4.0-MacOSX-x86_64.sh \n\nsudo pip install keras\n\nwget <https://s3-us-west-2.amazonaws.com/learn.galvanize.com/learn-files/gSchool/DSCI6005/master/docker/environment.yml>\nconda env create --force\nsource activate dl\n\nwget <https://raw.githubusercontent.com/fchollet/keras/master/examples/mnist_mlp.py>\npython mnist_mlp.py", 
+            "type": "message", 
+            "user": "U21KL4T8C", 
+            "ts": "1497042092.290073"
+        }, 
+        {
+            "text": "Stanford course on Tensorflow: <http://web.stanford.edu/class/cs20si/syllabus.html>", 
+            "type": "message", 
+            "user": "U3P8YMVL4", 
+            "ts": "1496992711.091354"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "badger3", 
+                    "users": [
+                        "U3PT72C5U"
+                    ]
+                }, 
+                {
+                    "count": 2, 
+                    "name": "raised_hands", 
+                    "users": [
+                        "U3P4KTU8K", 
+                        "U3NHB9L8Z"
+                    ]
+                }
+            ], 
+            "text": "Hi is there anyone else who doesn't have a team for deep learning weekly project?", 
+            "type": "message", 
+            "user": "U3PU46YQN", 
+            "ts": "1496978280.375087"
+        }, 
+        {
+            "text": "20170608 <https://youtu.be/AUemPqQNJo8>", 
+            "type": "message", 
+            "user": "U21KL4T8C", 
+            "ts": "1496962086.171776", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/ultrarelativistic", 
+                    "service_name": "YouTube", 
+                    "title": "20170608 HQ", 
+                    "video_html_height": 225, 
+                    "author_name": "ultra", 
+                    "title_link": "https://youtu.be/AUemPqQNJo8", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/AUemPqQNJo8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: 20170608 HQ", 
+                    "thumb_url": "https://i.ytimg.com/vi/AUemPqQNJo8/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/AUemPqQNJo8"
+                }
+            ]
+        }, 
+        {
+            "text": "bit packing FTW\n<https://software.intel.com/en-us/articles/accelerating-neural-networks-with-binary-arithmetic>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1496945377.015927", 
+            "attachments": [
+                {
+                    "title": "Accelerating Neural Networks with Binary Arithmetic | Intel\u00ae Software", 
+                    "text": "NERVANA HAS JOINED\u00a0INTEL", 
+                    "title_link": "https://software.intel.com/en-us/articles/accelerating-neural-networks-with-binary-arithmetic", 
+                    "service_name": "software.intel.com", 
+                    "id": 1, 
+                    "fallback": "Accelerating Neural Networks with Binary Arithmetic | Intel\u00ae Software", 
+                    "service_icon": "https://software.intel.com/sites/all/themes/zero/favicon.ico", 
+                    "from_url": "https://software.intel.com/en-us/articles/accelerating-neural-networks-with-binary-arithmetic"
+                }
+            ]
+        }, 
+        {
+            "text": "This set of videos is more introductory and pertains to handling images as data and introducing :keras: through :tensor_flow:. It doesn't get much into specifics of actual training, evaluation, error analysis, etc. That's next", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496871181.096415", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1496871195.000000"
+            }
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3P8YMVL4"
+                    ]
+                }
+            ], 
+            "text": "<!channel> I've done a dump of the first set of videos in the MNIST case study which reflects your assignment this week here <https://learn.galvanize.com/cohorts/182/units/2337/content_files/40446>. I still need to add videos on actual training and visualizations, as well as tokenizing text. I'll also add a single longer video where I do everything in one shot where I go faster in the event you want something more concise. Expect this page to change but I wanted to at least get them out to y'all", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496866407.539075"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "+1", 
+                    "users": [
+                        "U3P8YMVL4", 
+                        "U3PDZSHGC", 
+                        "U3Q3TKFPA"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/ultrarelativistic", 
+                    "service_name": "YouTube", 
+                    "title": "20170606 HQ", 
+                    "video_html_height": 225, 
+                    "author_name": "ultra", 
+                    "title_link": "https://youtu.be/0oYrytcMv1o", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/0oYrytcMv1o?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: 20170606 HQ", 
+                    "thumb_url": "https://i.ytimg.com/vi/0oYrytcMv1o/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/0oYrytcMv1o"
+                }, 
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/ultrarelativistic", 
+                    "service_name": "YouTube", 
+                    "title": "20170606", 
+                    "video_html_height": 225, 
+                    "author_name": "ultra", 
+                    "title_link": "https://youtu.be/x-aFIGB_LIU", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/x-aFIGB_LIU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 2, 
+                    "fallback": "YouTube Video: 20170606", 
+                    "thumb_url": "https://i.ytimg.com/vi/x-aFIGB_LIU/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/x-aFIGB_LIU"
+                }
+            ], 
+            "text": "<https://youtu.be/0oYrytcMv1o>\n<https://youtu.be/x-aFIGB_LIU>", 
+            "ts": "1496803207.739722", 
+            "user": "U21KL4T8C", 
+            "type": "message"
+        }, 
+        {
+            "edited": {
+                "user": "U21KL4T8C", 
+                "ts": "1496773250.000000"
+            }, 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/ultrarelativistic", 
+                    "service_name": "YouTube", 
+                    "title": "20170605 part1", 
+                    "video_html_height": 225, 
+                    "author_name": "ultra", 
+                    "title_link": "https://youtu.be/nIazwQh61JM", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/nIazwQh61JM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: 20170605 part1", 
+                    "thumb_url": "https://i.ytimg.com/vi/nIazwQh61JM/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/nIazwQh61JM"
+                }, 
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/ultrarelativistic", 
+                    "service_name": "YouTube", 
+                    "title": "20170605 part2", 
+                    "video_html_height": 225, 
+                    "author_name": "ultra", 
+                    "title_link": "https://youtu.be/2QmooSUY7AA", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/2QmooSUY7AA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 2, 
+                    "fallback": "YouTube Video: 20170605 part2", 
+                    "thumb_url": "https://i.ytimg.com/vi/2QmooSUY7AA/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/2QmooSUY7AA"
+                }, 
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/ultrarelativistic", 
+                    "service_name": "YouTube", 
+                    "title": "20170605 part3", 
+                    "video_html_height": 225, 
+                    "author_name": "ultra", 
+                    "title_link": "https://youtu.be/Ct-VA3mTStc", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/Ct-VA3mTStc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 3, 
+                    "fallback": "YouTube Video: 20170605 part3", 
+                    "thumb_url": "https://i.ytimg.com/vi/Ct-VA3mTStc/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/Ct-VA3mTStc"
+                }
+            ], 
+            "reactions": [
+                {
+                    "count": 5, 
+                    "name": "popcorn", 
+                    "users": [
+                        "U1XU9SHRS", 
+                        "U3PHAUK99", 
+                        "U3PLA89C2", 
+                        "U3P8YMVL4", 
+                        "U3PU46YQN"
+                    ]
+                }
+            ], 
+            "text": "2017-06-05\n<https://youtu.be/nIazwQh61JM>\n<https://youtu.be/2QmooSUY7AA>\n<https://youtu.be/Ct-VA3mTStc>", 
+            "ts": "1496773215.082699", 
+            "user": "U21KL4T8C", 
+            "type": "message"
+        }, 
+        {
+            "text": "<!channel> I've posted this week's reading material <https://learn.galvanize.com/cohorts/182/units/2337>. The keras exercises lesson is broken so skip that for now but do go onto the GCP lesson <https://learn.galvanize.com/cohorts/182/units/2337/content_files/38108>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496648551.862798"
+        }, 
+        {
+            "text": "thx", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1496640142.804355"
+        }, 
+        {
+            "text": "thanks", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496640140.804201"
+        }, 
+        {
+            "text": "th", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1496640138.803970"
+        }, 
+        {
+            "text": "ok\u2026", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1496640132.803394"
+        }, 
+        {
+            "text": "Can you follow the first tutorial as far as you can and then send me a screenshot of when you hit a wall?", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496640117.802056", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1496640126.000000"
+            }
+        }, 
+        {
+            "text": "still no access\u2026.wrote to google\u2026they granted access to some of us after the email\u2026they r still working on the rest", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1496640094.799986"
+        }, 
+        {
+            "text": "if/when you hit a snag let me know", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496640069.797383"
+        }, 
+        {
+            "text": "<!channel> we will be using GCP this week. Please follow these two tutorials to get set up\n\n1. <http://cs231n.github.io/gce-tutorial/>\n2. <http://cs231n.github.io/gce-tutorial-gpus/>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496640052.795778", 
+            "attachments": [
+                {
+                    "title": "Google Cloud Tutorial", 
+                    "text": "Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition.", 
+                    "title_link": "http://cs231n.github.io/gce-tutorial/", 
+                    "service_name": "cs231n.github.io", 
+                    "id": 1, 
+                    "fallback": "Google Cloud Tutorial", 
+                    "from_url": "http://cs231n.github.io/gce-tutorial/"
+                }, 
+                {
+                    "title": "Google Cloud Tutorial Part 2 (with GPUs)", 
+                    "text": "Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition.", 
+                    "title_link": "http://cs231n.github.io/gce-tutorial-gpus/", 
+                    "service_name": "cs231n.github.io", 
+                    "id": 2, 
+                    "fallback": "Google Cloud Tutorial Part 2 (with GPUs)", 
+                    "from_url": "http://cs231n.github.io/gce-tutorial-gpus/"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U3P9DUWJY> my bad! I moved them around last night in my sandbox version of the class but forgot to update yours. Check again. They should be back", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496601804.946529"
+        }, 
+        {
+            "text": "My guess here: I know Edward was looking to tweak his work on the Tensor flow videos when we both visited late on Friday &amp; given the fact we (as a class) are running a bit slow this week - Edward will make an announcement today/tomorrow regarding the same I bet.", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1496597899.709980"
+        }, 
+        {
+            "text": "Thanks Rafa, just looked there. maybe I am missing something, but I do not see the solution to this problem there.", 
+            "type": "message", 
+            "user": "U3P9DUWJY", 
+            "ts": "1496597141.662818"
+        }, 
+        {
+            "text": "please refer to piazza", 
+            "type": "message", 
+            "user": "U3PLA89C2", 
+            "ts": "1496596919.649007"
+        }, 
+        {
+            "text": "Does anyone know where we can find the Tensor flow tutorials??? The page on Learn is not working. My link has a message saying \"Hmm...looks like this content has been moved. Please reach out to instructor to find out why.\"", 
+            "type": "message", 
+            "user": "U3P9DUWJY", 
+            "ts": "1496596192.603380"
+        }, 
+        {
+            "text": "Discussion of jacobians relevant to assignment <https://youtu.be/GZTvxoSHZIo?t=48m13s>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496429254.790727", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/onerhao", 
+                    "service_name": "YouTube", 
+                    "title": "CS231n Winter 2016 Lecture 4 Backpropagation, Neural Networks 1-Q_UWHTY_TEQ.mp4", 
+                    "video_html_height": 225, 
+                    "author_name": "Alex", 
+                    "title_link": "https://youtu.be/GZTvxoSHZIo?t=48m13s", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/GZTvxoSHZIo?start=2893&feature=oembed&start=2893&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: CS231n Winter 2016 Lecture 4 Backpropagation, Neural Networks 1-Q_UWHTY_TEQ.mp4", 
+                    "thumb_url": "https://i.ytimg.com/vi/GZTvxoSHZIo/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/GZTvxoSHZIo?t=48m13s"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://www.deeplearningbook.org/front_matter.pdf>", 
+            "type": "message", 
+            "user": "U21KL4T8C", 
+            "ts": "1496362233.881637"
+        }, 
+        {
+            "username": "2check91", 
+            "display_as_bot": false, 
+            "text": "<@U3P956PB7|2check91> uploaded a file: <https://gstudents.slack.com/files/2check91/F5LPF6FRN/screen_shot_2017-06-01_at_1.26.12_pm.png|Screen Shot 2017-06-01 at 1.26.12 PM.png>", 
+            "upload": true, 
+            "ts": "1496348797.715084", 
+            "subtype": "file_share", 
+            "user": "U3P956PB7", 
+            "file": {
+                "thumb_480_w": 362, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5LPF6FRN-7040cdafe5/screen_shot_2017-06-01_at_1.26.12_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5LPF6FRN-7040cdafe5/screen_shot_2017-06-01_at_1.26.12_pm_64.png", 
+                "size": 873587, 
+                "original_h": 682, 
+                "thumb_360_w": 271, 
+                "title": "Screen Shot 2017-06-01 at 1.26.12 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5LPF6FRN/screen_shot_2017-06-01_at_1.26.12_pm.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5LPF6FRN-7040cdafe5/screen_shot_2017-06-01_at_1.26.12_pm_360.png", 
+                "id": "F5LPF6FRN", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5LPF6FRN-7040cdafe5/screen_shot_2017-06-01_at_1.26.12_pm_80.png", 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1496348795, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5LPF6FRN-7040cdafe5/screen_shot_2017-06-01_at_1.26.12_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5LPF6FRN/download/screen_shot_2017-06-01_at_1.26.12_pm.png", 
+                "user": "U3P956PB7", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-06-01 at 1.26.12 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5LPF6FRN-8b6ee437c3", 
+                "permalink": "https://gstudents.slack.com/files/2check91/F5LPF6FRN/screen_shot_2017-06-01_at_1.26.12_pm.png", 
+                "is_external": false, 
+                "created": 1496348795, 
+                "original_w": 514, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C5FEQLJHE"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "2check91", 
+            "display_as_bot": false, 
+            "text": "<@U3P956PB7|2check91> uploaded a file: <https://gstudents.slack.com/files/2check91/F5N7XLH7G/deep_good_bengio.pdf|deep_good_bengio.pdf>", 
+            "upload": true, 
+            "ts": "1496348734.693345", 
+            "subtype": "file_share", 
+            "user": "U3P956PB7", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C5FEQLJHE"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5N7XLH7G", 
+                "size": 71679036, 
+                "title": "deep_good_bengio.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5N7XLH7G/deep_good_bengio.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1496348729, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5N7XLH7G/download/deep_good_bengio.pdf", 
+                "user": "U3P956PB7", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "deep_good_bengio.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5N7XLH7G-c1713a08fc", 
+                "permalink": "https://gstudents.slack.com/files/2check91/F5N7XLH7G/deep_good_bengio.pdf", 
+                "is_external": false, 
+                "created": 1496348729, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F5MBDEM0T/screen_shot_2017-06-01_at_1.20.09_pm.png|Screen Shot 2017-06-01 at 1.20.09 PM.png>", 
+            "upload": true, 
+            "ts": "1496348421.584338", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5MBDEM0T-fb0175099e/screen_shot_2017-06-01_at_1.20.09_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5MBDEM0T-fb0175099e/screen_shot_2017-06-01_at_1.20.09_pm_64.png", 
+                "size": 68697, 
+                "original_h": 364, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-06-01 at 1.20.09 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5MBDEM0T/screen_shot_2017-06-01_at_1.20.09_pm.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5MBDEM0T-fb0175099e/screen_shot_2017-06-01_at_1.20.09_pm_360.png", 
+                "id": "F5MBDEM0T", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5MBDEM0T-fb0175099e/screen_shot_2017-06-01_at_1.20.09_pm_80.png", 
+                "thumb_360_h": 191, 
+                "thumb_480_h": 255, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1496348419, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5MBDEM0T-fb0175099e/screen_shot_2017-06-01_at_1.20.09_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5MBDEM0T/download/screen_shot_2017-06-01_at_1.20.09_pm.png", 
+                "user": "U1XU9SHRS", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-06-01 at 1.20.09 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5MBDEM0T-7a163c03a6", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F5MBDEM0T/screen_shot_2017-06-01_at_1.20.09_pm.png", 
+                "is_external": false, 
+                "created": 1496348419, 
+                "original_w": 685, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C5FEQLJHE"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "thread_ts": "1496348216.511266", 
+            "text": "jc.b: Interesting observation...", 
+            "ts": "1496348338.554869", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PHAUK99", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-5", 
+                    "users": [
+                        "U3PHAUK99"
+                    ]
+                }
+            ], 
+            "text": "a nice refresher of trig\n<https://betterexplained.com/articles/intuitive-trigonometry/>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1496348256.525742"
+        }, 
+        {
+            "thread_ts": "1496348216.511266", 
+            "subscribed": false, 
+            "text": "<@U3Q3TKFPA> : seems travis continually triggers consecutive builds when there is a failure in the assertions and those builds r counting towards the allocated \u2018quota\u2019", 
+            "ts": "1496348216.511266", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U3PHAUK99", 
+            "replies": [
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496348338.554869"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<!channel> several of you have sent me emails you're getting from Travis saying you only have 50 builds left. I'll reach out to Travis customer support and see what's going on. In the meantime please try to limit your Travis builds. Ideally you would only submit once per assignment at the *very* end", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496347844.378124"
+        }, 
+        {
+            "text": "It's up. Also recorded a 10-part video series on :tensor_flow:. It will take a few hours for them to render + upload. Hopefully they will be up by class time!", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496316738.274055"
+        }, 
+        {
+            "text": "Just recorded the last layers video for softmax + ce! It's a whopping 37 minutes long though...", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496303634.282168", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1496303936.000000"
+            }
+        }, 
+        {
+            "text": "Video of worked solution to the dense layer exercise has been recorded and is coming soon", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496295486.950492", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1496295716.000000"
+            }
+        }, 
+        {
+            "text": "Thanks <@U3PHAUK99>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496293044.672265", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1496293055.000000"
+            }
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "happy_dog", 
+                    "users": [
+                        "U3Q3TKFPA"
+                    ]
+                }
+            ], 
+            "text": "link works", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1496292225.583280"
+        }, 
+        {
+            "text": "Here's the vimeo link (can you access it?) <https://vimeo.com/219794678>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496292071.565841", 
+            "attachments": [
+                {
+                    "thumb_height": 166, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/vimeo.png", 
+                    "thumb_width": 295, 
+                    "author_link": "https://vimeo.com/galvanizehq", 
+                    "service_name": "Vimeo", 
+                    "title": "Scalar Dense", 
+                    "video_html_height": 250, 
+                    "author_name": "Galvanize", 
+                    "title_link": "https://vimeo.com/219794678", 
+                    "video_html": "<iframe src=\"https://player.vimeo.com/video/219794678?autoplay=1\" width=\"400\" height=\"250\" frameborder=\"0\" title=\"Scalar Dense\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://vimeo.com/", 
+                    "id": 1, 
+                    "fallback": "Vimeo Video: Scalar Dense", 
+                    "thumb_url": "http://i.vimeocdn.com/video/637641235_295x166.jpg", 
+                    "from_url": "https://vimeo.com/219794678"
+                }
+            ]
+        }, 
+        {
+            "text": "Added two more exercises and a worked video solution for one here <https://learn.galvanize.com/cohorts/182/units/2296/content_files/37221>. I'll be adding to this page throughout the night so expect a lot of changes. It's quite long ~20 minutes (sorry about that!)", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496292033.561347", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1496304391.000000"
+            }
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F5LP31BM2/deep_learning_glossary.md|deep_learning_glossary.md>", 
+            "upload": true, 
+            "ts": "1496258479.920830", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 4, 
+                        "name": "+1", 
+                        "users": [
+                            "U3P8YMVL4", 
+                            "U21KL4T8C", 
+                            "U3PU46YQN", 
+                            "U3PS6DGF9"
+                        ]
+                    }
+                ], 
+                "filetype": "markdown", 
+                "lines_more": 36, 
+                "channels": [
+                    "C5FEQLJHE"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5LP31BM2", 
+                "size": 1377, 
+                "title": "deep_learning_glossary.md", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5LP31BM2/deep_learning_glossary.md", 
+                "ims": [], 
+                "preview": "Deep Learning Glossary\n-----\n\n| Acronym | Definition | \n|:---|:---|", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/brian_spiering/F5LP31BM2/deep_learning_glossary.md/edit", 
+                "username": "", 
+                "num_stars": 1, 
+                "timestamp": 1496258478, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5LP31BM2/download/deep_learning_glossary.md", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Markdown (raw)", 
+                "name": "deep_learning_glossary.md", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5LP31BM2-48695eaf2c", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F5LP31BM2/deep_learning_glossary.md", 
+                "is_external": false, 
+                "created": 1496258478, 
+                "lines": 41, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Deep Learning Glossary</pre></div>\n<div><pre><span class=\"cm-header cm-header-2\">-----</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre>| Acronym | Definition | </pre></div>\n<div><pre>|:---|:---|</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "here is my glossary of DL terms:", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1496258474.919058"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U3P8YMVL4", 
+                        "U23UL5125"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1496204698.000000"
+            }, 
+            "text": "<!channel> just added a learn exercise with a video solution on neural network layers. Will add more tomorrow <https://learn.galvanize.com/cohorts/182/units/2296/content_files/37221>", 
+            "ts": "1496204685.012351", 
+            "user": "U3Q3TKFPA", 
+            "type": "message"
+        }, 
+        {
+            "text": "np", 
+            "type": "message", 
+            "user": "U23UL5125", 
+            "ts": "1496186182.594368"
+        }, 
+        {
+            "text": "thanks:)", 
+            "type": "message", 
+            "user": "U3PU46YQN", 
+            "ts": "1496186038.569145"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "break_it_down_penguin", 
+                    "users": [
+                        "U3NKZMZ2L"
+                    ]
+                }
+            ], 
+            "text": "yes, no class tomorrow", 
+            "type": "message", 
+            "user": "U23UL5125", 
+            "ts": "1496185715.512212"
+        }, 
+        {
+            "text": "Hi is it confirmed that we have no class tmr?", 
+            "type": "message", 
+            "user": "U3PU46YQN", 
+            "ts": "1496185457.465581"
+        }, 
+        {
+            "text": "<!channel> we are in potrero hill going over assignment 1 solutions atm", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496179094.336015"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3PU46YQN"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/math/img/favicon.ico?v=45993e464f86", 
+                    "thumb_width": 316, 
+                    "title": "Derivative of Softmax loss function", 
+                    "text": "I am trying to wrap my head around back-propagation in a neural network with a Softmax classifier, which uses the Softmax function: \\begin{equation} p_j = \\frac{e^{o_j}}{\\sum_k e^{o_k}} \\end{equat...", 
+                    "title_link": "https://math.stackexchange.com/questions/945871/derivative-of-softmax-loss-function", 
+                    "service_name": "math.stackexchange.com", 
+                    "id": 1, 
+                    "fallback": "Derivative of Softmax loss function", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/math/img/apple-touch-icon@2.png?v=4ec1df2e49b1", 
+                    "from_url": "https://math.stackexchange.com/questions/945871/derivative-of-softmax-loss-function"
+                }
+            ], 
+            "text": "<@U3PDZSHGC> <https://math.stackexchange.com/questions/945871/derivative-of-softmax-loss-function>", 
+            "ts": "1496177496.832178", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "text": "so when ur in, i need help getting git/travix/autograder right.", 
+            "type": "message", 
+            "user": "U21KL4T8C", 
+            "ts": "1496158526.081894"
+        }, 
+        {
+            "text": "3/13", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496120425.898264"
+        }, 
+        {
+            "text": "<!channel> I just created a series of videos on backprop. It's at ~13 videos so far which probably means I can tighten things up substantially but they're in the process of being rendered and uploaded. 1/13 is up <https://learn.galvanize.com/cohorts/182/units/2296/content_files/37074>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496117251.586649"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "mindblown", 
+                    "users": [
+                        "U3P956PB7"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1496095421.000000"
+            }, 
+            "text": "just added some TensorFlow materials also", 
+            "ts": "1496095414.655682", 
+            "user": "U3Q3TKFPA", 
+            "type": "message"
+        }, 
+        {
+            "text": "Again don't worry that you can't access the new assignment. It's coming", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496094051.532606"
+        }, 
+        {
+            "text": "<!channel> the backprop page is out. Please go through the introductory and required readings <https://learn.galvanize.com/cohorts/182/units/2296>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496093999.527696"
+        }, 
+        {
+            "text": "^^^ <@U3P4KTU8K>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496038154.391061"
+        }, 
+        {
+            "text": "", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496038145.390056", 
+            "attachments": [
+                {
+                    "footer": "Posted in #gu5_sf_ml2", 
+                    "channel_id": "C5FEQLJHE", 
+                    "color": "D0D0D0", 
+                    "text": "There's a bug with the `mlp/random_description` test. Just ignore that one", 
+                    "author_link": "https://gstudents.slack.com/team/edward", 
+                    "ts": "1495928493.640157", 
+                    "author_name": "Edward Banner", 
+                    "is_share": true, 
+                    "channel_name": "gu5_sf_ml2", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "edward", 
+                    "fallback": "[May 27th, 2017 4:41 PM] edward: There's a bug with the `mlp/random_description` test. Just ignore that one", 
+                    "author_icon": "https://avatars.slack-edge.com/2017-02-27/146544547505_e06035710ee69c1735f4_48.jpg", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/C5FEQLJHE/p1495928493640157"
+                }
+            ]
+        }, 
+        {
+            "username": "ngtantai", 
+            "display_as_bot": false, 
+            "text": "<@U3P4KTU8K|ngtantai> uploaded a file: <https://gstudents.slack.com/files/ngtantai/F5K9LSTHT/screen_shot_2017-05-28_at_10.56.00_pm.png|Screen Shot 2017-05-28 at 10.56.00 PM.png>", 
+            "upload": true, 
+            "ts": "1496037817.352935", 
+            "subtype": "file_share", 
+            "user": "U3P4KTU8K", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 231, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5K9LSTHT-53bd3667fe/screen_shot_2017-05-28_at_10.56.00_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5K9LSTHT-53bd3667fe/screen_shot_2017-05-28_at_10.56.00_pm_64.png", 
+                "size": 47382, 
+                "original_h": 300, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-05-28 at 10.56.00 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5K9LSTHT/screen_shot_2017-05-28_at_10.56.00_pm.png", 
+                "thumb_720_h": 208, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5K9LSTHT-53bd3667fe/screen_shot_2017-05-28_at_10.56.00_pm_360.png", 
+                "id": "F5K9LSTHT", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5K9LSTHT-53bd3667fe/screen_shot_2017-05-28_at_10.56.00_pm_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 104, 
+                "thumb_480_h": 139, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5K9LSTHT-53bd3667fe/screen_shot_2017-05-28_at_10.56.00_pm_800.png", 
+                "timestamp": 1496037815, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5K9LSTHT-53bd3667fe/screen_shot_2017-05-28_at_10.56.00_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5K9LSTHT/download/screen_shot_2017-05-28_at_10.56.00_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5K9LSTHT-53bd3667fe/screen_shot_2017-05-28_at_10.56.00_pm_1024.png", 
+                "user": "U3P4KTU8K", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5K9LSTHT-53bd3667fe/screen_shot_2017-05-28_at_10.56.00_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-05-28 at 10.56.00 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5K9LSTHT-ebb4248849", 
+                "permalink": "https://gstudents.slack.com/files/ngtantai/F5K9LSTHT/screen_shot_2017-05-28_at_10.56.00_pm.png", 
+                "is_external": false, 
+                "created": 1496037815, 
+                "thumb_1024_h": 296, 
+                "thumb_960_h": 277, 
+                "original_w": 1038, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5K9LSTHT-53bd3667fe/screen_shot_2017-05-28_at_10.56.00_pm_720.png", 
+                "channels": [
+                    "C5FEQLJHE"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "in my case, what is mlp/random_description ? I got 0 for this one", 
+            "type": "message", 
+            "user": "U3P4KTU8K", 
+            "ts": "1496037806.351742"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "smiley", 
+                    "users": [
+                        "U3PHAUK99"
+                    ]
+                }
+            ], 
+            "text": "Good enough :+1::skin-tone-6:", 
+            "type": "message", 
+            "user": "U3P956PB7", 
+            "ts": "1496037478.313178"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "<@U3PT72C5U> no - I haven\u2019t completed gradient descent yet", 
+            "ts": "1496035822.150748", 
+            "user": "U3P8YMVL4", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "100% passing?", 
+            "ts": "1496035622.131261", 
+            "user": "U3PT72C5U", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "laughing", 
+                    "users": [
+                        "U3Q3TKFPA"
+                    ]
+                }
+            ], 
+            "text": "that\u2019s not normal", 
+            "type": "message", 
+            "user": "U3PU46YQN", 
+            "ts": "1496035572.126572"
+        }, 
+        {
+            "text": "lol", 
+            "type": "message", 
+            "user": "U3PT72C5U", 
+            "ts": "1496035554.124830"
+        }, 
+        {
+            "text": "i actually have 0 on gd test", 
+            "type": "message", 
+            "user": "U3PT72C5U", 
+            "ts": "1496035550.124546"
+        }, 
+        {
+            "username": "derekl", 
+            "display_as_bot": false, 
+            "text": "<@U3PT72C5U|derekl> uploaded a file: <https://gstudents.slack.com/files/derekl/F5K9DP8DT/screen_shot_2017-05-28_at_10.23.09_pm.png|Screen Shot 2017-05-28 at 10.23.09 PM.png>", 
+            "upload": true, 
+            "ts": "1496035537.123399", 
+            "subtype": "file_share", 
+            "user": "U3PT72C5U", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 283, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5K9DP8DT-4d6d058bc2/screen_shot_2017-05-28_at_10.23.09_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5K9DP8DT-4d6d058bc2/screen_shot_2017-05-28_at_10.23.09_pm_64.png", 
+                "size": 52826, 
+                "original_h": 329, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-05-28 at 10.23.09 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5K9DP8DT/screen_shot_2017-05-28_at_10.23.09_pm.png", 
+                "thumb_720_h": 254, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5K9DP8DT-4d6d058bc2/screen_shot_2017-05-28_at_10.23.09_pm_360.png", 
+                "id": "F5K9DP8DT", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5K9DP8DT-4d6d058bc2/screen_shot_2017-05-28_at_10.23.09_pm_80.png", 
+                "thumb_360_h": 127, 
+                "thumb_480_h": 170, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5K9DP8DT-4d6d058bc2/screen_shot_2017-05-28_at_10.23.09_pm_800.png", 
+                "timestamp": 1496035535, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5K9DP8DT-4d6d058bc2/screen_shot_2017-05-28_at_10.23.09_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5K9DP8DT/download/screen_shot_2017-05-28_at_10.23.09_pm.png", 
+                "user": "U3PT72C5U", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-05-28 at 10.23.09 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5K9DP8DT-4eaf930d7f", 
+                "permalink": "https://gstudents.slack.com/files/derekl/F5K9DP8DT/screen_shot_2017-05-28_at_10.23.09_pm.png", 
+                "is_external": false, 
+                "created": 1496035535, 
+                "original_w": 931, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5K9DP8DT-4d6d058bc2/screen_shot_2017-05-28_at_10.23.09_pm_720.png", 
+                "channels": [
+                    "C5FEQLJHE"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Oh, I see, thanks", 
+            "type": "message", 
+            "user": "U3NGJPPG8", 
+            "ts": "1496035528.122527"
+        }, 
+        {
+            "text": "It\u2019s normal", 
+            "type": "message", 
+            "user": "U3PU46YQN", 
+            "ts": "1496035516.121297"
+        }, 
+        {
+            "text": "Edward mentioned before", 
+            "type": "message", 
+            "user": "U3PU46YQN", 
+            "ts": "1496035512.120832"
+        }, 
+        {
+            "text": "same here", 
+            "type": "message", 
+            "user": "U3PT72C5U", 
+            "ts": "1496035506.120295"
+        }, 
+        {
+            "text": "think that\u2019s fine", 
+            "type": "message", 
+            "user": "U3PU46YQN", 
+            "ts": "1496035502.119913"
+        }, 
+        {
+            "text": "I don't see anything in the notebook", 
+            "type": "message", 
+            "user": "U3NGJPPG8", 
+            "ts": "1496035496.119383"
+        }, 
+        {
+            "text": "I have a 0 for random description part, did you guys get that?", 
+            "type": "message", 
+            "user": "U3NGJPPG8", 
+            "ts": "1496035476.117566"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "just checked - passing for me too", 
+            "ts": "1496035389.109341", 
+            "user": "U3P8YMVL4", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "great. passed! works now. thanks!", 
+            "ts": "1496034939.067835", 
+            "user": "U3PT72C5U", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "ill see what i can do", 
+            "ts": "1496034133.994150", 
+            "user": "U3PT72C5U", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "Otherwise I can add the package to the class `environment.yml` but that will take a little more time", 
+            "ts": "1496034102.991366", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1496034076.000000"
+            }, 
+            "text": "You're just using it for `one_hot()` right? Just use `keras.utils.np_utils.to_categorical()` instead", 
+            "ts": "1496034068.987856", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "Is the package just called `mlxtend`?", 
+            "ts": "1496034048.985887", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "`ModuleNotFoundError: No module named 'mlxtend'`", 
+            "ts": "1496034032.984183", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "<@U3PT72C5U> I'm getting this error now", 
+            "ts": "1496034029.983916", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "<@U3PU46YQN> <@U3P8YMVL4> <@U3PT72C5U> I believe it's working now", 
+            "ts": "1496034019.982775", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3PU46YQN"
+                    ]
+                }
+            ], 
+            "text": "I'll tell you when I do it", 
+            "ts": "1496030906.707319", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "<@U3PT72C5U> and <@U3P8YMVL4> I figured out the problem. When I registered this assignment with nbgrader I left a blank `classifiers.py` file. When I tell nbgrader to autograde your assignment it overwrites your `classifiers.py` with the blank one. I just need to re-push the assignment docker image with no `classifiers.py` file and it should work fine", 
+            "ts": "1496030900.706754", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": ":+1:", 
+            "ts": "1496029190.557185", 
+            "user": "U3P8YMVL4", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "<@U3PT72C5U> and <@U3P8YMVL4> Just tried it. It worked locally but failed on Travis. I'm narrowing in on the bug...", 
+            "ts": "1496028678.514886", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "ok apparently you can\u2019t share images in a thread on Slack but I have the same screenshot as Derek from the feedback html - import error for classifiers (I have both the notebook and classifiers.py in my submitted folder)", 
+            "ts": "1496028063.464551", 
+            "user": "U3P8YMVL4", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "slog_is_self_dm": false, 
+            "new_broadcast": true, 
+            "type": "message", 
+            "attachments": [
+                {
+                    "footer": "8 replies", 
+                    "channel_name": "gu5_sf_ml2", 
+                    "is_thread_root_unfurl": true, 
+                    "text": "has anyone successfully past the travis autograder? or not having the issue where travis couldn\u2019t import classifier.py?", 
+                    "author_link": "https://gstudents.slack.com/team/derekl", 
+                    "ts": "1496026055.296561", 
+                    "author_name": "Derek Liu", 
+                    "id": 1, 
+                    "channel_id": "C5FEQLJHE", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "derekl", 
+                    "from_url": "https://gstudents.slack.com/archives/C5FEQLJHE/p1496026055296561", 
+                    "author_icon": "https://secure.gravatar.com/avatar/0ce70aca96bad3d017be95c2ac783afd.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0008-48.png", 
+                    "is_msg_unfurl": true, 
+                    "fallback": "[May 28th, 2017 7:47 PM] derekl: has anyone successfully past the travis autograder? or not having the issue where travis couldn\u2019t import classifier.py?"
+                }, 
+                {
+                    "author_link": "https://gstudents.slack.com/team/vnessified", 
+                    "text": "Screen Shot 2017-05-28 at 8.16.50 PM", 
+                    "ts": "1496027938.454061", 
+                    "author_name": "Vanessa Grass", 
+                    "id": 2, 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "vnessified", 
+                    "fallback": "Screen Shot 2017-05-28 at 8.16.50 PM", 
+                    "author_icon": "https://secure.gravatar.com/avatar/8ecc98c63a10c83e321c9fea3900943c.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0023-48.png", 
+                    "from_url": "https://gstudents.slack.com/archives/C5FEQLJHE/p1496027938454061?thread_ts=1496026055296561&cid=C5FEQLJHE"
+                }
+            ], 
+            "slog_is_slackbot_dm": false, 
+            "timestamp": "1496027938454061", 
+            "slog_is_mpdm": "0", 
+            "plain_text": "Screen Shot 2017-05-28 at 8.16.50 PM", 
+            "is_multiteam": false, 
+            "ts": "1496027938.454067", 
+            "subtype": "reply_broadcast", 
+            "slog_is_shared": "0", 
+            "user": "U3P8YMVL4", 
+            "text": "", 
+            "is_thread_broadcast": true
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "the same thing is happening to me as well", 
+            "ts": "1496027864.448052", 
+            "user": "U3P8YMVL4", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U3P8YMVL4", 
+                        "U23UL5125"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "beers", 
+                    "users": [
+                        "U3P956PB7"
+                    ]
+                }
+            ], 
+            "text": "last video is up", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496027552.422536"
+        }, 
+        {
+            "username": "edward", 
+            "display_as_bot": false, 
+            "text": "<@U3Q3TKFPA|edward> uploaded a file: <https://gstudents.slack.com/files/edward/F5JJNT42D/pasted_image_at_2017_05_28_08_08_pm.png|Pasted image at 2017-05-28, 8:08 PM>", 
+            "upload": true, 
+            "ts": "1496027301.401717", 
+            "subtype": "file_share", 
+            "user": "U3Q3TKFPA", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 96, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5JJNT42D-f94dabb2ae/pasted_image_at_2017_05_28_08_08_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5JJNT42D-f94dabb2ae/pasted_image_at_2017_05_28_08_08_pm_64.png", 
+                "size": 28559, 
+                "original_h": 132, 
+                "thumb_360_w": 360, 
+                "title": "Pasted image at 2017-05-28, 8:08 PM", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5JJNT42D/pasted_image_at_2017_05_28_08_08_pm.png", 
+                "thumb_720_h": 87, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5JJNT42D-f94dabb2ae/pasted_image_at_2017_05_28_08_08_pm_360.png", 
+                "id": "F5JJNT42D", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5JJNT42D-f94dabb2ae/pasted_image_at_2017_05_28_08_08_pm_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 43, 
+                "thumb_480_h": 58, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5JJNT42D-f94dabb2ae/pasted_image_at_2017_05_28_08_08_pm_800.png", 
+                "timestamp": 1496027299, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5JJNT42D-f94dabb2ae/pasted_image_at_2017_05_28_08_08_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5JJNT42D/download/pasted_image_at_2017_05_28_08_08_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5JJNT42D-f94dabb2ae/pasted_image_at_2017_05_28_08_08_pm_1024.png", 
+                "user": "U3Q3TKFPA", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5JJNT42D-f94dabb2ae/pasted_image_at_2017_05_28_08_08_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Pasted image at 2017_05_28 08_08 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5JJNT42D-c0be49f8d4", 
+                "permalink": "https://gstudents.slack.com/files/edward/F5JJNT42D/pasted_image_at_2017_05_28_08_08_pm.png", 
+                "is_external": false, 
+                "created": 1496027299, 
+                "thumb_1024_h": 123, 
+                "thumb_960_h": 115, 
+                "original_w": 1098, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5JJNT42D-f94dabb2ae/pasted_image_at_2017_05_28_08_08_pm_720.png", 
+                "channels": [
+                    "C5FEQLJHE"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U3PT72C5U> this shouldn't matter but I noticed your `.travis.yml` has an extra newline where it shouldn't", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496027297.401448"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "<https://github.com/derekliu7/DSCI6005-Perceptrons/invitations>", 
+            "ts": "1496027105.385766", 
+            "user": "U3PT72C5U", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "Can you give me access to your private fork so I can look at it?", 
+            "ts": "1496026697.350067", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "`classifer.py` or `classifiers.py`?", 
+            "ts": "1496026681.348692", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "text": "Video 2/3 is up", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496026664.347249"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "both classifier.py and notebook file were in the same submitted folder", 
+            "ts": "1496026116.301505", 
+            "user": "U3PT72C5U", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "ya", 
+            "ts": "1496026095.299823", 
+            "user": "U3PT72C5U", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "text": "derekl: Did you push classifers.py?", 
+            "ts": "1496026080.298553", 
+            "user": "U3Q3TKFPA", 
+            "parent_user_id": "U3PT72C5U", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1496026055.296561", 
+            "subscribed": false, 
+            "text": "has anyone successfully past the travis autograder? or not having the issue where travis couldn\u2019t import classifier.py?", 
+            "ts": "1496026055.296561", 
+            "unread_count": 23, 
+            "reply_count": 23, 
+            "user": "U3PT72C5U", 
+            "replies": [
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496026080.298553"
+                }, 
+                {
+                    "user": "U3PT72C5U", 
+                    "ts": "1496026095.299823"
+                }, 
+                {
+                    "user": "U3PT72C5U", 
+                    "ts": "1496026116.301505"
+                }, 
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496026681.348692"
+                }, 
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496026697.350067"
+                }, 
+                {
+                    "user": "U3PT72C5U", 
+                    "ts": "1496027105.385766"
+                }, 
+                {
+                    "user": "U3P8YMVL4", 
+                    "ts": "1496027864.448052"
+                }, 
+                {
+                    "user": "U3P8YMVL4", 
+                    "ts": "1496028063.464551"
+                }, 
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496028678.514886"
+                }, 
+                {
+                    "user": "U3P8YMVL4", 
+                    "ts": "1496029190.557185"
+                }, 
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496030900.706754"
+                }, 
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496030906.707319"
+                }, 
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496034019.982775"
+                }, 
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496034029.983916"
+                }, 
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496034032.984183"
+                }, 
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496034048.985887"
+                }, 
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496034068.987856"
+                }, 
+                {
+                    "user": "U3Q3TKFPA", 
+                    "ts": "1496034102.991366"
+                }, 
+                {
+                    "user": "U3PT72C5U", 
+                    "ts": "1496034133.994150"
+                }, 
+                {
+                    "user": "U3PT72C5U", 
+                    "ts": "1496034939.067835"
+                }, 
+                {
+                    "user": "U3P8YMVL4", 
+                    "ts": "1496035389.109341"
+                }, 
+                {
+                    "user": "U3PT72C5U", 
+                    "ts": "1496035622.131261"
+                }, 
+                {
+                    "user": "U3P8YMVL4", 
+                    "ts": "1496035822.150748"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<!channel> I'm posting some videos on some tips for debugging your MLP. 1/3 videos is up <https://learn.galvanize.com/cohorts/182/units/2210/content_files/37061>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1496026033.294730", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1496026050.000000"
+            }
+        }, 
+        {
+            "text": "One section of the graph shows Softmax + Cross Entropy, but is it mean Softmax/Cross Entropy?", 
+            "type": "message", 
+            "user": "U3P4KTU8K", 
+            "ts": "1495939719.096076"
+        }, 
+        {
+            "username": "edward", 
+            "display_as_bot": false, 
+            "text": "<@U3Q3TKFPA|edward> uploaded a file: <https://gstudents.slack.com/files/edward/F5JUKEAMR/mlp_predict.svg|mlp_predict.svg>", 
+            "upload": true, 
+            "ts": "1495939531.089505", 
+            "subtype": "file_share", 
+            "user": "U3Q3TKFPA", 
+            "file": {
+                "filetype": "svg", 
+                "channels": [
+                    "C5FEQLJHE"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5JUKEAMR", 
+                "size": 200967, 
+                "title": "mlp_predict.svg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5JUKEAMR/mlp_predict.svg", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495939531, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5JUKEAMR/download/mlp_predict.svg", 
+                "user": "U3Q3TKFPA", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "SVG", 
+                "name": "mlp_predict.svg", 
+                "mimetype": "image/svg+xml", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5JUKEAMR-53e76510cd", 
+                "permalink": "https://gstudents.slack.com/files/edward/F5JUKEAMR/mlp_predict.svg", 
+                "is_external": false, 
+                "created": 1495939531, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "In case it's helpful here's a computational graph for your `MultiLayerPerceptron.predict()` function", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495939523.089238"
+        }, 
+        {
+            "text": "There's a bug with the `mlp/random_description` test. Just ignore that one", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495928493.640157"
+        }, 
+        {
+            "username": "edward", 
+            "display_as_bot": false, 
+            "text": "<@U3Q3TKFPA|edward> uploaded a file: <https://gstudents.slack.com/files/edward/F5K2AU12Q/pasted_image_at_2017_05_27_04_41_pm.png|Pasted image at 2017-05-27, 4:41 PM>", 
+            "upload": true, 
+            "ts": "1495928473.639360", 
+            "subtype": "file_share", 
+            "user": "U3Q3TKFPA", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 356, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5K2AU12Q-3bdbb0ce17/pasted_image_at_2017_05_27_04_41_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5K2AU12Q-3bdbb0ce17/pasted_image_at_2017_05_27_04_41_pm_64.png", 
+                "size": 139473, 
+                "original_h": 774, 
+                "thumb_360_w": 360, 
+                "title": "Pasted image at 2017-05-27, 4:41 PM", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5K2AU12Q/pasted_image_at_2017_05_27_04_41_pm.png", 
+                "thumb_720_h": 320, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5K2AU12Q-3bdbb0ce17/pasted_image_at_2017_05_27_04_41_pm_360.png", 
+                "id": "F5K2AU12Q", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5K2AU12Q-3bdbb0ce17/pasted_image_at_2017_05_27_04_41_pm_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 160, 
+                "thumb_480_h": 214, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5K2AU12Q-3bdbb0ce17/pasted_image_at_2017_05_27_04_41_pm_800.png", 
+                "timestamp": 1495928470, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5K2AU12Q-3bdbb0ce17/pasted_image_at_2017_05_27_04_41_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5K2AU12Q/download/pasted_image_at_2017_05_27_04_41_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5K2AU12Q-3bdbb0ce17/pasted_image_at_2017_05_27_04_41_pm_1024.png", 
+                "user": "U3Q3TKFPA", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5K2AU12Q-3bdbb0ce17/pasted_image_at_2017_05_27_04_41_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Pasted image at 2017_05_27 04_41 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5K2AU12Q-b882f7eeef", 
+                "permalink": "https://gstudents.slack.com/files/edward/F5K2AU12Q/pasted_image_at_2017_05_27_04_41_pm.png", 
+                "is_external": false, 
+                "created": 1495928470, 
+                "thumb_1024_h": 456, 
+                "thumb_960_h": 427, 
+                "original_w": 1740, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5K2AU12Q-3bdbb0ce17/pasted_image_at_2017_05_27_04_41_pm_720.png", 
+                "channels": [
+                    "C5FEQLJHE"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "If you scroll down to the bottom of the build log you will see which tests you passed/failed", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495928469.639200"
+        }, 
+        {
+            "username": "edward", 
+            "display_as_bot": false, 
+            "text": "<@U3Q3TKFPA|edward> uploaded a file: <https://gstudents.slack.com/files/edward/F5K3NTBQV/pasted_image_at_2017_05_27_04_40_pm.png|Pasted image at 2017-05-27, 4:40 PM>", 
+            "upload": true, 
+            "ts": "1495928406.636580", 
+            "subtype": "file_share", 
+            "user": "U3Q3TKFPA", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 284, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5K3NTBQV-581d3274f4/pasted_image_at_2017_05_27_04_40_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5K3NTBQV-581d3274f4/pasted_image_at_2017_05_27_04_40_pm_64.png", 
+                "size": 121160, 
+                "original_h": 672, 
+                "thumb_360_w": 360, 
+                "title": "Pasted image at 2017-05-27, 4:40 PM", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5K3NTBQV/pasted_image_at_2017_05_27_04_40_pm.png", 
+                "thumb_720_h": 255, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5K3NTBQV-581d3274f4/pasted_image_at_2017_05_27_04_40_pm_360.png", 
+                "id": "F5K3NTBQV", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5K3NTBQV-581d3274f4/pasted_image_at_2017_05_27_04_40_pm_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 128, 
+                "thumb_480_h": 170, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5K3NTBQV-581d3274f4/pasted_image_at_2017_05_27_04_40_pm_800.png", 
+                "timestamp": 1495928402, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5K3NTBQV-581d3274f4/pasted_image_at_2017_05_27_04_40_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5K3NTBQV/download/pasted_image_at_2017_05_27_04_40_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5K3NTBQV-581d3274f4/pasted_image_at_2017_05_27_04_40_pm_1024.png", 
+                "user": "U3Q3TKFPA", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5K3NTBQV-581d3274f4/pasted_image_at_2017_05_27_04_40_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Pasted image at 2017_05_27 04_40 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5K3NTBQV-f58c757d02", 
+                "permalink": "https://gstudents.slack.com/files/edward/F5K3NTBQV/pasted_image_at_2017_05_27_04_40_pm.png", 
+                "is_external": false, 
+                "created": 1495928402, 
+                "thumb_1024_h": 363, 
+                "thumb_960_h": 340, 
+                "original_w": 1896, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5K3NTBQV-581d3274f4/pasted_image_at_2017_05_27_04_40_pm_720.png", 
+                "channels": [
+                    "C5FEQLJHE"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel> the bugs in the learn exercises for gradients and optimization have been fixed. also i pushed the docker image for the perceptrons assignment so you should be able to push your submission to travis CI and have it generate feedback", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495928275.631098"
+        }, 
+        {
+            "text": "Would love feedback (good and constructive) for those who get a chance to watch. Note that these are *newly* recorded videos optimized for online delievery", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495863633.314086", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1495868247.000000"
+            }
+        }, 
+        {
+            "text": "third video is up", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495863228.297373"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "welcome", 
+                    "users": [
+                        "U3Q3TKFPA"
+                    ]
+                }
+            ], 
+            "text": "thanks <@U3Q3TKFPA>", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495862424.263036"
+        }, 
+        {
+            "text": "will have the third one up within the hour", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495862309.258098"
+        }, 
+        {
+            "text": "<!channel> I've posted 2/3 videos from today's lecture to learn <https://learn.galvanize.com/cohorts/182/units/2210/content_files/36867>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495862298.257573", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1495862556.000000"
+            }
+        }, 
+        {
+            "text": "works for me too!", 
+            "type": "message", 
+            "user": "U3P8YMVL4", 
+            "ts": "1495856938.014504"
+        }, 
+        {
+            "text": "yes\u2026it works for me", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495854245.044415"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-5", 
+                    "users": [
+                        "U3PHAUK99"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "hamster_dance", 
+                    "users": [
+                        "U3P8YMVL4"
+                    ]
+                }
+            ], 
+            "text": "Here is video 1/3. I just tried to share it with y'all. Can you see it? <https://youtu.be/-QlMfZccHPI>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495854101.034223"
+        }, 
+        {
+            "text": "In one of the instructor breakout rooms", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495841907.874121"
+        }, 
+        {
+            "text": "where are you!", 
+            "type": "message", 
+            "user": "U3PT72C5U", 
+            "ts": "1495841898.872833"
+        }, 
+        {
+            "text": "yes", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495841871.868989"
+        }, 
+        {
+            "text": "<@U3Q3TKFPA>  Edward, are you still in galvanize?", 
+            "type": "message", 
+            "user": "U3PT72C5U", 
+            "ts": "1495841859.867278"
+        }, 
+        {
+            "text": "still working on it...", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495840280.624712"
+        }, 
+        {
+            "text": "yes", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495836447.870049"
+        }, 
+        {
+            "text": "Ok/ and we will get the link on here?", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1495836225.817427"
+        }, 
+        {
+            "text": "Well it's been preprocessed. Still has to upload to YouTube though...", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495836210.813947"
+        }, 
+        {
+            "username": "edward", 
+            "display_as_bot": false, 
+            "text": "<@U3Q3TKFPA|edward> uploaded a file: <https://gstudents.slack.com/files/edward/F5KKKMG2K/pasted_image_at_2017_05_26_03_03_pm.png|Pasted image at 2017-05-26, 3:03 PM>", 
+            "upload": true, 
+            "ts": "1495836195.810289", 
+            "subtype": "file_share", 
+            "user": "U3Q3TKFPA", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5KKKMG2K-4e45f3703a/pasted_image_at_2017_05_26_03_03_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5KKKMG2K-4e45f3703a/pasted_image_at_2017_05_26_03_03_pm_64.png", 
+                "size": 26469, 
+                "original_h": 190, 
+                "thumb_360_w": 360, 
+                "title": "Pasted image at 2017-05-26, 3:03 PM", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5KKKMG2K/pasted_image_at_2017_05_26_03_03_pm.png", 
+                "thumb_720_h": 180, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5KKKMG2K-4e45f3703a/pasted_image_at_2017_05_26_03_03_pm_360.png", 
+                "id": "F5KKKMG2K", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5KKKMG2K-4e45f3703a/pasted_image_at_2017_05_26_03_03_pm_80.png", 
+                "thumb_360_h": 90, 
+                "thumb_480_h": 120, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495836193, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5KKKMG2K-4e45f3703a/pasted_image_at_2017_05_26_03_03_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5KKKMG2K/download/pasted_image_at_2017_05_26_03_03_pm.png", 
+                "user": "U3Q3TKFPA", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Pasted image at 2017_05_26 03_03 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5KKKMG2K-9d085d5a2a", 
+                "permalink": "https://gstudents.slack.com/files/edward/F5KKKMG2K/pasted_image_at_2017_05_26_03_03_pm.png", 
+                "is_external": false, 
+                "created": 1495836193, 
+                "original_w": 760, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5KKKMG2K-4e45f3703a/pasted_image_at_2017_05_26_03_03_pm_720.png", 
+                "channels": [
+                    "C5FEQLJHE"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Yay!", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1495836182.807132"
+        }, 
+        {
+            "text": "The video is uploading now...", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495836178.806442"
+        }, 
+        {
+            "text": "The screen flow recording and the notebook please", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1495836175.805653"
+        }, 
+        {
+            "text": "<@U3Q3TKFPA> hi the Jupiter notebook exercise today was helpful - can you please help share it ", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1495836158.801715"
+        }, 
+        {
+            "text": "<https://en.wikipedia.org/wiki/Perceptron#History>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1495739600.967120", 
+            "attachments": [
+                {
+                    "image_bytes": 65041, 
+                    "title": "Perceptron", 
+                    "text": "In machine learning, the perceptron is an algorithm for supervised learning of binary classifiers (functions that can decide whether an input, represented by a vector of numbers, belongs to some specific class or not). It is a type of linear classifier, i.e. a classification algorithm that makes its predictions based on a linear predictor function combining a set of weights with the feature vector. The algorithm allows for online learning, in that it processes elements in the training set one at a time.\nThe perceptron algorithm dates back to the late 1950s; its first implementation, in custom hardware, was one of the first artificial neural networks to be produced.", 
+                    "author_link": "http://en.wikipedia.org/", 
+                    "image_width": 1200, 
+                    "author_name": "Wikipedia", 
+                    "title_link": "https://en.wikipedia.org/wiki/Perceptron#History", 
+                    "image_height": 546, 
+                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/1200px-Kernel_Machine.svg.png", 
+                    "fallback": "wikipedia: Perceptron", 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/wikipedia.png", 
+                    "id": 1
+                }
+            ]
+        }, 
+        {
+            "text": "Haha no problem", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495734751.393568"
+        }, 
+        {
+            "text": "Oops. I guess I was not in class. Apologies Edward.", 
+            "type": "message", 
+            "user": "U23UL5125", 
+            "ts": "1495734154.076255"
+        }, 
+        {
+            "text": "He said in class not to call him Ed, how abt Eddie?", 
+            "type": "message", 
+            "user": "U3PU46YQN", 
+            "ts": "1495734018.005457"
+        }, 
+        {
+            "text": "now it works. Thanks Ed", 
+            "type": "message", 
+            "user": "U23UL5125", 
+            "ts": "1495733318.636020"
+        }, 
+        {
+            "text": "^^^try that one", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495730350.091609"
+        }, 
+        {
+            "text": "oh sorry wrong link", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495730313.072985"
+        }, 
+        {
+            "text": "What link did you click?", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495730301.066767"
+        }, 
+        {
+            "username": "vivimarani", 
+            "display_as_bot": false, 
+            "text": "<@U23UL5125|vivimarani> uploaded a file: <https://gstudents.slack.com/files/vivimarani/F5JS3JCEB/screen_shot_2017-05-25_at_9.26.53_am.png|Screen Shot 2017-05-25 at 9.26.53 AM.png>", 
+            "upload": true, 
+            "ts": "1495729650.727954", 
+            "subtype": "file_share", 
+            "user": "U23UL5125", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 126, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5JS3JCEB-4de15f10ce/screen_shot_2017-05-25_at_9.26.53_am_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5JS3JCEB-4de15f10ce/screen_shot_2017-05-25_at_9.26.53_am_64.png", 
+                "size": 40997, 
+                "original_h": 188, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-05-25 at 9.26.53 AM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5JS3JCEB/screen_shot_2017-05-25_at_9.26.53_am.png", 
+                "thumb_720_h": 113, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5JS3JCEB-4de15f10ce/screen_shot_2017-05-25_at_9.26.53_am_360.png", 
+                "id": "F5JS3JCEB", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5JS3JCEB-4de15f10ce/screen_shot_2017-05-25_at_9.26.53_am_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 57, 
+                "thumb_480_h": 76, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5JS3JCEB-4de15f10ce/screen_shot_2017-05-25_at_9.26.53_am_800.png", 
+                "timestamp": 1495729648, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5JS3JCEB-4de15f10ce/screen_shot_2017-05-25_at_9.26.53_am_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5JS3JCEB/download/screen_shot_2017-05-25_at_9.26.53_am.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5JS3JCEB-4de15f10ce/screen_shot_2017-05-25_at_9.26.53_am_1024.png", 
+                "user": "U23UL5125", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5JS3JCEB-4de15f10ce/screen_shot_2017-05-25_at_9.26.53_am_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-05-25 at 9.26.53 AM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5JS3JCEB-82fb8a9533", 
+                "permalink": "https://gstudents.slack.com/files/vivimarani/F5JS3JCEB/screen_shot_2017-05-25_at_9.26.53_am.png", 
+                "is_external": false, 
+                "created": 1495729648, 
+                "thumb_1024_h": 161, 
+                "thumb_960_h": 151, 
+                "original_w": 1195, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5JS3JCEB-4de15f10ce/screen_shot_2017-05-25_at_9.26.53_am_720.png", 
+                "channels": [
+                    "C5FEQLJHE"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel> I've posted a required reading for today's class. It's the next few sections of the cs231n optimization notes that you began reading for Tuesday's class <https://learn.galvanize.com/cohorts/182/units/2210>. My apologies for getting it out late. Once again, we will not be building on this material today - rather we will be going in depth with it during class and through exercises/the project", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495716169.007718", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1495730344.000000"
+            }
+        }, 
+        {
+            "text": "yes", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495708829.185507"
+        }, 
+        {
+            "text": "<@U3Q3TKFPA> will we cover the different loss functions and why we use them\u2026what they do etc", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1495700254.883729"
+        }, 
+        {
+            "text": "Thank you <@U3PHAUK99>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495665758.332958"
+        }, 
+        {
+            "text": "I will do that in a bit..trying to get the Travis part in there too..:blush:", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495654689.505839"
+        }, 
+        {
+            "text": "Thanks everyone! Please move this over to a piazza note so it doesn't get lost in the history :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495652956.640242"
+        }, 
+        {
+            "text": "Thanks <@U3PU46YQN>", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495635407.508084", 
+            "edited": {
+                "user": "U3PHAUK99", 
+                "ts": "1495635462.000000"
+            }
+        }, 
+        {
+            "comment": {
+                "comment": "To further simplify, you only need ```curl -u $2:$3 <https://api.github.com/user/repos> -d \"{\\\"name\\\":\\\"$1\\\",\\\"public\\\":\\\"false\\\"}\"``` line in \u201ccreating private repo\u201d block to create a private repo, no need to do the first commit. The rest works great! Thx a lot!", 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1::skin-tone-5", 
+                        "users": [
+                            "U3PHAUK99"
+                        ]
+                    }
+                ], 
+                "created": 1495605393, 
+                "timestamp": 1495605393, 
+                "is_intro": false, 
+                "user": "U3PU46YQN", 
+                "id": "Fc5HV14MHD"
+            }, 
+            "text": "<@U3PU46YQN|mosquitou> commented on <@U3PHAUK99|jc.b>\u2019s file <https://gstudents.slack.com/files/jc.b/F5H5U7U4V/setup_repo.sh|setup_repo.sh>: To further simplify, you only need ```curl -u $2:$3 <https://api.github.com/user/repos> -d \"{\\\"name\\\":\\\"$1\\\",\\\"public\\\":\\\"false\\\"}\"``` line in \u201ccreating private repo\u201d block to create a private repo, no need to do the first commit. The rest works great! Thx a lot!", 
+            "ts": "1495605393.097015", 
+            "subtype": "file_comment", 
+            "is_intro": false, 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 7, 
+                        "name": "+1", 
+                        "users": [
+                            "U3PDZSHGC", 
+                            "U3NKZMZ2L", 
+                            "U3PS6DGF9", 
+                            "U3P8YMVL4", 
+                            "U23UL5125", 
+                            "U3PU46YQN", 
+                            "U21KL4T8C"
+                        ]
+                    }, 
+                    {
+                        "count": 3, 
+                        "name": "clap", 
+                        "users": [
+                            "U3PT72C5U", 
+                            "U23UL5125", 
+                            "U21KL4T8C"
+                        ]
+                    }
+                ], 
+                "initial_comment": {
+                    "comment": "Made a small change to clean up a temp directories i create in the process", 
+                    "created": 1495585831, 
+                    "timestamp": 1495585831, 
+                    "is_intro": true, 
+                    "user": "U3PHAUK99", 
+                    "id": "Fc5H5U7WH3"
+                }, 
+                "filetype": "shell", 
+                "lines_more": 53, 
+                "channels": [
+                    "C5FEQLJHE"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5H5U7U4V", 
+                "size": 1087, 
+                "title": "setup_repo.sh", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5H5U7U4V/setup_repo.sh", 
+                "ims": [], 
+                "preview": "#!/bin/sh\n\nabort()\n{\n    errcode=$?", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/jc.b/F5H5U7U4V/setup_repo.sh/edit", 
+                "username": "", 
+                "timestamp": 1495585831, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5H5U7U4V/download/setup_repo.sh", 
+                "user": "U3PHAUK99", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Shell", 
+                "name": "setup_repo.sh", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5H5U7U4V-39b3f719dc", 
+                "permalink": "https://gstudents.slack.com/files/jc.b/F5H5U7U4V/setup_repo.sh", 
+                "is_external": false, 
+                "created": 1495585831, 
+                "lines": 58, 
+                "comments_count": 2, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">#!/bin/sh</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre>abort()</pre></div>\n<div><pre>{</pre></div>\n<div><pre>    <span class=\"cm-def\">errcode</span><span class=\"cm-operator\">=</span><span class=\"cm-def\">$?</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "awthanks", 
+                    "users": [
+                        "U3PHAUK99"
+                    ]
+                }
+            ], 
+            "text": "<@U3PHAUK99> awesome idea", 
+            "type": "message", 
+            "user": "U3P8YMVL4", 
+            "ts": "1495589748.412997"
+        }, 
+        {
+            "text": "if u use the second version of the script i sent, then you dont have to remove drepo_setup manually", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495585897.674187"
+        }, 
+        {
+            "text": "it works great!", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1495585854.664995"
+        }, 
+        {
+            "text": "<@U3PHAUK99> Thank u. Also guys I just tried it, it works great. Just one thing to remember: a)  If you have directory &lt;drepo_setup on your local machine, go delete it manually and then run the script above\u2019", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1495585849.664120"
+        }, 
+        {
+            "username": "jc.b", 
+            "display_as_bot": false, 
+            "text": "<@U3PHAUK99|jc.b> uploaded a file: <https://gstudents.slack.com/files/jc.b/F5H5U7U4V/setup_repo.sh|setup_repo.sh> and commented: Made a small change to clean up a temp directories i create in the process", 
+            "upload": true, 
+            "ts": "1495585832.660380", 
+            "subtype": "file_share", 
+            "user": "U3PHAUK99", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 7, 
+                        "name": "+1", 
+                        "users": [
+                            "U3PDZSHGC", 
+                            "U3NKZMZ2L", 
+                            "U3PS6DGF9", 
+                            "U3P8YMVL4", 
+                            "U23UL5125", 
+                            "U3PU46YQN", 
+                            "U21KL4T8C"
+                        ]
+                    }, 
+                    {
+                        "count": 3, 
+                        "name": "clap", 
+                        "users": [
+                            "U3PT72C5U", 
+                            "U23UL5125", 
+                            "U21KL4T8C"
+                        ]
+                    }
+                ], 
+                "initial_comment": {
+                    "comment": "Made a small change to clean up a temp directories i create in the process", 
+                    "created": 1495585831, 
+                    "timestamp": 1495585831, 
+                    "is_intro": true, 
+                    "user": "U3PHAUK99", 
+                    "id": "Fc5H5U7WH3"
+                }, 
+                "filetype": "shell", 
+                "lines_more": 53, 
+                "channels": [
+                    "C5FEQLJHE"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5H5U7U4V", 
+                "size": 1087, 
+                "title": "setup_repo.sh", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5H5U7U4V/setup_repo.sh", 
+                "ims": [], 
+                "preview": "#!/bin/sh\n\nabort()\n{\n    errcode=$?", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/jc.b/F5H5U7U4V/setup_repo.sh/edit", 
+                "username": "", 
+                "timestamp": 1495585831, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5H5U7U4V/download/setup_repo.sh", 
+                "user": "U3PHAUK99", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Shell", 
+                "name": "setup_repo.sh", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5H5U7U4V-39b3f719dc", 
+                "permalink": "https://gstudents.slack.com/files/jc.b/F5H5U7U4V/setup_repo.sh", 
+                "is_external": false, 
+                "created": 1495585831, 
+                "lines": 58, 
+                "comments_count": 2, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">#!/bin/sh</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre>abort()</pre></div>\n<div><pre>{</pre></div>\n<div><pre>    <span class=\"cm-def\">errcode</span><span class=\"cm-operator\">=</span><span class=\"cm-def\">$?</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "jc.b", 
+            "display_as_bot": false, 
+            "text": "<@U3PHAUK99|jc.b> uploaded a file: <https://gstudents.slack.com/files/jc.b/F5HT5V37H/setup_repo.sh|setup_repo.sh> and commented: So, I have created a script for everyone to use to be able to :\n1) create a private repository\n2) bare clone it from gStudent and push to ur local created in (1)\n3) make (1) to a mirror of gStudent for that repository\n\nWe will be doing these for 7 weeks so might as well save some time with a script. The travis part is still manual - maybe I will get around to making a script for that\n\nAll you have to do, download the script, copy it to ur own system\u2019s folder where u keep all ur git repositories and then execute the command in your terminal from ur home git repos folder:\n\nbash setup_repo.sh &lt;Name of repo u want to create and mirror from gstudent&gt; &lt;github username&gt; &lt;github password&gt;", 
+            "upload": true, 
+            "ts": "1495585021.492825", 
+            "subtype": "file_share", 
+            "user": "U3PHAUK99", 
+            "file": {
+                "initial_comment": {
+                    "comment": "So, I have created a script for everyone to use to be able to :\n1) create a private repository\n2) bare clone it from gStudent and push to ur local created in (1)\n3) make (1) to a mirror of gStudent for that repository\n\nWe will be doing these for 7 weeks so might as well save some time with a script. The travis part is still manual - maybe I will get around to making a script for that\n\nAll you have to do, download the script, copy it to ur own system\u2019s folder where u keep all ur git repositories and then execute the command in your terminal from ur home git repos folder:\n\nbash setup_repo.sh &lt;Name of repo u want to create and mirror from gstudent&gt; &lt;github username&gt; &lt;github password&gt;", 
+                    "created": 1495585020, 
+                    "timestamp": 1495585020, 
+                    "is_intro": true, 
+                    "user": "U3PHAUK99", 
+                    "id": "Fc5GCQ4X40"
+                }, 
+                "filetype": "shell", 
+                "lines_more": 53, 
+                "channels": [
+                    "C5FEQLJHE"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5HT5V37H", 
+                "size": 1086, 
+                "title": "setup_repo.sh", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5HT5V37H/setup_repo.sh", 
+                "ims": [], 
+                "preview": "#!/bin/sh\n\nabort()\n{\n    errcode=$?", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/jc.b/F5HT5V37H/setup_repo.sh/edit", 
+                "username": "", 
+                "timestamp": 1495585020, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5HT5V37H/download/setup_repo.sh", 
+                "user": "U3PHAUK99", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Shell", 
+                "name": "setup_repo.sh", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5HT5V37H-642efd7501", 
+                "permalink": "https://gstudents.slack.com/files/jc.b/F5HT5V37H/setup_repo.sh", 
+                "is_external": false, 
+                "created": 1495585020, 
+                "lines": 58, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">#!/bin/sh</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre>abort()</pre></div>\n<div><pre>{</pre></div>\n<div><pre>    <span class=\"cm-def\">errcode</span><span class=\"cm-operator\">=</span><span class=\"cm-def\">$?</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel> I realize I left a solution in `mlp.ipynb`. Please do a `$ git pull upstream master` to pull the version without the solution. That being said, I will come up with an additional exercise to replace it. So feel free to look at it", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495577404.502164", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1495577421.000000"
+            }
+        }, 
+        {
+            "text": "Also if you haven't asked yet *yes* you have to go through this process for every assignment. Luckily we will only have about ~7 assignments so it's not like you have to do it every day", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495576226.070956"
+        }, 
+        {
+            "text": "I've edited the HelloWorld assignment guide by replacing `embanner` with `&lt;YOUR-GITHUB-ID&gt;` everywhere you should put your github ID. Hopefully this will make it easier to follow and more useful for everyone <https://github.com/gSchool/DSCI6005/blob/master/units/setup/lessons/assignment.md>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495576163.046077"
+        }, 
+        {
+            "text": "<!channel> the lab should be available now", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495574433.341596"
+        }, 
+        {
+            "text": "lab is coming next", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495573584.956417"
+        }, 
+        {
+            "text": "learn exercises are available", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495573578.953002"
+        }, 
+        {
+            "text": "Don't worry about not being able to access the lab. I'll release it tomorrow after class", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495499789.700630"
+        }, 
+        {
+            "text": "<!channel> I have released the preparation material you should read through by tomorrow and made it accessible here <https://learn.galvanize.com/cohorts/182/units/2210>. Don't worry if you don't make it through everything - we'll be *going over* the material presented here tomorrow - not building up on (at least this week!)", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495499741.691617", 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1495499812.000000"
+            }
+        }, 
+        {
+            "text": "<@U3PQYCL87> I'm working on that right now. It should be out before 6:00", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495498038.355264"
+        }, 
+        {
+            "text": "<@U3Q3TKFPA> are the lessons/reading material on the Learn- for stuff we are supposed to prepare for tomorrow?", 
+            "type": "message", 
+            "user": "U3PQYCL87", 
+            "ts": "1495497750.293800"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3Q3TKFPA"
+                    ]
+                }
+            ], 
+            "text": "sure thing\u2026", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495496259.965935"
+        }, 
+        {
+            "text": "Thank you <@U3PHAUK99> for sharing those solutions with the class. Going forward please put them in a piazza post so they don't get lost in slack history. I've gone ahead and done that for your two notes", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495496074.923839"
+        }, 
+        {
+            "text": "look at the travis slug section and change the value there to match the case of ur repository as in git", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495490473.421657"
+        }, 
+        {
+            "text": "then vi .git/config", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495490454.414926"
+        }, 
+        {
+            "text": "if u get an err saying epository not known to <https://api.travis-ci.com/>", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495490443.411173"
+        }, 
+        {
+            "text": "travis encrypt --add might ask u to run travis login --pro, then do that", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495490430.406254"
+        }, 
+        {
+            "text": "if u dont find the sync button on travis after the forking part of  dsci6005-helloworld, click on accounts of travis api and u will find it there", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495490375.385787"
+        }, 
+        {
+            "text": "<https://piazza.com/class/j2zk3rbwiy21gq?cid=11>", 
+            "type": "message", 
+            "user": "U23UL5125", 
+            "ts": "1495488273.621656", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://piazza.com/favicon.ico", 
+                    "thumb_width": 200, 
+                    "title": "Piazza \u2022 Ask. Answer. Explore. Whenever.", 
+                    "text": "With Piazza, easily answer questions, manage course materials, and track student participation. It'll save you time, and your students will love using it. It's free, and easy to get started.", 
+                    "title_link": "https://piazza.com/class/j2zk3rbwiy21gq?cid=11", 
+                    "service_name": "piazza.com", 
+                    "id": 1, 
+                    "fallback": "Piazza \u2022 Ask. Answer. Explore. Whenever.", 
+                    "thumb_url": "http://piazza.com/images/splash/PageTop/Piazza-Icon.png", 
+                    "from_url": "https://piazza.com/class/j2zk3rbwiy21gq?cid=11"
+                }
+            ]
+        }, 
+        {
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1495487886.000000"
+            }, 
+            "attachments": [
+                {
+                    "title": "               Adding a new SSH key to your GitHub account - User Documentation           ", 
+                    "text": "To configure your GitHub account to use your new (or existing) SSH key, you'll also need to add it to your GitHub account. \u2026", 
+                    "title_link": "https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/", 
+                    "service_name": "help.github.com", 
+                    "id": 1, 
+                    "fallback": "               Adding a new SSH key to your GitHub account - User Documentation           ", 
+                    "service_icon": "https://help.github.com/assets/images/site/favicon.ico", 
+                    "from_url": "https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/"
+                }
+            ], 
+            "text": "^^^if you get this error then go through these steps to generate and add a ssh key <https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/>", 
+            "ts": "1495487838.449905", 
+            "user": "U3Q3TKFPA", 
+            "type": "message"
+        }, 
+        {
+            "text": "```\nMinhengs-MacBook-Air:gU-week-0-student minheng$ git clone --bare git@github.com:gSchool/DSCI6005-HelloWorld.git\nCloning into bare repository 'DSCI6005-HelloWorld.git'...\nWarning: Permanently added the RSA host key for IP address '192.30.255.112' to the list of known hosts.\nPermission denied (publickey).\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n```", 
+            "type": "message", 
+            "user": "U3NGJPPG8", 
+            "ts": "1495487810.438864", 
+            "edited": {
+                "user": "U3NGJPPG8", 
+                "ts": "1495487821.000000"
+            }
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "travis_ci", 
+                    "users": [
+                        "U1XU9SHRS"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U3Q3TKFPA", 
+                "ts": "1495486762.000000"
+            }, 
+            "text": "```\n1. <https://docs.travis-ci.com>\n```", 
+            "ts": "1495486707.967157", 
+            "user": "U3Q3TKFPA", 
+            "type": "message"
+        }, 
+        {
+            "text": "and then conda create step", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495486544.891703"
+        }, 
+        {
+            "text": "sudo pip install -U requests", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495486536.888137"
+        }, 
+        {
+            "text": "if u got the insecurerequest warning doing the conda create", 
+            "type": "message", 
+            "user": "U3PHAUK99", 
+            "ts": "1495486533.887007"
+        }, 
+        {
+            "text": "use that ^", 
+            "type": "message", 
+            "user": "U3P956PB7", 
+            "ts": "1495486416.834348"
+        }, 
+        {
+            "username": "2check91", 
+            "display_as_bot": false, 
+            "text": "<@U3P956PB7|2check91> uploaded a file: <https://gstudents.slack.com/files/2check91/F5HA70KRU/environment.yml|environment.yml>", 
+            "upload": true, 
+            "ts": "1495486412.832846", 
+            "subtype": "file_share", 
+            "user": "U3P956PB7", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 2, 
+                        "name": "+1", 
+                        "users": [
+                            "U3P4KTU8K", 
+                            "U21KL4T8C"
+                        ]
+                    }
+                ], 
+                "filetype": "yaml", 
+                "lines_more": 29, 
+                "channels": [
+                    "C5FEQLJHE"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5HA70KRU", 
+                "size": 476, 
+                "title": "environment.yml", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5HA70KRU/environment.yml", 
+                "ims": [], 
+                "preview": "# Create environment:\n# $ conda env create --force\n\nname: dl\nchannels:", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/2check91/F5HA70KRU/environment.yml/edit", 
+                "username": "", 
+                "timestamp": 1495486412, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5HA70KRU/download/environment.yml", 
+                "user": "U3P956PB7", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "YAML", 
+                "name": "environment.yml", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5HA70KRU-8592fa7030", 
+                "permalink": "https://gstudents.slack.com/files/2check91/F5HA70KRU/environment.yml", 
+                "is_external": false, 
+                "created": 1495486412, 
+                "lines": 34, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\"># Create environment:</span></pre></div>\n<div><pre><span class=\"cm-comment\"># $ conda env create --force</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-atom\">name</span><span class=\"cm-meta\">: </span>dl</pre></div>\n<div><pre><span class=\"cm-atom\">channels</span><span class=\"cm-meta\">:</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Debugging tip:\n\n```\nconda create -n py36 python=3.6\n```", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495486182.729786"
+        }, 
+        {
+            "text": "<@U21KL4T8C|joseph_miguel> has joined the channel", 
+            "type": "message", 
+            "user": "U21KL4T8C", 
+            "ts": "1495484276.857981", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<https://piazza.com/class/j2zk3rbwiy21gq>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495484228.835707", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://piazza.com/favicon.ico", 
+                    "thumb_width": 200, 
+                    "title": "Piazza \u2022 Ask. Answer. Explore. Whenever.", 
+                    "text": "With Piazza, easily answer questions, manage course materials, and track student participation. It'll save you time, and your students will love using it. It's free, and easy to get started.", 
+                    "title_link": "https://piazza.com/class/j2zk3rbwiy21gq", 
+                    "service_name": "piazza.com", 
+                    "id": 1, 
+                    "fallback": "Piazza \u2022 Ask. Answer. Explore. Whenever.", 
+                    "thumb_url": "http://piazza.com/images/splash/PageTop/Piazza-Icon.png", 
+                    "from_url": "https://piazza.com/class/j2zk3rbwiy21gq"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://learn.galvanize.com/cohorts/182/units>", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495483638.570060"
+        }, 
+        {
+            "text": "<@U1XU9SHRS|brian_spiering> has joined the channel", 
+            "ts": "1495422539.384574", 
+            "subtype": "channel_join", 
+            "user": "U1XU9SHRS", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U5105FN5R|vcorvo> has joined the channel", 
+            "ts": "1495422539.384563", 
+            "subtype": "channel_join", 
+            "user": "U5105FN5R", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U23UL5125|vivimarani> has joined the channel", 
+            "ts": "1495422521.382288", 
+            "subtype": "channel_join", 
+            "user": "U23UL5125", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3P8YMVL4|vnessified> has joined the channel", 
+            "ts": "1495422521.382272", 
+            "subtype": "channel_join", 
+            "user": "U3P8YMVL4", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3PU46YQN|mosquitou> has joined the channel", 
+            "ts": "1495422521.382263", 
+            "subtype": "channel_join", 
+            "user": "U3PU46YQN", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3P4KTU8K|ngtantai> has joined the channel", 
+            "ts": "1495422520.382249", 
+            "subtype": "channel_join", 
+            "user": "U3P4KTU8K", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3NHB9L8Z|armyohse> has joined the channel", 
+            "ts": "1495422520.382237", 
+            "subtype": "channel_join", 
+            "user": "U3NHB9L8Z", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3PLA89C2|rafabaca> has joined the channel", 
+            "ts": "1495422520.382223", 
+            "subtype": "channel_join", 
+            "user": "U3PLA89C2", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3P956PB7|2check91> has joined the channel", 
+            "ts": "1495422520.382207", 
+            "subtype": "channel_join", 
+            "user": "U3P956PB7", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3NGJPPG8|minhengwu> has joined the channel", 
+            "ts": "1495422520.382196", 
+            "subtype": "channel_join", 
+            "user": "U3NGJPPG8", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3PS6DGF9|jerry.khong> has joined the channel", 
+            "ts": "1495422520.382183", 
+            "subtype": "channel_join", 
+            "user": "U3PS6DGF9", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3PHAUK99|jc.b> has joined the channel", 
+            "ts": "1495422450.371826", 
+            "subtype": "channel_join", 
+            "user": "U3PHAUK99", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3PDZSHGC|thestrenuous> has joined the channel", 
+            "ts": "1495422450.371810", 
+            "subtype": "channel_join", 
+            "user": "U3PDZSHGC", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3PQYCL87|jet2016> has joined the channel", 
+            "ts": "1495422450.371805", 
+            "subtype": "channel_join", 
+            "user": "U3PQYCL87", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3PT72C5U|derekl> has joined the channel", 
+            "ts": "1495422450.371794", 
+            "subtype": "channel_join", 
+            "user": "U3PT72C5U", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3PNUUCAH|rwolf16> has joined the channel", 
+            "ts": "1495422450.371785", 
+            "subtype": "channel_join", 
+            "user": "U3PNUUCAH", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3P9Y5K37|ashleighdiamond> has joined the channel", 
+            "ts": "1495422450.371774", 
+            "subtype": "channel_join", 
+            "user": "U3P9Y5K37", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3NKZMZ2L|ashvets> has joined the channel", 
+            "ts": "1495422450.371762", 
+            "subtype": "channel_join", 
+            "user": "U3NKZMZ2L", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3P9DUWJY|adamszabunio> has joined the channel", 
+            "ts": "1495422380.362135", 
+            "subtype": "channel_join", 
+            "user": "U3P9DUWJY", 
+            "type": "message", 
+            "inviter": "U3Q3TKFPA"
+        }, 
+        {
+            "text": "<@U3Q3TKFPA|edward> has joined the channel", 
+            "type": "message", 
+            "user": "U3Q3TKFPA", 
+            "ts": "1495422290.350202", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "gu5_sf_ml2", 
+        "name": "gu5_sf_ml2", 
+        "is_channel": true, 
+        "created": 1495422290, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U3Q3TKFPA", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U1XU9SHRS", 
+            "U21KL4T8C", 
+            "U23UL5125", 
+            "U3NGJPPG8", 
+            "U3NHB9L8Z", 
+            "U3NKZMZ2L", 
+            "U3P4KTU8K", 
+            "U3P8YMVL4", 
+            "U3P956PB7", 
+            "U3P9DUWJY", 
+            "U3P9Y5K37", 
+            "U3PDZSHGC", 
+            "U3PHAUK99", 
+            "U3PLA89C2", 
+            "U3PNUUCAH", 
+            "U3PQYCL87", 
+            "U3PS6DGF9", 
+            "U3PT72C5U", 
+            "U3PU46YQN", 
+            "U3Q3TKFPA", 
+            "U5105FN5R"
+        ], 
+        "id": "C5FEQLJHE", 
+        "is_shared": false
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "messages": [
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> set the channel purpose: Share photos you take around your campus!", 
+            "ts": "1494522670.986988", 
+            "subtype": "channel_purpose", 
+            "user": "U1TTQUYEQ", 
+            "type": "message", 
+            "purpose": "Share photos you take around your campus!"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> has joined the channel", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1494522668.986220", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "campus_photos", 
+        "name": "campus_photos", 
+        "is_channel": true, 
+        "created": 1494522668, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1TTQUYEQ", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1494522670, 
+            "value": "Share photos you take around your campus!", 
+            "creator": "U1TTQUYEQ"
+        }, 
+        "members": [
+            "U1TTQUYEQ"
+        ], 
+        "id": "C5BKVNSBT", 
+        "is_shared": false
+    }
+}

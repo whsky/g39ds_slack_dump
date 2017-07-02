@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495758379.378663"
+        }, 
+        {
+            "text": "Hello, I am here for attendance!", 
+            "type": "message", 
+            "user": "U4ZJ6L7JM", 
+            "ts": "1495758190.352193"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U4ZJ6L7JM", 
+            "U34BY2K3K"
+        ]
+    }
+}

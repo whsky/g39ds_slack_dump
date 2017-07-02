@@ -1,0 +1,106 @@
+{
+    "messages": [
+        {
+            "text": "should i come up now", 
+            "type": "message", 
+            "user": "U4PJXE830", 
+            "ts": "1495829072.451820"
+        }, 
+        {
+            "text": "so sorry just saw this! I do have the data now", 
+            "type": "message", 
+            "user": "U4PJXE830", 
+            "ts": "1495829054.447833"
+        }, 
+        {
+            "text": "Hi Chloe do you have the data yet?  We are ready to meet when you are.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1495813576.623227"
+        }, 
+        {
+            "text": "If I could meet about my proposal a little later in the day that would work best because I was told I would get good data this morning.", 
+            "type": "message", 
+            "user": "U4PJXE830", 
+            "ts": "1495812615.350966"
+        }, 
+        {
+            "username": "chloemays", 
+            "display_as_bot": false, 
+            "text": "<@U4PJXE830|chloemays> uploaded a file: <https://gstudents.slack.com/files/chloemays/F5J72QPC6/proposal.pdf|Proposal.pdf>", 
+            "upload": true, 
+            "ts": "1495642783.917054", 
+            "subtype": "file_share", 
+            "user": "U4PJXE830", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5J72QPC6", 
+                "size": 357102, 
+                "title": "Proposal.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5J72QPC6/proposal.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495642782, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5J72QPC6/download/proposal.pdf", 
+                "user": "U4PJXE830", 
+                "groups": [
+                    "G5GRHBWRX"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "Proposal.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5J72QPC6-0cd154c2db", 
+                "permalink": "https://gstudents.slack.com/files/chloemays/F5J72QPC6/proposal.pdf", 
+                "is_external": false, 
+                "created": 1495642782, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1495642677, 
+            "value": "Group messaging", 
+            "creator": "U4PJXE830"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--chloemays-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--chloemays-1", 
+        "last_read": "1495829072.451820", 
+        "creator": "U4PJXE830", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1495642677, 
+        "is_group": true, 
+        "members": [
+            "U4PJXE830", 
+            "U33BKEP9Q", 
+            "U1WHHHQ7N", 
+            "U34BY2K3K", 
+            "U1Z90HJG3"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1495642677, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky @chloemays", 
+            "creator": "U4PJXE830"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5GRHBWRX", 
+        "latest": {
+            "text": "should i come up now", 
+            "type": "message", 
+            "user": "U4PJXE830", 
+            "ts": "1495829072.451820"
+        }
+    }
+}

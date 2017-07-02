@@ -1,0 +1,840 @@
+{
+    "messages": [
+        {
+            "text": "<@U34TA50NQ|wadere> has left the channel", 
+            "type": "message", 
+            "user": "U34TA50NQ", 
+            "ts": "1498319820.729350", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1WHHHQ7N|frank-w-b> has left the channel", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1490667198.018738", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "clap", 
+                    "users": [
+                        "U3AQVRWPP"
+                    ]
+                }
+            ], 
+            "text": "I'm working from home and taking my son to a dentists appt today. I just got some cool feature importance work done and will have a fun time presenting tomorrow! cheers- Lance", 
+            "type": "message", 
+            "user": "U3450LGGP", 
+            "ts": "1488472727.000007"
+        }, 
+        {
+            "text": "Nice job, everyone.  So no official scrum tomorrow, but I'll be on campus from roughly 11 to 3 if you'd like to meet.  On Friday, Brian Clement from Tectonic (<http://gettectonic.com|gettectonic.com>) is coming in to talk job opportunities at 10:30.  At 1 pm, plan on presenting your capstone using the projector in the classroom.  Try to shoot for about 15 minutes.  Generally, I'd like to hear about:\n1) motivation for your project\n2) how did you get your data?\n3) EDA\n4) did you have to do anything to your data to make it (more) usable (feature eng.)?\n5) how did you use modeling to extract useful information from your data?\n6) how did you evaluate your model (what were your evaluation metrics)\n7) can people use your model (Flask app?)\n8) what was your tech stack? (i.e. python, Keras, skimage, mongo, PostgresSQL, Flask, AWS, etc)\n9) Next steps \n\nKeep up the good work!", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1488393203.000006"
+        }, 
+        {
+            "text": "OK, time for scrum in the computer lab", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1488388754.000005"
+        }, 
+        {
+            "text": "Nope...he's in the lab.  It'll be in a little bit...after Frank finishes up with his new group in the lab.", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1488387735.000004"
+        }, 
+        {
+            "text": "I have heard nothing", 
+            "type": "message", 
+            "user": "U3BHWDP0D", 
+            "ts": "1488386747.000003"
+        }, 
+        {
+            "text": "Is Erich meeting us now somewhere?", 
+            "type": "message", 
+            "user": "U3450LGGP", 
+            "ts": "1488386657.000002"
+        }, 
+        {
+            "text": "Hey everyone we are on for scrum tomorrow at 9:30 am!  Hope your day and evening has been (and will be) productive!", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1488233437.000004"
+        }, 
+        {
+            "text": "Nope... Still not working...", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1488204182.000003"
+        }, 
+        {
+            "text": "I think the train_test_split on the 4D data was screwing me up...was creating 2D y's.  OK...enough with the play by play.  Sleep!  Good luck everyone!", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1488005653.000006"
+        }, 
+        {
+            "text": "Woo hoo!", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1487998410.000004"
+        }, 
+        {
+            "text": "Oh, wait...that's just predicting all as nature for the 20 in that test set.  Still better than my results yesterday, though!", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1487998275.000003"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3450LGGP"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "the_horns", 
+                    "users": [
+                        "U33HEJ1MJ"
+                    ]
+                }
+            ], 
+            "text": "Damn, Frank...already up to 70% accuracy with only 100 samples.  I'm thinking it was the TensorFlow/Theano mix-up causing me problems...AND the matrix reshaping that DOES NOT work the way others in the land of the web suggested...Heads up to any other NN folks!", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1487997742.000002"
+        }, 
+        {
+            "text": "Let me look for Erich...", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1487969508.000009"
+        }, 
+        {
+            "text": "You have requested more instances (1) than your current instance limit of 0 allows for the specified instance type. Please visit <http://aws.amazon.com/contact-us/ec2-request> to request an adjustment to this limit.", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1487969495.000008"
+        }, 
+        {
+            "text": "Spark on the lab computers?", 
+            "type": "message", 
+            "user": "U34TA50NQ", 
+            "ts": "1487969030.000007"
+        }, 
+        {
+            "text": "Hmmm...I'm kind of dead in the water for now.  Any advice?", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1487969010.000006"
+        }, 
+        {
+            "text": "Hmmm....AWS said I didn't have permission to run a GPU instance on a g2.2xlarge machine with 16 GB of storage.  Just sent a request in.  Is this expected?", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1487966666.000004", 
+            "edited": {
+                "user": "U3AQVRWPP", 
+                "ts": "1487966680.000000"
+            }
+        }, 
+        {
+            "text": "Hey, Frank, do you know why we don't have to pass the  CNN in Keras a weight initialization scheme?  I know it's an option, but in all the examples I've seen, init is not used.  I've been scouring the web with no answer found...", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1487964659.000003"
+        }, 
+        {
+            "text": "where?", 
+            "type": "message", 
+            "user": "U34A9NM7H", 
+            "ts": "1487955473.000002"
+        }, 
+        {
+            "text": "Good", 
+            "type": "message", 
+            "user": "U34A9NM7H", 
+            "ts": "1487894185.000037"
+        }, 
+        {
+            "text": "sounds good....", 
+            "type": "message", 
+            "user": "U34TA50NQ", 
+            "ts": "1487893388.000036"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U3450LGGP"
+                    ]
+                }
+            ], 
+            "text": "<!channel> how about we meet at 10 am tomorrow morning?  this will give the traffic a chance to clear.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1487893181.000034"
+        }, 
+        {
+            "text": "When are we meeting tomorrow?", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1487892512.000033"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "grinning", 
+                    "users": [
+                        "U3AQVRWPP"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 165500, 
+                    "ts": 1487016030, 
+                    "title": "Stanford researchers measure African farm yields using high-resolution satellites | Stanford News", 
+                    "service_name": "Stanford News", 
+                    "image_width": 375, 
+                    "title_link": "http://news.stanford.edu/2017/02/13/measure-african-farm-yields-using-high-resolution-satellites/", 
+                    "image_height": 250, 
+                    "image_url": "https://s3-us-west-1.amazonaws.com/stanford.ucomm.newsms.media/wp-content/uploads/2017/02/09143955/crops_mapmerge.jpg", 
+                    "text": "By using high-res images taken by the latest generation of compact satellites, Stanford scientists have developed a new capability for estimating crop yields from space.", 
+                    "id": 1, 
+                    "fallback": "Stanford News: Stanford researchers measure African farm yields using high-resolution satellites | Stanford News", 
+                    "from_url": "http://news.stanford.edu/2017/02/13/measure-african-farm-yields-using-high-resolution-satellites/"
+                }
+            ], 
+            "text": "timely, related article to my project <http://news.stanford.edu/2017/02/13/measure-african-farm-yields-using-high-resolution-satellites/>", 
+            "ts": "1487886410.000030", 
+            "user": "U34TA50NQ", 
+            "type": "message"
+        }, 
+        {
+            "text": "shutter -d 3 --window=.*firefox.* -e\nwmctrl -a firefox; xdotool key Ctrl+w; wmctrl -r firefox -b add,shaded", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1487882589.000029"
+        }, 
+        {
+            "text": "here is another py to word doc module .... <http://pbpython.com/python-word-template.html>", 
+            "type": "message", 
+            "user": "U34TA50NQ", 
+            "ts": "1487866607.000027", 
+            "attachments": [
+                {
+                    "thumb_height": 344, 
+                    "service_icon": "http://pbpython.com/favicon.ico", 
+                    "thumb_width": 876, 
+                    "title": "Populating MS Word Templates with\u00a0Python", 
+                    "text": "Using python to populate a MS Word template (aka mailmerge)", 
+                    "title_link": "http://pbpython.com/python-word-template.html", 
+                    "service_name": "pbpython.com", 
+                    "id": 1, 
+                    "fallback": "Populating MS Word Templates with\u00a0Python", 
+                    "thumb_url": "http://pbpython.com/images/word-python-template.png", 
+                    "from_url": "http://pbpython.com/python-word-template.html"
+                }
+            ]
+        }, 
+        {
+            "username": "griggs", 
+            "display_as_bot": false, 
+            "text": "<@U3AQVRWPP|griggs> uploaded a file: <https://gstudents.slack.com/files/griggs/F498JLP0S/screenshot_from_2017-02-22_22-08-10.png|Screenshot from 2017-02-22 22-08-10.png> and commented: 0, 90, 180, 270 degree rotations with mirror flips (8x)...no duplicates:grinning:", 
+            "upload": true, 
+            "ts": "1487826572.000024", 
+            "subtype": "file_share", 
+            "user": "U3AQVRWPP", 
+            "file": {
+                "thumb_480_w": 453, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "sunglasses", 
+                        "users": [
+                            "U33HEJ1MJ"
+                        ]
+                    }, 
+                    {
+                        "count": 1, 
+                        "name": "+1", 
+                        "users": [
+                            "U3450LGGP"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "0, 90, 180, 270 degree rotations with mirror flips (8x)...no duplicates:grinning:", 
+                    "created": 1487826570, 
+                    "timestamp": 1487826570, 
+                    "is_intro": true, 
+                    "user": "U3AQVRWPP", 
+                    "id": "Fc48H6C6UQ"
+                }, 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F498JLP0S-f4f207e0c2/screenshot_from_2017-02-22_22-08-10_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F498JLP0S-f4f207e0c2/screenshot_from_2017-02-22_22-08-10_64.png", 
+                "size": 239825, 
+                "original_h": 508, 
+                "thumb_360_w": 339, 
+                "title": "Screenshot from 2017-02-22 22-08-10.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F498JLP0S/screenshot_from_2017-02-22_22-08-10.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F498JLP0S-f4f207e0c2/screenshot_from_2017-02-22_22-08-10_360.png", 
+                "id": "F498JLP0S", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F498JLP0S-f4f207e0c2/screenshot_from_2017-02-22_22-08-10_80.png", 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1487826570, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F498JLP0S-f4f207e0c2/screenshot_from_2017-02-22_22-08-10_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F498JLP0S/download/screenshot_from_2017-02-22_22-08-10.png", 
+                "user": "U3AQVRWPP", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screenshot from 2017-02-22 22-08-10.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F498JLP0S-b8c393b82d", 
+                "permalink": "https://gstudents.slack.com/files/griggs/F498JLP0S/screenshot_from_2017-02-22_22-08-10.png", 
+                "is_external": false, 
+                "created": 1487826570, 
+                "original_w": 479, 
+                "comments_count": 1, 
+                "mode": "hosted", 
+                "channels": [
+                    "C471FNQSX"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "item": {
+                "thumb_480_w": 480, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1", 
+                        "users": [
+                            "U34TA50NQ"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "Here's the rough schedule I promised.  As I mentioned this morning, coming in tomorrow morning (Thursday) is optional, but plan to come in on Friday and bring your computers to scrum to show us some EDA and preliminary results.  Friday's scrum will be a little longer.  We can talk more about this schedule then.", 
+                    "created": 1487800138, 
+                    "timestamp": 1487800138, 
+                    "is_intro": true, 
+                    "user": "U1WHHHQ7N", 
+                    "id": "Fc496MN2JY"
+                }, 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_480.png", 
+                "display_as_bot": false, 
+                "pinned_to": [
+                    "C471FNQSX"
+                ], 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_64.png", 
+                "size": 142360, 
+                "original_h": 932, 
+                "thumb_360_w": 360, 
+                "title": "Rough capstone schedule", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F48CY94EL/pasted_image_at_2017_02_22_02_47_pm.png", 
+                "thumb_720_h": 544, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_360.png", 
+                "id": "F48CY94EL", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_80.png", 
+                "comments_count": 1, 
+                "thumb_360_h": 272, 
+                "thumb_480_h": 363, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1487800138, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F48CY94EL/download/pasted_image_at_2017_02_22_02_47_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_1024.png", 
+                "user": "U1WHHHQ7N", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Pasted image at 2017_02_22 02_47 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F48CY94EL-a12aa2a554", 
+                "permalink": "https://gstudents.slack.com/files/frank-w-b/F48CY94EL/pasted_image_at_2017_02_22_02_47_pm.png", 
+                "is_external": false, 
+                "created": 1487800138, 
+                "thumb_1024_h": 773, 
+                "thumb_960_h": 725, 
+                "original_w": 1234, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_720.png", 
+                "channels": [
+                    "C471FNQSX"
+                ]
+            }, 
+            "text": "<@U1WHHHQ7N|frank-w-b> pinned their Image <https://gstudents.slack.com/files/frank-w-b/F48CY94EL/pasted_image_at_2017_02_22_02_47_pm.png|Rough capstone schedule> to this channel.", 
+            "ts": "1487800707.000021", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U1WHHHQ7N", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1WHHHQ7N"
+                    ]
+                }
+            ], 
+            "text": "hahaha I'm just so thankful", 
+            "type": "message", 
+            "user": "U3450LGGP", 
+            "ts": "1487800263.000019"
+        }, 
+        {
+            "text": "Thanks for the kiss, Lance.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1487800248.000018"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "kiss", 
+                    "users": [
+                        "U3450LGGP"
+                    ]
+                }
+            ], 
+            "text": "<!channel> check schedule ^^", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1487800182.000015"
+        }, 
+        {
+            "username": "frank-w-b", 
+            "display_as_bot": false, 
+            "text": "<@U1WHHHQ7N|frank-w-b> uploaded a file: <https://gstudents.slack.com/files/frank-w-b/F48CY94EL/pasted_image_at_2017_02_22_02_47_pm.png|Rough capstone schedule> and commented: Here's the rough schedule I promised.  As I mentioned this morning, coming in tomorrow morning (Thursday) is optional, but plan to come in on Friday and bring your computers to scrum to show us some EDA and preliminary results.  Friday's scrum will be a little longer.  We can talk more about this schedule then.", 
+            "upload": true, 
+            "ts": "1487800140.000014", 
+            "subtype": "file_share", 
+            "user": "U1WHHHQ7N", 
+            "file": {
+                "thumb_480_w": 480, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1", 
+                        "users": [
+                            "U34TA50NQ"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "initial_comment": {
+                    "comment": "Here's the rough schedule I promised.  As I mentioned this morning, coming in tomorrow morning (Thursday) is optional, but plan to come in on Friday and bring your computers to scrum to show us some EDA and preliminary results.  Friday's scrum will be a little longer.  We can talk more about this schedule then.", 
+                    "created": 1487800138, 
+                    "timestamp": 1487800138, 
+                    "is_intro": true, 
+                    "user": "U1WHHHQ7N", 
+                    "id": "Fc496MN2JY"
+                }, 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_480.png", 
+                "display_as_bot": false, 
+                "pinned_to": [
+                    "C471FNQSX"
+                ], 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_64.png", 
+                "size": 142360, 
+                "original_h": 932, 
+                "thumb_360_w": 360, 
+                "title": "Rough capstone schedule", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F48CY94EL/pasted_image_at_2017_02_22_02_47_pm.png", 
+                "thumb_720_h": 544, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_360.png", 
+                "id": "F48CY94EL", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_80.png", 
+                "comments_count": 1, 
+                "thumb_360_h": 272, 
+                "thumb_480_h": 363, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1487800138, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F48CY94EL/download/pasted_image_at_2017_02_22_02_47_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_1024.png", 
+                "user": "U1WHHHQ7N", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Pasted image at 2017_02_22 02_47 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F48CY94EL-a12aa2a554", 
+                "permalink": "https://gstudents.slack.com/files/frank-w-b/F48CY94EL/pasted_image_at_2017_02_22_02_47_pm.png", 
+                "is_external": false, 
+                "created": 1487800138, 
+                "thumb_1024_h": 773, 
+                "thumb_960_h": 725, 
+                "original_w": 1234, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F48CY94EL-3952d86466/pasted_image_at_2017_02_22_02_47_pm_720.png", 
+                "channels": [
+                    "C471FNQSX"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "I don't have an opinion on Caffe.  I haven't tried using it.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1487797936.000013"
+        }, 
+        {
+            "text": "Here's a good primer on skimage:\n<https://github.com/zipfian/image_featurization_keras/>", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1487797753.000012"
+        }, 
+        {
+            "text": "PIL...more than just a band:  \n<https://www.youtube.com/watch?v=zN-https://www.youtube.com/watch?v=zN-GGeNPQE>", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1487792755.000011"
+        }, 
+        {
+            "text": "Here's the library I used for image cropping and will use for flipping, etc:  `from PIL import Image`", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1487790371.000010"
+        }, 
+        {
+            "text": "I just heard about the Caffe framework for neural networks.  Do you have any opinion regarding its use?", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1487790207.000009"
+        }, 
+        {
+            "username": "brian", 
+            "display_as_bot": false, 
+            "text": "<@U34A9NM7H|brian> uploaded a file: <https://gstudents.slack.com/files/brian/F491DDMCJ/archive.zip|Archive.zip> and commented: Two pairs of files.  My edited demo code in trydoc.py -- their sample code does not work.  Made demo.doc.  The other pair is the sample I made.  Took 20 minutes to make the second doc.  Prob due to reading and writing all the figures.  That's ok for my purposes, I won't have to do it often.", 
+            "upload": true, 
+            "ts": "1487790148.000006", 
+            "subtype": "file_share", 
+            "user": "U34A9NM7H", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Two pairs of files.  My edited demo code in trydoc.py -- their sample code does not work.  Made demo.doc.  The other pair is the sample I made.  Took 20 minutes to make the second doc.  Prob due to reading and writing all the figures.  That's ok for my purposes, I won't have to do it often.", 
+                    "created": 1487790146, 
+                    "timestamp": 1487790146, 
+                    "is_intro": true, 
+                    "user": "U34A9NM7H", 
+                    "id": "Fc491DE8N6"
+                }, 
+                "filetype": "zip", 
+                "channels": [
+                    "C471FNQSX"
+                ], 
+                "display_as_bot": false, 
+                "id": "F491DDMCJ", 
+                "size": 14341645, 
+                "title": "Archive.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F491DDMCJ/archive.zip", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1487790146, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F491DDMCJ/download/archive.zip", 
+                "user": "U34A9NM7H", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Zip", 
+                "name": "Archive.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F491DDMCJ-0c829aa84b", 
+                "permalink": "https://gstudents.slack.com/files/brian/F491DDMCJ/archive.zip", 
+                "is_external": false, 
+                "created": 1487790146, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://python-docx.readthedocs.io/en/latest/>\nThe link for creating a word doc with Python", 
+            "type": "message", 
+            "user": "U34A9NM7H", 
+            "ts": "1487789998.000005"
+        }, 
+        {
+            "edited": {
+                "user": "U3BHWDP0D", 
+                "ts": "1487780375.000000"
+            }, 
+            "attachments": [
+                {
+                    "title": "Quality Control Tutorial", 
+                    "text": "The second screen-cast tutorial for the Gastrograph Producer Panel. This one is on Quality Control!", 
+                    "title_link": "https://www.gastrograph.com/resources/tutorials/Producer-Panel-Quality-Control-Tutorial.html#", 
+                    "service_name": "gastrograph.com", 
+                    "id": 1, 
+                    "fallback": "Quality Control Tutorial", 
+                    "service_icon": "https://www.gastrograph.com/assets/images/favicon.ico", 
+                    "from_url": "https://www.gastrograph.com/resources/tutorials/Producer-Panel-Quality-Control-Tutorial.html#"
+                }
+            ], 
+            "text": "Here is some people who have done something similar: \n\n<https://www.gastrograph.com/resources/tutorials/Producer-Panel-Quality-Control-Tutorial.html#>\n\nAt the bottom of the Resources page there is a lot of possible readings that I have yet to go through", 
+            "ts": "1487780270.000002", 
+            "user": "U3BHWDP0D", 
+            "type": "message"
+        }, 
+        {
+            "text": "Hey everyone I'm going to out a bit for errands but I'll be back late this afternoon.  After the morning scrum feel free to work where and when you like.  I'll just try to be around as a resource, but typically I'll be in and out during the day, too.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1487709206.000004"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U1WHHHQ7N", 
+                        "U3450LGGP"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 46175, 
+                    "ts": 1485365728, 
+                    "title": "Using Machine Learning and Satellite Imagery to Estimate Corn Crop Production ~ GIS Lounge", 
+                    "service_name": "GIS Lounge", 
+                    "image_width": 308, 
+                    "title_link": "https://www.gislounge.com/using-machine-learning-satellite-imagery-estimate-corn-crop-production/", 
+                    "image_height": 250, 
+                    "image_url": "https://www.gislounge.com/wp-content/uploads/2017/01/crop-yield-map.png", 
+                    "text": "Descartes Lab, a start-up organization, has created crop production analysis that uses millions of satellite images and machine learning to produce accurate data about the production of agricultural crops.", 
+                    "id": 1, 
+                    "fallback": "GIS Lounge: Using Machine Learning and Satellite Imagery to Estimate Corn Crop Production ~ GIS Lounge", 
+                    "service_icon": "https://www.gislounge.com/favicon.ico", 
+                    "from_url": "https://www.gislounge.com/using-machine-learning-satellite-imagery-estimate-corn-crop-production/"
+                }
+            ], 
+            "text": "<https://www.gislounge.com/using-machine-learning-satellite-imagery-estimate-corn-crop-production/>", 
+            "ts": "1487654146.000009", 
+            "user": "U34TA50NQ", 
+            "type": "message"
+        }, 
+        {
+            "text": "and one more ....", 
+            "type": "message", 
+            "user": "U34TA50NQ", 
+            "ts": "1487654135.000008"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1WHHHQ7N"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 362786, 
+                    "ts": 1419233490, 
+                    "title": "How Satellite Technology Is Predicting Crop Yields: Q&amp;A with Thomson Reuters - OpenMarkets", 
+                    "service_name": "OpenMarkets", 
+                    "image_width": 444, 
+                    "title_link": "http://openmarkets.cmegroup.com/9625/how-satellite-technology-is-predicting-crop-yields", 
+                    "image_height": 250, 
+                    "image_url": "http://openmarkets.cmegroup.com/wp-content/uploads/Remote-Sensing.jpg", 
+                    "text": "As extreme weather becomes more frequent and increasingly impacts the price behavior of agricultural commodities, new and more sophisticated techniques of forecasting crop yields are emerging.", 
+                    "id": 1, 
+                    "fallback": "OpenMarkets: How Satellite Technology Is Predicting Crop Yields: Q&amp;A with Thomson Reuters - OpenMarkets", 
+                    "service_icon": "http://openmarkets.cmegroup.com/wp-content/themes/openmarkets_2015refresh/_files/img/apple-touch-icon.png", 
+                    "from_url": "http://openmarkets.cmegroup.com/9625/how-satellite-technology-is-predicting-crop-yields"
+                }
+            ], 
+            "text": "<http://openmarkets.cmegroup.com/9625/how-satellite-technology-is-predicting-crop-yields>", 
+            "ts": "1487654057.000006", 
+            "user": "U34TA50NQ", 
+            "type": "message"
+        }, 
+        {
+            "text": "here is one to get you started....", 
+            "type": "message", 
+            "user": "U34TA50NQ", 
+            "ts": "1487654055.000005"
+        }, 
+        {
+            "text": "I've got papers from Brian and Gretchen.  Jan, Lance, Rob, Taylor?", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1487622107.000002"
+        }, 
+        {
+            "text": "Remember, get me those papers/blogs!  Have a great weekend and see you Tuesday.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1487372043.000012"
+        }, 
+        {
+            "text": "<@U205HNSAV|neilbezdek> has joined the channel", 
+            "ts": "1487353057.000011", 
+            "subtype": "channel_join", 
+            "user": "U205HNSAV", 
+            "type": "message", 
+            "inviter": "U1WHHHQ7N"
+        }, 
+        {
+            "text": "<@U1YRGUYH0|kaylathomas> has joined the channel", 
+            "ts": "1487353057.000010", 
+            "subtype": "channel_join", 
+            "user": "U1YRGUYH0", 
+            "type": "message", 
+            "inviter": "U1WHHHQ7N"
+        }, 
+        {
+            "text": "<@U33HEJ1MJ|twandrews> has joined the channel", 
+            "ts": "1487353057.000009", 
+            "subtype": "channel_join", 
+            "user": "U33HEJ1MJ", 
+            "type": "message", 
+            "inviter": "U1WHHHQ7N"
+        }, 
+        {
+            "text": "<@U34TA50NQ|wadere> has joined the channel", 
+            "ts": "1487353057.000008", 
+            "subtype": "channel_join", 
+            "user": "U34TA50NQ", 
+            "type": "message", 
+            "inviter": "U1WHHHQ7N"
+        }, 
+        {
+            "text": "<@U3450LGGP|lanceculnane> has joined the channel", 
+            "ts": "1487353057.000007", 
+            "subtype": "channel_join", 
+            "user": "U3450LGGP", 
+            "type": "message", 
+            "inviter": "U1WHHHQ7N"
+        }, 
+        {
+            "text": "<@U3BHWDP0D|jan_vanzegbhroeck> has joined the channel", 
+            "ts": "1487353057.000006", 
+            "subtype": "channel_join", 
+            "user": "U3BHWDP0D", 
+            "type": "message", 
+            "inviter": "U1WHHHQ7N"
+        }, 
+        {
+            "text": "<@U34A9NM7H|brian> has joined the channel", 
+            "ts": "1487353057.000005", 
+            "subtype": "channel_join", 
+            "user": "U34A9NM7H", 
+            "type": "message", 
+            "inviter": "U1WHHHQ7N"
+        }, 
+        {
+            "text": "<@U3AQVRWPP|griggs> has joined the channel", 
+            "ts": "1487353056.000004", 
+            "subtype": "channel_join", 
+            "user": "U3AQVRWPP", 
+            "type": "message", 
+            "inviter": "U1WHHHQ7N"
+        }, 
+        {
+            "text": "<@U1WHHHQ7N|frank-w-b> set the channel purpose: scrum group for den6 capstones", 
+            "ts": "1487353056.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1WHHHQ7N", 
+            "type": "message", 
+            "purpose": "scrum group for den6 capstones"
+        }, 
+        {
+            "text": "<@U1WHHHQ7N|frank-w-b> has joined the channel", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1487353056.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "d6_scrum_frank", 
+        "name": "d6_scrum_frank", 
+        "is_channel": true, 
+        "created": 1487353056, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1WHHHQ7N", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1487353057, 
+            "value": "scrum group for den6 capstones", 
+            "creator": "U1WHHHQ7N"
+        }, 
+        "members": [
+            "U1YRGUYH0", 
+            "U205HNSAV", 
+            "U33HEJ1MJ", 
+            "U3450LGGP", 
+            "U34A9NM7H", 
+            "U3AQVRWPP", 
+            "U3BHWDP0D"
+        ], 
+        "id": "C471FNQSX", 
+        "is_shared": false
+    }
+}

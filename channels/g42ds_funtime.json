@@ -1,0 +1,1567 @@
+{
+    "messages": [
+        {
+            "text": "<!channel> Trivia night is coming! Join us in the speakeasy and show off your ability to retain useless knowledge for prizes! <https://www.eventbrite.com/e/trivia-night-at-galvanize-tickets-35800417011>", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1498774489.391576"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U513HN1GC"
+                    ]
+                }
+            ], 
+            "text": "There should be a #sf_ds_g42_selfie channel", 
+            "type": "message", 
+            "user": "U54DGL631", 
+            "ts": "1498594118.971689"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "heart", 
+                    "users": [
+                        "U513HN1GC"
+                    ]
+                }
+            ], 
+            "text": "Cool. I've been looking for a Pranati/Ernest/Ricky selfie for a long time.\nMy collection is now complete. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1498593863.880442"
+        }, 
+        {
+            "username": "pranati_sahu", 
+            "ts": "1498592047.231540", 
+            "display_as_bot": false, 
+            "text": "<@U513HN1GC|pranati_sahu> uploaded a file: <https://gstudents.slack.com/files/pranati_sahu/F5ZSC6KSM/image_uploaded_from_ios.jpg|Image uploaded from iOS>", 
+            "upload": true, 
+            "upload_reply_to": "BCF28353-66A8-47C9-9840-FF3F37CAABAE", 
+            "subtype": "file_share", 
+            "user": "U513HN1GC", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_800_h": 601, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5ZSC6KSM-9c60f15f92/image_uploaded_from_ios_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5ZSC6KSM-9c60f15f92/image_uploaded_from_ios_64.jpg", 
+                "size": 4349385, 
+                "original_h": 2320, 
+                "thumb_360_w": 360, 
+                "title": "Image uploaded from iOS", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5ZSC6KSM/image_uploaded_from_ios.jpg", 
+                "thumb_720_h": 541, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5ZSC6KSM-9c60f15f92/image_uploaded_from_ios_360.jpg", 
+                "id": "F5ZSC6KSM", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5ZSC6KSM-9c60f15f92/image_uploaded_from_ios_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 361, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5ZSC6KSM-9c60f15f92/image_uploaded_from_ios_800.jpg", 
+                "timestamp": 1498592040, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5ZSC6KSM-9c60f15f92/image_uploaded_from_ios_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5ZSC6KSM/download/image_uploaded_from_ios.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5ZSC6KSM-9c60f15f92/image_uploaded_from_ios_1024.jpg", 
+                "user": "U513HN1GC", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5ZSC6KSM-9c60f15f92/image_uploaded_from_ios_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Image uploaded from iOS.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5ZSC6KSM-effc61190a", 
+                "permalink": "https://gstudents.slack.com/files/pranati_sahu/F5ZSC6KSM/image_uploaded_from_ios.jpg", 
+                "is_external": false, 
+                "created": 1498592040, 
+                "thumb_1024_h": 769, 
+                "thumb_960_h": 721, 
+                "original_w": 3088, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5ZSC6KSM-9c60f15f92/image_uploaded_from_ios_720.jpg", 
+                "channels": [
+                    "C5FSJFF4L"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "cheungwz", 
+            "display_as_bot": false, 
+            "text": "<@U51ML44RE|cheungwz> uploaded a file: <https://gstudents.slack.com/files/cheungwz/F5Z8GPVJ5/img_20170626_130012.jpg|IMG_20170626_130012.jpg>", 
+            "upload": true, 
+            "ts": "1498514228.469682", 
+            "subtype": "file_share", 
+            "user": "U51ML44RE", 
+            "file": {
+                "thumb_480_w": 480, 
+                "reactions": [
+                    {
+                        "count": 2, 
+                        "name": "+1", 
+                        "users": [
+                            "U54DGL631", 
+                            "U513HN1GC"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_800_h": 600, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5Z8GPVJ5-196c006410/img_20170626_130012_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5Z8GPVJ5-196c006410/img_20170626_130012_64.jpg", 
+                "size": 3809869, 
+                "original_h": 2448, 
+                "thumb_360_w": 360, 
+                "title": "IMG_20170626_130012.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5Z8GPVJ5/img_20170626_130012.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5Z8GPVJ5-196c006410/img_20170626_130012_360.jpg", 
+                "id": "F5Z8GPVJ5", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5Z8GPVJ5-196c006410/img_20170626_130012_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5Z8GPVJ5-196c006410/img_20170626_130012_800.jpg", 
+                "timestamp": 1498514224, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5Z8GPVJ5-196c006410/img_20170626_130012_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5Z8GPVJ5/download/img_20170626_130012.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5Z8GPVJ5-196c006410/img_20170626_130012_1024.jpg", 
+                "user": "U51ML44RE", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5Z8GPVJ5-196c006410/img_20170626_130012_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_20170626_130012.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5Z8GPVJ5-1665f6301a", 
+                "permalink": "https://gstudents.slack.com/files/cheungwz/F5Z8GPVJ5/img_20170626_130012.jpg", 
+                "is_external": false, 
+                "created": 1498514224, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 3264, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5Z8GPVJ5-196c006410/img_20170626_130012_720.jpg", 
+                "channels": [
+                    "C5FSJFF4L"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "For anyone going to Pride today: I'll be marching with my wife's company, Helix.  We'll be waaay at the back (#253 of #270) and our step-off time is 1:45pm.  But we'll be showing up well before that, so if you want to meet up, the best way to reach me is via text: <tel:520-370-1903|520-370-1903> .  Happy Pride! :rainbow_flag:", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1498406490.544366"
+        }, 
+        {
+            "text": "Few of us at Southside next to Galvanize. Welcome to join", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1498269288.905764"
+        }, 
+        {
+            "text": "```\nEEEEEEEEEEEEEEEEEEEE MMMMMMMM           MMMMMMMM RRRRRRRRRRRRRRR\nE::::::::::::::::::E M:::::::M         M:::::::M R::::::::::::::R\nEE:::::EEEEEEEEE:::E M::::::::M       M::::::::M R:::::RRRRRR:::::R\n  E::::E       EEEEE M:::::::::M     M:::::::::M RR::::R      R::::R\n  E::::E             M::::::m:::M   M:::m::::::M   R:::R      R::::R\n  E:::::EEEEEEEEEE   M:::::M M:::M M:::M M:::::M   R:::RRRRRR:::::R\n  E::::::::::::::E   M:::::M  M:::m:::M  M:::::M   R:::::::::::RR\n  E:::::EEEEEEEEEE   M:::::M   M:::::M   M:::::M   R:::RRRRRR::::R\n  E::::E             M:::::M    M:::M    M:::::M   R:::R      R::::R\n  E::::E       EEEEE M:::::M     MMM     M:::::M   R:::R      R::::R\nEE:::::EEEEEEEE::::E M:::::M             M:::::M   R:::R      R::::R\nE::::::::::::::::::E M:::::M             M:::::M RR::::R      R::::R\nEEEEEEEEEEEEEEEEEEEE MMMMMMM             MMMMMMM RRRRRRR      RRRRRR\n```", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1498258373.906630"
+        }, 
+        {
+            "text": "put that in a code block! ` ``` ``` `", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1498257836.828411"
+        }, 
+        {
+            "text": "EEEEEEEEEEEEEEEEEEEE MMMMMMMM           MMMMMMMM RRRRRRRRRRRRRRR\nE::::::::::::::::::E M:::::::M         M:::::::M R::::::::::::::R\nEE:::::EEEEEEEEE:::E M::::::::M       M::::::::M R:::::RRRRRR:::::R\n  E::::E       EEEEE M:::::::::M     M:::::::::M RR::::R      R::::R\n  E::::E             M::::::M:::M   M:::M::::::M   R:::R      R::::R\n  E:::::EEEEEEEEEE   M:::::M M:::M M:::M M:::::M   R:::RRRRRR:::::R\n  E::::::::::::::E   M:::::M  M:::M:::M  M:::::M   R:::::::::::RR\n  E:::::EEEEEEEEEE   M:::::M   M:::::M   M:::::M   R:::RRRRRR::::R\n  E::::E             M:::::M    M:::M    M:::::M   R:::R      R::::R\n  E::::E       EEEEE M:::::M     MMM     M:::::M   R:::R      R::::R\nEE:::::EEEEEEEE::::E M:::::M             M:::::M   R:::R      R::::R\nE::::::::::::::::::E M:::::M             M:::::M RR::::R      R::::R\nEEEEEEEEEEEEEEEEEEEE MMMMMMM             MMMMMMM RRRRRRR      RRRRRR", 
+            "type": "message", 
+            "user": "U51ML44RE", 
+            "ts": "1498257704.808842"
+        }, 
+        {
+            "text": "Lol", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1497902893.873140"
+        }, 
+        {
+            "text": "This isn\u2019t fun at all!", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497902658.794417"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U513HN1GC"
+                    ]
+                }
+            ], 
+            "text": "FYI, for anyone still considering mealpal, I just signed up and for the first month you can get the 20 meal option for the price of 12 meals. This works out to ~$4 a meal.", 
+            "type": "message", 
+            "user": "U56C28J9J", 
+            "ts": "1497901080.261648"
+        }, 
+        {
+            "text": "Sweet. See you guys soon. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497474425.435401"
+        }, 
+        {
+            "text": "We bring champagne, beer and haigen dasz.", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1497473951.281852"
+        }, 
+        {
+            "text": "Pranati, Clark and I are on the way. Eta 15 min", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1497473904.266039"
+        }, 
+        {
+            "text": "I have a 2:30 meeting. Should be there around 3:30", 
+            "type": "message", 
+            "user": "U56C28J9J", 
+            "ts": "1497473870.254900"
+        }, 
+        {
+            "text": "In case you don't want to carry lots of stuff", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497468657.475274"
+        }, 
+        {
+            "text": "I have Ticket To Ride as well", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497468640.469380"
+        }, 
+        {
+            "thread_ts": "1497463101.443797", 
+            "text": "Haha! :heart:", 
+            "ts": "1497466344.659328", 
+            "user": "U54DGL631", 
+            "parent_user_id": "U55TMUV8F", 
+            "type": "message"
+        }, 
+        {
+            "text": "I'll start from Galvanize around 1:45pm. If anyone wants to join me.", 
+            "type": "message", 
+            "user": "U513HN1GC", 
+            "ts": "1497465799.456758"
+        }, 
+        {
+            "text": "I'll bring some ice-creams :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U513HN1GC", 
+            "ts": "1497465720.427712"
+        }, 
+        {
+            "text": "I'll be bringing games too (now everyone can play their own game). Also bringing cookies", 
+            "type": "message", 
+            "user": "U4A8U2U90", 
+            "ts": "1497465166.222954"
+        }, 
+        {
+            "text": "Dunno, we might need a few more... :nerd_face:", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1497464954.141514"
+        }, 
+        {
+            "text": "I can show up around 5 or 6 with 7wonders, Dominion, Bang, Betrayal At House On The Hill. Do you think that's enough, everyone.", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1497464821.090765"
+        }, 
+        {
+            "text": "Games I'm bringing: Ticket To Ride, Carcassonne, Forbidden Desert, The Resistance, Hanabi, Quiddler, Set", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1497464721.052840"
+        }, 
+        {
+            "thread_ts": "1497463101.443797", 
+            "text": "Hahaha. Joke's on you! I love you, dude!", 
+            "ts": "1497463563.622759", 
+            "user": "U55TMUV8F", 
+            "parent_user_id": "U55TMUV8F", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1497463101.443797", 
+            "text": "<@U55TMUV8F> no worries I'm out of state anyways", 
+            "ts": "1497463503.600590", 
+            "user": "U54DGL631", 
+            "parent_user_id": "U55TMUV8F", 
+            "type": "message"
+        }, 
+        {
+            "text": "Oh nooo", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1497463360.546072"
+        }, 
+        {
+            "thread_ts": "1497463101.443797", 
+            "subscribed": false, 
+            "text": "Ok, fellowcitizens, 2pm it is. Bring stuff and things. I have Codenames, bring whatever else you want. Safeway's right around the corner in case we need anything last minute (as well as Gamescape a few mins away). \nText me if you have any questions, problems. \nEveryone's welcome, except that one person I don't really like (you know who you are). ", 
+            "ts": "1497463101.443797", 
+            "unread_count": 3, 
+            "reply_count": 3, 
+            "user": "U55TMUV8F", 
+            "replies": [
+                {
+                    "user": "U54DGL631", 
+                    "ts": "1497463503.600590"
+                }, 
+                {
+                    "user": "U55TMUV8F", 
+                    "ts": "1497463563.622759"
+                }, 
+                {
+                    "user": "U54DGL631", 
+                    "ts": "1497466344.659328"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "grumpycat", 
+                    "users": [
+                        "U54DGL631"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "stars", 
+                    "users": [
+                        "U1UBYJQM6"
+                    ]
+                }
+            ], 
+            "text": "Don't pollute this environment with that garbage ever again. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497431290.133251"
+        }, 
+        {
+            "text": "That's terrible. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497431249.123296"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "flushed", 
+                    "users": [
+                        "U54DGL631"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "shell", 
+                    "users": [
+                        "U1UBYJQM6"
+                    ]
+                }
+            ], 
+            "text": "Two atoms are walking down the street when one atom says to the other, \"Oh, my! I've lost an electron!\"The second atom says, \"Are you sure?\"The first replies, \"I'm positive!\"", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1497410823.815803"
+        }, 
+        {
+            "text": "I found a good joke finally in my jokes dataset. had to share", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1497410822.815662"
+        }, 
+        {
+            "text": "Lol. Ditto about chocolate milk and chocolate cereal too!", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1497298289.492577"
+        }, 
+        {
+            "text": "You guys better bring your favorite drinks. All I have is chocolate milk, the sweet nectar of life. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497285951.132114"
+        }, 
+        {
+            "text": "I\u2019ll probably get there a little late, but I\u2019ll be sure to bring some goodies as well.", 
+            "type": "message", 
+            "user": "U55MBF5NU", 
+            "ts": "1497285007.794464"
+        }, 
+        {
+            "text": "I'll bring some wine and something salty/sweet", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1497246285.851567"
+        }, 
+        {
+            "text": "Awesome! I'm excited ", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1497246233.846869"
+        }, 
+        {
+            "thread_ts": "1497121368.224264", 
+            "text": "<@U55TMUV8F> wish I could too! Thanks, Mario! :)", 
+            "ts": "1497172042.343338", 
+            "user": "U54DGL631", 
+            "parent_user_id": "U55TMUV8F", 
+            "type": "message"
+        }, 
+        {
+            "text": "That sounds good. \nLet's go with that one. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497166340.134267"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "joy", 
+                    "users": [
+                        "U54DGL631", 
+                        "U51QAMN6A"
+                    ]
+                }
+            ], 
+            "text": "and your business hour is 12:61am, every 32nd of the month, i assume? :smirk:", 
+            "type": "message", 
+            "user": "U511HKHJ9", 
+            "ts": "1497125878.530901"
+        }, 
+        {
+            "text": "My phone number: <tel:650-862-4830|650-862-4830>\nText, don't call, only during business hours, except for federal holidays, void where prohibited. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497121535.236898"
+        }, 
+        {
+            "text": "I'm fine with 2pm. \nI'll just kick you fools out once you no longer amuse me. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497121432.229941"
+        }, 
+        {
+            "text": "Yea. Duboce Park is Kuma's Park. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497121398.227258"
+        }, 
+        {
+            "text": "<https://youtu.be/IUTkWIx6xu0>", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497121370.224503", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/subpoprecords", 
+                    "service_name": "YouTube", 
+                    "title": "Band of Horses - The Great Salt Lake [OFFICIAL VIDEO]", 
+                    "video_html_height": 300, 
+                    "author_name": "Sub Pop", 
+                    "title_link": "https://youtu.be/IUTkWIx6xu0", 
+                    "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/IUTkWIx6xu0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Band of Horses - The Great Salt Lake [OFFICIAL VIDEO]", 
+                    "thumb_url": "https://i.ytimg.com/vi/IUTkWIx6xu0/hqdefault.jpg", 
+                    "from_url": "https://youtu.be/IUTkWIx6xu0"
+                }
+            ]
+        }, 
+        {
+            "thread_ts": "1497121368.224264", 
+            "subscribed": false, 
+            "text": "Wish you could join us Jon. Have fun in the Great Salt Lake. ", 
+            "ts": "1497121368.224264", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U55TMUV8F", 
+            "replies": [
+                {
+                    "user": "U54DGL631", 
+                    "ts": "1497172042.343338"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "Cool, near Duboce Park.  How's 2pm to midnight? :smirk:", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1497121339.222249"
+        }, 
+        {
+            "text": "Aw sad to miss it! Have so much fun! You guys are the best! :heart:", 
+            "type": "message", 
+            "user": "U54DGL631", 
+            "ts": "1497075383.760382"
+        }, 
+        {
+            "text": "And decide on a time already!", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497067644.431286"
+        }, 
+        {
+            "text": "Let me know if you have any questions. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497067633.430686"
+        }, 
+        {
+            "username": "mariodiazdelarosa", 
+            "ts": "1497067554.426779", 
+            "display_as_bot": false, 
+            "text": "<@U55TMUV8F|mariodiazdelarosa> uploaded a file: <https://gstudents.slack.com/files/mariodiazdelarosa/F5RPM5R6Y/image_uploaded_from_ios.jpg|Image uploaded from iOS>", 
+            "upload": true, 
+            "upload_reply_to": "95D21DCD-07E2-425F-B63C-F7230B5A6988", 
+            "subtype": "file_share", 
+            "user": "U55TMUV8F", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5RPM5R6Y-1606045268/image_uploaded_from_ios_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5RPM5R6Y-1606045268/image_uploaded_from_ios_64.jpg", 
+                "size": 123470, 
+                "original_h": 536, 
+                "thumb_360_w": 360, 
+                "title": "Image uploaded from iOS", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5RPM5R6Y/image_uploaded_from_ios.jpg", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5RPM5R6Y-1606045268/image_uploaded_from_ios_360.jpg", 
+                "id": "F5RPM5R6Y", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5RPM5R6Y-1606045268/image_uploaded_from_ios_80.jpg", 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1497067553, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5RPM5R6Y-1606045268/image_uploaded_from_ios_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5RPM5R6Y/download/image_uploaded_from_ios.jpg", 
+                "user": "U55TMUV8F", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Image uploaded from iOS.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5RPM5R6Y-0c55623ffe", 
+                "permalink": "https://gstudents.slack.com/files/mariodiazdelarosa/F5RPM5R6Y/image_uploaded_from_ios.jpg", 
+                "is_external": false, 
+                "created": 1497067553, 
+                "original_w": 715, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C5FSJFF4L"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Just don't be surprised if my place looks like this:", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497067549.426489"
+        }, 
+        {
+            "text": "Fine, I guess I'll tell you where it is. \nAddress is 21 Belcher St. \nQuite easy to get to by Muni. Take any train to the Church St stop (or a J or N to the Church and Duboce stop) and you're there. \nMy street is the one right behind Church between 14th St and Duboce. Look for the prettiest Victorian in the street. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497067532.425667"
+        }, 
+        {
+            "text": "I'll be bringing some dark beer (porter/stout/scotch ale), salt &amp; vinegar chips, and some games.", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1497064694.291598"
+        }, 
+        {
+            "text": "Anyway, since he's hosting, the rest of us should bring some beer/wine/liquor/sweet and savory snacks.", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1497064613.287934"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "joy", 
+                    "users": [
+                        "U54DGL631"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "laughing", 
+                    "users": [
+                        "U54DGL631"
+                    ]
+                }
+            ], 
+            "text": "(Unless he doesn't tell us where that is) :thinking_face:", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1497064549.284721"
+        }, 
+        {
+            "text": "We decided it will be at Mario's place.", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1497064511.282752"
+        }, 
+        {
+            "text": "Board Game Day is Wednesday!", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1497064482.281091"
+        }, 
+        {
+            "text": "Sigh\u2026I guess we can hold it in my place if we can\u2019t find one. I\u2019m in Duboce Triangle, accessible by pretty much every train in the city. Church and Market.", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1497026308.836723"
+        }, 
+        {
+            "text": "The consensus seems to be to have it at someone's place, to keep the cost cheap.  I can offer my place in El Cerrito.  If someone else wants to offer their place as well, let me know today, and we can choose.", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1497022416.441537"
+        }, 
+        {
+            "text": "OK: let's finalize our Game Day plans today.  Fill out this poll so I can figure out the best day: <https://beta.doodle.com/poll/4cq6z77eguw5mvne>", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1497022298.395035", 
+            "edited": {
+                "user": "U50QM0RQ8", 
+                "ts": "1497022306.000000"
+            }
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "taco", 
+                    "users": [
+                        "U56C28J9J"
+                    ]
+                }
+            ], 
+            "text": "respond with a :burrito: if you want me to hold a seminar on proper pronunciation of Mexican food over the break", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1496886188.108842"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "dancing_penguin", 
+                    "users": [
+                        "U54DGL631"
+                    ]
+                }
+            ], 
+            "text": ":ghost::break_it_down_penguin::dancing_penguin:", 
+            "type": "message", 
+            "user": "U542N7J3H", 
+            "ts": "1496876347.684189"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "dancing_penguin", 
+                    "users": [
+                        "U54DGL631"
+                    ]
+                }
+            ], 
+            "text": ":dancing_penguin:", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1496876265.668537"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "dancing_penguin", 
+                    "users": [
+                        "U54DGL631"
+                    ]
+                }
+            ], 
+            "text": ":dancing_penguin:", 
+            "type": "message", 
+            "user": "U513HN1GC", 
+            "ts": "1496876103.639265"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "dancing_penguin", 
+                    "users": [
+                        "U54DGL631"
+                    ]
+                }
+            ], 
+            "text": ":dancing_penguin:", 
+            "type": "message", 
+            "user": "U55MBF5NU", 
+            "ts": "1496875995.618456"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "dancing_penguin", 
+                    "users": [
+                        "U55MBF5NU", 
+                        "U513HN1GC", 
+                        "U55TMUV8F"
+                    ]
+                }
+            ], 
+            "text": "respond with a :dancing_penguin: if you want me to hold a seminar on dancing like a penguin over the break", 
+            "type": "message", 
+            "user": "U54DGL631", 
+            "ts": "1496875925.605172"
+        }, 
+        {
+            "text": "X-tractor", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1496875549.533213"
+        }, 
+        {
+            "text": "respond with a :x: if you want me to hold a seminar on DNA physics over the break", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1496875514.526656"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "dancing_penguin", 
+                    "users": [
+                        "U513HN1GC"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 900, 
+                    "service_icon": "https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico", 
+                    "thumb_width": 900, 
+                    "title": "PBS Space Time", 
+                    "service_name": "YouTube", 
+                    "title_link": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g", 
+                    "text": "Space Time explores the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi, and anything else you can think of beyond Planet ...", 
+                    "id": 1, 
+                    "fallback": "YouTube: PBS Space Time", 
+                    "thumb_url": "https://yt3.ggpht.com/-iy9fLjZXFx4/AAAAAAAAAAI/AAAAAAAAAAA/cg7Jt07Q5sM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+                    "from_url": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g"
+                }
+            ], 
+            "text": "<https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g>", 
+            "ts": "1496868664.735721", 
+            "user": "U513HN1GC", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "tractor", 
+                    "users": [
+                        "U56C28J9J", 
+                        "U55TMUV8F", 
+                        "U51QAMN6A"
+                    ]
+                }
+            ], 
+            "text": "respond with a :tractor: if you want me to hold a seminar on general relativity over the break", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1496868525.688888"
+        }, 
+        {
+            "text": "<@U513HN1GC> <https://www.youtube.com/watch?v=MO_Q_f1WgQI>", 
+            "type": "message", 
+            "user": "U51ML44RE", 
+            "ts": "1496868245.594513", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/sarahlivesey", 
+                    "service_name": "YouTube", 
+                    "title": "Space and Time into a single Continuum", 
+                    "video_html_height": 225, 
+                    "author_name": "Sarah Livesey Dip M.T", 
+                    "title_link": "https://www.youtube.com/watch?v=MO_Q_f1WgQI", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/MO_Q_f1WgQI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Space and Time into a single Continuum", 
+                    "thumb_url": "https://i.ytimg.com/vi/MO_Q_f1WgQI/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=MO_Q_f1WgQI"
+                }
+            ]
+        }, 
+        {
+            "text": "Or, if Mario wants to have us all over to his place, that works, too. :smile:", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1496813052.116787"
+        }, 
+        {
+            "text": "Reasonable walk from Downtown Berkeley BART.", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1496811803.977931"
+        }, 
+        {
+            "text": "$5 cover, but seems worth it.", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1496811753.972119"
+        }, 
+        {
+            "text": "$1 off all pours on Tuesdays...", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1496811688.964406"
+        }, 
+        {
+            "text": "Location suggestion: Victory Point Cafe in Berkeley.  It looks perfect for gaming!  Food, Coffee, Beer, and a wall of games!  <https://www.yelp.com/biz/victory-point-cafe-berkeley>", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1496811538.946120", 
+            "attachments": [
+                {
+                    "thumb_height": 666, 
+                    "service_icon": "https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_styleguide/118ff475a341/assets/img/logos/favicon.ico", 
+                    "thumb_width": 1000, 
+                    "title": "Victory Point Cafe - Gourmet Ghetto - Berkeley, CA", 
+                    "service_name": "Yelp", 
+                    "title_link": "https://www.yelp.com/biz/victory-point-cafe-berkeley", 
+                    "text": "Specialties: Craft coffee, craft beer, board games, card games, tabletop games, event space. Established in 2015. Victory Point Cafe was born from a love of three key cornerstones: coffee, beer, and board games. We saw how popular similar\u2026", 
+                    "id": 1, 
+                    "fallback": "Yelp: Victory Point Cafe - Gourmet Ghetto - Berkeley, CA", 
+                    "thumb_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1mqE3VTnm8nsX03ZzR1U3g/o.jpg", 
+                    "from_url": "https://www.yelp.com/biz/victory-point-cafe-berkeley"
+                }
+            ]
+        }, 
+        {
+            "text": "OK: here's a poll to find the best day.  Just select the days you'll be free for something in the afternoon / evening. <https://beta.doodle.com/poll/4cq6z77eguw5mvne>", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1496810200.803459", 
+            "attachments": [
+                {
+                    "image_bytes": 6864, 
+                    "title": "Doodle: G42 Board Game Day", 
+                    "text": "This will probably be some afternoon, and go on as long as people can stand it. Add the best days for you and we'll find one that works best.", 
+                    "image_width": 300, 
+                    "title_link": "https://beta.doodle.com/poll/4cq6z77eguw5mvne", 
+                    "image_height": 200, 
+                    "image_url": "https://beta.doodle.com/graphics/static/facebookSharingThumbnail.png", 
+                    "service_name": "beta.doodle.com", 
+                    "id": 1, 
+                    "fallback": "Doodle: G42 Board Game Day", 
+                    "service_icon": "https://beta.doodle.com/dist/i/650dd6854eeca2499449e1a762978fc2.png", 
+                    "from_url": "https://beta.doodle.com/poll/4cq6z77eguw5mvne"
+                }
+            ]
+        }, 
+        {
+            "text": "Board games are fun! I'm in as well.", 
+            "type": "message", 
+            "user": "U513HN1GC", 
+            "ts": "1496808588.623880"
+        }, 
+        {
+            "text": "When is this happening?", 
+            "type": "message", 
+            "user": "U55MBF5NU", 
+            "ts": "1496787190.536796"
+        }, 
+        {
+            "text": "Such a fun idea! I\u2019m in! Thanks for organizing, Drew!", 
+            "type": "message", 
+            "user": "U54DGL631", 
+            "ts": "1496764585.037286", 
+            "edited": {
+                "user": "U54DGL631", 
+                "ts": "1496765131.000000"
+            }
+        }, 
+        {
+            "text": "Also, Joy would like to join so I've extended her an invite.", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1496764348.937165"
+        }, 
+        {
+            "text": "Yes!! I'd love to join. I've got bananagrams, which is easy to pick up as well. And I know a few good card games but I'm down for any games.", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1496764297.915418"
+        }, 
+        {
+            "text": "I\u2019ve played 7 Wonders. It was cool.", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1496699414.616078"
+        }, 
+        {
+            "text": "`\"Mario Kart has consumed so much of my time and concentration in its previous iterations, so what's a little more?\"` :joy: :joy: :joy:", 
+            "type": "message", 
+            "user": "U54DGL631", 
+            "ts": "1496695249.374739"
+        }, 
+        {
+            "text": "Codenames is a good one for a larger group, AND easy to play for new players (for those of you who may be uncertain if you need to be a board game geek to join in the fun, spoilers: you don't).  I also have The Resistance (another large group game), but still haven't played it.  I've never played Dominion, although I've heard of it before.  It seems similar to Puerto Rico, but perhaps not as epic in duration.  I've played 7 Wonders once; that's also fun.  Mario Kart has consumed so much of my time and concentration in its previous iterations, so what's a little more?", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1496690382.731354"
+        }, 
+        {
+            "text": "I've got Dominion (+many expansions) &amp; 7 Wonders. And also Betrayal At House On The Hill: <https://boardgamegeek.com/boardgame/10547/betrayal-house-hill> . And some more games. Board games are cool.", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1496686046.144199", 
+            "edited": {
+                "user": "U1UBYJQM6", 
+                "ts": "1496686055.000000"
+            }
+        }, 
+        {
+            "text": "And a freaking Nintendo Switch with Mario Kart and Bomberman if we decide to step into the 20th century", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1496685727.023451"
+        }, 
+        {
+            "text": "I have Ticket to Ride, Codenames", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1496685701.013431"
+        }, 
+        {
+            "text": "Would be down for board games during break week", 
+            "type": "message", 
+            "user": "U4A8U2U90", 
+            "ts": "1496685520.938589"
+        }, 
+        {
+            "text": "<@U1UBYJQM6|moses.marsh> has joined the channel", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1496683996.372942", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "I\u2019m down", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1496678831.545205"
+        }, 
+        {
+            "text": "Woah, that's a lot of description.  Anyway, board games that are relatively simple to get into, can be played in less than an hour, yet still provide some fun and challenge.  Suggestions also welcome.  Any interest?", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1496636252.920213"
+        }, 
+        {
+            "text": "Anyone interested in a board game day some time/place during the break week?  By board games, I mean something like these: <https://boardgamegeek.com/boardgame/822/carcassonne> | <https://boardgamegeek.com/boardgame/9209/ticket-ride> | <https://boardgamegeek.com/boardgame/136063/forbidden-desert> .", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1496635935.891417", 
+            "attachments": [
+                {
+                    "image_bytes": 74876, 
+                    "title": "Carcassonne", 
+                    "service_name": "BoardGameGeek", 
+                    "image_width": 177, 
+                    "title_link": "https://boardgamegeek.com/boardgame/822/carcassonne", 
+                    "image_height": 250, 
+                    "image_url": "https://cf.geekdo-images.com/jlglWkN_s_kJNFJEcBpL1_IONWs=/fit-in/1200x630/pic2337577.jpg", 
+                    "text": "Carcassonne is a tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. The tile might feature a city, a road, a cloister, grassland or some combination thereof, and it must be placed adjacent to tiles that have already been played, in such a way that cities are connected to cities, roads to roads, etcetera. Having placed a tile, the player can then decide to place one of his meeples on one of the areas on it: on the city as a knight, on the road as a robber, on a cloister as a monk, or on the grass as a farmer. When that area is complete, that meeple scores points for its owner. During a game of Carcassonne, players are faced with decisions like: &amp;quot;Is it really worth putting my last meeple there?&amp;quot; or &amp;quot;Should I use this tile to expand my city, or should I place it near my opponent instead, giving him a hard time to complete his project and score points?&amp;quot; Since players place only one tile and have the option to place one meeple on it, turns proceed quickly even if it is a game full of options and possibilities.", 
+                    "id": 1, 
+                    "fallback": "BoardGameGeek: Carcassonne", 
+                    "service_icon": "https://boardgamegeek.com/favicon.ico", 
+                    "from_url": "https://boardgamegeek.com/boardgame/822/carcassonne"
+                }, 
+                {
+                    "image_bytes": 97995, 
+                    "title": "Ticket to Ride", 
+                    "service_name": "BoardGameGeek", 
+                    "image_width": 251, 
+                    "title_link": "https://boardgamegeek.com/boardgame/9209/ticket-ride", 
+                    "image_height": 250, 
+                    "image_url": "https://cf.geekdo-images.com/SmFyz_7VN4StE5-knaBDgzpQ10g=/fit-in/1200x630/pic38668.jpg", 
+                    "text": "With elegantly simple gameplay, Ticket to Ride can be learned in under 15 minutes, while providing players with intense strategic and tactical decisions every turn. Players collect cards of various types of train cars they then use to claim railway routes in North America. The longer the routes, the more points they earn. Additional points come to those who fulfill Destination Tickets &amp;ndash; goal cards that connect distant cities; and to the player who builds the longest continuous route. &amp;quot;The rules are simple enough to write on a train ticket &amp;ndash; each turn you either draw more cards, claim a route, or get additional Destination Tickets,&amp;quot; says Ticket to Ride author, Alan R. Moon. &amp;quot;The tension comes from being forced to balance greed &amp;ndash; adding more cards to your hand, and fear &amp;ndash; losing a critical route to a competitor.&amp;quot; Ticket to Ride continues in the tradition of Days of Wonder's big format board games featuring high-quality illustrations and components including: an oversize board map of North America, 225 custom-molded train cars, 144 illustrated cards, and wooden scoring markers. Since its introduction and numerous subsequent awards, Ticket to Ride has become the BoardGameGeek epitome of a &amp;quot;gateway game&amp;quot; -- simple enough to be taught in a few minutes, and with enough action and tension to keep new players involved and in the game for the duration. Part of the Ticket to Ride series.", 
+                    "id": 2, 
+                    "fallback": "BoardGameGeek: Ticket to Ride", 
+                    "service_icon": "https://boardgamegeek.com/favicon.ico", 
+                    "from_url": "https://boardgamegeek.com/boardgame/9209/ticket-ride"
+                }, 
+                {
+                    "image_bytes": 68416, 
+                    "title": "Forbidden Desert", 
+                    "service_name": "BoardGameGeek", 
+                    "image_width": 250, 
+                    "title_link": "https://boardgamegeek.com/boardgame/136063/forbidden-desert", 
+                    "image_height": 250, 
+                    "image_url": "https://cf.geekdo-images.com/jRdt_WBPfk8yMGn6AI1UMzhje24=/fit-in/1200x630/pic1528722.jpg", 
+                    "text": "Game description from the publisher: Gear up for a thrilling adventure to recover a legendary flying machine buried deep in the ruins of an ancient desert city. You'll need to coordinate with your teammates and use every available resource if you hope to survive the scorching heat and relentless sandstorm. Find the flying machine and escape before you all become permanent artifacts of the forbidden desert! In Forbidden Desert, a thematic sequel to Forbidden Island, players take on the roles of brave adventurers who must throw caution to the wind and survive both blistering heat and blustering sand in order to recover a legendary flying machine buried under an ancient desert city. While featuring cooperative gameplay similar to Forbidden Island, Forbidden Desert is a fresh, new game based around an innovative set of mechanisms such as an ever-shifting board, individual resource management, and a unique method for locating the flying machine parts.", 
+                    "id": 3, 
+                    "fallback": "BoardGameGeek: Forbidden Desert", 
+                    "service_icon": "https://boardgamegeek.com/favicon.ico", 
+                    "from_url": "https://boardgamegeek.com/boardgame/136063/forbidden-desert"
+                }
+            ]
+        }, 
+        {
+            "text": " Graduation on the 5th floor if anyones still around", 
+            "type": "message", 
+            "user": "U56C28J9J", 
+            "ts": "1496452898.605580"
+        }, 
+        {
+            "text": "This is violence. ", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1495830123.154880"
+        }, 
+        {
+            "username": "cheungwz", 
+            "display_as_bot": false, 
+            "text": "<@U51ML44RE|cheungwz> uploaded a file: <https://gstudents.slack.com/files/cheungwz/F5JSBGZJR/img_20170526_131757.jpg|IMG_20170526_131757.jpg>", 
+            "upload": true, 
+            "ts": "1495829911.094822", 
+            "subtype": "file_share", 
+            "user": "U51ML44RE", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_800_h": 600, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5JSBGZJR-ab010d3976/img_20170526_131757_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5JSBGZJR-ab010d3976/img_20170526_131757_64.jpg", 
+                "size": 3904800, 
+                "original_h": 3120, 
+                "thumb_360_w": 360, 
+                "title": "IMG_20170526_131757.jpg", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5JSBGZJR/img_20170526_131757.jpg", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5JSBGZJR-ab010d3976/img_20170526_131757_360.jpg", 
+                "id": "F5JSBGZJR", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5JSBGZJR-ab010d3976/img_20170526_131757_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5JSBGZJR-ab010d3976/img_20170526_131757_800.jpg", 
+                "timestamp": 1495829906, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5JSBGZJR-ab010d3976/img_20170526_131757_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5JSBGZJR/download/img_20170526_131757.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5JSBGZJR-ab010d3976/img_20170526_131757_1024.jpg", 
+                "user": "U51ML44RE", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5JSBGZJR-ab010d3976/img_20170526_131757_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "IMG_20170526_131757.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5JSBGZJR-5cae4fc7c4", 
+                "permalink": "https://gstudents.slack.com/files/cheungwz/F5JSBGZJR/img_20170526_131757.jpg", 
+                "is_external": false, 
+                "created": 1495829906, 
+                "thumb_1024_h": 768, 
+                "thumb_960_h": 720, 
+                "original_w": 4160, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5JSBGZJR-ab010d3976/img_20170526_131757_720.jpg", 
+                "channels": [
+                    "C5FSJFF4L"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "g37's eating game is weak", 
+            "type": "message", 
+            "user": "U55MBF5NU", 
+            "ts": "1495762631.891265"
+        }, 
+        {
+            "text": "downstairs!", 
+            "type": "message", 
+            "user": "U55MBF5NU", 
+            "ts": "1495762581.884379"
+        }, 
+        {
+            "text": "Heyyy where's dinner! ", 
+            "type": "message", 
+            "user": "U51ML44RE", 
+            "ts": "1495760642.600819"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "carlton", 
+                    "users": [
+                        "U56C28J9J"
+                    ]
+                }
+            ], 
+            "text": "Wei\u2019s idea of fun is so orthogonal to mine.", 
+            "type": "message", 
+            "user": "U55TMUV8F", 
+            "ts": "1495725643.662357"
+        }, 
+        {
+            "text": "<https://techcrunch.com/2017/05/24/airbnb-is-running-its-own-internal-university-to-teach-data-science/?ncid=rss&amp;utm_source=tcfbpage&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;utm_content=FaceBook&amp;sr_share=facebook>", 
+            "type": "message", 
+            "user": "U51ML44RE", 
+            "ts": "1495697857.141561", 
+            "attachments": [
+                {
+                    "thumb_height": 150, 
+                    "service_icon": "https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico", 
+                    "thumb_width": 182, 
+                    "title": "Airbnb is running its own internal university to teach data\u00a0science", 
+                    "service_name": "TechCrunch", 
+                    "author_name": "John Mannes", 
+                    "title_link": "https://techcrunch.com/2017/05/24/airbnb-is-running-its-own-internal-university-to-teach-data-science/?ncid=rss&utm_source=tcfbpage&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=FaceBook&sr_share=facebook", 
+                    "service_url": "http://techcrunch.com", 
+                    "text": "Tech companies, and increasingly even non-tech companies, are struggling with the fact that there are not enough trained data scientists to fill market demand. Every company has their own strategy for hiring and training, but Airbnb has taken things a step further &mdash; running its own university-style program, complete with a custom course-numbering system.", 
+                    "id": 1, 
+                    "fallback": "TechCrunch Link: Airbnb is running its own internal university to teach data&nbsp;science", 
+                    "thumb_url": "https://i0.wp.com/tctechcrunch2011.files.wordpress.com/2017/05/1t289s48jpq9siw41dr_pkw.png?fit=200%2C150&ssl=1", 
+                    "from_url": "https://techcrunch.com/2017/05/24/airbnb-is-running-its-own-internal-university-to-teach-data-science/?ncid=rss&utm_source=tcfbpage&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=FaceBook&sr_share=facebook"
+                }
+            ]
+        }, 
+        {
+            "text": "Hi everyone. Some of us are going to watch Guardians of the Galaxy tomorrow evening. Feel free to join!", 
+            "type": "message", 
+            "user": "U51QAMN6A", 
+            "ts": "1495509008.945235"
+        }, 
+        {
+            "text": "Anyone interested in Bay to breakers? ", 
+            "type": "message", 
+            "user": "U51ML44RE", 
+            "ts": "1495383897.405347"
+        }, 
+        {
+            "text": "Let's go as salmons and run upstream!", 
+            "type": "message", 
+            "user": "U51ML44RE", 
+            "ts": "1495255898.592715"
+        }, 
+        {
+            "text": "For anyone who hasn't gone before, you should definitely check out Bay to Breakers this Sunday.  Don't worry if you're not a runner; they're at the front of the pack and the rest is just a mobile party.  <http://baytobreakers.com/>", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1495255736.584787", 
+            "attachments": [
+                {
+                    "thumb_height": 126, 
+                    "service_icon": "http://baytobreakers.com/wp-content/themes/baytobreakers/assets/img/favicon.png", 
+                    "thumb_width": 381, 
+                    "title": "Bay to Breakers - Only in San Francisco", 
+                    "service_name": "Bay to Breakers", 
+                    "title_link": "http://baytobreakers.com/", 
+                    "text": "San Francisco\u2019s Bay to Breakers is the oldest annual footrace in the world, a staple to the City by the Bay since May 1912.", 
+                    "id": 1, 
+                    "fallback": "Bay to Breakers: Bay to Breakers - Only in San Francisco", 
+                    "thumb_url": "http://www.baytobreakers.com/wp-content/themes/baytobreakers/assets/img/bay-to-breaker-logo.png", 
+                    "from_url": "http://baytobreakers.com/"
+                }
+            ]
+        }, 
+        {
+            "text": "I'm home now.  We actually ended up at John Colins.  Decent selection of liquors and a bit of sushi, too. <https://www.yelp.com/biz/john-colins-san-francisco>", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1495255278.563185", 
+            "attachments": [
+                {
+                    "thumb_height": 1000, 
+                    "service_icon": "https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_styleguide/118ff475a341/assets/img/logos/favicon.ico", 
+                    "thumb_width": 1000, 
+                    "title": "John Colins - Financial District - San Francisco, CA", 
+                    "service_name": "Yelp", 
+                    "title_link": "https://www.yelp.com/biz/john-colins-san-francisco", 
+                    "text": "Specialties: Come on down for happy hour 5 days a week from 5pm to 7pm. We open up early on Friday's at 4pm! Receive $2 off all cocktails and $1 off beers...also, don't forget our crazy chalkboard specials that run all night! There is\u2026", 
+                    "id": 1, 
+                    "fallback": "Yelp: John Colins - Financial District - San Francisco, CA", 
+                    "thumb_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UYLo-UoEIF3-QlVW4fM7Ig/o.jpg", 
+                    "from_url": "https://www.yelp.com/biz/john-colins-san-francisco"
+                }
+            ]
+        }, 
+        {
+            "text": "Anyone still out :smirk: :smirk: :smirk: ", 
+            "type": "message", 
+            "user": "U51ML44RE", 
+            "ts": "1495254395.518242"
+        }, 
+        {
+            "text": ":turkey_dance: ", 
+            "type": "message", 
+            "user": "U51ML44RE", 
+            "ts": "1495238582.446017"
+        }, 
+        {
+            "username": "mariodiazdelarosa", 
+            "display_as_bot": false, 
+            "text": "<@U55TMUV8F|mariodiazdelarosa> uploaded a file: <https://gstudents.slack.com/files/mariodiazdelarosa/F5FP76GUB/pasted_image_at_2017_05_19_16_07.png|Pasted image at 2017-05-19, 16:07>", 
+            "upload": true, 
+            "ts": "1495235277.005245", 
+            "subtype": "file_share", 
+            "user": "U55TMUV8F", 
+            "file": {
+                "groups": [], 
+                "filetype": "png", 
+                "channels": [
+                    "C5FSJFF4L"
+                ], 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5FP76GUB-ccd951fd1f/pasted_image_at_2017_05_19_16_07_64.png", 
+                "size": 77483, 
+                "original_h": 182, 
+                "thumb_360_w": 245, 
+                "title": "Pasted image at 2017-05-19, 16:07", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5FP76GUB/pasted_image_at_2017_05_19_16_07.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5FP76GUB-ccd951fd1f/pasted_image_at_2017_05_19_16_07_360.png", 
+                "id": "F5FP76GUB", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5FP76GUB-ccd951fd1f/pasted_image_at_2017_05_19_16_07_80.png", 
+                "thumb_360_h": 182, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495235276, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5FP76GUB-ccd951fd1f/pasted_image_at_2017_05_19_16_07_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5FP76GUB/download/pasted_image_at_2017_05_19_16_07.png", 
+                "user": "U55TMUV8F", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Pasted image at 2017_05_19 16_07.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5FP76GUB-43201cdba2", 
+                "permalink": "https://gstudents.slack.com/files/mariodiazdelarosa/F5FP76GUB/pasted_image_at_2017_05_19_16_07.png", 
+                "is_external": false, 
+                "created": 1495235276, 
+                "original_w": 245, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U55MBF5NU|chris.duzen> has joined the channel", 
+            "ts": "1495234889.941409", 
+            "subtype": "channel_join", 
+            "user": "U55MBF5NU", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U53KQ5SNN|thomas_young> has joined the channel", 
+            "ts": "1495234889.941393", 
+            "subtype": "channel_join", 
+            "user": "U53KQ5SNN", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U513HN1GC|pranati_sahu> has joined the channel", 
+            "ts": "1495234888.941369", 
+            "subtype": "channel_join", 
+            "user": "U513HN1GC", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U529S4W87|winston_lin> has joined the channel", 
+            "ts": "1495234888.941350", 
+            "subtype": "channel_join", 
+            "user": "U529S4W87", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U55TMUV8F|mariodiazdelarosa> has joined the channel", 
+            "ts": "1495234888.941337", 
+            "subtype": "channel_join", 
+            "user": "U55TMUV8F", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U51ML44RE|cheungwz> has joined the channel", 
+            "ts": "1495234888.941324", 
+            "subtype": "channel_join", 
+            "user": "U51ML44RE", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U51G3PN5R|wenqicheng> has joined the channel", 
+            "ts": "1495234888.941307", 
+            "subtype": "channel_join", 
+            "user": "U51G3PN5R", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U50817LQY|joyzeng> has joined the channel", 
+            "ts": "1495234888.941292", 
+            "subtype": "channel_join", 
+            "user": "U50817LQY", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U46UHKQL9|icvarkovic> has joined the channel", 
+            "ts": "1495234888.941276", 
+            "subtype": "channel_join", 
+            "user": "U46UHKQL9", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U53RDP1PD|goyosoyo> has joined the channel", 
+            "ts": "1495234888.941266", 
+            "subtype": "channel_join", 
+            "user": "U53RDP1PD", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U51NEURRU|ernestpicato> has joined the channel", 
+            "ts": "1495234888.941258", 
+            "subtype": "channel_join", 
+            "user": "U51NEURRU", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U51GZQGG3|daniellund14> has joined the channel", 
+            "ts": "1495234888.941239", 
+            "subtype": "channel_join", 
+            "user": "U51GZQGG3", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U4A8U2U90|chris_q> has joined the channel", 
+            "ts": "1495234888.941229", 
+            "subtype": "channel_join", 
+            "user": "U4A8U2U90", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U511HKHJ9|kralc000> has joined the channel", 
+            "ts": "1495234888.941223", 
+            "subtype": "channel_join", 
+            "user": "U511HKHJ9", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U542N7J3H|bcline> has joined the channel", 
+            "ts": "1495234888.941213", 
+            "subtype": "channel_join", 
+            "user": "U542N7J3H", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U4DQ83RTN|sandimihaylova> has joined the channel", 
+            "ts": "1495234887.941202", 
+            "subtype": "channel_join", 
+            "user": "U4DQ83RTN", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U51QAMN6A|aamir7117> has joined the channel", 
+            "ts": "1495234887.941181", 
+            "subtype": "channel_join", 
+            "user": "U51QAMN6A", 
+            "type": "message", 
+            "inviter": "U54DGL631"
+        }, 
+        {
+            "text": "<@U50QM0RQ8|drew.erickson> has joined the channel", 
+            "type": "message", 
+            "user": "U50QM0RQ8", 
+            "ts": "1495233654.729287", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U56C28J9J|rickyboebel> has joined the channel", 
+            "type": "message", 
+            "user": "U56C28J9J", 
+            "ts": "1495233036.617131", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U54DGL631|j> has joined the channel", 
+            "ts": "1495232858.582334", 
+            "subtype": "channel_join", 
+            "user": "U54DGL631", 
+            "type": "message", 
+            "inviter": "U3F1AHRHT"
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> set the channel purpose: What do g42 Data Scientists do in their downtime? Join this channel to find out and contribute ideas.", 
+            "ts": "1495232858.582319", 
+            "subtype": "channel_purpose", 
+            "user": "U3F1AHRHT", 
+            "type": "message", 
+            "purpose": "What do g42 Data Scientists do in their downtime? Join this channel to find out and contribute ideas."
+        }, 
+        {
+            "text": "<@U3F1AHRHT|jennyengard> has joined the channel", 
+            "type": "message", 
+            "user": "U3F1AHRHT", 
+            "ts": "1495232857.582059", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g42ds_funtime", 
+        "name": "g42ds_funtime", 
+        "is_channel": true, 
+        "created": 1495232857, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U3F1AHRHT", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1495232858, 
+            "value": "What do g42 Data Scientists do in their downtime? Join this channel to find out and contribute ideas.", 
+            "creator": "U3F1AHRHT"
+        }, 
+        "members": [
+            "U1UBYJQM6", 
+            "U3F1AHRHT", 
+            "U46UHKQL9", 
+            "U4A8U2U90", 
+            "U4DQ83RTN", 
+            "U50817LQY", 
+            "U50QM0RQ8", 
+            "U511HKHJ9", 
+            "U513HN1GC", 
+            "U51G3PN5R", 
+            "U51GZQGG3", 
+            "U51ML44RE", 
+            "U51NEURRU", 
+            "U51QAMN6A", 
+            "U529S4W87", 
+            "U53KQ5SNN", 
+            "U53RDP1PD", 
+            "U542N7J3H", 
+            "U54DGL631", 
+            "U55MBF5NU", 
+            "U55TMUV8F", 
+            "U56C28J9J"
+        ], 
+        "id": "C5FSJFF4L", 
+        "is_shared": false
+    }
+}

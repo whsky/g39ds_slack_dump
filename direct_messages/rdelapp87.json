@@ -1,0 +1,34 @@
+{
+    "messages": [
+        {
+            "text": "*GalvanizeD", 
+            "type": "message", 
+            "user": "U50D8RMR7", 
+            "ts": "1495764949.496276"
+        }, 
+        {
+            "text": "Does Galvanize have an Adv Python or Adv Statistics class???", 
+            "type": "message", 
+            "user": "U50D8RMR7", 
+            "ts": "1495764941.495073"
+        }, 
+        {
+            "text": ":+1:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1495758453.388609"
+        }, 
+        {
+            "text": "I am here in class. #LazyAttendence", 
+            "type": "message", 
+            "user": "U50D8RMR7", 
+            "ts": "1495758406.380399"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U50D8RMR7", 
+            "U34BY2K3K"
+        ]
+    }
+}

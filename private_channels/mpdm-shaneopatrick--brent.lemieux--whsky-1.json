@@ -1,0 +1,63 @@
+{
+    "messages": [
+        {
+            "text": "roger", 
+            "type": "message", 
+            "user": "U4EUTPCE5", 
+            "ts": "1495736365.568812"
+        }, 
+        {
+            "text": "We haven't done anything with the names yet, so just write it on the board after the speaker", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1495736276.534920"
+        }, 
+        {
+            "text": "?", 
+            "type": "message", 
+            "user": "U4EUTPCE5", 
+            "ts": "1495736021.437844"
+        }, 
+        {
+            "text": "my bad, forgot to write my name down on the board for the case study groups\u2026 can you please mark me down for the Spark group", 
+            "type": "message", 
+            "user": "U4EUTPCE5", 
+            "ts": "1495736021.437495"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1495735994, 
+            "value": "Group messaging", 
+            "creator": "U4EUTPCE5"
+        }, 
+        "name_normalized": "mpdm-shaneopatrick--brent.lemieux--whsky-1", 
+        "name": "mpdm-shaneopatrick--brent.lemieux--whsky-1", 
+        "last_read": "1495736365.568812", 
+        "creator": "U4EUTPCE5", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1495735994, 
+        "is_group": true, 
+        "members": [
+            "U4EUTPCE5", 
+            "U33BKEP9Q", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1495735994, 
+            "value": "Group messaging with: @shaneopatrick @brent.lemieux @whsky", 
+            "creator": "U4EUTPCE5"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5J3XRGHY", 
+        "latest": {
+            "text": "roger", 
+            "type": "message", 
+            "user": "U4EUTPCE5", 
+            "ts": "1495736365.568812"
+        }
+    }
+}

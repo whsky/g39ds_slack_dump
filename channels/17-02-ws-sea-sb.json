@@ -1,0 +1,47 @@
+{
+    "messages": [
+        {
+            "text": "<@U1VCJN4DC|laurenlark> has joined the channel", 
+            "ts": "1487974280.000003", 
+            "subtype": "channel_join", 
+            "user": "U1VCJN4DC", 
+            "type": "message", 
+            "inviter": "U1TU3PLMB"
+        }, 
+        {
+            "text": "<@U1TU3PLMB|katieparker> has joined the channel", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1487974280.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "17-02-ws-sea-sb", 
+        "name": "17-02-ws-sea-sb", 
+        "is_channel": true, 
+        "created": 1487974280, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1TU3PLMB", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [
+            "U1TU3PLMB", 
+            "U1VCJN4DC"
+        ], 
+        "id": "C49HYR6D6", 
+        "is_shared": false
+    }
+}

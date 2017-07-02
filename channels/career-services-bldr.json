@@ -1,0 +1,814 @@
+{
+    "messages": [
+        {
+            "text": "<@U4X48KLRH|willmeier> has left the channel", 
+            "type": "message", 
+            "user": "U4X48KLRH", 
+            "ts": "1492531926.818765", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U4X48KLRH|willmeier> has joined the channel", 
+            "type": "message", 
+            "user": "U4X48KLRH", 
+            "ts": "1492531859.785777", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2E7KENV8|katieajenkins> has left the channel", 
+            "type": "message", 
+            "user": "U2E7KENV8", 
+            "ts": "1491777390.196259", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U2AQY2ZGU|redemption23> has left the channel", 
+            "type": "message", 
+            "user": "U2AQY2ZGU", 
+            "ts": "1490199027.772979", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "awesome", 
+                    "users": [
+                        "U2AP9MP5H", 
+                        "U31337WDQ"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 76, 
+                    "service_icon": "http://healthgrades.careers/wp-content/uploads/2016/12/favicon-194x194.png", 
+                    "thumb_width": 156, 
+                    "title": "Search Jobs at Healthgrades | HgCareers | Job Vacancies", 
+                    "text": "Find your new career at Healthgrades and help us change the game. Generous PTO, great culture, and fantastic benefits. Join our team today!", 
+                    "title_link": "https://healthgrades.careers/", 
+                    "service_name": "healthgrades.careers", 
+                    "id": 1, 
+                    "fallback": "Search Jobs at Healthgrades | HgCareers | Job Vacancies", 
+                    "thumb_url": "https://healthgrades.careers/wp-content/uploads/2016/12/umbrella.png", 
+                    "from_url": "https://healthgrades.careers/"
+                }
+            ], 
+            "text": "Hey <!channel> \u2014 Cool things: Whitney Bertram from Healthgrades was on campus yesterday as part of our recruiter panel. A quote from her: \u201c...we have hired 4 recent Galvanize alums and are hoping to add another 1-2 in the upcoming month.\u201d :smile: \n\nHere\u2019s their career page, for your perusal and hopefully great success:\n<https://healthgrades.careers/>", 
+            "ts": "1489602315.273451", 
+            "user": "U1Z9D27QD", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "awesome", 
+                    "users": [
+                        "U2AP9MP5H", 
+                        "U2E7KENV8", 
+                        "U2B7PGW6N"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 44208, 
+                    "fields": [
+                        {
+                            "short": true, 
+                            "value": "16 min read", 
+                            "title": "Reading time"
+                        }
+                    ], 
+                    "title": "Comprehensive Guide to the Boulder / Denver Startup and Tech Scene", 
+                    "service_name": "Hacker Noon", 
+                    "ts": 1483853888, 
+                    "title_link": "https://hackernoon.com/comprehensive-guide-to-the-boulder-denver-startup-and-tech-scene-541ff4bc43ab#.noodhc8zs", 
+                    "image_height": 244, 
+                    "image_url": "https://cdn-images-1.medium.com/max/1200/1*WUcHkkwCE5q81V5HBLe2vQ.jpeg", 
+                    "image_width": 415, 
+                    "text": "This post originally appeared on LeadOut Sales here.", 
+                    "id": 1, 
+                    "fallback": "Hacker Noon: Comprehensive Guide to the Boulder / Denver Startup and Tech Scene", 
+                    "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*76XiKOa05Yya6_CdYX8pVg.jpeg", 
+                    "from_url": "https://hackernoon.com/comprehensive-guide-to-the-boulder-denver-startup-and-tech-scene-541ff4bc43ab#.noodhc8zs"
+                }
+            ], 
+            "text": "I think that could be a good resource for everybody <https://hackernoon.com/comprehensive-guide-to-the-boulder-denver-startup-and-tech-scene-541ff4bc43ab#.noodhc8zs>", 
+            "ts": "1489422334.322540", 
+            "user": "U2HAZ1589", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1::skin-tone-2", 
+                    "users": [
+                        "U2AP9MP5H", 
+                        "U2HAZ1589"
+                    ]
+                }
+            ], 
+            "text": "Im heading in today to discuss salary negotiations, but I'll def schedule some time to have a tech job title workshop this week! Let me ping the group and see what would work best...thanks for following up on this <@U2B7PGW6N> !", 
+            "type": "message", 
+            "user": "U1UQQSKB5", 
+            "ts": "1489421175.863890"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1::skin-tone-2", 
+                    "users": [
+                        "U2AP9MP5H", 
+                        "U2B58EN5U"
+                    ]
+                }
+            ], 
+            "text": "<@U1UQQSKB5> would you have time to come in and explain the different tech job titles and their descriptions? I remember you had planned on doing this, but I don\u2019t think we got to it. Thanks!", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1489421062.818904"
+        }, 
+        {
+            "text": "<@U1W38RB9Q|scottyvg> has left the channel", 
+            "type": "message", 
+            "user": "U1W38RB9Q", 
+            "ts": "1487105146.000020", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1X3J9GAH|istrouse> has left the channel", 
+            "type": "message", 
+            "user": "U1X3J9GAH", 
+            "ts": "1487104783.000019", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "you are allowed to re-submit :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1486492272.000016"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U1UQQSKB5", 
+                        "U2H7HTVKR"
+                    ]
+                }
+            ], 
+            "text": "Don\u2019t fret folks (<@U2FF4NDD2> &amp; <@U1W4F497B>) \u2014 Hired is awesome but can be a bit finicky. Sometimes it\u2019s luck of the draw if they receive too many submissions in one day, or if something didn\u2019t quite read right on the profile. Wait 2-3 weeks , tweak your profile (review with classmates or <@U1UQQSKB5> or myself!) and try again", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1486492264.000015"
+        }, 
+        {
+            "text": "<@U2FF4NDD2> me neither =(", 
+            "type": "message", 
+            "user": "U1W4F497B", 
+            "ts": "1486434814.000014"
+        }, 
+        {
+            "text": "I didn't qualify for Hired. ", 
+            "type": "message", 
+            "user": "U2FF4NDD2", 
+            "ts": "1486412447.000013"
+        }, 
+        {
+            "text": "Hired is a good site for finding jerbs! It's like the Galvanize talent site where you fill out a personal profile. It was recommended to me by a hiring manager who uses it. <https://hired.com/x/1f8w3>", 
+            "type": "message", 
+            "user": "U2AT5RLH2", 
+            "ts": "1486399612.000011", 
+            "attachments": [
+                {
+                    "image_bytes": 5820, 
+                    "title": "Want to be introduced to over 3,000+ great companies in one week?", 
+                    "text": "Join the Hired marketplace for tech jobs, where top companies apply for YOU!", 
+                    "image_width": 478, 
+                    "title_link": "https://hired.com/x/1f8w3", 
+                    "image_height": 250, 
+                    "image_url": "https://hired.com/assets/social-logo-large-c929a8394b6ac64a8c95ce923341f450be8bf3bc782ba4353735d749147eb07f.png", 
+                    "service_name": "hired.com", 
+                    "id": 1, 
+                    "fallback": "Want to be introduced to over 3,000+ great companies in one week?", 
+                    "service_icon": "https://hired.com/assets/favicon-f8bba6617971bf8553966d715a950b9b12988ec72984a3c3453c404cda6f2377.ico", 
+                    "from_url": "https://hired.com/x/1f8w3"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U3S7KBRT3|robotsintheattic> has joined the channel", 
+            "type": "message", 
+            "user": "U3S7KBRT3", 
+            "ts": "1485982181.000009", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3MJ2KVHB|tjcutt> has joined the channel", 
+            "type": "message", 
+            "user": "U3MJ2KVHB", 
+            "ts": "1485843448.000007", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U31337WDQ|laurah> has joined the channel", 
+            "type": "message", 
+            "user": "U31337WDQ", 
+            "ts": "1485276974.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3JDDQSD6|ivonne.terrero> has joined the channel", 
+            "type": "message", 
+            "user": "U3JDDQSD6", 
+            "ts": "1484021368.000003", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1UVAKDA6|elana> has left the channel", 
+            "type": "message", 
+            "user": "U1UVAKDA6", 
+            "ts": "1483637929.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U364EDGEL|ekontetevi> has joined the channel", 
+            "type": "message", 
+            "user": "U364EDGEL", 
+            "ts": "1482084797.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "attachments": [
+                {
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "channel_id": "C2JL8LRKQ", 
+                    "text": "<@U1UQQSKB5|mukai.matsiga> set the channel topic: Boulder Office Hours: <https://calendar.google.com/calendar/selfsched?sstoken=UURZZEJpS25MS3RFfGRlZmF1bHR8NzMxOGJjNzEzNjYwNmQ2NjVkMGQyZTNlOWEzNDk4OGY>", 
+                    "msg_subtype": "channel_topic", 
+                    "ts": "1475510122.000021", 
+                    "author_name": "Mukai Matsiga", 
+                    "channel_name": "career-services-bldr", 
+                    "author_link": "https://gstudents.slack.com/team/mukai.matsiga", 
+                    "author_subname": "mukai.matsiga", 
+                    "fallback": "[October 3rd, 2016 9:55 AM] mukai.matsiga: <@U1UQQSKB5|mukai.matsiga> set the channel topic: Boulder Office Hours: <https://calendar.google.com/calendar/selfsched?sstoken=UURZZEJpS25MS3RFfGRlZmF1bHR8NzMxOGJjNzEzNjYwNmQ2NjVkMGQyZTNlOWEzNDk4OGY>", 
+                    "author_icon": "https://avatars.slack-edge.com/2016-08-10/68147721559_9fbf369b68b2b1cc7e4a_48.jpg", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U2HB2RJR1|tvanmaren> pinned a message to this channel.", 
+            "ts": "1479247489.000016", 
+            "subtype": "pinned_item", 
+            "user": "U2HB2RJR1", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U2HB2RJR1|tvanmaren> has joined the channel", 
+            "type": "message", 
+            "user": "U2HB2RJR1", 
+            "ts": "1477407334.000014", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2CJ15VEZ|oliviatateridgley> has joined the channel", 
+            "type": "message", 
+            "user": "U2CJ15VEZ", 
+            "ts": "1476734125.000012", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2AREMQ85|keeganridgley> has joined the channel", 
+            "type": "message", 
+            "user": "U2AREMQ85", 
+            "ts": "1476734121.000010", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U1UQQSKB5", 
+                        "U1W38RB9Q"
+                    ]
+                }
+            ], 
+            "text": "Nice little tips I found for linkedIn as well..", 
+            "type": "message", 
+            "user": "U2AQY2ZGU", 
+            "ts": "1476732367.000009"
+        }, 
+        {
+            "text": "<https://www.linkedin.com/pulse/20140320151331-142790335-11-seo-tips-for-your-personal-linkedin-profile>", 
+            "type": "message", 
+            "user": "U2AQY2ZGU", 
+            "ts": "1476732352.000008"
+        }, 
+        {
+            "text": "<@U1W38RB9Q|scottyvg> has joined the channel", 
+            "ts": "1476308464.000007", 
+            "subtype": "channel_join", 
+            "user": "U1W38RB9Q", 
+            "type": "message", 
+            "inviter": "U1X5LMYLF"
+        }, 
+        {
+            "text": "<@U2HB8VD50> awesome!", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1476304740.000006"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U2H7HTVKR", 
+                        "U2E7KENV8"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "woo-party", 
+                    "users": [
+                        "U2AP9MP5H"
+                    ]
+                }
+            ], 
+            "text": "we do get some free business cards from them too^^^ in the membership benefits!", 
+            "type": "message", 
+            "user": "U2HB8VD50", 
+            "ts": "1476304620.000005"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "sunglasses", 
+                    "users": [
+                        "U2AP9MP5H", 
+                        "U1Z9D27QD"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "money_with_wings", 
+                    "users": [
+                        "U1UQQSKB5"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "title": "Custom Business Cards, Flyers, and more | MOO (United States)", 
+                    "text": "Design and print customized Business Cards with MOO! Print a different image on each business card - upload your own design, logo, text and photos online. (United States)", 
+                    "title_link": "https://www.moo.com/us/", 
+                    "service_name": "moo.com", 
+                    "id": 1, 
+                    "fallback": "Custom Business Cards, Flyers, and more | MOO (United States)", 
+                    "service_icon": "https://www.moo.com/bower_components/moo-toolkit/dist/images/favicon/favicon.ico?v=2", 
+                    "from_url": "https://www.moo.com/us/"
+                }
+            ], 
+            "text": "As we get further along in g36 and start networking, might be a good to have business cards handy with our contact info on it. Here\u2019s a great site: <https://www.moo.com/us/>", 
+            "ts": "1476301097.000003", 
+            "user": "U2B7PGW6N", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U2FNS15V5|aebaack> has joined the channel", 
+            "ts": "1476234454.000002", 
+            "subtype": "channel_join", 
+            "user": "U2FNS15V5", 
+            "type": "message", 
+            "inviter": "U2FCG2W2F"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-2", 
+                    "users": [
+                        "U2AP9MP5H"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "title": "         Find Your Next IT Job  | TEKsystems ", 
+                    "text": "Search for your next IT job with TEKsystems, a leading provider of IT staffing solutions, IT services and IT talent management.", 
+                    "title_link": "https://www.teksystems.com/it-jobs/results?keyword=Digital%20and%20creative%20jobs", 
+                    "service_name": "teksystems.com", 
+                    "id": 1, 
+                    "fallback": "         Find Your Next IT Job  | TEKsystems ", 
+                    "service_icon": "https://ags-cdn.cbtalentnetwork.com//favicon.ico", 
+                    "from_url": "https://www.teksystems.com/it-jobs/results?keyword=Digital%20and%20creative%20jobs"
+                }
+            ], 
+            "text": "<https://www.teksystems.com/it-jobs/results?keyword=Digital%20and%20creative%20jobs>", 
+            "ts": "1476154421.000046", 
+            "user": "U1UQQSKB5", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U2FF4NDD2|ari.clark> has joined the channel", 
+            "type": "message", 
+            "user": "U2FF4NDD2", 
+            "ts": "1475869360.000045", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2ATCPZCH|grabc59> has joined the channel", 
+            "type": "message", 
+            "user": "U2ATCPZCH", 
+            "ts": "1475869322.000044", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2AQY2ZGU|redemption23> has joined the channel", 
+            "type": "message", 
+            "user": "U2AQY2ZGU", 
+            "ts": "1475869314.000043", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2B58EN5U|malilasage> has joined the channel", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1475869308.000042", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2BHSUDFS|annamefford> has joined the channel", 
+            "type": "message", 
+            "user": "U2BHSUDFS", 
+            "ts": "1475869299.000041", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2APAU2D9|ohendrick1223> has joined the channel", 
+            "type": "message", 
+            "user": "U2APAU2D9", 
+            "ts": "1475867234.000040", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2AT5RLH2|annapanana> has joined the channel", 
+            "type": "message", 
+            "user": "U2AT5RLH2", 
+            "ts": "1475867142.000039", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2AULESHK|iz> has joined the channel", 
+            "type": "message", 
+            "user": "U2AULESHK", 
+            "ts": "1475696832.000038", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2BGS96V9|tsar> has joined the channel", 
+            "type": "message", 
+            "user": "U2BGS96V9", 
+            "ts": "1475696503.000037", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-2", 
+                    "users": [
+                        "U2AP9MP5H"
+                    ]
+                }
+            ], 
+            "text": "<https://www.linkedin.com/jobs/view/206272455?trkInfo=searchKeywordString%3AWeb%2BDeveloper%2CsearchLocationString%3ABoulder%252C%2BCO%2Cvertical%3Ajobs%2CpageNum%3A1%2Cposition%3A4%2CMSRPsearchId%3A170052274_1475688434125&amp;refId=170052274_1475688434125&amp;recommendedFlavor=IN_NETWORK&amp;trk=jobs_jserp_job_listing_text>", 
+            "type": "message", 
+            "user": "U1UQQSKB5", 
+            "ts": "1475688466.000036"
+        }, 
+        {
+            "text": "<@U2E7KENV8|katieajenkins> has joined the channel", 
+            "type": "message", 
+            "user": "U2E7KENV8", 
+            "ts": "1475521028.000035", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2H4AL537|kcowley> has joined the channel", 
+            "type": "message", 
+            "user": "U2H4AL537", 
+            "ts": "1475520879.000034", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2HAZ1589|justa> has joined the channel", 
+            "type": "message", 
+            "user": "U2HAZ1589", 
+            "ts": "1475520877.000033", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V0JV17X|teddi> has joined the channel", 
+            "type": "message", 
+            "user": "U1V0JV17X", 
+            "ts": "1475511975.000032", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1W1UJA1Z"
+                    ]
+                }
+            ], 
+            "text": "Thanks Mukai!", 
+            "type": "message", 
+            "user": "U2FCG2W2F", 
+            "ts": "1475511582.000031"
+        }, 
+        {
+            "text": "<@U2FCG2W2F|paledoor> has joined the channel", 
+            "type": "message", 
+            "user": "U2FCG2W2F", 
+            "ts": "1475511575.000030", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1UVAKDA6|elana> has joined the channel", 
+            "type": "message", 
+            "user": "U1UVAKDA6", 
+            "ts": "1475511301.000029", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2B7PGW6N|mehri.russo> has joined the channel", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1475511266.000028", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2AP9MP5H|laura-b> has joined the channel", 
+            "type": "message", 
+            "user": "U2AP9MP5H", 
+            "ts": "1475510895.000027", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2H7HTVKR|caspeter> has joined the channel", 
+            "type": "message", 
+            "user": "U2H7HTVKR", 
+            "ts": "1475510604.000026", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2APRMK8B|hurdaudio> has joined the channel", 
+            "type": "message", 
+            "user": "U2APRMK8B", 
+            "ts": "1475510593.000025", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2ASEKL3B|stephenhanzlik> has joined the channel", 
+            "type": "message", 
+            "user": "U2ASEKL3B", 
+            "ts": "1475510588.000024", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2HMNL3J8|chansehorton> has joined the channel", 
+            "type": "message", 
+            "user": "U2HMNL3J8", 
+            "ts": "1475510542.000023", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2HB8VD50|kg> has joined the channel", 
+            "type": "message", 
+            "user": "U2HB8VD50", 
+            "ts": "1475510444.000022", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1UQQSKB5|mukai.matsiga> set the channel topic: Boulder Office Hours: <https://calendar.google.com/calendar/selfsched?sstoken=UURZZEJpS25MS3RFfGRlZmF1bHR8NzMxOGJjNzEzNjYwNmQ2NjVkMGQyZTNlOWEzNDk4OGY>", 
+            "ts": "1475510122.000021", 
+            "pinned_to": [
+                "C2JL8LRKQ"
+            ], 
+            "topic": "Boulder Office Hours: <https://calendar.google.com/calendar/selfsched?sstoken=UURZZEJpS25MS3RFfGRlZmF1bHR8NzMxOGJjNzEzNjYwNmQ2NjVkMGQyZTNlOWEzNDk4OGY>", 
+            "subtype": "channel_topic", 
+            "user": "U1UQQSKB5", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1W4YNBT4|mariajcb> has joined the channel", 
+            "type": "message", 
+            "user": "U1W4YNBT4", 
+            "ts": "1475509408.000020", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W4F497B|gordon> has joined the channel", 
+            "type": "message", 
+            "user": "U1W4F497B", 
+            "ts": "1475509351.000019", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W2ZMB5L|cole.chambers> has joined the channel", 
+            "type": "message", 
+            "user": "U1W2ZMB5L", 
+            "ts": "1475508913.000018", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "powerup", 
+                    "users": [
+                        "U1W1UJA1Z"
+                    ]
+                }
+            ], 
+            "text": "Looking to contribute to the news portion of the stand-up? Check out some of these sites every morning\n\n<https://news.ycombinator.com/>\n<https://www.producthunt.com/>\n\n\ndesign inspiration:\n<http://endtheecho.com/>\n<http://www.landingfolio.com/>\n<http://lapa.ninja/>\n<http://fltdsgn.com/>\n<http://inspirizone.com/>\n<https://www.thebestdesigns.com>", 
+            "type": "message", 
+            "user": "U1UQQSKB5", 
+            "ts": "1475508625.000017"
+        }, 
+        {
+            "text": "<@U1W1UJA1Z|mr.cooper42> has joined the channel", 
+            "type": "message", 
+            "user": "U1W1UJA1Z", 
+            "ts": "1475508527.000016", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3138VD|bamason> has joined the channel", 
+            "type": "message", 
+            "user": "U1W3138VD", 
+            "ts": "1475508389.000015", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WKF6ZT6|dillie-z> has joined the channel", 
+            "type": "message", 
+            "user": "U1WKF6ZT6", 
+            "ts": "1475508362.000014", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1VSD6PMZ|xander.31tech_> has joined the channel", 
+            "type": "message", 
+            "user": "U1VSD6PMZ", 
+            "ts": "1475508342.000013", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1X3J9GAH|istrouse> has joined the channel", 
+            "type": "message", 
+            "user": "U1X3J9GAH", 
+            "ts": "1475508307.000012", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W6A7QLR|limawebdev> has joined the channel", 
+            "type": "message", 
+            "user": "U1W6A7QLR", 
+            "ts": "1475508282.000011", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1X5LMYLF|kelseyc.chapman> has joined the channel", 
+            "type": "message", 
+            "user": "U1X5LMYLF", 
+            "ts": "1475508239.000010", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V00L4CF|mattlg> has joined the channel", 
+            "type": "message", 
+            "user": "U1V00L4CF", 
+            "ts": "1475508214.000009", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W2LB6RJ|annabaldwin> has joined the channel", 
+            "type": "message", 
+            "user": "U1W2LB6RJ", 
+            "ts": "1475508028.000008", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1Z9D27QD|tara.mclauchlan> has joined the channel", 
+            "ts": "1475507991.000006", 
+            "subtype": "channel_join", 
+            "user": "U1Z9D27QD", 
+            "type": "message", 
+            "inviter": "U1UQQSKB5"
+        }, 
+        {
+            "text": "<@U1Z9D27QD>", 
+            "type": "message", 
+            "user": "U1UQQSKB5", 
+            "ts": "1475507985.000005"
+        }, 
+        {
+            "text": "<@U1UQQSKB5|mukai.matsiga> set the channel purpose: Public career questions, articles, link to office hours...", 
+            "ts": "1475507807.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1UQQSKB5", 
+            "type": "message", 
+            "purpose": "Public career questions, articles, link to office hours..."
+        }, 
+        {
+            "text": "<@U1UQQSKB5|mukai.matsiga> has joined the channel", 
+            "type": "message", 
+            "user": "U1UQQSKB5", 
+            "ts": "1475507806.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1475510122, 
+            "value": "Boulder Office Hours: https://calendar.google.com/calendar/selfsched?sstoken=UURZZEJpS25MS3RFfGRlZmF1bHR8NzMxOGJjNzEzNjYwNmQ2NjVkMGQyZTNlOWEzNDk4OGY", 
+            "creator": "U1UQQSKB5"
+        }, 
+        "is_general": false, 
+        "name_normalized": "career-services-bldr", 
+        "name": "career-services-bldr", 
+        "is_channel": true, 
+        "created": 1475507806, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1UQQSKB5", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1475507807, 
+            "value": "Public career questions, articles, link to office hours...", 
+            "creator": "U1UQQSKB5"
+        }, 
+        "members": [
+            "U1UQQSKB5", 
+            "U1V00L4CF", 
+            "U1V0JV17X", 
+            "U1VSD6PMZ", 
+            "U1W1UJA1Z", 
+            "U1W2LB6RJ", 
+            "U1W2ZMB5L", 
+            "U1W3138VD", 
+            "U1W4F497B", 
+            "U1W4YNBT4", 
+            "U1W6A7QLR", 
+            "U1WKF6ZT6", 
+            "U1X5LMYLF", 
+            "U1Z9D27QD", 
+            "U2AP9MP5H", 
+            "U2APAU2D9", 
+            "U2APRMK8B", 
+            "U2AREMQ85", 
+            "U2ASEKL3B", 
+            "U2AT5RLH2", 
+            "U2ATCPZCH", 
+            "U2AULESHK", 
+            "U2B58EN5U", 
+            "U2B7PGW6N", 
+            "U2BGS96V9", 
+            "U2BHSUDFS", 
+            "U2CJ15VEZ", 
+            "U2FCG2W2F", 
+            "U2FF4NDD2", 
+            "U2FNS15V5", 
+            "U2H4AL537", 
+            "U2H7HTVKR", 
+            "U2HAZ1589", 
+            "U2HB2RJR1", 
+            "U2HB8VD50", 
+            "U2HMNL3J8", 
+            "U31337WDQ", 
+            "U364EDGEL", 
+            "U3JDDQSD6", 
+            "U3MJ2KVHB", 
+            "U3S7KBRT3"
+        ], 
+        "id": "C2JL8LRKQ", 
+        "is_shared": false
+    }
+}

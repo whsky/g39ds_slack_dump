@@ -1,0 +1,897 @@
+{
+    "messages": [
+        {
+            "text": "^ highlighting in on the sentence \u201csometimes the shape of the ROC curve, not just the AUC score matters\u201d", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495657082.536663"
+        }, 
+        {
+            "text": "<http://www.datasciencecentral.com/profiles/blogs/even-a-poor-model-can-have-a-lot-of-value>", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495656871.468981", 
+            "attachments": [
+                {
+                    "title": "Even a Poor Model Can Have a Lot of Value", 
+                    "text": "Summary:\u00a0 This is a lesson in how it may be possible to snatch victory from the jaws of defeat.\u00a0 1.) A good ROC score does not necessarily mean a good model. 2\u2026", 
+                    "title_link": "http://www.datasciencecentral.com/profiles/blogs/even-a-poor-model-can-have-a-lot-of-value", 
+                    "service_name": "datasciencecentral.com", 
+                    "id": 1, 
+                    "fallback": "Even a Poor Model Can Have a Lot of Value", 
+                    "service_icon": "http://www.datasciencecentral.com/favicon.ico", 
+                    "from_url": "http://www.datasciencecentral.com/profiles/blogs/even-a-poor-model-can-have-a-lot-of-value"
+                }
+            ]
+        }, 
+        {
+            "text": "Okay scrummies I\u2019m heading out to come find and talk to y\u2019all now.", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495584506.822346"
+        }, 
+        {
+            "text": "That said there was nothing that I had typed that I didn\u2019t say to you, so hopefully you remember. I\u2019ll be around from roughly 430-6pm to talk through anything you guys want.", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495576707.421543"
+        }, 
+        {
+            "text": "oh no!", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1495576701.420268"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "windows", 
+                    "users": [
+                        "U4B1VJXR6"
+                    ]
+                }
+            ], 
+            "text": "My computer restarted and I didn\u2019t save the file since I didn\u2019t know it was going to restart. I\u2019m sorry the feedback was lost :disappointed:", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495576668.412013"
+        }, 
+        {
+            "text": "311", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495571301.840980"
+        }, 
+        {
+            "text": "Where are we presenting?", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1495571023.748802"
+        }, 
+        {
+            "text": "Thank you", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1495476146.990019"
+        }, 
+        {
+            "text": "1pm still", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495476103.975096"
+        }, 
+        {
+            "text": "can we confirm what time we're meeting today?", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1495476036.951533"
+        }, 
+        {
+            "username": "darren_reger", 
+            "ts": "1495403196.350340", 
+            "display_as_bot": false, 
+            "text": "<@U1UC9NH9Q|darren_reger> uploaded a file: <https://gstudents.slack.com/files/darren_reger/F5G3TCK2N/image_uploaded_from_ios.jpg|Good luck in the final stretch scrummies!>", 
+            "upload": true, 
+            "upload_reply_to": "60D6BF7D-83C7-47F1-9828-21ED2F1486BE", 
+            "subtype": "file_share", 
+            "user": "U1UC9NH9Q", 
+            "file": {
+                "thumb_480_w": 360, 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_800_h": 1067, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5G3TCK2N-564989ed8c/image_uploaded_from_ios_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5G3TCK2N-564989ed8c/image_uploaded_from_ios_64.jpg", 
+                "size": 1601136, 
+                "original_h": 4032, 
+                "thumb_360_w": 270, 
+                "title": "Good luck in the final stretch scrummies!", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5G3TCK2N/image_uploaded_from_ios.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5G3TCK2N-564989ed8c/image_uploaded_from_ios_360.jpg", 
+                "id": "F5G3TCK2N", 
+                "ims": [], 
+                "thumb_720_w": 540, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5G3TCK2N-564989ed8c/image_uploaded_from_ios_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5G3TCK2N-564989ed8c/image_uploaded_from_ios_800.jpg", 
+                "timestamp": 1495403196, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5G3TCK2N-564989ed8c/image_uploaded_from_ios_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5G3TCK2N/download/image_uploaded_from_ios.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5G3TCK2N-564989ed8c/image_uploaded_from_ios_1024.jpg", 
+                "user": "U1UC9NH9Q", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5G3TCK2N-564989ed8c/image_uploaded_from_ios_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": "Image uploaded from iOS.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5G3TCK2N-18ba1124aa", 
+                "permalink": "https://gstudents.slack.com/files/darren_reger/F5G3TCK2N/image_uploaded_from_ios.jpg", 
+                "is_external": false, 
+                "created": 1495403196, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 3024, 
+                "thumb_960_w": 720, 
+                "thumb_1024_w": 768, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5G3TCK2N-564989ed8c/image_uploaded_from_ios_720.jpg", 
+                "channels": [
+                    "C590JHX8R"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "break_it_down_penguin", 
+                    "users": [
+                        "U4BJMLEGH"
+                    ]
+                }
+            ], 
+            "text": "breadth first and depth first recommender for board games", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495226601.753549"
+        }, 
+        {
+            "text": "<https://github.com/danamkaplan/the-missing-piece>", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495226593.751502", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://fst.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "danamkaplan/the-missing-piece", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/danamkaplan/the-missing-piece", 
+                    "text": "the-missing-piece - Board game recommender to assess your collection and generate suggestions that both (1) you will enjoy and (2) fill a situation you don't have covered.", 
+                    "id": 1, 
+                    "fallback": "GitHub: danamkaplan/the-missing-piece", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/1952776?v=3&s=400", 
+                    "from_url": "https://github.com/danamkaplan/the-missing-piece"
+                }
+            ]
+        }, 
+        {
+            "text": "Sorry.. I will be 10-15 mins late", 
+            "type": "message", 
+            "user": "U4BJMLEGH", 
+            "ts": "1495223812.997222"
+        }, 
+        {
+            "text": "1pm today yes", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495214674.186033"
+        }, 
+        {
+            "text": "better than having 0 signal!", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1495214072.995755"
+        }, 
+        {
+            "text": "haha", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1495214000.973720"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "smile", 
+                    "users": [
+                        "U4B1VJXR6"
+                    ]
+                }
+            ], 
+            "text": "it's all diapers, pacifiers and onesies :joy:", 
+            "type": "message", 
+            "user": "U4BJMLEGH", 
+            "ts": "1495213810.914362"
+        }, 
+        {
+            "text": "are we meeting at 1pm today?", 
+            "type": "message", 
+            "user": "U4B1VJXR6", 
+            "ts": "1495212158.384595"
+        }, 
+        {
+            "text": "I have to give a quick lecture for the other cohort that will interfere with our scrum time. I'll get briefed by Ivan after the 1pm meeting and then I'll check in with you individually later today", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495137606.087519"
+        }, 
+        {
+            "text": "we\u2019re gonna do 1pm. sorry for the confusion", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495129290.238296"
+        }, 
+        {
+            "text": "im running late - will arrive 11:20a.", 
+            "type": "message", 
+            "user": "U4B1VJXR6", 
+            "ts": "1495129238.221722"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U4B1VJXR6"
+                    ]
+                }
+            ], 
+            "text": "Whats our meeting time today?", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1495128380.917720"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U4B1VJXR6"
+                    ]
+                }
+            ], 
+            "text": "ok let\u2019s do 1pm but feel free to find me earlier if you need help", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495041265.147835"
+        }, 
+        {
+            "text": "Doesnt matter to me, I am here at school...", 
+            "type": "message", 
+            "user": "U46NXTC6R", 
+            "ts": "1495040972.046335"
+        }, 
+        {
+            "text": "prefer 1pm today.  but i am fine with 11 if everyone prefers that", 
+            "type": "message", 
+            "user": "U4B1VJXR6", 
+            "ts": "1495040847.002875"
+        }, 
+        {
+            "text": "either is fine for me, do you guys have a preference?", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1495040467.866600"
+        }, 
+        {
+            "text": "are we meeting at 11a or 1p?", 
+            "type": "message", 
+            "user": "U4B1VJXR6", 
+            "ts": "1495040310.808481"
+        }, 
+        {
+            "username": "kdmytro", 
+            "display_as_bot": false, 
+            "text": "<@U46NXTC6R|kdmytro> uploaded a file: <https://gstudents.slack.com/files/kdmytro/F5EBR04F6/-.txt|Untitled>", 
+            "upload": true, 
+            "ts": "1494968074.126947", 
+            "subtype": "file_share", 
+            "user": "U46NXTC6R", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 0, 
+                "channels": [
+                    "C590JHX8R"
+                ], 
+                "display_as_bot": false, 
+                "id": "F5EBR04F6", 
+                "size": 98, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5EBR04F6/-.txt", 
+                "ims": [], 
+                "preview": "from sklearn.metrics import classification_report\r\nprint classification_report(y_test,y_predict)\r\n", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/kdmytro/F5EBR04F6/-.txt/edit", 
+                "username": "", 
+                "timestamp": 1494968070, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5EBR04F6/download/-.txt", 
+                "user": "U46NXTC6R", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "-.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5EBR04F6-afc7e6c931", 
+                "permalink": "https://gstudents.slack.com/files/kdmytro/F5EBR04F6/-.txt", 
+                "is_external": false, 
+                "created": 1494968070, 
+                "lines": 3, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>from sklearn.metrics import classification_report</pre></div>\n<div><pre>print classification_report(y_test,y_predict)</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Let's get started guys.", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1494964806.054828"
+        }, 
+        {
+            "thread_ts": "1494953523.111023", 
+            "text": "vy_nguyen: i believe its free up tp 30gb and also you have enough credits for a larger instance to not worry about it", 
+            "ts": "1494960434.586585", 
+            "user": "U1UC9NH9Q", 
+            "parent_user_id": "U4BJMLEGH", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494953434.079983", 
+            "text": "vy_nguyen: I have some solutions to help you with that", 
+            "ts": "1494957722.616528", 
+            "user": "U4B1VJXR6", 
+            "parent_user_id": "U4BJMLEGH", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494953128.971840", 
+            "text": "vy_nguyen: mean babies...", 
+            "ts": "1494957716.614524", 
+            "user": "U46NXTC6R", 
+            "parent_user_id": "U4BJMLEGH", 
+            "type": "message"
+        }, 
+        {
+            "text": "yes thats OK with me", 
+            "type": "message", 
+            "user": "U4B1VJXR6", 
+            "ts": "1494957534.544460"
+        }, 
+        {
+            "text": "Guys.  Darren and I have a meeting that conflicts with our scrum meeting.  Are you guys available at 1 PM?", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1494954467.450935"
+        }, 
+        {
+            "thread_ts": "1494953523.111023", 
+            "subscribed": false, 
+            "text": "although my database only shows 1GB, somehow, the whole ec2 instance (8GB)'s space was used up :disappointed:", 
+            "ts": "1494953523.111023", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U4BJMLEGH", 
+            "replies": [
+                {
+                    "user": "U1UC9NH9Q", 
+                    "ts": "1494960434.586585"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1494953434.079983", 
+            "subscribed": false, 
+            "text": "it's on my laptop. my ec2 mongodb ran out of disk space :disappointed: (that's another issue)", 
+            "ts": "1494953434.079983", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U4BJMLEGH", 
+            "replies": [
+                {
+                    "user": "U4B1VJXR6", 
+                    "ts": "1494957722.616528"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "if so, no problem, just save your data and launch a new ec2 instance", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494953294.030546"
+        }, 
+        {
+            "text": "were you on ec2?", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494953278.024853"
+        }, 
+        {
+            "thread_ts": "1494953128.971840", 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "joy", 
+                    "users": [
+                        "U4B1VJXR6"
+                    ]
+                }
+            ], 
+            "text": "buybuybaby blocked me!", 
+            "ts": "1494953128.971840", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U4BJMLEGH", 
+            "replies": [
+                {
+                    "user": "U46NXTC6R", 
+                    "ts": "1494957716.614524"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "mindblown", 
+                    "users": [
+                        "U1UC9NH9Q", 
+                        "U46NXTC6R"
+                    ]
+                }, 
+                {
+                    "count": 3, 
+                    "name": "carlton", 
+                    "users": [
+                        "U478RDRPT", 
+                        "U47CL07HD", 
+                        "U4BJMLEGH"
+                    ]
+                }
+            ], 
+            "text": "Guess who's got data .......!   :bar_chart::chart_with_upwards_trend::computer::floppy_disk:  :tada::birthday::boom:", 
+            "type": "message", 
+            "user": "U4B1VJXR6", 
+            "ts": "1494946012.164664"
+        }, 
+        {
+            "text": "Guys, let's start...", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1494871193.150828"
+        }, 
+        {
+            "text": "reminder we\u2019re still meeting at 11", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494866677.604351"
+        }, 
+        {
+            "text": "yeah I will be late. is Ivan there?", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494612353.688957", 
+            "edited": {
+                "user": "U1UC9NH9Q", 
+                "ts": "1494612359.000000"
+            }
+        }, 
+        {
+            "text": "<@U1UC9NH9Q> confirmed for back row of tables?", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1494612288.667051"
+        }, 
+        {
+            "text": "Yeah we can investigate some fuzzy clustering potentially later where he can be partially in both", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494555241.188431"
+        }, 
+        {
+            "text": "but my model doesn't solve whether or not Joe Flacco is elite because he's in his own cluster, haha", 
+            "type": "message", 
+            "user": "U47CL07HD", 
+            "ts": "1494551966.804215"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1UC9NH9Q"
+                    ]
+                }
+            ], 
+            "text": "I've got clusters!", 
+            "type": "message", 
+            "user": "U47CL07HD", 
+            "ts": "1494551928.799315"
+        }, 
+        {
+            "text": "then later on we can revisit", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494537171.212418"
+        }, 
+        {
+            "text": "oh in that case, you can consider leaving it out for now, but stating that assumption", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494537160.209394"
+        }, 
+        {
+            "text": "so 10% of the churned population, but only 2% of my total sample population. still you think?", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1494536696.077281", 
+            "edited": {
+                "user": "U478RDRPT", 
+                "ts": "1494536786.000000"
+            }
+        }, 
+        {
+            "text": "that\u2019s about 10% seems like something you\u2019ll want to deal with in the future", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494536623.054499"
+        }, 
+        {
+            "text": "<@U1UC9NH9Q>, <@U1VA45RE2> : it appears that 1916/22580 people that churn do so more than once. Is that enough that I should be flagging total number of churns", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1494536592.045263"
+        }, 
+        {
+            "text": "<!channel> we\u2019re meeting now by the back tables", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494525647.420100"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "muscle", 
+                    "users": [
+                        "U46NXTC6R", 
+                        "U47CL07HD"
+                    ]
+                }
+            ], 
+            "text": "I\u2019ll be teaching power at 9. See you at 11am.", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494514345.205711"
+        }, 
+        {
+            "text": "I wanted to share this article for <@U47CL07HD> but I think you all might find it a little interesting: <http://www.business-science.io/business/2016/09/04/CustomerSegmentationPt2.html>", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494514302.187152", 
+            "edited": {
+                "user": "U1UC9NH9Q", 
+                "ts": "1494514349.000000"
+            }
+        }, 
+        {
+            "text": "11 am works fine for me", 
+            "type": "message", 
+            "user": "U4E9WB74N", 
+            "ts": "1494433833.471282"
+        }, 
+        {
+            "text": "I am good with 11am", 
+            "type": "message", 
+            "user": "U46NXTC6R", 
+            "ts": "1494390416.084127"
+        }, 
+        {
+            "text": "Okie dokie. We'll do it for tomorrow and then figure out going forward accordingly ", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494370544.013918"
+        }, 
+        {
+            "text": "I can do 11", 
+            "type": "message", 
+            "user": "U47CL07HD", 
+            "ts": "1494370459.998690"
+        }, 
+        {
+            "text": "im OK with that, except Friday", 
+            "type": "message", 
+            "user": "U4B1VJXR6", 
+            "ts": "1494370373.983380"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U4BJMLEGH"
+                    ]
+                }
+            ], 
+            "text": "If you can't do 11 tomorrow I'll check in with you individually later that day", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494370111.936161"
+        }, 
+        {
+            "text": "tomorrow I can't but should be fine otherwise", 
+            "type": "message", 
+            "user": "U4BJMLEGH", 
+            "ts": "1494369985.913397"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VA45RE2", 
+                        "U46NXTC6R"
+                    ]
+                }
+            ], 
+            "text": "Would it be okay for us to do our scrum at 11am for the rest of the week? I need to help out with some lecture material and I want to make sure both Ivan and I can make our scrum meetings.", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494369249.774277"
+        }, 
+        {
+            "text": "Thanks Will!", 
+            "type": "message", 
+            "user": "U4BJMLEGH", 
+            "ts": "1494346466.562165"
+        }, 
+        {
+            "text": "awesome!", 
+            "type": "message", 
+            "user": "U4BJMLEGH", 
+            "ts": "1494346463.561321"
+        }, 
+        {
+            "text": "<https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/> this is what I used to manually install a mongodb on ec2. I didn't run it as a service, I just ssh'd in to two separate sessions and started a mongo process on one of them", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1494344944.984633", 
+            "attachments": [
+                {
+                    "image_bytes": 4380, 
+                    "title": "Amazon EC2", 
+                    "service_name": "docs.mongodb.com", 
+                    "image_width": 500, 
+                    "title_link": "https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/", 
+                    "image_height": 250, 
+                    "image_url": "http://s3.amazonaws.com/info-mongodb-com/_com_assets/cms/mongodb-for-giant-ideas-bbab5c3cf8.png", 
+                    "id": 1, 
+                    "fallback": "Amazon EC2", 
+                    "service_icon": "https://media.mongodb.org/favicon.ico", 
+                    "from_url": "https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/"
+                }
+            ]
+        }, 
+        {
+            "text": "not too detailed, just trying to see what everyone is using...", 
+            "type": "message", 
+            "user": "U46NXTC6R", 
+            "ts": "1494278153.587721"
+        }, 
+        {
+            "text": "How detailed are you trying to be with progress tracking?", 
+            "type": "message", 
+            "user": "U478RDRPT", 
+            "ts": "1494277084.277790"
+        }, 
+        {
+            "text": "i don\u2019t have a preferred one", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494271416.516389"
+        }, 
+        {
+            "text": "Any recommendations on a tool to keep track of our project progress (asana/jira/todoist) ?", 
+            "type": "message", 
+            "user": "U46NXTC6R", 
+            "ts": "1494266070.729900"
+        }, 
+        {
+            "text": "<http://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_html.html>", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1494261672.272206"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VA45RE2"
+                    ]
+                }
+            ], 
+            "text": "thanks Ivan! let me look into this!", 
+            "type": "message", 
+            "user": "U4BJMLEGH", 
+            "ts": "1494261329.160144"
+        }, 
+        {
+            "text": "<https://github.com/niklasb/dryscrape>", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1494261299.150082", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "niklasb/dryscrape", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/niklasb/dryscrape", 
+                    "text": "dryscrape - A lightweight Python library that uses Webkit to enable easy scraping of dynamic, Javascript-heavy web pages", 
+                    "id": 1, 
+                    "fallback": "GitHub: niklasb/dryscrape", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/94819?v=3&s=400", 
+                    "from_url": "https://github.com/niklasb/dryscrape"
+                }
+            ]
+        }, 
+        {
+            "text": "Hey Scrummies! Remember we're meeting by the tables in the 3rd floor far side kitchen at 930am tomorrow.", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494214995.708874"
+        }, 
+        {
+            "text": "<https://www.origin.com/usa/en-us/store/origin-access>", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494020473.217778"
+        }, 
+        {
+            "text": "<@U4B1VJXR6|aj> has joined the channel", 
+            "ts": "1494018293.731635", 
+            "subtype": "channel_join", 
+            "user": "U4B1VJXR6", 
+            "type": "message", 
+            "inviter": "U1UC9NH9Q"
+        }, 
+        {
+            "text": "<@U47CL07HD|bjones05> has joined the channel", 
+            "ts": "1494018293.731602", 
+            "subtype": "channel_join", 
+            "user": "U47CL07HD", 
+            "type": "message", 
+            "inviter": "U1UC9NH9Q"
+        }, 
+        {
+            "text": "<@U4BJMLEGH|vy_nguyen> has joined the channel", 
+            "ts": "1494018293.731599", 
+            "subtype": "channel_join", 
+            "user": "U4BJMLEGH", 
+            "type": "message", 
+            "inviter": "U1UC9NH9Q"
+        }, 
+        {
+            "text": "<@U478RDRPT|ws_roberts> has joined the channel", 
+            "ts": "1494018293.731597", 
+            "subtype": "channel_join", 
+            "user": "U478RDRPT", 
+            "type": "message", 
+            "inviter": "U1UC9NH9Q"
+        }, 
+        {
+            "text": "<@U46NXTC6R|kdmytro> has joined the channel", 
+            "ts": "1494018292.731536", 
+            "subtype": "channel_join", 
+            "user": "U46NXTC6R", 
+            "type": "message", 
+            "inviter": "U1UC9NH9Q"
+        }, 
+        {
+            "text": "<@U4E9WB74N|yyulka> has joined the channel", 
+            "ts": "1494018292.731520", 
+            "subtype": "channel_join", 
+            "user": "U4E9WB74N", 
+            "type": "message", 
+            "inviter": "U1UC9NH9Q"
+        }, 
+        {
+            "text": "<@U1VA45RE2|ivan> has joined the channel", 
+            "ts": "1494018292.731509", 
+            "subtype": "channel_join", 
+            "user": "U1VA45RE2", 
+            "type": "message", 
+            "inviter": "U1UC9NH9Q"
+        }, 
+        {
+            "text": "<@U1UC9NH9Q|darren_reger> set the channel purpose: Channel to communicate with Darren and Ivan's Scrum Group", 
+            "ts": "1494018292.731494", 
+            "subtype": "channel_purpose", 
+            "user": "U1UC9NH9Q", 
+            "type": "message", 
+            "purpose": "Channel to communicate with Darren and Ivan's Scrum Group"
+        }, 
+        {
+            "text": "<@U1UC9NH9Q|darren_reger> has joined the channel", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1494018291.731354", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "darrenivanscrummies", 
+        "name": "darrenivanscrummies", 
+        "is_channel": true, 
+        "created": 1494018292, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1UC9NH9Q", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1494018292, 
+            "value": "Channel to communicate with Darren and Ivan's Scrum Group", 
+            "creator": "U1UC9NH9Q"
+        }, 
+        "members": [
+            "U1UC9NH9Q", 
+            "U1VA45RE2", 
+            "U46NXTC6R", 
+            "U478RDRPT", 
+            "U47CL07HD", 
+            "U4B1VJXR6", 
+            "U4BJMLEGH", 
+            "U4E9WB74N"
+        ], 
+        "id": "C590JHX8R", 
+        "is_shared": false
+    }
+}

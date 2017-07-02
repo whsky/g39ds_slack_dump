@@ -1,0 +1,21 @@
+{
+    "messages": [
+        {
+            "username": "Questionator", 
+            "icons": {
+                "emoji": ":qbot:"
+            }, 
+            "text": "Just checking to see if I can flip this thing over to direct message, rather than blast the whole channel...", 
+            "ts": "1496705873.959316", 
+            "subtype": "bot_message", 
+            "type": "message", 
+            "bot_id": "B4RR27HR7"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U34BY2K3K", 
+            "U34BY2K3K"
+        ]
+    }
+}

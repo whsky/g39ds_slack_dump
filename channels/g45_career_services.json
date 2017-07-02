@@ -1,0 +1,296 @@
+{
+    "messages": [
+        {
+            "text": "(or if you mentioned you would like to, remind me, and we will get it on the calendar!)", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498804697.536749"
+        }, 
+        {
+            "text": "<!channel> So great chatting in small groups today! Please remember to message me on slack if you would like to set up some 1:1 time to chat :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498804663.531826"
+        }, 
+        {
+            "text": "You'll notice the second to last page has some additional resources to read up on - check those out!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498505247.396194"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U5TB29V9A", 
+                        "U4CAB2MMY"
+                    ]
+                }
+            ], 
+            "text": "<!channel> Hey everyone! I've added today's slide deck to the communal folder. Please take a look and let me know if you have any questions or if there is anything you'd like to discuss further!", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498505226.389292"
+        }, 
+        {
+            "text": "<https://docs.google.com/spreadsheets/d/1o_XB-3B96lCNLwv_8hb2unPuQqhs9lRjDqMSRVPDbxQ/edit#gid=0>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498497505.578674"
+        }, 
+        {
+            "text": "(this assignment is also in the communal career services folder)", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498278790.480909"
+        }, 
+        {
+            "text": "<!channel> Happy Friday, everyone! Here is your first career services assignment. Please take some time to work through it - we will be discussing on Monday. \n\nPlease *let me know if you have any questions* -- I'm almost always available on Slack :slightly_smiling_face:\n\n<https://docs.google.com/a/galvanize.com/document/d/1JKS4CIF0o6o_fh-0U6UhIcUukO-SKEBDaylcau-eHmA/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498278775.480271"
+        }, 
+        {
+            "text": "<@U4CAB2MMY|markcatalysis> has joined the channel", 
+            "ts": "1498278714.477551", 
+            "subtype": "channel_join", 
+            "user": "U4CAB2MMY", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U49JBC5K5|neilaronson> has joined the channel", 
+            "ts": "1498278714.477548", 
+            "subtype": "channel_join", 
+            "user": "U49JBC5K5", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U51TWAMSA|adnguyen1989> has joined the channel", 
+            "ts": "1498155660.699833", 
+            "subtype": "channel_join", 
+            "user": "U51TWAMSA", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5TFL4R1C|kellypeng> has joined the channel", 
+            "ts": "1498155660.699792", 
+            "subtype": "channel_join", 
+            "user": "U5TFL4R1C", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5U7D5MHU|shigetajima> has joined the channel", 
+            "ts": "1498155660.699778", 
+            "subtype": "channel_join", 
+            "user": "U5U7D5MHU", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5VCVR0L9|rosinanorton> has joined the channel", 
+            "ts": "1498155660.699733", 
+            "subtype": "channel_join", 
+            "user": "U5VCVR0L9", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U4DP42QRK|urmim> has joined the channel", 
+            "ts": "1498155660.699698", 
+            "subtype": "channel_join", 
+            "user": "U4DP42QRK", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5TB29V9A|praveenraman> has joined the channel", 
+            "ts": "1498155660.699639", 
+            "subtype": "channel_join", 
+            "user": "U5TB29V9A", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5VGA263U|mghezel> has joined the channel", 
+            "ts": "1498155660.699613", 
+            "subtype": "channel_join", 
+            "user": "U5VGA263U", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5TUPAP2T|matthewwong> has joined the channel", 
+            "ts": "1498155660.699603", 
+            "subtype": "channel_join", 
+            "user": "U5TUPAP2T", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5SK0NYRG|nikhil.makaram> has joined the channel", 
+            "ts": "1498155659.699561", 
+            "subtype": "channel_join", 
+            "user": "U5SK0NYRG", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U4CTPDQ2K|kennyd> has joined the channel", 
+            "ts": "1498155659.699537", 
+            "subtype": "channel_join", 
+            "user": "U4CTPDQ2K", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5TPWBQMA|joew> has joined the channel", 
+            "ts": "1498155659.699475", 
+            "subtype": "channel_join", 
+            "user": "U5TPWBQMA", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5T5Z2REZ|jiandazhou> has joined the channel", 
+            "ts": "1498155659.699440", 
+            "subtype": "channel_join", 
+            "user": "U5T5Z2REZ", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5SN7DDLH|joseph_fang> has joined the channel", 
+            "ts": "1498155659.699406", 
+            "subtype": "channel_join", 
+            "user": "U5SN7DDLH", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5F1C5BEE|jeremygozlan> has joined the channel", 
+            "ts": "1498155659.699388", 
+            "subtype": "channel_join", 
+            "user": "U5F1C5BEE", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5UG5204V|himani> has joined the channel", 
+            "ts": "1498155659.699264", 
+            "subtype": "channel_join", 
+            "user": "U5UG5204V", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5SF54HLG|edwardrha> has joined the channel", 
+            "ts": "1498155659.699263", 
+            "subtype": "channel_join", 
+            "user": "U5SF54HLG", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5UJT0B7S|jake.h> has joined the channel", 
+            "ts": "1498155659.699253", 
+            "subtype": "channel_join", 
+            "user": "U5UJT0B7S", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5EPRPWLT|camilla.nawaz> has joined the channel", 
+            "ts": "1498155659.699212", 
+            "subtype": "channel_join", 
+            "user": "U5EPRPWLT", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5S4JDHRP|anushamohan> has joined the channel", 
+            "ts": "1498155659.699179", 
+            "subtype": "channel_join", 
+            "user": "U5S4JDHRP", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U5ESPG7UL|elk> has joined the channel", 
+            "ts": "1498155659.699171", 
+            "subtype": "channel_join", 
+            "user": "U5ESPG7UL", 
+            "type": "message", 
+            "inviter": "U36C8HHU3"
+        }, 
+        {
+            "text": "<@U36C8HHU3|maryannbarge> set the channel purpose: This is the channel for everything careers-related for DSI45!", 
+            "ts": "1498155659.699113", 
+            "subtype": "channel_purpose", 
+            "user": "U36C8HHU3", 
+            "type": "message", 
+            "purpose": "This is the channel for everything careers-related for DSI45!"
+        }, 
+        {
+            "text": "<@U36C8HHU3|maryannbarge> has joined the channel", 
+            "type": "message", 
+            "user": "U36C8HHU3", 
+            "ts": "1498155658.698798", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g45_career_services", 
+        "name": "g45_career_services", 
+        "is_channel": true, 
+        "created": 1498155658, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U36C8HHU3", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1498155659, 
+            "value": "This is the channel for everything careers-related for DSI45!", 
+            "creator": "U36C8HHU3"
+        }, 
+        "members": [
+            "U36C8HHU3", 
+            "U49JBC5K5", 
+            "U4CAB2MMY", 
+            "U4CTPDQ2K", 
+            "U4DP42QRK", 
+            "U51TWAMSA", 
+            "U5EPRPWLT", 
+            "U5ESPG7UL", 
+            "U5F1C5BEE", 
+            "U5S4JDHRP", 
+            "U5SF54HLG", 
+            "U5SK0NYRG", 
+            "U5SN7DDLH", 
+            "U5T5Z2REZ", 
+            "U5TB29V9A", 
+            "U5TFL4R1C", 
+            "U5TPWBQMA", 
+            "U5TUPAP2T", 
+            "U5U7D5MHU", 
+            "U5UG5204V", 
+            "U5UJT0B7S", 
+            "U5VCVR0L9", 
+            "U5VGA263U"
+        ], 
+        "id": "C5Y5SSR8C", 
+        "is_shared": false
+    }
+}

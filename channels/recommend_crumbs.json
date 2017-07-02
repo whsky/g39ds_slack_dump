@@ -1,0 +1,192 @@
+{
+    "messages": [
+        {
+            "text": "`from sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS`", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1478188152.000005"
+        }, 
+        {
+            "text": "Yes, but sklearn also has stopwords", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1478188140.000004"
+        }, 
+        {
+            "text": "stopwords is from nltk?", 
+            "type": "message", 
+            "user": "U1Y42EK7F", 
+            "ts": "1478188124.000003"
+        }, 
+        {
+            "text": "```import spacy\nnlp = spacy.load('en')\n\n# Create custom stoplist\nSTOPLIST = set(stopwords.words('english') + [\"n't\", \"'s\", \"'m\", \"ca\", \"'\", \"'re\"] + list(ENGLISH_STOP_WORDS))\nPUNCT_DICT = {ord(punc): None for punc in punctuation if punc not in ['_', '*']}\n\ndef clean_article(article):\n    doc = nlp(article)\n\n    # Let's merge all of the proper entities\n    for ent in doc.ents:\n        if ent.root.tag_ != 'DT':\n            ent.merge(ent.root.tag_, ent.text, ent.label_)\n        else:\n            # Keep entities like 'the New York Times' from getting dropped\n            ent.merge(ent[-1].tag_, ent.text, ent.label_)\n\n    # Part's of speech to keep in the result\n    pos_lst = ['ADJ', 'ADV', 'NOUN', 'PROPN', 'VERB'] # NUM?\n\n    tokens = [token.lemma_.lower().replace(' ', '_') for token in doc if token.pos_ in pos_lst]\n\n    return ' '.join(token for token in tokens if token not in STOPLIST).replace(\"'s\", '').translate(PUNCT_DICT)```", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1478188035.000002"
+        }, 
+        {
+            "username": "cullywest", 
+            "display_as_bot": false, 
+            "text": "<@U2610TKEJ|cullywest> uploaded a file: <https://gstudents.slack.com/files/cullywest/F2XL9DNF5/schedule_0.pdf|Schedule_0.pdf> and commented: <@U205M5D1V> <@U23N1GCSJ> <@U1Y42EK7F> <@U23MYDP4L> <@U23LMV4TV> Here's a schedule of capstone dates.", 
+            "upload": true, 
+            "ts": "1478103217.000002", 
+            "subtype": "file_share", 
+            "user": "U2610TKEJ", 
+            "file": {
+                "initial_comment": {
+                    "comment": "<@U205M5D1V> <@U23N1GCSJ> <@U1Y42EK7F> <@U23MYDP4L> <@U23LMV4TV> Here's a schedule of capstone dates.", 
+                    "created": 1478103216, 
+                    "timestamp": 1478103216, 
+                    "is_intro": true, 
+                    "user": "U2610TKEJ", 
+                    "id": "Fc2XMNH5M2"
+                }, 
+                "filetype": "pdf", 
+                "channels": [
+                    "C2WFBM0E9"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2XL9DNF5", 
+                "size": 26020, 
+                "title": "Schedule_0.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2XL9DNF5/schedule_0.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1478103216, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2XL9DNF5/download/schedule_0.pdf", 
+                "user": "U2610TKEJ", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "Schedule_0.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2XL9DNF5-2941a71361", 
+                "permalink": "https://gstudents.slack.com/files/cullywest/F2XL9DNF5/schedule_0.pdf", 
+                "is_external": false, 
+                "created": 1478103216, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<http://giphy.com/gifs/N5ylKHoZIngwo>", 
+            "type": "message", 
+            "user": "U2610TKEJ", 
+            "ts": "1478015350.000002", 
+            "attachments": [
+                {
+                    "image_bytes": 2091844, 
+                    "service_name": "Giphy", 
+                    "image_width": 352, 
+                    "image_height": 326, 
+                    "service_url": "http://giphy.com/", 
+                    "image_url": "https://media0.giphy.com/media/N5ylKHoZIngwo/giphy.gif", 
+                    "fallback": "giphy: http://giphy.com/gifs/N5ylKHoZIngwo", 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/giphy.png", 
+                    "id": 1
+                }
+            ]
+        }, 
+        {
+            "text": "<@U23N1GCSJ|cstainbrook> has joined the channel", 
+            "ts": "1477942080.000009", 
+            "subtype": "channel_join", 
+            "user": "U23N1GCSJ", 
+            "type": "message", 
+            "inviter": "U2610TKEJ"
+        }, 
+        {
+            "text": "<@U23MYDP4L|johnsteffan> has joined the channel", 
+            "ts": "1477942080.000008", 
+            "subtype": "channel_join", 
+            "user": "U23MYDP4L", 
+            "type": "message", 
+            "inviter": "U2610TKEJ"
+        }, 
+        {
+            "text": "<@U1Y42EK7F|nate_george> has joined the channel", 
+            "ts": "1477942080.000007", 
+            "subtype": "channel_join", 
+            "user": "U1Y42EK7F", 
+            "type": "message", 
+            "inviter": "U2610TKEJ"
+        }, 
+        {
+            "text": "<@U205M5D1V|gavin> has joined the channel", 
+            "ts": "1477942080.000006", 
+            "subtype": "channel_join", 
+            "user": "U205M5D1V", 
+            "type": "message", 
+            "inviter": "U2610TKEJ"
+        }, 
+        {
+            "text": "<@U23LMV4TV|oschow> has joined the channel", 
+            "ts": "1477942080.000005", 
+            "subtype": "channel_join", 
+            "user": "U23LMV4TV", 
+            "type": "message", 
+            "inviter": "U2610TKEJ"
+        }, 
+        {
+            "text": "<@U2610TKEJ|cullywest> has joined the channel", 
+            "ts": "1477942024.000004", 
+            "subtype": "channel_join", 
+            "user": "U2610TKEJ", 
+            "type": "message", 
+            "inviter": "U1XEGP6GZ"
+        }, 
+        {
+            "text": "<@U1XEGP6GZ|ewellinger> set the channel purpose: Recommending Stuff 'N' Things", 
+            "ts": "1477942024.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1XEGP6GZ", 
+            "type": "message", 
+            "purpose": "Recommending Stuff 'N' Things"
+        }, 
+        {
+            "text": "<@U1XEGP6GZ|ewellinger> has joined the channel", 
+            "type": "message", 
+            "user": "U1XEGP6GZ", 
+            "ts": "1477942024.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "recommend_crumbs", 
+        "name": "recommend_crumbs", 
+        "is_channel": true, 
+        "created": 1477942024, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1XEGP6GZ", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1477942024, 
+            "value": "Recommending Stuff 'N' Things", 
+            "creator": "U1XEGP6GZ"
+        }, 
+        "members": [
+            "U1XEGP6GZ", 
+            "U1Y42EK7F", 
+            "U205M5D1V", 
+            "U23LMV4TV", 
+            "U23MYDP4L", 
+            "U23N1GCSJ", 
+            "U2610TKEJ"
+        ], 
+        "id": "C2WFBM0E9", 
+        "is_shared": false
+    }
+}

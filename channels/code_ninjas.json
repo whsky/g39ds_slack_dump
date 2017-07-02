@@ -1,0 +1,535 @@
+{
+    "messages": [
+        {
+            "text": "added an integration to this channel: <https://gstudents.slack.com/services/B50E3842Z|github>", 
+            "ts": "1492473601.175269", 
+            "subtype": "bot_add", 
+            "bot_link": "<https://gstudents.slack.com/services/B50E3842Z|github>", 
+            "user": "U4L823ZG9", 
+            "type": "message", 
+            "bot_id": "B50E3842Z"
+        }, 
+        {
+            "text": "<@U3Z7JPZTP|ghetto_geek> has left the channel", 
+            "type": "message", 
+            "user": "U3Z7JPZTP", 
+            "ts": "1489355941.637457", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3Z7JPZTP|ghetto_geek> has joined the channel", 
+            "type": "message", 
+            "user": "U3Z7JPZTP", 
+            "ts": "1489355933.636804", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3D5UHM0R|tdeason> has left the channel", 
+            "type": "message", 
+            "user": "U3D5UHM0R", 
+            "ts": "1488061189.000003", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3D5UHM0R|tdeason> has joined the channel", 
+            "type": "message", 
+            "user": "U3D5UHM0R", 
+            "ts": "1488061163.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "We are in Sonic until 10", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1475162813.000003"
+        }, 
+        {
+            "text": "<https://office-anywhere.herokuapp.com/>", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1475161825.000002"
+        }, 
+        {
+            "text": "ltunfc5bhbhm6iq5", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1475083705.000005"
+        }, 
+        {
+            "text": "revised app id: ltunfc5bhbhm6iq5", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1475082160.000004"
+        }, 
+        {
+            "text": "Itunfc5bhm6iq5", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1475077315.000003"
+        }, 
+        {
+            "username": "sanityeclipse", 
+            "display_as_bot": false, 
+            "text": "<@U1W39HQF6|sanityeclipse> uploaded a file: <https://gstudents.slack.com/files/sanityeclipse/F2H399LBX/workfrom_api_docs.txt|workfrom API docs>", 
+            "upload": true, 
+            "ts": "1475076968.000002", 
+            "subtype": "file_share", 
+            "user": "U1W39HQF6", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 52, 
+                "channels": [
+                    "C2FBWF70F"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2H399LBX", 
+                "size": 3703, 
+                "title": "workfrom API docs", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2H399LBX/workfrom_api_docs.txt", 
+                "ims": [], 
+                "preview": "Workfrom Places API Documentation\r\nBy using the Workfrom API you agree to terms of use are here.\r\n\r\nEndpoints\r\nThe base url is http://api.workfrom.co and will give you a lovely \u201cpermission denied\u201d error if you try and hit it directly. It responds well to the specified endpoints.\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/sanityeclipse/F2H399LBX/workfrom_api_docs.txt/edit", 
+                "username": "", 
+                "timestamp": 1475076967, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2H399LBX/download/workfrom_api_docs.txt", 
+                "user": "U1W39HQF6", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "workfrom_API_docs.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2H399LBX-dce891a1d1", 
+                "permalink": "https://gstudents.slack.com/files/sanityeclipse/F2H399LBX/workfrom_api_docs.txt", 
+                "is_external": false, 
+                "created": 1475076967, 
+                "lines": 57, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Workfrom Places API Documentation</pre></div>\n<div><pre>By using the Workfrom API you agree to terms of use are here.</pre></div>\n<div><pre></pre></div>\n<div><pre>Endpoints</pre></div>\n<div><pre>The base url is http://api.workfrom.co and will give you a lovely \u201cpermission denied\u201d error if you try and hit it directly. It responds well to the specified endpoints.</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "We got the key this morning! ", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1475064502.000002"
+        }, 
+        {
+            "username": "bengio777", 
+            "display_as_bot": false, 
+            "text": "<@U1W3AUNNS|bengio777> uploaded a file: <https://gstudents.slack.com/files/bengio777/F2GPGAG8J/_env.js|.env> and commented: yeah you know me", 
+            "upload": true, 
+            "ts": "1475014180.000009", 
+            "subtype": "file_share", 
+            "user": "U1W3AUNNS", 
+            "file": {
+                "initial_comment": {
+                    "comment": "yeah you know me", 
+                    "created": 1475014180, 
+                    "timestamp": 1475014180, 
+                    "is_intro": true, 
+                    "user": "U1W3AUNNS", 
+                    "id": "Fc2GNZ6D5E"
+                }, 
+                "filetype": "javascript", 
+                "lines_more": 1, 
+                "channels": [
+                    "C2FBWF70F"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2GPGAG8J", 
+                "size": 283, 
+                "title": ".env", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2GPGAG8J/_env.js", 
+                "ims": [], 
+                "preview": "DATABASE_NAME= heroku-postgres-95e93578\r\nDATABASE_URL= postgres://jhjwbtisvuzjjl:dngFV3iajc9GeWzR7kmMheAJ80@ec2-54-243-202-113.compute-1.amazonaws.com:5432/de97dutdsp4gqk\r\n\r\nGOOGLE_API_KEY= AIzaSyARppMTWlZPCxT0N27P45TB0w0H4BD4hvQ\r\n\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/bengio777/F2GPGAG8J/_env.js/edit", 
+                "username": "", 
+                "timestamp": 1475014180, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2GPGAG8J/download/_env.js", 
+                "user": "U1W3AUNNS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "JavaScript/JSON", 
+                "name": "_env.js", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2GPGAG8J-01c766a71a", 
+                "permalink": "https://gstudents.slack.com/files/bengio777/F2GPGAG8J/_env.js", 
+                "is_external": false, 
+                "created": 1475014180, 
+                "lines": 6, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">DATABASE_NAME</span><span class=\"cm-operator\">=</span> <span class=\"cm-variable\">heroku</span><span class=\"cm-operator\">-</span><span class=\"cm-variable\">postgres</span><span class=\"cm-operator\">-</span><span class=\"cm-number\">95e93578</span></pre></div>\n<div><pre><span class=\"cm-variable\">DATABASE_URL</span><span class=\"cm-operator\">=</span> <span class=\"cm-variable\">postgres</span>:<span class=\"cm-comment\">//jhjwbtisvuzjjl:dngFV3iajc9GeWzR7kmMheAJ80@ec2-54-243-202-113.compute-1.amazonaws.com:5432/de97dutdsp4gqk</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-variable\">GOOGLE_API_KEY</span><span class=\"cm-operator\">=</span> <span class=\"cm-variable\">AIzaSyARppMTWlZPCxT0N27P45TB0w0H4BD4hvQ</span></pre></div>\n<div><pre>&#8203;</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "That fucker must only check his email once per day", 
+            "type": "message", 
+            "user": "U1W3QEJL9", 
+            "ts": "1475003602.000006"
+        }, 
+        {
+            "text": "Still no API key or response. &gt;=l", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1475002940.000005"
+        }, 
+        {
+            "text": "where is the mega man", 
+            "type": "message", 
+            "user": "U1W3QEJL9", 
+            "ts": "1475002216.000004"
+        }, 
+        {
+            "text": "are you guys in mega man", 
+            "type": "message", 
+            "user": "U1W3QEJL9", 
+            "ts": "1475002210.000003"
+        }, 
+        {
+            "text": "We have mega man till 2pm ", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1475000947.000002"
+        }, 
+        {
+            "text": "10 min", 
+            "type": "message", 
+            "user": "U1W3D3LD6", 
+            "ts": "1474994914.000008"
+        }, 
+        {
+            "text": "Navid- are you coming up here?", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1474994185.000007"
+        }, 
+        {
+            "text": "LOL idk what to tell you on that. Hopefully I just get it and we can move forward.", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1474993270.000006"
+        }, 
+        {
+            "text": "I can't get the confirmation email!!", 
+            "type": "message", 
+            "user": "U1W3D3LD6", 
+            "ts": "1474991766.000005"
+        }, 
+        {
+            "text": "jsut waiting for a reply", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1474991730.000004"
+        }, 
+        {
+            "text": "yes- it is created", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1474991725.000003"
+        }, 
+        {
+            "text": "hey tom:  were you able to create  an account ?", 
+            "type": "message", 
+            "user": "U1W3D3LD6", 
+            "ts": "1474990984.000002"
+        }, 
+        {
+            "text": "Running late, be there by 9:10 probably", 
+            "type": "message", 
+            "user": "U1W3QEJL9", 
+            "ts": "1474987141.000002"
+        }, 
+        {
+            "text": "the debates succinctly summed up <https://www.youtube.com/watch?v=ilcRS5eUpwk>", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1474945834.000003", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/immatureentrepreneur", 
+                    "service_name": "YouTube", 
+                    "title": "Zoolander - Crazy Pills (Will Ferrell)", 
+                    "video_html_height": 225, 
+                    "author_name": "Alan Reeves", 
+                    "title_link": "https://www.youtube.com/watch?v=ilcRS5eUpwk", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/ilcRS5eUpwk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Zoolander - Crazy Pills (Will Ferrell)", 
+                    "thumb_url": "https://i.ytimg.com/vi/ilcRS5eUpwk/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=ilcRS5eUpwk"
+                }
+            ]
+        }, 
+        {
+            "text": "oh missed this before gonna bring it in!", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1474944990.000002"
+        }, 
+        {
+            "text": "Pull request created", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1474932952.000008"
+        }, 
+        {
+            "text": "<https://office-anywhere.herokuapp.com/>", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1474928650.000007"
+        }, 
+        {
+            "username": "bengio777", 
+            "display_as_bot": false, 
+            "text": "<@U1W3AUNNS|bengio777> uploaded a file: <https://gstudents.slack.com/files/bengio777/F2G7EGZJ9/_env_file.js|.env file>", 
+            "upload": true, 
+            "ts": "1474926732.000006", 
+            "subtype": "file_share", 
+            "user": "U1W3AUNNS", 
+            "file": {
+                "filetype": "javascript", 
+                "lines_more": 1, 
+                "channels": [
+                    "C2FBWF70F"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2G7EGZJ9", 
+                "size": 289, 
+                "title": ".env file", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2G7EGZJ9/_env_file.js", 
+                "ims": [], 
+                "preview": "DATABASE_NAME=heroku-postgres-95e93578\r\nDATABASE_URL=postgres://ggwosjypdtnjzd:G29Abf8o83VjJFIguqhEaPLOsI@ec2-54-235-76-139.compute-1.amazonaws.com:5432/deq8po99mjgr2i?ssl=true\r\n\r\nGOOGLE_API_KEY= AIzaSyARppMTWlZPCxT0N27P45TB0w0H4BD4hvQ\r\n\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/bengio777/F2G7EGZJ9/_env_file.js/edit", 
+                "username": "", 
+                "timestamp": 1474926732, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2G7EGZJ9/download/_env_file.js", 
+                "user": "U1W3AUNNS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "JavaScript/JSON", 
+                "name": "_env_file.js", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2G7EGZJ9-ead1fa8894", 
+                "permalink": "https://gstudents.slack.com/files/bengio777/F2G7EGZJ9/_env_file.js", 
+                "is_external": false, 
+                "created": 1474926732, 
+                "lines": 6, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">DATABASE_NAME</span><span class=\"cm-operator\">=</span><span class=\"cm-variable\">heroku</span><span class=\"cm-operator\">-</span><span class=\"cm-variable\">postgres</span><span class=\"cm-operator\">-</span><span class=\"cm-number\">95e93578</span></pre></div>\n<div><pre><span class=\"cm-variable\">DATABASE_URL</span><span class=\"cm-operator\">=</span><span class=\"cm-variable\">postgres</span>:<span class=\"cm-comment\">//ggwosjypdtnjzd:G29Abf8o83VjJFIguqhEaPLOsI@ec2-54-235-76-139.compute-1.amazonaws.com:5432/deq8po99mjgr2i?ssl=true</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-variable\">GOOGLE_API_KEY</span><span class=\"cm-operator\">=</span> <span class=\"cm-variable\">AIzaSyARppMTWlZPCxT0N27P45TB0w0H4BD4hvQ</span></pre></div>\n<div><pre>&#8203;</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "ignore last secret and copy and paste this snippet into into your .env file", 
+            "type": "message", 
+            "user": "U1W3AUNNS", 
+            "ts": "1474926661.000005"
+        }, 
+        {
+            "username": "bengio777", 
+            "display_as_bot": false, 
+            "text": "<@U1W3AUNNS|bengio777> uploaded a file: <https://gstudents.slack.com/files/bengio777/F2G7DFDGV/_env_file.js|.env file>", 
+            "upload": true, 
+            "ts": "1474926559.000004", 
+            "subtype": "file_share", 
+            "user": "U1W3AUNNS", 
+            "file": {
+                "filetype": "javascript", 
+                "lines_more": 1, 
+                "channels": [
+                    "C2FBWF70F"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2G7DFDGV", 
+                "size": 260, 
+                "title": ".env file", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2G7DFDGV/_env_file.js", 
+                "ims": [], 
+                "preview": "DATABASE_NAME=heroku-postgres-95e93578\r\nDATABASE_URL=postgres://ggwosjypdtnjzd:G29Abf8o83VjJFIguqhEaPLOsI@ec2-54-235-76-139.compute-1.amazonaws.com:5432/deq8po99mjgr2i?ssl=true\r\n\r\nGOOGLE_API_KEY= AIzaSyARppMTWlZPCxT0N27P45TB0w0H4BD4hvQ\r\n\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/bengio777/F2G7DFDGV/_env_file.js/edit", 
+                "username": "", 
+                "timestamp": 1474926558, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2G7DFDGV/download/_env_file.js", 
+                "user": "U1W3AUNNS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "JavaScript/JSON", 
+                "name": "_env_file.js", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2G7DFDGV-424f03f8a4", 
+                "permalink": "https://gstudents.slack.com/files/bengio777/F2G7DFDGV/_env_file.js", 
+                "is_external": false, 
+                "created": 1474926558, 
+                "lines": 6, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">DATABASE_NAME</span><span class=\"cm-operator\">=</span><span class=\"cm-variable\">heroku</span><span class=\"cm-operator\">-</span><span class=\"cm-variable\">postgres</span><span class=\"cm-operator\">-</span><span class=\"cm-number\">95e93578</span></pre></div>\n<div><pre><span class=\"cm-variable\">DATABASE_URL</span><span class=\"cm-operator\">=</span><span class=\"cm-variable\">postgres</span>:<span class=\"cm-comment\">//ggwosjypdtnjzd:G29Abf8o83VjJFIguqhEaPLOsI@ec2-54-235-76-139.compute-1.amazonaws.com:5432/deq8po99mjgr2i?ssl=true</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-variable\">GOOGLE_API_KEY</span><span class=\"cm-operator\">=</span> <span class=\"cm-variable\">AIzaSyARppMTWlZPCxT0N27P45TB0w0H4BD4hvQ</span></pre></div>\n<div><pre>&#8203;</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Reminder: stories get accepted when they are deployed.", 
+            "type": "message", 
+            "user": "U1US4N6A0", 
+            "ts": "1474918043.000003"
+        }, 
+        {
+            "text": "<http://gitref.org/basic>", 
+            "type": "message", 
+            "user": "U1W3D3LD6", 
+            "ts": "1474908785.000002"
+        }, 
+        {
+            "text": " So apparently a truck plowed through a railroad crossing gate here around Alameda, so I don't know when I'll be in.", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1474900158.000003"
+        }, 
+        {
+            "text": "Sorry , I overslept, be there shortly ", 
+            "type": "message", 
+            "user": "U1W3D3LD6", 
+            "ts": "1474900021.000002"
+        }, 
+        {
+            "text": "I hope you guys are enjoying your weekend, I certainly am.  I will continue fucking around until instructed otherwise.", 
+            "type": "message", 
+            "user": "U1W3QEJL9", 
+            "ts": "1474774051.000002"
+        }, 
+        {
+            "text": "Thank you Valerie", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1474666646.000011"
+        }, 
+        {
+            "text": "just a heads up: i do not have notifications on for this channel unless i\u2019m @\u2018ed. so if you need my attention, please do that.", 
+            "type": "message", 
+            "user": "U1US4N6A0", 
+            "ts": "1474665590.000010"
+        }, 
+        {
+            "text": "<https://www.pivotaltracker.com/n/projects/1878345>", 
+            "type": "message", 
+            "user": "U1W39HQF6", 
+            "ts": "1474665155.000009"
+        }, 
+        {
+            "text": "<@U1US4N6A0|vkraucunas> set the channel topic: :gear::gear::gear::gear::gear::gear::gear::gear::gear::gear::gear::gear:", 
+            "ts": "1474657484.000008", 
+            "topic": ":gear::gear::gear::gear::gear::gear::gear::gear::gear::gear::gear::gear:", 
+            "subtype": "channel_topic", 
+            "user": "U1US4N6A0", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1W3AUNNS|bengio777> has joined the channel", 
+            "ts": "1474657353.000007", 
+            "subtype": "channel_join", 
+            "user": "U1W3AUNNS", 
+            "type": "message", 
+            "inviter": "U1US4N6A0"
+        }, 
+        {
+            "text": "<@U1W3QEJL9|taylorhessel> has joined the channel", 
+            "ts": "1474657352.000006", 
+            "subtype": "channel_join", 
+            "user": "U1W3QEJL9", 
+            "type": "message", 
+            "inviter": "U1US4N6A0"
+        }, 
+        {
+            "text": "<@U1W39HQF6|sanityeclipse> has joined the channel", 
+            "ts": "1474657352.000005", 
+            "subtype": "channel_join", 
+            "user": "U1W39HQF6", 
+            "type": "message", 
+            "inviter": "U1US4N6A0"
+        }, 
+        {
+            "text": "<@U1US4N6A0|vkraucunas> set the channel purpose: g31 q2 project group", 
+            "ts": "1474657352.000004", 
+            "subtype": "channel_purpose", 
+            "user": "U1US4N6A0", 
+            "type": "message", 
+            "purpose": "g31 q2 project group"
+        }, 
+        {
+            "text": "<@U1W3D3LD6|navidf> has joined the channel", 
+            "ts": "1474657352.000003", 
+            "subtype": "channel_join", 
+            "user": "U1W3D3LD6", 
+            "type": "message", 
+            "inviter": "U1US4N6A0"
+        }, 
+        {
+            "text": "<@U1US4N6A0|vkraucunas> has joined the channel", 
+            "type": "message", 
+            "user": "U1US4N6A0", 
+            "ts": "1474657352.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1474657484, 
+            "value": "\u2699\u2699\u2699\u2699\u2699\u2699\u2699\u2699\u2699\u2699\u2699\u2699", 
+            "creator": "U1US4N6A0"
+        }, 
+        "is_general": false, 
+        "name_normalized": "code_ninjas", 
+        "name": "code_ninjas", 
+        "is_channel": true, 
+        "created": 1474657352, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1US4N6A0", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1474657352, 
+            "value": "g31 q2 project group", 
+            "creator": "U1US4N6A0"
+        }, 
+        "members": [
+            "U1US4N6A0", 
+            "U1W39HQF6", 
+            "U1W3AUNNS", 
+            "U1W3D3LD6", 
+            "U1W3QEJL9"
+        ], 
+        "id": "C2FBWF70F", 
+        "is_shared": false
+    }
+}

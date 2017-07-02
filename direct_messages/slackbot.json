@@ -1,0 +1,34 @@
+{
+    "messages": [
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> archived the channel <https://gstudents.slack.com/archives/dsi_den6|#dsi_den6>", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1493139491.628642"
+        }, 
+        {
+            "text": "You have been added to the <!subteam^S1V85MWR2|@admins> User Group by <@USLACKBOT|slackbot>. From now on, you will be notified when someone uses <!subteam^S1V85MWR2|@admins>.", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1490734841.204889"
+        }, 
+        {
+            "text": "Your team\u2019s scheduled Do Not Disturb hours have been reset by a Team Owner or Admin. They\u2019re now from 10:00 pm to 8:00 am. I updated your settings to match, but feel free to adjust them in your notification preferences.", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1489378982.041668"
+        }, 
+        {
+            "text": "If you have any questions about *how to use Slack*, please ask me! I\u2019ll do my best to help.", 
+            "type": "message", 
+            "user": "USLACKBOT", 
+            "ts": "1481130442.000002"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "USLACKBOT", 
+            "U34BY2K3K"
+        ]
+    }
+}

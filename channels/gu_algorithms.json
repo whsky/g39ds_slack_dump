@@ -1,0 +1,2938 @@
+{
+    "messages": [
+        {
+            "text": "this is what i\u2019ll be working my way through during Summer break :terminal: :cocktail: \n<https://medium.com/100-days-of-algorithms/>\n<https://github.com/coells/100days/>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1497459248.018328", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*1DvWlzoRnmIQwb-vfgruuA.png", 
+                    "thumb_width": 199, 
+                    "title": "100 days of algorithms \u2013 Medium", 
+                    "service_name": "Medium", 
+                    "title_link": "https://medium.com/100-days-of-algorithms/", 
+                    "text": "100 days, 100 algorithms - a challenge consisting of many small pieces.", 
+                    "id": 1, 
+                    "fallback": "Medium: 100 days of algorithms \u2013 Medium", 
+                    "thumb_url": "https://cdn-images-1.medium.com/max/1200/1*1DvWlzoRnmIQwb-vfgruuA.png", 
+                    "from_url": "https://medium.com/100-days-of-algorithms/"
+                }, 
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "coells/100days", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/coells/100days/", 
+                    "text": "100days - 100 days of algorithms", 
+                    "id": 2, 
+                    "fallback": "GitHub: coells/100days", 
+                    "thumb_url": "https://avatars1.githubusercontent.com/u/10402316?v=3&s=400", 
+                    "from_url": "https://github.com/coells/100days/"
+                }
+            ]
+        }, 
+        {
+            "text": "Website: <http://panthema.net/2013/sound-of-sorting/>", 
+            "type": "message", 
+            "user": "U3VH6EVDK", 
+            "ts": "1497305955.666938"
+        }, 
+        {
+            "text": "23 Sorting algorithms visualized:\n\n<https://www.youtube.com/watch?v=rqI6KT6cOas>", 
+            "type": "message", 
+            "user": "U3VH6EVDK", 
+            "ts": "1497305933.662306", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/TutorialsCC", 
+                    "service_name": "YouTube", 
+                    "title": "23 Sorting Algorithms - Sort Sound Visualized", 
+                    "video_html_height": 225, 
+                    "author_name": "Sorting Algorithms", 
+                    "title_link": "https://www.youtube.com/watch?v=rqI6KT6cOas", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/rqI6KT6cOas?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: 23 Sorting Algorithms - Sort Sound Visualized", 
+                    "thumb_url": "https://i.ytimg.com/vi/rqI6KT6cOas/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=rqI6KT6cOas"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U21MA7V0A|justin.j.wang> has left the channel", 
+            "type": "message", 
+            "user": "U21MA7V0A", 
+            "ts": "1495745907.103983", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "here is a nice handbook\n<https://cses.fi/book.html>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1492213696.560043"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "sonic", 
+                    "users": [
+                        "U21MA7V0A"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://www.codewars.com/favicon.ico", 
+                    "thumb_width": 200, 
+                    "title": "brianspiering | Codewars", 
+                    "service_name": "Codewars", 
+                    "title_link": "https://www.codewars.com/users/brianspiering", 
+                    "text": "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.", 
+                    "id": 1, 
+                    "fallback": "Codewars: brianspiering | Codewars", 
+                    "thumb_url": "http://www.codewars.com/assets/logos/logo-square-paper-bg.jpg", 
+                    "from_url": "https://www.codewars.com/users/brianspiering"
+                }
+            ], 
+            "text": "i have been getting to competitive coding\n<https://www.codewars.com/users/brianspiering>", 
+            "ts": "1492213678.557404", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "text": "I would be interested to hear if anyone had ideas for improving this. Sounds like they\u2019ve taken a brute force approach to drawing district lines. Seems reminiscent of the traveling salesman problem\u2026 genetic algos, bayesian optimization?\n\n<https://www.youtube.com/watch?v=gRCZR_BbjTo>", 
+            "type": "message", 
+            "user": "U21UH68E5", 
+            "ts": "1491928244.576862", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/voxdotcom", 
+                    "service_name": "YouTube", 
+                    "title": "The algorithm that could help end partisan gerrymandering", 
+                    "video_html_height": 225, 
+                    "author_name": "Vox", 
+                    "title_link": "https://www.youtube.com/watch?v=gRCZR_BbjTo", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/gRCZR_BbjTo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: The algorithm that could help end partisan gerrymandering", 
+                    "thumb_url": "https://i.ytimg.com/vi/gRCZR_BbjTo/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=gRCZR_BbjTo"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U4MK1L202|jon_lindell> has joined the channel", 
+            "type": "message", 
+            "user": "U4MK1L202", 
+            "ts": "1490371133.605815", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3NHB9L8Z|armyohse> has joined the channel", 
+            "type": "message", 
+            "user": "U3NHB9L8Z", 
+            "ts": "1488091442.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V0ATDTP|loganzk> has left the channel", 
+            "type": "message", 
+            "user": "U1V0ATDTP", 
+            "ts": "1486326949.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3VH6EVDK|adrtho4> has joined the channel", 
+            "type": "message", 
+            "user": "U3VH6EVDK", 
+            "ts": "1485225687.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U365TCNH3|jng> has joined the channel", 
+            "type": "message", 
+            "user": "U365TCNH3", 
+            "ts": "1484093908.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "in particular\u2026\n```def astar_search(start, h_func, moves_func):\n    \"Find a shortest sequence of states from start to a goal state (a state s with h_func(s) == 0).\"\n    frontier  = [(h_func(start), start)] # A priority queue, ordered by path length, f = g + h\n    previous  = {start: None}  # start state has no previous state; other states will\n    path_cost = {start: 0}     # The cost of the best path to a state.\n    while frontier:\n        (f, s) = heappop(frontier)\n        if h_func(s) == 0:\n            return Path(previous, s)\n        for s2 in moves_func(s):\n            new_cost = path_cost[s] + 1\n            if s2 not in path_cost or new_cost &lt; path_cost[s2]:\n                heappush(frontier, (new_cost + h_func(s2), s2))\n                path_cost[s2] = new_cost\n                previous[s2] = s\n    return dict(fail=True, front=len(frontier), prev=len(previous))```", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1482946567.000004"
+        }, 
+        {
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1482946583.000000"
+            }, 
+            "attachments": [
+                {
+                    "title": "Notebook on nbviewer", 
+                    "text": "Check out this Jupyter notebook!", 
+                    "title_link": "http://nbviewer.jupyter.org/url/norvig.com/ipython/Advent%20of%20Code.ipynb", 
+                    "service_name": "nbviewer.jupyter.org", 
+                    "id": 1, 
+                    "fallback": "Notebook on nbviewer", 
+                    "service_icon": "http://nbviewer.jupyter.org/static/ico/apple-touch-icon-144-precomposed.png?v=5a3c9ede93e2a8b8ea9e3f8f3da1a905", 
+                    "from_url": "http://nbviewer.jupyter.org/url/norvig.com/ipython/Advent%20of%20Code.ipynb"
+                }
+            ], 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U21KWCE7L"
+                    ]
+                }
+            ], 
+            "text": "fine puzzle coding for the Holidays :xmastree: \n<http://nbviewer.jupyter.org/url/norvig.com/ipython/Advent%20of%20Code.ipynb>", 
+            "ts": "1482946540.000002", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F3CV3TBV2/monte_carlo_for_the_win.pdf|Monte Carlo for the win.pdf>", 
+            "upload": true, 
+            "ts": "1481301529.000003", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F3CV3TBV2", 
+                "size": 317623, 
+                "title": "Monte Carlo for the win.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3CV3TBV2/monte_carlo_for_the_win.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1481301528, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3CV3TBV2/download/monte_carlo_for_the_win.pdf", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "Monte Carlo for the win.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3CV3TBV2-7f67e13c86", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F3CV3TBV2/monte_carlo_for_the_win.pdf", 
+                "is_external": false, 
+                "created": 1481301528, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "This new paper shows the power of probabilistic thinking. \n\nCS has decades of deterministic baggage to overcome to move forward, especially to handle the speed and size of modern data.\n\nData Science's superpower is uniting CS fundamentals with Statistics to create novel solution to theoretical and applied problems.\n\nAcademic disciplines change \"one tombstone at a time\". Data Science doesn't have an Old Guard telling the field what the rules are. There is freedom to play everywhere.\n\n<https://arxiv.org/abs/1612.02788>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1481301516.000002", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1481301572.000000"
+            }
+        }, 
+        {
+            "text": "<@U2VBY4012|nnamdi> has joined the channel", 
+            "type": "message", 
+            "user": "U2VBY4012", 
+            "ts": "1481186761.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U25DNM7D5|courtney> has joined the channel", 
+            "type": "message", 
+            "user": "U25DNM7D5", 
+            "ts": "1480439649.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "nlp algorithms <https://www.coursera.org/learn/algorithms-on-strings>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1480360508.000002", 
+            "attachments": [
+                {
+                    "thumb_height": 1200, 
+                    "service_icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-57x57.png", 
+                    "thumb_width": 1200, 
+                    "title": "Algorithms on Strings - University of California, San Diego, Higher School of Economics | Coursera", 
+                    "service_name": "Coursera", 
+                    "title_link": "https://www.coursera.org/learn/algorithms-on-strings", 
+                    "text": "Algorithms on Strings from University of California, San Diego, Higher School of Economics. World and internet is full of textual information. We search for information using textual queries, we read websites, books, e-mails. All those are strings from the point of view of computer science. To make sense of all that information and make search efficient, search engines use many string algorithms. Moreover, the emerging field of personalized medicine uses many search algorithms to find disease-causing mutations in the human genome. 1000+ courses from schools like Stanford and Yale - no application required. Build career skills in data science, computer science, business, and more.", 
+                    "id": 1, 
+                    "fallback": "Coursera: Algorithms on Strings - University of California, San Diego, Higher School of Economics | Coursera", 
+                    "thumb_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/1b/5aa390d9ae11e5afbfa359f34ae5f0/logo3.png", 
+                    "from_url": "https://www.coursera.org/learn/algorithms-on-strings"
+                }
+            ]
+        }, 
+        {
+            "text": "np. i\u2019m stuck in a super boring meeting and want to be \u201cuseful\u201d/productive", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1478385924.000011"
+        }, 
+        {
+            "text": "AWESOME! thanks so much", 
+            "type": "message", 
+            "user": "U21L97GGN", 
+            "ts": "1478385389.000010"
+        }, 
+        {
+            "text": "<http://bigocheatsheet.com/>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1478383552.000008"
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F2YQ81KSP/screen_shot_2015-04-04_at_8.52.03_am.png|Screen Shot 2015-04-04 at 8.52.03 AM.png>", 
+            "upload": true, 
+            "ts": "1478383519.000007", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F2YQ81KSP-0a7d78364c/screen_shot_2015-04-04_at_8.52.03_am_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F2YQ81KSP-0a7d78364c/screen_shot_2015-04-04_at_8.52.03_am_64.png", 
+                "size": 50293, 
+                "original_h": 374, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2015-04-04 at 8.52.03 AM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2YQ81KSP/screen_shot_2015-04-04_at_8.52.03_am.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F2YQ81KSP-0a7d78364c/screen_shot_2015-04-04_at_8.52.03_am_360.png", 
+                "id": "F2YQ81KSP", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F2YQ81KSP-0a7d78364c/screen_shot_2015-04-04_at_8.52.03_am_80.png", 
+                "thumb_360_h": 207, 
+                "thumb_480_h": 276, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1478383517, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F2YQ81KSP-0a7d78364c/screen_shot_2015-04-04_at_8.52.03_am_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2YQ81KSP/download/screen_shot_2015-04-04_at_8.52.03_am.png", 
+                "user": "U1XU9SHRS", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2015-04-04 at 8.52.03 AM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2YQ81KSP-3b6d7b5cd8", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F2YQ81KSP/screen_shot_2015-04-04_at_8.52.03_am.png", 
+                "is_external": false, 
+                "created": 1478383517, 
+                "original_w": 650, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C26KL7155"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "&gt; What is the runtime for common Big O, if N = 100?", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1478383505.000005", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1478383508.000000"
+            }
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F2ZGNQ21L/images.zip|images.zip>", 
+            "upload": true, 
+            "ts": "1478383388.000004", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "filetype": "zip", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2ZGNQ21L", 
+                "size": 948010, 
+                "title": "images.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2ZGNQ21L/images.zip", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1478383387, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2ZGNQ21L/download/images.zip", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Zip", 
+                "name": "images.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2ZGNQ21L-90074f3e64", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F2ZGNQ21L/images.zip", 
+                "is_external": false, 
+                "created": 1478383387, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F2Y5FSLQG/dsci6001-6.3.lab_big_o.ipynb|DSCI6001-6.3.Lab_Big_O.ipynb>", 
+            "upload": true, 
+            "ts": "1478383372.000003", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "clap", 
+                        "users": [
+                            "U21L97GGN"
+                        ]
+                    }, 
+                    {
+                        "count": 1, 
+                        "name": "woowoo-alternate", 
+                        "users": [
+                            "U21LR4B08"
+                        ]
+                    }
+                ], 
+                "filetype": "binary", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2Y5FSLQG", 
+                "size": 25309, 
+                "title": "DSCI6001-6.3.Lab_Big_O.ipynb", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2Y5FSLQG/dsci6001-6.3.lab_big_o.ipynb", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1478383371, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2Y5FSLQG/download/dsci6001-6.3.lab_big_o.ipynb", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Binary", 
+                "name": "DSCI6001-6.3.Lab_Big_O.ipynb", 
+                "mimetype": "application/octet-stream", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2Y5FSLQG-f0e5bc7096", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F2Y5FSLQG/dsci6001-6.3.lab_big_o.ipynb", 
+                "is_external": false, 
+                "created": 1478383371, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U21L97GGN> here is my lecture notes on it:", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1478383357.000002"
+        }, 
+        {
+            "text": "", 
+            "type": "message", 
+            "user": "U21L97GGN", 
+            "ts": "1477979076.000002", 
+            "attachments": [
+                {
+                    "footer": "Posted in #gu4_sf", 
+                    "channel_id": "C1XTMEWV8", 
+                    "color": "D0D0D0", 
+                    "text": "does anyone have any resources on calculating computational cost that they could recommend? \n\nIt\u2019s something that has come up more frequently lately, and I\u2019d love to get my head around it/practice some problems. \n\nSeems like we\u2019re getting deeper into algorithmic comparison and maximizing efficiency, so any help would be much appreciated", 
+                    "author_link": "https://gstudent.slack.com/team/victorv", 
+                    "ts": "1477978883.000064", 
+                    "author_name": "Victor Vulovic", 
+                    "is_share": true, 
+                    "channel_name": "gu4_sf", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "victorv", 
+                    "fallback": "[October 31st, 2016 10:41 PM] victorv: does anyone have any resources on calculating computational cost that they could recommend? \n\nIt\u2019s something that has come up more frequently lately, and I\u2019d love to get my head around it/practice some problems. \n\nSeems like we\u2019re getting deeper into algorithmic comparison and maximizing efficiency, so any help would be much appreciated", 
+                    "author_icon": "https://avatars.slack-edge.com/2016-08-15/69723658807_787396ee23d884338783_48.png", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudent.slack.com/archives/gu4_sf/p1477978883000064"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://media.giphy.com/media/HN1MR1C3StLtC/giphy.gif>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1476904003.000013", 
+            "attachments": [
+                {
+                    "image_bytes": 261740, 
+                    "image_width": 302, 
+                    "id": 1, 
+                    "image_height": 211, 
+                    "image_url": "https://media.giphy.com/media/HN1MR1C3StLtC/giphy.gif", 
+                    "fallback": "302x211px image", 
+                    "from_url": "https://media.giphy.com/media/HN1MR1C3StLtC/giphy.gif", 
+                    "is_animated": true
+                }
+            ]
+        }, 
+        {
+            "text": "hey something came up and i can\u2019t make it to campus today", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1476903767.000011", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1476903779.000000"
+            }
+        }, 
+        {
+            "text": "<@U21KJNA4E|thompsjj> has joined the channel", 
+            "ts": "1476807641.000009", 
+            "subtype": "channel_join", 
+            "user": "U21KJNA4E", 
+            "type": "message", 
+            "inviter": "U1XU9SHRS"
+        }, 
+        {
+            "text": "<@U21KJNA4E> ^", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1476807637.000008"
+        }, 
+        {
+            "text": "if you are more inclined to think through coding\u2026.\n- Using 3rd party library, fit a convex hull.\n- Write a function to check if new point is inside an existing hull\n    + Modify function to change hull to accommodate point", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1476807623.000007"
+        }, 
+        {
+            "text": "here are some questions for thought\u2026.\n- Is CH a clustering algorithm?\n- How do you build a CH for countable infinity points?\n- What about streaming points?\n- Can you build a approximate solution?\n- What is relationship to convex optimization?", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1476807581.000006"
+        }, 
+        {
+            "text": "<!channel> friendly reminder: the algorithm club is meeting tm at 1pm in Altractraz room. The topic is Convex Hull.", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1476807536.000004", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1476807574.000000"
+            }
+        }, 
+        {
+            "text": "<@U1VA3K9TJ|waleo> has joined the channel", 
+            "type": "message", 
+            "user": "U1VA3K9TJ", 
+            "ts": "1476482090.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "gran", 
+                    "users": [
+                        "U1XU9SHRS", 
+                        "U21L97GGN"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "older_man::skin-tone-2", 
+                    "users": [
+                        "U1XU9SHRS"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-4", 
+                    "users": [
+                        "U21KP95RD"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/afigfigueira", 
+                    "service_name": "YouTube", 
+                    "title": "6. Convex Hull", 
+                    "video_html_height": 225, 
+                    "author_name": "Arnaldo Pedro Figueira Figueira", 
+                    "title_link": "https://www.youtube.com/watch?v=0HZaRu5IupM", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/0HZaRu5IupM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: 6. Convex Hull", 
+                    "thumb_url": "https://i.ytimg.com/vi/0HZaRu5IupM/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=0HZaRu5IupM"
+                }
+            ], 
+            "text": "3. For the visual learners: <https://www.youtube.com/watch?v=0HZaRu5IupM>", 
+            "ts": "1475104215.000021", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "text": "Awesome! Sorry I couldn\u2019t make it today. Gotta focus on the midterms.", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1475097424.000020"
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F2H8H602K/convex_hull_-_the_algorithm_design_manual.pdf|Convex Hull - The Algorithm Design Manual.pdf>", 
+            "upload": true, 
+            "ts": "1475096256.000016", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2H8H602K", 
+                "size": 312490, 
+                "title": "Convex Hull - The Algorithm Design Manual.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2H8H602K/convex_hull_-_the_algorithm_design_manual.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1475096256, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2H8H602K/download/convex_hull_-_the_algorithm_design_manual.pdf", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "Convex Hull - The Algorithm Design Manual.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2H8H602K-1883668fac", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F2H8H602K/convex_hull_-_the_algorithm_design_manual.pdf", 
+                "is_external": false, 
+                "created": 1475096256, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel> i\u2019m on vacation for the next 2 weeks. we\u2019ll meet again on Oct 19 at 1pm. The topic is *Convex Hull*. Here are the preparation materials:\n1. <http://nbviewer.jupyter.org/url/norvig.com/ipython/Convex%20Hull.ipynb>\n2. Algorithm Design Manual", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1475096251.000015", 
+            "attachments": [
+                {
+                    "title": "Notebook on nbviewer", 
+                    "text": "Check out this Jupyter notebook!", 
+                    "title_link": "http://nbviewer.jupyter.org/url/norvig.com/ipython/Convex%20Hull.ipynb", 
+                    "service_name": "nbviewer.jupyter.org", 
+                    "id": 1, 
+                    "fallback": "Notebook on nbviewer", 
+                    "service_icon": "http://nbviewer.jupyter.org/static/ico/apple-touch-icon-144-precomposed.png", 
+                    "from_url": "http://nbviewer.jupyter.org/url/norvig.com/ipython/Convex%20Hull.ipynb"
+                }
+            ]
+        }, 
+        {
+            "text": "<!channel> club time in Alacatrez", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1475093003.000014"
+        }, 
+        {
+            "text": "Here is a solution to \"Find the union of factors for a list of integers.\u201d\n```\nfrom itertools import chain, count, takewhile\n\ndef factors(n):\n    \"Find the numbers multiplied together to get the given number\"\n    return filter(lambda x: n % x == 0, \n                  takewhile(lambda y: y &lt;= n, count(1)))     \n\ndef flatmap(f, items):\n    \"Apply a function to element in a sequence, and flatten the results into a single list.\"\n    return chain.from_iterable(map(f, items))\n\ndef set_of_factors(items):\n    \"\"\"Find the union of factors for a list of integers.\n    \n    The factors for each integer in the list will be return in a single \"list\"\n    \"\"\"\n    return set(flatmap(factors, items))\n\nassert set(factors(1)) == {1}\nassert set(factors(2)) == {1, 2}\nassert set(factors(100)) == {1, 2, 4, 5, 10, 20, 25, 50, 100}\n\nassert set_of_factors([2, 3]) == {1, 2, 3}\nassert set_of_factors([2, 4, 6]) == {1, 2, 3, 4, 6}\nassert set_of_factors([9, 15, 16, 23, 76, 101]) == {1, 2, 3, 4, 5, 8, 9, 15, 16, 19, 23, 38, 76, 101}\n```", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1475078572.000013"
+        }, 
+        {
+            "text": "tomorrow morning i\u2019ll post a solution to the \u201cunion of factors\u201d problem", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1475018294.000012"
+        }, 
+        {
+            "text": "^ there is a fundamental design pattern: sort 1st then apply a simple algorithm\nfor example, binary search is very fast because it assumes a sorted array", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1475018216.000010", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1475018227.000000"
+            }
+        }, 
+        {
+            "text": "```\nfrom operator import itemgetter\nfrom itertools import groupby\n\n# Sort by the desired field first\nrows.sort(key=itemgetter('date\u2019))\n\n# Iterate in groups\nfor date, items in groupby(rows, key=itemgetter('date')): \n    print(date)\n    for i in items: \n        print(' ', i)\n```", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1475018158.000009"
+        }, 
+        {
+            "text": "<@U21LR4B08> interesting\u2026 \ni like the idea of writing a generalization solution to the problem.\nbest practices are to keep imports outside of functions otherwise they are imported everytime! which is very inefficient\nthe goal was to use `itertools`", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1475018114.000008"
+        }, 
+        {
+            "username": "jhilgart", 
+            "display_as_bot": false, 
+            "text": "<@U21LR4B08|jhilgart> uploaded a file: <https://gstudents.slack.com/files/jhilgart/F2GNFEAGG/almost.txt|Almost>", 
+            "upload": true, 
+            "ts": "1475011513.000005", 
+            "subtype": "file_share", 
+            "user": "U21LR4B08", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 2, 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2GNFEAGG", 
+                "size": 205, 
+                "title": "Almost", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2GNFEAGG/almost.txt", 
+                "ims": [], 
+                "preview": "def sorting_function(element,data):\r\n    import pandas as pd\r\n    data = pd.DataFrame(data)\r\n    data = data.groupby(element)\r\n    #data=data.unstack()\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/jhilgart/F2GNFEAGG/almost.txt/edit", 
+                "username": "", 
+                "timestamp": 1475011513, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2GNFEAGG/download/almost.txt", 
+                "user": "U21LR4B08", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "Almost.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2GNFEAGG-2e0d082afb", 
+                "permalink": "https://gstudents.slack.com/files/jhilgart/F2GNFEAGG/almost.txt", 
+                "is_external": false, 
+                "created": 1475011513, 
+                "lines": 7, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>def sorting_function(element,data):</pre></div>\n<div><pre>    import pandas as pd</pre></div>\n<div><pre>    data = pd.DataFrame(data)</pre></div>\n<div><pre>    data = data.groupby(element)</pre></div>\n<div><pre>    #data=data.unstack()</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "bumping coding challenges\u2026\npost your attempts. i\u2019ll release a solution to groupby dict value later today.", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1474996449.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 7, 
+                    "name": "+1", 
+                    "users": [
+                        "U1XU9SHRS", 
+                        "U21KUQZ4Y", 
+                        "U21UV0RFZ", 
+                        "U21RUE8QZ", 
+                        "U1XUS6MHB", 
+                        "U1Y098S5B", 
+                        "U21L97GGN"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 18836, 
+                    "title": "Technical Interview | Udacity", 
+                    "text": "Learn the skills technical interviewers expect you to know\u2014efficiency, common algorithms, manipulating popular data structures, and how to explain a solution.", 
+                    "image_width": 407, 
+                    "title_link": "https://www.udacity.com/course/technical-interview--ud513", 
+                    "image_height": 250, 
+                    "image_url": "https://s3-us-west-1.amazonaws.com/udacity-content/course/images/ud513-8f84c3c.jpg", 
+                    "service_name": "Udacity", 
+                    "id": 1, 
+                    "fallback": "Technical Interview | Udacity", 
+                    "service_icon": "https://d125fmws0bore1.cloudfront.net/assets/udacity_apple_icon-b2fe0e8bc834963f1cf490fdc55bc3170b37f05374e1e4b383af1d755d1893db.png", 
+                    "from_url": "https://www.udacity.com/course/technical-interview--ud513"
+                }
+            ], 
+            "text": "<https://www.udacity.com/course/technical-interview--ud513> This was a good course I went through during the summer for working on algorithms in python and commonly asked questions for a technical interview.", 
+            "ts": "1474653476.000003", 
+            "user": "U1Y3MBZ9V", 
+            "type": "message"
+        }, 
+        {
+            "text": "oh boy, I missed the party!", 
+            "type": "message", 
+            "user": "U1V0ATDTP", 
+            "ts": "1474647245.000002"
+        }, 
+        {
+            "text": "hey, all:  if you feel that you\u2019d like some structured instruction, try supplementing with this: <https://www.coursera.org/learn/algorithm-design-analysis#>", 
+            "type": "message", 
+            "user": "U21MA7V0A", 
+            "ts": "1474618354.000020", 
+            "attachments": [
+                {
+                    "thumb_height": 1200, 
+                    "service_icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-57x57.png", 
+                    "thumb_width": 1200, 
+                    "title": "Algorithms: Design and Analysis, Part 1 - Stanford University | Coursera", 
+                    "service_name": "Coursera", 
+                    "title_link": "https://www.coursera.org/learn/algorithm-design-analysis#", 
+                    "text": "Algorithms: Design and Analysis, Part 1 from Stanford University. Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth. This course is an introduction to algorithms for learners with at least a little programming experience. The course is rigorous but emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details. After completing this course, you will be well-positioned to ace your technical interviews and speak fluently about algorithms with other programmers and computer scientists. Specific topics include: \"Big-oh\" notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), randomized algorithms (QuickSort, contraction algorithm for min cuts), data structures (heaps, balanced search trees, hash tables, bloom filters), graph primitives (applications of BFS and DFS, connectivity, shortest paths). About the instructor: Tim Roughgarden has been a professor in the Computer Science Department at Stanford University since 2004. He has taught and published extensively on the subject of algorithms and their applications. Take free online classes from 140+ top universities and educational organizations. We partner with schools like Stanford, Yale, Princeton, and others to offer courses in dozens of topics, from computer science to teaching and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open, free education for everyone.", 
+                    "id": 1, 
+                    "fallback": "Coursera: Algorithms: Design and Analysis, Part 1 - Stanford University | Coursera", 
+                    "thumb_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/21/54dd30f05e11e59bf9d905b70dcbd9/cs161logo2.png", 
+                    "from_url": "https://www.coursera.org/learn/algorithm-design-analysis#"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U1V0ATDTP|loganzk> has joined the channel", 
+            "ts": "1474563548.000018", 
+            "subtype": "channel_join", 
+            "user": "U1V0ATDTP", 
+            "type": "message", 
+            "inviter": "U1XU9SHRS"
+        }, 
+        {
+            "text": "<@U1V0ATDTP> ^^Welcome to the :python: :parrot_parrotdad:", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1474563542.000017", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1474563621.000000"
+            }
+        }, 
+        {
+            "text": "Y\u2019all in trouble. I had too much :coffee: Here is the \"extra credit\u201d problem\n\n*Problem*: Find a set of factors for a list of integers.\n\n```assert set_of_factors([2, 3]) == {1, 2, 3}\nassert set_of_factors([2, 4, 6]) == {1, 2, 3, 4, 6}\nassert set_of_factors([9, 15, 16, 23, 76, 101]) == {1, 2, 3, 4, 5, 8, 9, 15, 16, 19, 23, 38, 76, 101}```", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1474563341.000014", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1474563394.000000"
+            }
+        }, 
+        {
+            "text": "Warmup coding challenge:\n*Problem*\nYou have a sequence of dictionaries or instances and you want to iterate over the data in groups based on the value of a particular field, such as date.\n\n```\n# Input\nrows = [\n    {'address': '5412 N CLARK', 'date': '07/01/2012'},\n    {'address': '5148 N CLARK', 'date': '07/04/2012'},\n    {'address': '5800 E 58TH', 'date': '07/02/2012'},\n    {'address': '2122 N CLARK', 'date': '07/03/2012'},\n    {'address': '5645 N RAVENSWOOD', 'date': '07/02/2012'},\n    {'address': '1060 W ADDISON', 'date': '07/02/2012'},\n    {'address': '4801 N BROADWAY', 'date': '07/01/2012'},\n    {'address': '1039 W GRANVILLE', 'date': '07/04/2012'},\n]\n\n# Output\n\"\"\"\n07/01/2012\n     {'date': '07/01/2012', 'address': '5412 N CLARK'}\n     {'date': '07/01/2012', 'address': '4801 N BROADWAY'}\n07/02/2012\n     {'date': '07/02/2012', 'address': '5800 E 58TH'}\n     {'date': '07/02/2012', 'address': '5645 N RAVENSWOOD'}\n     {'date': '07/02/2012', 'address': '1060 W ADDISON'}\n07/03/2012\n     {'date': '07/03/2012', 'address': '2122 N CLARK'}\n07/04/2012\n     {'date': '07/04/2012', 'address': '5148 N CLARK'}\n     {'date': '07/04/2012', 'address': '1039 W GRANVILLE'}\n\"\"\"\n```", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1474562390.000013"
+        }, 
+        {
+            "text": "<!channel> next week we are going to cover Itertools Recipes\n<https://docs.python.org/3/library/itertools.html#itertools-recipes>\n\nWe\u2019ll meet at 1pm on Wed in the Alcatraz room 1st Floor.\n\nfyi - i\u2019ll be on vaca from Oct 3-14 :vaporeon: \n\nCoding challenge to follow...", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1474493771.000010", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1474493834.000000"
+            }
+        }, 
+        {
+            "text": "Is that 4th floor?", 
+            "type": "message", 
+            "user": "U23UL5125", 
+            "ts": "1474488602.000009"
+        }, 
+        {
+            "text": "club time in Alcatraz room", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1474488248.000008"
+        }, 
+        {
+            "username": "jhilgart", 
+            "display_as_bot": false, 
+            "text": "<@U21LR4B08|jhilgart> uploaded a file: <https://gstudents.slack.com/files/jhilgart/F2EB1D11C/Greedy_Implementation.txt|Greedy Implementation>", 
+            "upload": true, 
+            "ts": "1474482189.000006", 
+            "subtype": "file_share", 
+            "user": "U21LR4B08", 
+            "file": {
+                "filetype": "text", 
+                "lines_more": 26, 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2EB1D11C", 
+                "size": 1346, 
+                "title": "Greedy Implementation", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2EB1D11C/Greedy_Implementation.txt", 
+                "ims": [], 
+                "preview": "#weight first in value then value of object\r\nitems={'tv':(20,200),'phone':(1,2000),'book':(5,20),'broom':(2,5),'socks':(1,1),'speakers':(10,40)}\r\n\r\n### Greedy\r\n\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/jhilgart/F2EB1D11C/Greedy_Implementation.txt/edit", 
+                "username": "", 
+                "timestamp": 1474482188, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2EB1D11C/download/Greedy_Implementation.txt", 
+                "user": "U21LR4B08", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Plain Text", 
+                "name": "Greedy_Implementation.txt", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2EB1D11C-dd84473e7e", 
+                "permalink": "https://gstudents.slack.com/files/jhilgart/F2EB1D11C/Greedy_Implementation.txt", 
+                "is_external": false, 
+                "created": 1474482188, 
+                "lines": 31, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>#weight first in value then value of object</pre></div>\n<div><pre>items={'tv':(20,200),'phone':(1,2000),'book':(5,20),'broom':(2,5),'socks':(1,1),'speakers':(10,40)}</pre></div>\n<div><pre></pre></div>\n<div><pre>### Greedy</pre></div>\n<div><pre></pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "The dynamic solution that brian posted counts 7 ways to make 11 out of 1, 2, and 5, using at least one five. I can only count 5: `5, 5, 1`, `5, 2, 2, 2`, `5, 2, 2, 1, 1`, `5, 2, 1, 1, 1, 1,`, and `5, 1, 1, 1, 1, 1, 1`. What am i doing wrong here? Order shouldn\u2019t matter, right?", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1474482068.000004", 
+            "edited": {
+                "user": "U21RUE8QZ", 
+                "ts": "1474482079.000000"
+            }
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-4", 
+                    "users": [
+                        "U21KP95RD"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 166, 
+                    "service_icon": "https://a.slack-edge.com/e8ef6/img/unfurl_icons/vimeo.png", 
+                    "thumb_width": 295, 
+                    "author_link": "https://vimeo.com/user11037564", 
+                    "service_name": "Vimeo", 
+                    "title": "Knapsack Algorithm Visualization", 
+                    "video_html_height": 275, 
+                    "author_name": "Patrick Pijnappel", 
+                    "title_link": "https://vimeo.com/43603789", 
+                    "video_html": "<iframe src=\"https://player.vimeo.com/video/43603789?autoplay=1\" width=\"400\" height=\"275\" frameborder=\"0\" title=\"Knapsack Algorithm Visualization\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://vimeo.com/", 
+                    "text": "Interactive Processing Applet (Source): <http://www.patrickpijnappel.com/other/KnapsackViz.zip>\nReleased to public domain, no rights reserved.\n\nVisualization of the dynamic programming algorithm for the 0-1 knapsack problem. Made in Processing as an interactive visualization for a data visualization course at the Delft University of Technology. Conception: Chiel Huurdeman, Dejan Veljacic and Patrick Pijnappel", 
+                    "id": 1, 
+                    "fallback": "Vimeo Video: Knapsack Algorithm Visualization", 
+                    "thumb_url": "http://i.vimeocdn.com/video/302792419_295x166.jpg", 
+                    "from_url": "https://vimeo.com/43603789"
+                }
+            ], 
+            "text": "riffing on that here is a viz for today \n<https://vimeo.com/43603789>", 
+            "ts": "1474475347.000002", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "text": "cool visualization of different types of sorting algorithms. yay for late night rabbit holes: \n\n<https://www.toptal.com/developers/sorting-algorithms/>", 
+            "type": "message", 
+            "user": "U21L97GGN", 
+            "ts": "1474447994.000007", 
+            "attachments": [
+                {
+                    "image_bytes": 81315, 
+                    "title": "Sorting Algorithm Animations", 
+                    "text": "Animation, code, analysis, and discussion of 8 sorting algorithms on 4 initial conditions.", 
+                    "image_width": 476, 
+                    "title_link": "https://www.toptal.com/developers/sorting-algorithms/", 
+                    "image_height": 250, 
+                    "image_url": "https://assets.toptal.io/assets/front/static/public/blocks/sorting_algorithms/og_image_76642a.jpg", 
+                    "service_name": "toptal.com", 
+                    "id": 1, 
+                    "fallback": "Sorting Algorithm Animations", 
+                    "service_icon": "https://www.toptal.com/favicon.ico", 
+                    "from_url": "https://www.toptal.com/developers/sorting-algorithms/"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U21KUQZ4Y", 
+                        "U23UL5125"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1474393904.000000"
+            }, 
+            "text": "i\u2019m about to re-name this channel: `Euler Fan Club`", 
+            "ts": "1474393891.000004", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "text": "<https://research.googleblog.com/2016/09/the-280-year-old-algorithm-inside.html>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1474393809.000002", 
+            "attachments": [
+                {
+                    "thumb_height": 480, 
+                    "service_icon": "https://research.googleblog.com/favicon.ico", 
+                    "thumb_width": 483, 
+                    "title": "The 280-Year-Old Algorithm Inside Google Trips", 
+                    "service_name": "Research Blog", 
+                    "title_link": "https://research.googleblog.com/2016/09/the-280-year-old-algorithm-inside.html", 
+                    "text": "Posted by Bogdan Arsintescu, Software Engineer &amp; Sreenivas Gollapudi, Kostas Kollias, Tamas Sarlos and Andrew Tomkins, Research Scientists ...", 
+                    "id": 1, 
+                    "fallback": "Research Blog: The 280-Year-Old Algorithm Inside Google Trips", 
+                    "thumb_url": "http://1.bp.blogspot.com/-5bPNsF5plzw/VnJWs-7RbrI/AAAAAAAARmA/DaZmn8YUjAk/s1600-r/logo_research_at_google_color_1x_web_512dp.png", 
+                    "from_url": "https://research.googleblog.com/2016/09/the-280-year-old-algorithm-inside.html"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U25DNM7D5|courtney> has left the channel", 
+            "type": "message", 
+            "user": "U25DNM7D5", 
+            "ts": "1474310863.000007", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F2DA8BD09/project_euler_31.ipynb|project_euler_31.ipynb>", 
+            "upload": true, 
+            "ts": "1474309065.000004", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "filetype": "binary", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2DA8BD09", 
+                "size": 7901, 
+                "title": "project_euler_31.ipynb", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2DA8BD09/project_euler_31.ipynb", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1474309038, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2DA8BD09/download/project_euler_31.ipynb", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Binary", 
+                "name": "project_euler_31.ipynb", 
+                "mimetype": "application/octet-stream", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2DA8BD09-23ba132734", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F2DA8BD09/project_euler_31.ipynb", 
+                "is_external": false, 
+                "created": 1474309038, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Here is the Dynamic Programming Solution (don\u2019t peak until you have :headbang: for a little while):", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1474308986.000002", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1474309073.000000"
+            }
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "thinking", 
+                    "users": [
+                        "U1XU9SHRS"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1474309094.000000"
+            }, 
+            "text": "here is more optimizated version\n``` sum( # Add up across all numbers of coins\n    sum( # Add up all valid combinations for the current number of coins\n        map(lambda current_coins: sum(current_coins) == valid_change, # Only keep the valid combinations\n                                      combinations_with_replacement(coins, n_coins))) # Generate all possible combinations\n    for n_coins in range(1, n_max_coins+1) # Check each number of coins sequential\n   )\n```", 
+            "ts": "1474157063.000003", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "text": "how about a little brute force :muscle: for Euler #31\n```\nfrom itertools import combinations_with_replacement\nfrom math import ceil\n\ncoins = {1, 2, 5, 10, 20, 50, 100, 200}\nvalid_change = 200\nn_max_coins = ceil(valid_change / min(coins))\n\n# Track the sum of the list of coins\nn_valid_change_combinations = 0\nfor n_coins in range(1, n_max_coins+1): # Check each total number of coins\n    n_valid_change_combinations += sum(1 for i in filter(lambda current_coins: sum(current_coins) == valid_change, \n                                                         combinations_with_replacement(coins, n_coins)))\n```", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1474154939.000002"
+        }, 
+        {
+            "text": "<@U1Y3MBZ9V|baolinliu> has joined the channel", 
+            "type": "message", 
+            "user": "U1Y3MBZ9V", 
+            "ts": "1473889938.000022", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1XUS6MHB|hema.vakade> has joined the channel", 
+            "type": "message", 
+            "user": "U1XUS6MHB", 
+            "ts": "1473889932.000021", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1XUE4UJG|a-a-ron> has joined the channel", 
+            "type": "message", 
+            "user": "U1XUE4UJG", 
+            "ts": "1473889920.000020", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1Y1GPNVB|lisa_porter> has joined the channel", 
+            "type": "message", 
+            "user": "U1Y1GPNVB", 
+            "ts": "1473889910.000019", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F2BQ9BQPQ/knapsack_dynamic.pdf|knapsack dynamic.pdf>", 
+            "upload": true, 
+            "ts": "1473889175.000017", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2BQ9BQPQ", 
+                "size": 2490895, 
+                "title": "knapsack dynamic.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2BQ9BQPQ/knapsack_dynamic.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473889174, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2BQ9BQPQ/download/knapsack_dynamic.pdf", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "knapsack dynamic.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2BQ9BQPQ-82d613d970", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F2BQ9BQPQ/knapsack_dynamic.pdf", 
+                "is_external": false, 
+                "created": 1473889174, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F2BQ98VRC/knapsack_greedy.pdf|knapsack greedy.pdf>", 
+            "upload": true, 
+            "ts": "1473889167.000016", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2BQ98VRC", 
+                "size": 608911, 
+                "title": "knapsack greedy.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2BQ98VRC/knapsack_greedy.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473889167, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2BQ98VRC/download/knapsack_greedy.pdf", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "knapsack greedy.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2BQ98VRC-22cb75adec", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F2BQ98VRC/knapsack_greedy.pdf", 
+                "is_external": false, 
+                "created": 1473889167, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "here are a couple of additional resources (they might be a better starting place):", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473889153.000015", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1473889401.000000"
+            }
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "very_metal", 
+                    "users": [
+                        "U1XU9SHRS"
+                    ]
+                }
+            ], 
+            "text": ":the_horns::skin-tone-2:", 
+            "type": "message", 
+            "user": "U21KUQZ4Y", 
+            "ts": "1473888093.000014"
+        }, 
+        {
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1473887954.000000"
+            }, 
+            "attachments": [
+                {
+                    "title": "Problem 31 - Project Euler", 
+                    "text": "A website dedicated to the fascinating world of mathematics and programming", 
+                    "title_link": "https://projecteuler.net/problem=31", 
+                    "service_name": "projecteuler.net", 
+                    "id": 1, 
+                    "fallback": "Problem 31 - Project Euler", 
+                    "service_icon": "https://projecteuler.net/favicon.ico", 
+                    "from_url": "https://projecteuler.net/problem=31"
+                }
+            ], 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "moneybag", 
+                    "users": [
+                        "U21RUE8QZ"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "flag-gb", 
+                    "users": [
+                        "U1XU9SHRS"
+                    ]
+                }
+            ], 
+            "text": "here is this week's coding challenge to warmup on:\n<https://projecteuler.net/problem=31>\n\n&gt; In England the currency is made up of pound, \u00a3, and pence, p, and there are eight coins in general circulation:\n\n&gt; 1p, 2p, 5p, 10p, 20p, 50p, \u00a31 (100p) and \u00a32 (200p).\n&gt; It is possible to make \u00a32 in the following way:\n\n&gt; 1\u00d7\u00a31 + 1\u00d750p + 2\u00d720p + 1\u00d75p + 1\u00d72p + 3\u00d71p\n&gt; How many different ways can \u00a32 be made using any number of coins?", 
+            "ts": "1473887906.000011", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "text": "Thanks <@U1XU9SHRS>! Looking forward to next week!", 
+            "type": "message", 
+            "user": "U21KUQZ4Y", 
+            "ts": "1473887696.000010"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "ice_cream", 
+                    "users": [
+                        "U1XU9SHRS"
+                    ]
+                }
+            ], 
+            "text": "Sorry I missed today team. Had to teach in Palo Alto. Next week I'm there!", 
+            "type": "message", 
+            "user": "U23UL5125", 
+            "ts": "1473887108.000009"
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F2BPSJCG4/knapsack_problem.pdf|Knapsack Problem.pdf>", 
+            "upload": true, 
+            "ts": "1473887057.000008", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2BPSJCG4", 
+                "size": 279310, 
+                "title": "Knapsack Problem.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2BPSJCG4/knapsack_problem.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473887057, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2BPSJCG4/download/knapsack_problem.pdf", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "Knapsack Problem.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2BPSJCG4-570d74c9a5", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F2BPSJCG4/knapsack_problem.pdf", 
+                "is_external": false, 
+                "created": 1473887057, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<!channel> We just wrapped up another meeting. We'll continue to meet on Wed at 1pm in Alcatraz room. \n\nJust to set expectations, the more the merrier :dancing_penguin: please come if you can make it! it is okay if you haven't done the \"required reading\" or if you just want to sit on your laptop the entire time.\n\nNext week we are covering the Knapsack problem :package:  :package:  :package: -&gt; :school_satchel: Here is the chapter on it:", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473886974.000005", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1473887051.000000"
+            }
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F2BPGBKEU/lu_parrallelize.pdf|lu parrallelize.pdf>", 
+            "upload": true, 
+            "ts": "1473885196.000004", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2BPGBKEU", 
+                "size": 563267, 
+                "title": "lu parrallelize.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2BPGBKEU/lu_parrallelize.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473885195, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2BPGBKEU/download/lu_parrallelize.pdf", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "lu parrallelize.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2BPGBKEU-7899c800d4", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F2BPGBKEU/lu_parrallelize.pdf", 
+                "is_external": false, 
+                "created": 1473885195, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "How you would parralelize LU decomposition:", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473885189.000003"
+        }, 
+        {
+            "text": "<!channel> we are meeting now in Alcatraz room on 1st floor :ghost:", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473883777.000002"
+        }, 
+        {
+            "text": "<@U1Y098S5B|alessandro> has joined the channel", 
+            "type": "message", 
+            "user": "U1Y098S5B", 
+            "ts": "1473716245.000009", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U21KE7J64|carles.poles> has joined the channel", 
+            "type": "message", 
+            "user": "U21KE7J64", 
+            "ts": "1473706595.000008", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2281LNSD|dgorham> has joined the channel", 
+            "type": "message", 
+            "user": "U2281LNSD", 
+            "ts": "1473706573.000007", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "And in Py3.6 dict keywords are ordered by default:\n&gt; A nice \"side effect\" of compact dict is that the dictionary now preserves the insertion order. \n<https://mail.python.org/pipermail/python-dev/2016-September/146327.html>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473704062.000004", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1473704111.000000"
+            }
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F2AMZFRM3/data_dedupe_challenge.ipynb|data_dedupe_challenge.ipynb>", 
+            "upload": true, 
+            "ts": "1473694682.000003", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "filetype": "binary", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2AMZFRM3", 
+                "size": 4427, 
+                "title": "data_dedupe_challenge.ipynb", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2AMZFRM3/data_dedupe_challenge.ipynb", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473694681, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2AMZFRM3/download/data_dedupe_challenge.ipynb", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Binary", 
+                "name": "data_dedupe_challenge.ipynb", 
+                "mimetype": "application/octet-stream", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2AMZFRM3-7ec46962e5", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F2AMZFRM3/data_dedupe_challenge.ipynb", 
+                "is_external": false, 
+                "created": 1473694681, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "ninja", 
+                    "users": [
+                        "U21RUE8QZ"
+                    ]
+                }
+            ], 
+            "text": "Here is my solution:\n```from collections import OrderedDict\ndata_deduped = list(OrderedDict.fromkeys(data_raw))\n```\n\nHere is my \u201cwork\u201d:", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473694674.000002"
+        }, 
+        {
+            "text": "This is an awesome video that really helped me understand dicts and sets and why hash table lookups are so fast. <https://www.youtube.com/watch?v=C4Kc8xzcA68>", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473628098.000016", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/channel/UCEfdd8b-LbzJ7R4Pum3FOTQ", 
+                    "service_name": "YouTube", 
+                    "title": "PyCon 2010: The Mighty Dictionary", 
+                    "video_html_height": 300, 
+                    "author_name": "Eugene Yarmash", 
+                    "title_link": "https://www.youtube.com/watch?v=C4Kc8xzcA68", 
+                    "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/C4Kc8xzcA68?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: PyCon 2010: The Mighty Dictionary", 
+                    "thumb_url": "https://i.ytimg.com/vi/C4Kc8xzcA68/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=C4Kc8xzcA68"
+                }
+            ]
+        }, 
+        {
+            "text": "So, the time complexity is *_O(n^2)_*. Think about a _10_ element list. The total number of operations required to run the list-based algorithm is _45_: _0_ for the first element, _1_ for the second element, and so on, ie. _0 + 1 + 2 + \u2026 + 9_. This means that for a list of size _n_, the number of operations is equal to the sum of the natural numbers _0, 1, \u2026, n-1_, which can be expressed as _(n(n-1))/2_. Since only the highest order term is considered when thinking about time complexity, _O((n^2 - n)/2) = *O(n^2)*_.", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473627644.000013", 
+            "edited": {
+                "user": "U21RUE8QZ", 
+                "ts": "1473629371.000000"
+            }
+        }, 
+        {
+            "text": "Your solution looks like its O(n^2), though. Think about the worst case, when every item in the list is unique. The algorithm goes through each element of `data_raw` once, and for each element, runs through every element of `data_deduped`. Each increase `n+=1` requires at least n-1 more operations to be executed.", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473623905.000010", 
+            "edited": {
+                "user": "U21RUE8QZ", 
+                "ts": "1473624263.000000"
+            }
+        }, 
+        {
+            "text": "Any algorithm for this task has to look at every element of the list at least once, so the time-complexity is at best linear, ie. \ud835\udec0(n).", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473623534.000009"
+        }, 
+        {
+            "text": "this is the best i could do without using any outside libraries. but i dont think it\u2019s O(1)\n\ndata_raw = \"Brian Brian Alex Lambda Lambda Lambda Brian\".split()\ndata_deduped = []\n_ = [data_deduped.append(item) for item in data_raw if not(item in data_deduped)]\nprint(data_deduped)\nassert data_deduped == ['Brian', 'Alex', 'Lambda']", 
+            "type": "message", 
+            "user": "U21KL4T8C", 
+            "ts": "1473623092.000008"
+        }, 
+        {
+            "text": "does that preserve order?", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473612379.000007"
+        }, 
+        {
+            "text": "one liner", 
+            "type": "message", 
+            "user": "U21LR4B08", 
+            "ts": "1473611423.000003"
+        }, 
+        {
+            "text": "data_d = list(set(new))", 
+            "type": "message", 
+            "user": "U21LR4B08", 
+            "ts": "1473611421.000002"
+        }, 
+        {
+            "comment": {
+                "comment": "of course there is a trade-off, since the set in the hash-table version takes up some space", 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1", 
+                        "users": [
+                            "U21LR4B08"
+                        ]
+                    }
+                ], 
+                "created": 1473556463, 
+                "timestamp": 1473556463, 
+                "is_intro": false, 
+                "user": "U21RUE8QZ", 
+                "id": "Fc2AA3LHC3"
+            }, 
+            "text": "<@U21RUE8QZ|chip> commented on <@U21RUE8QZ|chip>\u2019s file <https://gstudents.slack.com/files/chip/F2ABH8SGG/Untitled.py|Untitled>: of course there is a trade-off, since the set in the hash-table version takes up some space", 
+            "ts": "1473556463.000013", 
+            "subtype": "file_comment", 
+            "is_intro": false, 
+            "file": {
+                "initial_comment": {
+                    "comment": "check out these two versions. the hash table lookup averages about 3ms for n=10000, while the list lookup averages around 450ms", 
+                    "created": 1473555614, 
+                    "timestamp": 1473555614, 
+                    "is_intro": true, 
+                    "user": "U21RUE8QZ", 
+                    "id": "Fc2ABE8E4U"
+                }, 
+                "filetype": "python", 
+                "lines_more": 37, 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2ABH8SGG", 
+                "size": 863, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2ABH8SGG/Untitled.py", 
+                "ims": [], 
+                "preview": "# compare the list version with the list and hash table version\r\n\r\nimport numpy as np\r\n\r\ndef dedup_list(data):\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/chip/F2ABH8SGG/Untitled.py/edit", 
+                "username": "", 
+                "timestamp": 1473555614, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": null, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2ABH8SGG/download/Untitled.py", 
+                "user": "U21RUE8QZ", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Python", 
+                "name": "Untitled.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2ABH8SGG-74d8c1eb8c", 
+                "permalink": "https://gstudents.slack.com/files/chip/F2ABH8SGG/Untitled.py", 
+                "is_external": false, 
+                "created": 1473555614, 
+                "lines": 42, 
+                "comments_count": 2, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\"># compare the list version with the list and hash table version</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">numpy</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">np</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-keyword\">def</span> <span class=\"cm-def\">dedup_list</span>(<span class=\"cm-variable\">data</span>):</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message"
+        }, 
+        {
+            "username": "chip", 
+            "display_as_bot": false, 
+            "text": "<@U21RUE8QZ|chip> uploaded a file: <https://gstudents.slack.com/files/chip/F2ABH8SGG/Untitled.py|Untitled> and commented: check out these two versions. the hash table lookup averages about 3ms for n=10000, while the list lookup averages around 450ms", 
+            "upload": true, 
+            "ts": "1473555614.000006", 
+            "subtype": "file_share", 
+            "user": "U21RUE8QZ", 
+            "file": {
+                "initial_comment": {
+                    "comment": "check out these two versions. the hash table lookup averages about 3ms for n=10000, while the list lookup averages around 450ms", 
+                    "created": 1473555614, 
+                    "timestamp": 1473555614, 
+                    "is_intro": true, 
+                    "user": "U21RUE8QZ", 
+                    "id": "Fc2ABE8E4U"
+                }, 
+                "filetype": "python", 
+                "lines_more": 37, 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F2ABH8SGG", 
+                "size": 863, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F2ABH8SGG/Untitled.py", 
+                "ims": [], 
+                "preview": "# compare the list version with the list and hash table version\r\n\r\nimport numpy as np\r\n\r\ndef dedup_list(data):\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/chip/F2ABH8SGG/Untitled.py/edit", 
+                "username": "", 
+                "timestamp": 1473555614, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": null, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F2ABH8SGG/download/Untitled.py", 
+                "user": "U21RUE8QZ", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Python", 
+                "name": "Untitled.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F2ABH8SGG-74d8c1eb8c", 
+                "permalink": "https://gstudents.slack.com/files/chip/F2ABH8SGG/Untitled.py", 
+                "is_external": false, 
+                "created": 1473555614, 
+                "lines": 42, 
+                "comments_count": 2, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\"># compare the list version with the list and hash table version</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">numpy</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">np</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-keyword\">def</span> <span class=\"cm-def\">dedup_list</span>(<span class=\"cm-variable\">data</span>):</pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "I wonder if there\u2019s a faster way to do the lookup in the `if` statement. In the worst case, ie. all the items are unique, `data_deduped` gets long pretty fast, and each iteration in the for loop has to search over all the items in `data_deduped`. Using a hash map like a dict or a set for the lookup would be faster for larger n.", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473554016.000005", 
+            "edited": {
+                "user": "U21RUE8QZ", 
+                "ts": "1473557884.000000"
+            }
+        }, 
+        {
+            "text": "<@U21LR4B08> that seems like it works", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473553764.000004"
+        }, 
+        {
+            "text": "data_deduped  = []\n\nfor item in data_raw:\n    if item not in data_deduped:\n        data_deduped.append(item)", 
+            "type": "message", 
+            "user": "U21LR4B08", 
+            "ts": "1473553224.000003"
+        }, 
+        {
+            "text": "still working on the one liner, but here is the basic code (I think)", 
+            "type": "message", 
+            "user": "U21LR4B08", 
+            "ts": "1473553222.000002"
+        }, 
+        {
+            "text": "fine - i\u2019ll post my answer on Monday. it is :metal:", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473462050.000012"
+        }, 
+        {
+            "text": "take home test, rather. not final", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473460952.000011"
+        }, 
+        {
+            "text": "take home final today and tomorrow. I probably won\u2019t have time to get to this until sunday :disappointed:", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473460933.000010"
+        }, 
+        {
+            "text": "<!here|@here> any contenders for the challenge?", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473460455.000009"
+        }, 
+        {
+            "text": "here is a redundant data challenge:\nEfficiently remove duplicates and keep order (i.e., if an item appears later only keep 1st occurance). \n\n```data_raw = \"Brian Brian Alex Lambda Lambda Lambda Brian\".split()\nassert data_deduped == ['Brian', 'Alex', 'Lambda']```\n\nHint: It can be done in a one-liner.\ni\u2019ll post a solution EOD", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473437058.000004", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1473437415.000000"
+            }
+        }, 
+        {
+            "text": ":thumbsup: we are going to learn all about Dynamic Programming and indexing in NLP.", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473437014.000003", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1473438168.000000"
+            }
+        }, 
+        {
+            "text": "most real datasets have redundant data (and hence calculations), using caching patterns and algorithms on heavily redundant data can take you to O(1) over the entire set - why solve the same problem twice, or 100 times. \n\nMy project is going to involve bid data so I am interested in caching, hashing, sorting, indexing and statistics (relational db style) algorithms due to their wide use across multiple problems.", 
+            "type": "message", 
+            "user": "U21KL4T8C", 
+            "ts": "1473435301.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U23UL5125"
+                    ]
+                }
+            ], 
+            "text": "An answer from one of the authors of CLRS <https://www.quora.com/How-can-I-be-a-guru-in-algorithms/answer/Thomas-Cormen-1?ref=fb_page>", 
+            "type": "message", 
+            "user": "U21KP95RD", 
+            "ts": "1473399133.000034"
+        }, 
+        {
+            "text": "careful with values of n on the brute force one. n=500 takes a few seconds for even one trial", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473374182.000032"
+        }, 
+        {
+            "comment": {
+                "comment": "For your edification, here\u2019s the module I wrote for max subarray. There\u2019s also a brute force function and a test function for which you can input different values of n. Try it out in ipython with `%timeit` to see how much longer brute force takes.", 
+                "created": 1473374130, 
+                "timestamp": 1473374130, 
+                "is_intro": false, 
+                "user": "U21RUE8QZ", 
+                "id": "Fc29PZF38S"
+            }, 
+            "text": "<@U21RUE8QZ|chip> commented on <@U21RUE8QZ|chip>\u2019s file <https://gstudents.slack.com/files/chip/F29PSUY73/maximum_subarray.py|maximum subarray>: For your edification, here\u2019s the module I wrote for max subarray. There\u2019s also a brute force function and a test function for which you can input different values of n. Try it out in ipython with `%timeit` to see how much longer brute force takes.", 
+            "ts": "1473374130.000029", 
+            "subtype": "file_comment", 
+            "is_intro": false, 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1::skin-tone-4", 
+                        "users": [
+                            "U21KP95RD"
+                        ]
+                    }
+                ], 
+                "filetype": "python", 
+                "lines_more": 61, 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F29PSUY73", 
+                "size": 2330, 
+                "title": "maximum subarray", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F29PSUY73/maximum_subarray.py", 
+                "ims": [], 
+                "preview": "# For your edification, here\u2019s the module I wrote for max subarray. There\u2019s also a brute force function and a test function for which you can input different values of n. Try it out in ipython with `%timeit` to see how much longer brute force takes. \r\n\r\n'''Algorithms for finding the maximum subarray of a given 1-D array'''\r\n\r\nimport numpy as np\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/chip/F29PSUY73/maximum_subarray.py/edit", 
+                "username": "", 
+                "timestamp": 1473374102, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": null, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F29PSUY73/download/maximum_subarray.py", 
+                "user": "U21RUE8QZ", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Python", 
+                "name": "maximum_subarray.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F29PSUY73-04861612e7", 
+                "permalink": "https://gstudents.slack.com/files/chip/F29PSUY73/maximum_subarray.py", 
+                "is_external": false, 
+                "created": 1473374102, 
+                "lines": 66, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\"># For your edification, here\u2019s the module I wrote for max subarray. There\u2019s also a brute force function and a test function for which you can input different values of n. Try it out in ipython with `%timeit` to see how much longer brute force takes. </span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-string\">'''Algorithms for finding the maximum subarray of a given 1-D array'''</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">numpy</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">np</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message"
+        }, 
+        {
+            "username": "chip", 
+            "display_as_bot": false, 
+            "text": "<@U21RUE8QZ|chip> uploaded a file: <https://gstudents.slack.com/files/chip/F29PSUY73/maximum_subarray.py|maximum subarray>", 
+            "upload": true, 
+            "ts": "1473374102.000028", 
+            "subtype": "file_share", 
+            "user": "U21RUE8QZ", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1::skin-tone-4", 
+                        "users": [
+                            "U21KP95RD"
+                        ]
+                    }
+                ], 
+                "filetype": "python", 
+                "lines_more": 61, 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F29PSUY73", 
+                "size": 2330, 
+                "title": "maximum subarray", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F29PSUY73/maximum_subarray.py", 
+                "ims": [], 
+                "preview": "# For your edification, here\u2019s the module I wrote for max subarray. There\u2019s also a brute force function and a test function for which you can input different values of n. Try it out in ipython with `%timeit` to see how much longer brute force takes. \r\n\r\n'''Algorithms for finding the maximum subarray of a given 1-D array'''\r\n\r\nimport numpy as np\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/chip/F29PSUY73/maximum_subarray.py/edit", 
+                "username": "", 
+                "timestamp": 1473374102, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": null, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F29PSUY73/download/maximum_subarray.py", 
+                "user": "U21RUE8QZ", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Python", 
+                "name": "maximum_subarray.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F29PSUY73-04861612e7", 
+                "permalink": "https://gstudents.slack.com/files/chip/F29PSUY73/maximum_subarray.py", 
+                "is_external": false, 
+                "created": 1473374102, 
+                "lines": 66, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\"># For your edification, here\u2019s the module I wrote for max subarray. There\u2019s also a brute force function and a test function for which you can input different values of n. Try it out in ipython with `%timeit` to see how much longer brute force takes. </span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-string\">'''Algorithms for finding the maximum subarray of a given 1-D array'''</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">numpy</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">np</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U1XU9SHRS> Awesome! Lots of stuff to work through this weekend.", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473373956.000027"
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F29P1CKT2/solving_linear_equations.pdf|Solving Linear Equations.pdf>", 
+            "upload": true, 
+            "ts": "1473371250.000026", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F29P1CKT2", 
+                "size": 215995, 
+                "title": "Solving Linear Equations.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F29P1CKT2/solving_linear_equations.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473371249, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F29P1CKT2/download/solving_linear_equations.pdf", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "Solving Linear Equations.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F29P1CKT2-e17c46cd3c", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F29P1CKT2/solving_linear_equations.pdf", 
+                "is_external": false, 
+                "created": 1473371249, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "here are the pages for people who don\u2019t like to scroll or know how to bookmark", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473371245.000025"
+        }, 
+        {
+            "text": "we are covering \"13.1 Solving Linear Equations\u201d p395  of Algorithm Design Manual", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473370803.000024"
+        }, 
+        {
+            "item": {
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1", 
+                        "users": [
+                            "U21RUE8QZ"
+                        ]
+                    }
+                ], 
+                "filetype": "pdf", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F29M1E7V1", 
+                "size": 6317438, 
+                "title": "The Algorithm Design Manual.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F29M1E7V1/the_algorithm_design_manual.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473368191, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F29M1E7V1/download/the_algorithm_design_manual.pdf", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "The Algorithm Design Manual.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F29M1E7V1-abfe05bad4", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F29M1E7V1/the_algorithm_design_manual.pdf", 
+                "is_external": false, 
+                "created": 1473368191, 
+                "pinned_to": [
+                    "C26KL7155"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "text": "<@U1XU9SHRS|brian_spiering> pinned their PDF <https://gstudents.slack.com/files/brian_spiering/F29M1E7V1/the_algorithm_design_manual.pdf|The Algorithm Design Manual.pdf> to this channel.", 
+            "ts": "1473370740.000023", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "text": "what should we go over for next week?", 
+            "type": "message", 
+            "user": "U21LR4B08", 
+            "ts": "1473370629.000022"
+        }, 
+        {
+            "text": "I reserved Alcatraz room for next Wed at 1pm", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473369627.000020"
+        }, 
+        {
+            "text": "<https://github.com/brianspiering/coding-challenges/blob/master/reverse_strings.ipynb>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473369206.000018", 
+            "attachments": [
+                {
+                    "thumb_height": 400, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 400, 
+                    "title": "brianspiering/coding-challenges", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/brianspiering/coding-challenges/blob/master/reverse_strings.ipynb", 
+                    "text": "coding-challenges - My solutions to coding challenges", 
+                    "id": 1, 
+                    "fallback": "GitHub: brianspiering/coding-challenges", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/2684501?v=3&s=400", 
+                    "from_url": "https://github.com/brianspiering/coding-challenges/blob/master/reverse_strings.ipynb"
+                }
+            ]
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F29M1E7V1/the_algorithm_design_manual.pdf|The Algorithm Design Manual.pdf>", 
+            "upload": true, 
+            "ts": "1473368192.000017", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1", 
+                        "users": [
+                            "U21RUE8QZ"
+                        ]
+                    }
+                ], 
+                "filetype": "pdf", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F29M1E7V1", 
+                "size": 6317438, 
+                "title": "The Algorithm Design Manual.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F29M1E7V1/the_algorithm_design_manual.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473368191, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F29M1E7V1/download/the_algorithm_design_manual.pdf", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "The Algorithm Design Manual.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F29M1E7V1-abfe05bad4", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F29M1E7V1/the_algorithm_design_manual.pdf", 
+                "is_external": false, 
+                "created": 1473368191, 
+                "pinned_to": [
+                    "C26KL7155"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U227XGTCP|aubrey> has joined the channel", 
+            "type": "message", 
+            "user": "U227XGTCP", 
+            "ts": "1473367945.000016", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F29NQ4U7K/screen_shot_2016-09-08_at_1.50.08_pm.png|Screen Shot 2016-09-08 at 1.50.08 PM.png>", 
+            "upload": true, 
+            "ts": "1473367840.000015", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "groups": [], 
+                "filetype": "png", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F29NQ4U7K-f0f6d114ca/screen_shot_2016-09-08_at_1.50.08_pm_64.png", 
+                "size": 33510, 
+                "original_h": 264, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2016-09-08 at 1.50.08 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F29NQ4U7K/screen_shot_2016-09-08_at_1.50.08_pm.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F29NQ4U7K-f0f6d114ca/screen_shot_2016-09-08_at_1.50.08_pm_360.png", 
+                "id": "F29NQ4U7K", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F29NQ4U7K-f0f6d114ca/screen_shot_2016-09-08_at_1.50.08_pm_80.png", 
+                "thumb_360_h": 236, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473367838, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F29NQ4U7K-f0f6d114ca/screen_shot_2016-09-08_at_1.50.08_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F29NQ4U7K/download/screen_shot_2016-09-08_at_1.50.08_pm.png", 
+                "user": "U1XU9SHRS", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2016-09-08 at 1.50.08 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F29NQ4U7K-accbc6da67", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F29NQ4U7K/screen_shot_2016-09-08_at_1.50.08_pm.png", 
+                "is_external": false, 
+                "created": 1473367838, 
+                "original_w": 402, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "here is my time complexity cheatsheet:", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473367834.000014"
+        }, 
+        {
+            "text": "<http://pythontutor.com/visualize.html#code=def%20find_max_crossing_subarray(A,%20low,%20mid,%20high%29%3A%0A%20%20%20%20left_sum%20%3D%20-1e10%0A%20%20%20%20sum%20%3D%200%0A%20%20%20%20for%20i%20in%20range(mid,%20low-1,%20-1%29%3A%0A%20%20%20%20%20%20%20%20sum%20%2B%3D%20A%5Bi%5D%0A%20%20%20%20%20%20%20%20if%20sum%20%3E%20left_sum%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20left_sum%20%3D%20sum%0A%20%20%20%20%20%20%20%20%20%20%20%20max_left%20%3D%20i%0A%20%20%20%20right_sum%20%3D%20-1e10%0A%20%20%20%20sum%20%3D%200%0A%20%20%20%20for%20j%20in%20range(mid%2B1,%20high%2B1%29%3A%0A%20%20%20%20%20%20%20%20sum%20%2B%3D%20A%5Bj%5D%0A%20%20%20%20%20%20%20%20if%20sum%20%3E%20right_sum%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20right_sum%20%3D%20sum%0A%20%20%20%20%20%20%20%20%20%20%20%20max_right%20%3D%20j%0A%20%20%20%20return%20(max_left,%20max_right,%20left_sum%20%2B%20right_sum%29%0A%20%20%20%20%0Adef%20find_maximum_subarray(A,%20low,%20high%29%3A%0A%20%20%20%20if%20high%20%3D%3D%20low%3A%0A%20%20%20%20%20%20%20%20return%20(low,%20high,%20A%5Blow%5D%29%0A%20%20%20%20else%3A%0A%20%20%20%20%20%20%20%20mid%20%3D%20(low%20%2B%20high%29//2%0A%20%20%20%20%20%20%20%20left_low,%20left_high,%20left_sum%20%3D%20find_maximum_subarray(A,%20low,%20mid%29%0A%20%20%20%20%20%20%20%20right_low,%20right_high,%20right_sum%20%3D%20find_maximum_subarray(A,%20mid%2B1,%20high%29%0A%20%20%20%20%20%20%20%20cross_low,%20cross_high,%20cross_sum%20%3D%20find_max_crossing_subarray(A,%20low,%20mid,%20high%29%0A%20%20%20%20%20%20%20%20if%20left_sum%20%3E%3D%20right_sum%20and%20left_sum%20%3E%3D%20cross_sum%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20(left_low,%20left_high,%20left_sum%29%0A%20%20%20%20%20%20%20%20elif%20right_sum%20%3E%3D%20left_sum%20and%20right_sum%20%3E%3D%20cross_sum%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20(right_low,%20right_high,%20right_sum%29%0A%20%20%20%20%20%20%20%20else%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20return%20(cross_low,%20cross_high,%20cross_sum%29%0A%0AA%20%3D%20%5B-32,%204,%20-3,%2020,%20-6,%2048,%20-65,%2034,%205%5D%0A%0Afind_maximum_subarray(A,%200,%20len(A%29-1%29&amp;cumulative=false&amp;curInstr=316&amp;heapPrimitives=false&amp;mode=display&amp;origin=opt-frontend.js&amp;py=3&amp;rawInputLstJSON=%5B%5D&amp;textReferences=false>", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473367719.000013"
+        }, 
+        {
+            "username": "chip", 
+            "display_as_bot": false, 
+            "text": "<@U21RUE8QZ|chip> uploaded a file: <https://gstudents.slack.com/files/chip/F29NC3X0E/-.py|Untitled>", 
+            "upload": true, 
+            "ts": "1473367617.000012", 
+            "subtype": "file_share", 
+            "user": "U21RUE8QZ", 
+            "file": {
+                "filetype": "python", 
+                "lines_more": 9, 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F29NC3X0E", 
+                "size": 689, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F29NC3X0E/-.py", 
+                "ims": [], 
+                "preview": "def find_maximum_subarray(A, low, high):\r\n    if high == low:\r\n        return (low, high, A[low])\r\n    else:\r\n        mid = (low + high)//2\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/chip/F29NC3X0E/-.py/edit", 
+                "username": "", 
+                "timestamp": 1473367616, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": null, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F29NC3X0E/download/-.py", 
+                "user": "U21RUE8QZ", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Python", 
+                "name": "-.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F29NC3X0E-de2a505e66", 
+                "permalink": "https://gstudents.slack.com/files/chip/F29NC3X0E/-.py", 
+                "is_external": false, 
+                "created": 1473367616, 
+                "lines": 14, 
+                "comments_count": 0, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">def</span> <span class=\"cm-def\">find_maximum_subarray</span>(<span class=\"cm-variable\">A</span>, <span class=\"cm-variable\">low</span>, <span class=\"cm-variable\">high</span>):</pre></div>\n<div><pre>    <span class=\"cm-keyword\">if</span> <span class=\"cm-variable\">high</span> == <span class=\"cm-variable\">low</span>:</pre></div>\n<div><pre>        <span class=\"cm-keyword\">return</span> (<span class=\"cm-variable\">low</span>, <span class=\"cm-variable\">high</span>, <span class=\"cm-variable\">A</span>[<span class=\"cm-variable\">low</span>])</pre></div>\n<div><pre>    <span class=\"cm-keyword\">else</span>:</pre></div>\n<div><pre>        <span class=\"cm-variable\">mid</span> = (<span class=\"cm-variable\">low</span> <span class=\"cm-operator\">+</span> <span class=\"cm-variable\">high</span>)<span class=\"cm-operator\">//</span><span class=\"cm-number\">2</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "facepunch", 
+                    "users": [
+                        "U23UL5125"
+                    ]
+                }
+            ], 
+            "text": "On time complexities: <http://bigocheatsheet.com/>", 
+            "type": "message", 
+            "user": "U21KP95RD", 
+            "ts": "1473367518.000011"
+        }, 
+        {
+            "text": "<https://en.wikipedia.org/wiki/Maximum_subarray_problem>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473367176.000010"
+        }, 
+        {
+            "text": "<http://pythontutor.com/visualize.html#code=def%20find_max_crossing_subarray(A,%20low,%20mid,%20high%29%3A%0A%20%20%20%20left_sum%20%3D%20-1e10%0A%20%20%20%20sum%20%3D%200%0A%20%20%20%20for%20i%20in%20range(mid,%20low-1,%20-1%29%3A%0A%20%20%20%20%20%20%20%20sum%20%2B%3D%20A%5Bi%5D%0A%20%20%20%20%20%20%20%20if%20sum%20%3E%20left_sum%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20left_sum%20%3D%20sum%0A%20%20%20%20%20%20%20%20%20%20%20%20max_left%20%3D%20i%0A%20%20%20%20right_sum%20%3D%20-1e10%0A%20%20%20%20sum%20%3D%200%0A%20%20%20%20for%20j%20in%20range(mid%2B1,%20high%2B1%29%3A%0A%20%20%20%20%20%20%20%20sum%20%2B%3D%20A%5Bj%5D%0A%20%20%20%20%20%20%20%20if%20sum%20%3E%20right_sum%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20right_sum%20%3D%20sum%0A%20%20%20%20%20%20%20%20%20%20%20%20max_right%20%3D%20j%0A%20%20%20%20return%20(max_left,%20max_right,%20left_sum%20%2B%20right_sum%29%0A%0AA%20%3D%20%5B-32,%204,%20-3,%2020,%20-6,%2048,%20-65,%2034,%205%5D%0A%0Afind_max_crossing_subarray(A,%200,%20len(A%29//2,%20len(A%29-1%29&amp;cumulative=false&amp;curInstr=46&amp;heapPrimitives=false&amp;mode=display&amp;origin=opt-frontend.js&amp;py=3&amp;rawInputLstJSON=%5B%5D&amp;textReferences=false>", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473366920.000009"
+        }, 
+        {
+            "text": "`%timeit` for actual runtime calculations in Jupyter Notebook <http://ipython.readthedocs.io/en/stable/interactive/magics.html?highlight=timeit#magic-timeit>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473365477.000006", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1473365517.000000"
+            }
+        }, 
+        {
+            "text": "The instructors manual : <http://web.karabuk.edu.tr/hakankutucu/CME222/Introduction%20To%20Algorithms%202nd%20Edition%20Solutions%20(Instructors[1].Manual).pdf>", 
+            "type": "message", 
+            "user": "U21KP95RD", 
+            "ts": "1473365443.000005"
+        }, 
+        {
+            "text": "Visualize your code (esp. recursion) <http://pythontutor.com|pythontutor.com>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473365142.000003", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1473365164.000000"
+            }
+        }, 
+        {
+            "text": "<!channel> let\u2019s meet in Marina on the 4th floor :dancing_penguin:", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473364849.000002"
+        }, 
+        {
+            "text": "<@U21KFTQ1J|tshields44> has left the channel", 
+            "type": "message", 
+            "user": "U21KFTQ1J", 
+            "ts": "1473301077.000010", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U21KWCE7L|bahman> has joined the channel", 
+            "type": "message", 
+            "user": "U21KWCE7L", 
+            "ts": "1473285345.000009", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "item": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F298S7SS2", 
+                "size": 5076764, 
+                "title": "Introduction to Algorithms CLRS.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F298S7SS2/introduction_to_algorithms_clrs.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473280640, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F298S7SS2/download/introduction_to_algorithms_clrs.pdf", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "Introduction to Algorithms CLRS.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F298S7SS2-2600ed076d", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F298S7SS2/introduction_to_algorithms_clrs.pdf", 
+                "is_external": false, 
+                "created": 1473280640, 
+                "pinned_to": [
+                    "C26KL7155"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "text": "<@U1XU9SHRS|brian_spiering> pinned their PDF <https://gstudents.slack.com/files/brian_spiering/F298S7SS2/introduction_to_algorithms_clrs.pdf|Introduction to Algorithms CLRS.pdf> to this channel.", 
+            "ts": "1473280647.000007", 
+            "subtype": "pinned_item", 
+            "item_type": "F", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "username": "brian_spiering", 
+            "display_as_bot": false, 
+            "text": "<@U1XU9SHRS|brian_spiering> uploaded a file: <https://gstudents.slack.com/files/brian_spiering/F298S7SS2/introduction_to_algorithms_clrs.pdf|Introduction to Algorithms CLRS.pdf>", 
+            "upload": true, 
+            "ts": "1473280641.000006", 
+            "subtype": "file_share", 
+            "user": "U1XU9SHRS", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F298S7SS2", 
+                "size": 5076764, 
+                "title": "Introduction to Algorithms CLRS.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F298S7SS2/introduction_to_algorithms_clrs.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1473280640, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F298S7SS2/download/introduction_to_algorithms_clrs.pdf", 
+                "user": "U1XU9SHRS", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "Introduction to Algorithms CLRS.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F298S7SS2-2600ed076d", 
+                "permalink": "https://gstudents.slack.com/files/brian_spiering/F298S7SS2/introduction_to_algorithms_clrs.pdf", 
+                "is_external": false, 
+                "created": 1473280640, 
+                "pinned_to": [
+                    "C26KL7155"
+                ], 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "So I think maximum subarray from pages 68-74 will give us plenty to discuss. If you\u2019ve got the time, try to implement the divide-and-conquer strategy, and also the brute force strategy. We\u2019ll look at running times together to see how the two approaches grow with increasing input size,", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473279793.000005"
+        }, 
+        {
+            "text": "<@U23FBQ8UQ|vijeth> has joined the channel", 
+            "type": "message", 
+            "user": "U23FBQ8UQ", 
+            "ts": "1473275992.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "thanks!", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1473275240.000003"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U23UL5125"
+                    ]
+                }, 
+                {
+                    "count": 2, 
+                    "name": "+1::skin-tone-4", 
+                    "users": [
+                        "U21KP95RD", 
+                        "U1XU9SHRS"
+                    ]
+                }
+            ], 
+            "text": "Hey all. Since we don\u2019t have class tomorrow afternoon, I\u2019ve changed the room reservation to 1pm-2.15pm, in the Marina room. Thats on the fourth floor.", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473275039.000002"
+        }, 
+        {
+            "text": "<@U21UV0RFZ|jonkuo> has joined the channel", 
+            "type": "message", 
+            "user": "U21UV0RFZ", 
+            "ts": "1472973179.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U21LEBYFR> thank you!  that book is so much cuter", 
+            "type": "message", 
+            "user": "U21MA7V0A", 
+            "ts": "1472769102.000003"
+        }, 
+        {
+            "text": "<@U228ZUTME|cmfulton> has joined the channel", 
+            "type": "message", 
+            "user": "U228ZUTME", 
+            "ts": "1472743862.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U233TELHZ|dasha> has joined the channel", 
+            "type": "message", 
+            "user": "U233TELHZ", 
+            "ts": "1472697032.000049", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U25DNM7D5|courtney> has joined the channel", 
+            "type": "message", 
+            "user": "U25DNM7D5", 
+            "ts": "1472688407.000048", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U21UH68E5|aabercrombie> has joined the channel", 
+            "type": "message", 
+            "user": "U21UH68E5", 
+            "ts": "1472686099.000047", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "so it looks like `list.insert(i, v)` is pretty inefficient, especially when inserting at the beginning of a list. It might be better to use something like `Collections.deque`, which supports fast appending on both sides. `insert()` is still needed for intermediate elements, but at least the worst case is dealt with more efficiently.", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1472679797.000043"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "panda_face", 
+                    "users": [
+                        "U1XU9SHRS", 
+                        "U21LEBYFR"
+                    ]
+                }
+            ], 
+            "text": "I\u2019ve watched some of Brandon\u2019s talks before. He does a killer Pandas tutorial as well. I\u2019ll definitely be checking this out.", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1472677365.000041"
+        }, 
+        {
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1472677166.000000"
+            }, 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/user/PyCon2014", 
+                    "service_name": "YouTube", 
+                    "title": "Brandon Rhodes: All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - PyCon 2014", 
+                    "video_html_height": 225, 
+                    "author_name": "PyCon 2014", 
+                    "title_link": "https://www.youtube.com/watch?v=fYlnfvKVDoM", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/fYlnfvKVDoM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Brandon Rhodes: All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - PyCon 2014", 
+                    "thumb_url": "https://i.ytimg.com/vi/fYlnfvKVDoM/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=fYlnfvKVDoM"
+                }
+            ], 
+            "text": "i was improving week :zero: materials and found this video very help. it covers practical memory vs speed trade-offs\n<https://www.youtube.com/watch?v=fYlnfvKVDoM>", 
+            "ts": "1472677157.000038", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C26KL7155", 
+                    "text": "<https://rosettacode.org/wiki/Rosetta_Code>", 
+                    "author_link": "https://gstudents.slack.com/team/brian_spiering", 
+                    "ts": "1472612500.000036", 
+                    "author_name": "\ud83e\udd84 Brian Spiering", 
+                    "channel_name": "gu_algorithms", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "brian_spiering", 
+                    "fallback": "[August 30th, 2016 9:01 PM] brian_spiering: <https://rosettacode.org/wiki/Rosetta_Code>", 
+                    "author_icon": "https://avatars.slack-edge.com/2016-08-08/67343044663_8603a4f97b44119cacef_48.png", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U1XU9SHRS|brian_spiering> pinned a message to this channel.", 
+            "ts": "1472612505.000037", 
+            "subtype": "pinned_item", 
+            "user": "U1XU9SHRS", 
+            "type": "message"
+        }, 
+        {
+            "text": "<https://rosettacode.org/wiki/Rosetta_Code>", 
+            "pinned_to": [
+                "C26KL7155"
+            ], 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1472612500.000036"
+        }, 
+        {
+            "text": "the \u201creal\u201d algo wiki:\n<https://rosettacode.org/wiki/Sorting_algorithms/Insertion_sort#Python>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1472612478.000035"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U23UL5125"
+                    ]
+                }
+            ], 
+            "text": "We\u2019ve got a room for next week: 4:45-6:00 on Thursday in Marina", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1472612430.000034"
+        }, 
+        {
+            "text": "<@U1XT50YTV> good point", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1472611036.000033"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U23UL5125"
+                    ]
+                }
+            ], 
+            "text": "Algorithms is just as much about big oh as it is about memory(hence the data structure portion that exist in most books)", 
+            "type": "message", 
+            "user": "U1XT50YTV", 
+            "ts": "1472610601.000032"
+        }, 
+        {
+            "text": "<@U21RUE8QZ>: swapping in place optimized for memory because you are not creating an additional list. Having the additional list should make the code a bit easier and is good functional programming style", 
+            "type": "message", 
+            "user": "U1XT50YTV", 
+            "ts": "1472610488.000031"
+        }, 
+        {
+            "text": "<@U1XT50YTV|jacobbaumbach> has joined the channel", 
+            "type": "message", 
+            "user": "U1XT50YTV", 
+            "ts": "1472610396.000030", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Here\u2019s the wiki on insertion sort. There are examples that mutate the original list by swapping elements, and examples that start with an empty result and build it iteratively. Is there any reason to prefer one to the other? I tend to think that mutating the thing you are iterating over is prone to bugs. <https://en.wikipedia.org/wiki/Insertion_sort>", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1472609868.000025", 
+            "edited": {
+                "user": "U21RUE8QZ", 
+                "ts": "1472609899.000000"
+            }
+        }, 
+        {
+            "username": "chip", 
+            "display_as_bot": false, 
+            "text": "<@U21RUE8QZ|chip> uploaded a file: <https://gstudents.slack.com/files/chip/F26L7670U/Untitled.py|Untitled> and commented: Took a crack at Brian\u2019s challenge. I decided to write this in a functional style, rather than mutating the input list. I\u2019m not sure if this affects the performance of the algorithm.", 
+            "upload": true, 
+            "ts": "1472609334.000024", 
+            "subtype": "file_share", 
+            "user": "U21RUE8QZ", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Took a crack at Brian\u2019s challenge. I decided to write this in a functional style, rather than mutating the input list. I\u2019m not sure if this affects the performance of the algorithm.", 
+                    "created": 1472609333, 
+                    "timestamp": 1472609333, 
+                    "is_intro": true, 
+                    "user": "U21RUE8QZ", 
+                    "id": "Fc26LKKWET"
+                }, 
+                "filetype": "python", 
+                "lines_more": 22, 
+                "channels": [
+                    "C26KL7155"
+                ], 
+                "display_as_bot": false, 
+                "id": "F26L7670U", 
+                "size": 1032, 
+                "title": "Untitled", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F26L7670U/Untitled.py", 
+                "ims": [], 
+                "preview": "def insertion_sort_reverse(nums):\r\n    '''\r\n    Input: list of ints or floats\r\n    Output: sorted list of inputs in descending order\r\n    '''\r", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/chip/F26L7670U/Untitled.py/edit", 
+                "username": "", 
+                "timestamp": 1472609333, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": null, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F26L7670U/download/Untitled.py", 
+                "user": "U21RUE8QZ", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "Python", 
+                "name": "Untitled.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F26L7670U-47d99340e3", 
+                "permalink": "https://gstudents.slack.com/files/chip/F26L7670U/Untitled.py", 
+                "is_external": false, 
+                "created": 1472609333, 
+                "lines": 27, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">def</span> <span class=\"cm-def\">insertion_sort_reverse</span>(<span class=\"cm-variable\">nums</span>):</pre></div>\n<div><pre>    <span class=\"cm-string\">'''</span></pre></div>\n<div><pre><span class=\"cm-string\">    Input: list of ints or floats</span></pre></div>\n<div><pre><span class=\"cm-string\">    Output: sorted list of inputs in descending order</span></pre></div>\n<div><pre><span class=\"cm-string\">    '''</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<@U21LR4B08|jhilgart> has joined the channel", 
+            "type": "message", 
+            "user": "U21LR4B08", 
+            "ts": "1472606724.000023", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U21KFTQ1J|tshields44> has joined the channel", 
+            "type": "message", 
+            "user": "U21KFTQ1J", 
+            "ts": "1472605332.000022", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1XU9SHRS>  thanks for making the group!", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1472604785.000021"
+        }, 
+        {
+            "text": "<@U21KP95RD|jaime.almeida> has joined the channel", 
+            "type": "message", 
+            "user": "U21KP95RD", 
+            "ts": "1472602716.000020", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U23UL5125|vivimarani> has joined the channel", 
+            "type": "message", 
+            "user": "U23UL5125", 
+            "ts": "1472602499.000019", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U23FU3RRQ|prashil2792> has joined the channel", 
+            "type": "message", 
+            "user": "U23FU3RRQ", 
+            "ts": "1472601836.000018", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U21LEBYFR|chaudao> has joined the channel", 
+            "type": "message", 
+            "user": "U21LEBYFR", 
+            "ts": "1472600871.000017", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "+1", 
+                    "users": [
+                        "U21KP95RD", 
+                        "U21LR4B08", 
+                        "U21LEBYFR"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "welcome", 
+                    "users": [
+                        "U1XU9SHRS"
+                    ]
+                }
+            ], 
+            "text": "<@U1XU9SHRS> thanks for making the group! Excited about our conversations and discoveries!", 
+            "type": "message", 
+            "user": "U21KUQZ4Y", 
+            "ts": "1472600583.000016"
+        }, 
+        {
+            "text": "<@U21KUQZ4Y|jeremy> has joined the channel", 
+            "type": "message", 
+            "user": "U21KUQZ4Y", 
+            "ts": "1472600518.000015", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "doge", 
+                    "users": [
+                        "U21LEBYFR"
+                    ]
+                }
+            ], 
+            "text": "<@U1XU9SHRS|brian_spiering> set the channel purpose: Confusing ourselves. Then unconfusing ourselves. Then confusing computers. Then unconfusing computers", 
+            "ts": "1472600481.000014", 
+            "subtype": "channel_purpose", 
+            "user": "U1XU9SHRS", 
+            "type": "message", 
+            "purpose": "Confusing ourselves. Then unconfusing ourselves. Then confusing computers. Then unconfusing computers"
+        }, 
+        {
+            "text": "<@U21RUE8QZ> or <@U21MA7V0A> book a room <http://galvanizesf.roomzilla.net|galvanizesf.roomzilla.net>\nname: (leave blank)\npass: gVIP543", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1472600439.000013"
+        }, 
+        {
+            "text": "<@U21KL4T8C|joseph_miguel> has joined the channel", 
+            "type": "message", 
+            "user": "U21KL4T8C", 
+            "ts": "1472600107.000012", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "&gt; Rewrite the INSERTION-SORT procedure to sort into nonincreasing instead of non- decreasing order.", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1472600031.000011"
+        }, 
+        {
+            "text": "here is a reasonable warmup activity:", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1472600028.000010"
+        }, 
+        {
+            "text": "<@U21RUE8QZ|chip> has joined the channel", 
+            "ts": "1472599982.000008", 
+            "subtype": "channel_join", 
+            "user": "U21RUE8QZ", 
+            "type": "message", 
+            "inviter": "U1XU9SHRS"
+        }, 
+        {
+            "text": "<@U21RUE8QZ>", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1472599978.000007"
+        }, 
+        {
+            "text": "<@U21L97GGN|victorv> has joined the channel", 
+            "type": "message", 
+            "user": "U21L97GGN", 
+            "ts": "1472599974.000006", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U21MA7V0A|justin.j.wang> has joined the channel", 
+            "ts": "1472599973.000005", 
+            "subtype": "channel_join", 
+            "user": "U21MA7V0A", 
+            "type": "message", 
+            "inviter": "U1XU9SHRS"
+        }, 
+        {
+            "text": "&gt; So <@U21MA7V0A> and I have discussed how to do this algorithms book. We\u2019re thinking of meeting on Wednesdays around 10AM to discuss problem sets and how to implement pseudocode from the textbook into python. As far as the problem sets go, they are fairly proof heavy. We\u2019d like to de-emphasize proofs and to a certain extent mathematical rigor and instead focus on understanding how the algorithms work, where to apply them, and how to implement them. Our first official meeting will be next week after class on Thursday (since we have class on that Wednesday due to Labor Day). After that we\u2019ll meet every Wednesday. We\u2019ll be discussing Chapter 4: Divide and Conquer. Appropriate preparation will mean reading up on at least one or two of the algorithms presented in the chapter, and ideally trying to implement them in python. Then we can spend group time discussing concepts, presenting solutions, and helping each other understand.", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1472599969.000004", 
+            "edited": {
+                "user": "U1XU9SHRS", 
+                "ts": "1472599993.000000"
+            }
+        }, 
+        {
+            "text": "<@U1XU9SHRS|brian_spiering> set the channel purpose: Confusing ourselves", 
+            "ts": "1472599941.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1XU9SHRS", 
+            "type": "message", 
+            "purpose": "Confusing ourselves"
+        }, 
+        {
+            "text": "<@U1XU9SHRS|brian_spiering> has joined the channel", 
+            "type": "message", 
+            "user": "U1XU9SHRS", 
+            "ts": "1472599940.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "gu_algorithms", 
+        "name": "gu_algorithms", 
+        "is_channel": true, 
+        "created": 1472599940, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1XU9SHRS", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1472600481, 
+            "value": "Confusing ourselves. Then unconfusing ourselves. Then confusing computers. Then unconfusing computers", 
+            "creator": "U1XU9SHRS"
+        }, 
+        "members": [
+            "U1VA3K9TJ", 
+            "U1XT50YTV", 
+            "U1XU9SHRS", 
+            "U1XUE4UJG", 
+            "U1XUS6MHB", 
+            "U1Y098S5B", 
+            "U1Y1GPNVB", 
+            "U1Y3MBZ9V", 
+            "U21KE7J64", 
+            "U21KJNA4E", 
+            "U21KL4T8C", 
+            "U21KP95RD", 
+            "U21KUQZ4Y", 
+            "U21KWCE7L", 
+            "U21L97GGN", 
+            "U21LEBYFR", 
+            "U21LR4B08", 
+            "U21RUE8QZ", 
+            "U21UH68E5", 
+            "U21UV0RFZ", 
+            "U227XGTCP", 
+            "U2281LNSD", 
+            "U228ZUTME", 
+            "U233TELHZ", 
+            "U23FBQ8UQ", 
+            "U23FU3RRQ", 
+            "U23UL5125", 
+            "U25DNM7D5", 
+            "U2VBY4012", 
+            "U365TCNH3", 
+            "U3NHB9L8Z", 
+            "U3VH6EVDK", 
+            "U4MK1L202"
+        ], 
+        "id": "C26KL7155", 
+        "is_shared": false
+    }
+}

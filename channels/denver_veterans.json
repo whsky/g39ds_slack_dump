@@ -1,0 +1,412 @@
+{
+    "messages": [
+        {
+            "text": "<https://www.eventbrite.com/e/united-states-veterans-info-session-tickets-34867711263>", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1497970694.733231"
+        }, 
+        {
+            "text": "I would be there but I am doing foundations. Also where is the info session advertised?", 
+            "type": "message", 
+            "user": "U2P556JHZ", 
+            "ts": "1497915904.923076"
+        }, 
+        {
+            "text": "Tomorrow night, 6PM, GT campus, Web Dev information session for Veterans. Feel free to stop by, grab some pizza, grab some beer...so far the 3 RSVPs suggest we could easily out number prospective students", 
+            "type": "message", 
+            "user": "U2JQYPPTN", 
+            "ts": "1497913235.444001"
+        }, 
+        {
+            "username": "kpdavis", 
+            "display_as_bot": false, 
+            "text": "<@U443DNB2M|kpdavis> uploaded a file: <https://gstudents.slack.com/files/kpdavis/F5ULG4S9F/.facebook_1497654457879.jpg|Slack for Android Upload>", 
+            "upload": true, 
+            "ts": "1497654479.722057", 
+            "subtype": "file_share", 
+            "user": "U443DNB2M", 
+            "file": {
+                "thumb_480_w": 259, 
+                "reactions": [
+                    {
+                        "count": 2, 
+                        "name": "+1", 
+                        "users": [
+                            "U3KQHBSSF", 
+                            "U2P556JHZ"
+                        ]
+                    }, 
+                    {
+                        "count": 2, 
+                        "name": "joy", 
+                        "users": [
+                            "U2P556JHZ", 
+                            "U3F99HNV8"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "jpg", 
+                "thumb_800_h": 1482, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5ULG4S9F-ffa50f1d50/.facebook_1497654457879_480.jpg", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5ULG4S9F-ffa50f1d50/.facebook_1497654457879_64.jpg", 
+                "size": 200884, 
+                "original_h": 1575, 
+                "thumb_360_w": 194, 
+                "title": "Slack for Android Upload", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5ULG4S9F/.facebook_1497654457879.jpg", 
+                "thumb_720_h": 720, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5ULG4S9F-ffa50f1d50/.facebook_1497654457879_360.jpg", 
+                "id": "F5ULG4S9F", 
+                "ims": [], 
+                "thumb_720_w": 389, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5ULG4S9F-ffa50f1d50/.facebook_1497654457879_80.jpg", 
+                "comments_count": 0, 
+                "thumb_360_h": 360, 
+                "thumb_480_h": 480, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5ULG4S9F-ffa50f1d50/.facebook_1497654457879_800.jpg", 
+                "timestamp": 1497654477, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5ULG4S9F-ffa50f1d50/.facebook_1497654457879_160.jpg", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5ULG4S9F/download/.facebook_1497654457879.jpg", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5ULG4S9F-ffa50f1d50/.facebook_1497654457879_1024.jpg", 
+                "user": "U443DNB2M", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5ULG4S9F-ffa50f1d50/.facebook_1497654457879_960.jpg", 
+                "is_public": true, 
+                "pretty_type": "JPEG", 
+                "name": ".facebook_1497654457879.jpg", 
+                "mimetype": "image/jpeg", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5ULG4S9F-22438577ce", 
+                "permalink": "https://gstudents.slack.com/files/kpdavis/F5ULG4S9F/.facebook_1497654457879.jpg", 
+                "is_external": false, 
+                "created": 1497654477, 
+                "thumb_1024_h": 1024, 
+                "thumb_960_h": 960, 
+                "original_w": 850, 
+                "thumb_960_w": 518, 
+                "thumb_1024_w": 553, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5ULG4S9F-ffa50f1d50/.facebook_1497654457879_720.jpg", 
+                "channels": [
+                    "C5EECL4J1"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://developdenver.org/talks/61>", 
+            "type": "message", 
+            "user": "U2P556JHZ", 
+            "ts": "1497291793.592695", 
+            "attachments": [
+                {
+                    "image_bytes": 52135, 
+                    "title": "Develop Denver", 
+                    "text": "Develop Denver is more than just a conference, or social mixer. It\u2019s a gathering of the makers, doers, movers and shakers in the development and design community. Get your hands dirty in code, design, and more. With speakers covering new technology, new ideas, and new ways of doing things. Technology, Experiments, Booze, Hackathons, and like-minded people coming together to make something and learn new tricks.", 
+                    "image_width": 475, 
+                    "title_link": "https://developdenver.org/talks/61", 
+                    "image_height": 250, 
+                    "image_url": "https://www.developdenver.org/social/card.jpg?123", 
+                    "service_name": "developdenver.org", 
+                    "id": 1, 
+                    "fallback": "Develop Denver", 
+                    "service_icon": "https://developdenver.org/icons/apple-icon-57x57.png", 
+                    "from_url": "https://developdenver.org/talks/61"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1TTQUYEQ"
+                    ]
+                }
+            ], 
+            "text": "chello fellow vets. Shameless plug coming in hot. I submitted a talk to develop denver this year. I will post the link below but if you want to hear more about it go and register and vote. Regardless I hope to see everybody there. Should be a great time", 
+            "type": "message", 
+            "user": "U2P556JHZ", 
+            "ts": "1497291792.592293"
+        }, 
+        {
+            "text": "oh wow niffty, thanks!", 
+            "type": "message", 
+            "user": "U2P556JHZ", 
+            "ts": "1496252955.135479"
+        }, 
+        {
+            "text": "Thanks for sharing <@U3EB5KJUB> !", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1496247087.914619"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1TTQUYEQ"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "awthanks", 
+                    "users": [
+                        "U4JCG35M3"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "shufflefurtherparrot", 
+                    "users": [
+                        "U2P556JHZ"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 129578, 
+                    "title": "Veterans | LinkedIn For Good", 
+                    "text": "Learn how LinkedIn for Good is helping veterans gain access to economic opportunity through programs &amp; partnerships.", 
+                    "image_width": 456, 
+                    "title_link": "https://linkedinforgood.linkedin.com/programs/veterans", 
+                    "image_height": 250, 
+                    "image_url": "https://linkedinforgood.linkedin.com/content/dam/me/linkedinforgood/en-us/hof-share-image2.jpg", 
+                    "service_name": "Veterans | LinkedIn For Good", 
+                    "id": 1, 
+                    "fallback": "Veterans | LinkedIn For Good", 
+                    "service_icon": "http://static.licdn.com/scds/common/u/img/icon/apple-touch-icon.png", 
+                    "from_url": "https://linkedinforgood.linkedin.com/programs/veterans"
+                }
+            ], 
+            "text": "did everyone get their free year of LinkedIn premium? i signed up a couple of times, got a message that they were confirming my account, but it never went through. a simple email to <mailto:veterans@linkedin.com|veterans@linkedin.com> fixed it immediately, so if you run into any problems, zap them a message.\n\n<https://linkedinforgood.linkedin.com/programs/veterans>", 
+            "ts": "1496244909.995825", 
+            "user": "U3EB5KJUB", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U4ZMPEMV0|levi_holmes> has joined the channel", 
+            "type": "message", 
+            "user": "U4ZMPEMV0", 
+            "ts": "1496165477.210634", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Thanks Kelly. And yeah noticed that too about the fair. ", 
+            "type": "message", 
+            "user": "U3EFJQAUU", 
+            "ts": "1495116134.260690"
+        }, 
+        {
+            "thread_ts": "1495058852.938727", 
+            "text": "ninjames: If only I could turn back time! (true story) :ramsay:", 
+            "ts": "1495075770.449208", 
+            "user": "U1TTQUYEQ", 
+            "parent_user_id": "U2P556JHZ", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1495058852.938727", 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "joy", 
+                    "users": [
+                        "U1TTQUYEQ"
+                    ]
+                }
+            ], 
+            "text": "True we need more animal doctors", 
+            "ts": "1495058852.938727", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U2P556JHZ", 
+            "replies": [
+                {
+                    "user": "U1TTQUYEQ", 
+                    "ts": "1495075770.449208"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "No problem! Hoping to get more vets in our programs. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1495054091.602965"
+        }, 
+        {
+            "text": "I was checking it out there aren\u2019t that many tech companies but it is a great resource also THANKS FOR CREATING THE CHANNEL <@U1TTQUYEQ>", 
+            "type": "message", 
+            "user": "U2P556JHZ", 
+            "ts": "1495051973.901033"
+        }, 
+        {
+            "text": "Have you heard about this? <http://www.mvee.org/expo-info-cprings/> \n\nEven if you can\u2019t make it, you might want to look at the company list &amp; see who is hiring", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1495051675.801950", 
+            "attachments": [
+                {
+                    "image_bytes": 39408, 
+                    "title": "Expo Info ColoSprings \u2013 Military and Veterans Employment Expo", 
+                    "service_name": "Military and Veterans Employment Expo", 
+                    "image_width": 500, 
+                    "title_link": "http://www.mvee.org/expo-info-cprings/", 
+                    "image_height": 80, 
+                    "image_url": "http://www.mvee.org/wp-content/uploads/2017/04/MVEE-logo-2.png", 
+                    "text": "MVEE: Connecting Vets and Jobs", 
+                    "id": 1, 
+                    "fallback": "Military and Veterans Employment Expo: Expo Info ColoSprings \u2013 Military and Veterans Employment Expo", 
+                    "service_icon": "http://www.mvee.org/wp-content/uploads/2017/01/favicon.ico", 
+                    "from_url": "http://www.mvee.org/expo-info-cprings/"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U3KQHBSSF|travis> has joined the channel", 
+            "ts": "1494975648.948767", 
+            "subtype": "channel_join", 
+            "user": "U3KQHBSSF", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U2JQYPPTN|brad.miller> has joined the channel", 
+            "ts": "1494975648.948760", 
+            "subtype": "channel_join", 
+            "user": "U2JQYPPTN", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U3F99HNV8|lanefaison2> has joined the channel", 
+            "ts": "1494975648.948751", 
+            "subtype": "channel_join", 
+            "user": "U3F99HNV8", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U4GMP2JQP|admiralolson> has joined the channel", 
+            "ts": "1494975648.948721", 
+            "subtype": "channel_join", 
+            "user": "U4GMP2JQP", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U443DNB2M|kpdavis> has joined the channel", 
+            "ts": "1494975648.948710", 
+            "subtype": "channel_join", 
+            "user": "U443DNB2M", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U2P556JHZ|ninjames> has joined the channel", 
+            "ts": "1494975648.948708", 
+            "subtype": "channel_join", 
+            "user": "U2P556JHZ", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U3EB5KJUB|saodell> has joined the channel", 
+            "ts": "1494975648.948696", 
+            "subtype": "channel_join", 
+            "user": "U3EB5KJUB", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U3EFJQAUU|nicksugar1> has joined the channel", 
+            "ts": "1494975648.948674", 
+            "subtype": "channel_join", 
+            "user": "U3EFJQAUU", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U3NMBE6AG|paulvandreves> has joined the channel", 
+            "ts": "1494975648.948663", 
+            "subtype": "channel_join", 
+            "user": "U3NMBE6AG", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U4JCG35M3|bestcodyever> has joined the channel", 
+            "ts": "1494975647.948642", 
+            "subtype": "channel_join", 
+            "user": "U4JCG35M3", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> set the channel purpose: A place for WDI &amp; DSI veterans to connect", 
+            "ts": "1494975647.948629", 
+            "subtype": "channel_purpose", 
+            "user": "U1TTQUYEQ", 
+            "type": "message", 
+            "purpose": "A place for WDI &amp; DSI veterans to connect"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> has joined the channel", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1494975647.948579", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "denver_veterans", 
+        "name": "denver_veterans", 
+        "is_channel": true, 
+        "created": 1494975647, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1TTQUYEQ", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1494975648, 
+            "value": "A place for WDI &amp; DSI veterans to connect", 
+            "creator": "U1TTQUYEQ"
+        }, 
+        "members": [
+            "U1TTQUYEQ", 
+            "U2JQYPPTN", 
+            "U2P556JHZ", 
+            "U3EB5KJUB", 
+            "U3EFJQAUU", 
+            "U3F99HNV8", 
+            "U3KQHBSSF", 
+            "U3NMBE6AG", 
+            "U443DNB2M", 
+            "U4GMP2JQP", 
+            "U4JCG35M3", 
+            "U4ZMPEMV0"
+        ], 
+        "id": "C5EECL4J1", 
+        "is_shared": false
+    }
+}

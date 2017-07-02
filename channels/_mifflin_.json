@@ -1,0 +1,311 @@
+{
+    "messages": [
+        {
+            "text": "Can't make the morning scrum. I'll be in in time for the presentations this afternoon.", 
+            "type": "message", 
+            "user": "U3FGA44SD", 
+            "ts": "1490717071.722506"
+        }, 
+        {
+            "text": "<https://drive.google.com/drive/folders/0B-6OB16L1AN1YzkwZzRBcDZnMEE>", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1490372431.161641"
+        }, 
+        {
+            "text": "Running late today I'll be in soon.", 
+            "type": "message", 
+            "user": "U3LQEGN2C", 
+            "ts": "1490284657.838991"
+        }, 
+        {
+            "text": "Hi team, bus was late (again). I'm guessing I'll be in at 910", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1490196927.805570"
+        }, 
+        {
+            "text": "I'm at pike st stop, should be there soon", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1490111946.027934"
+        }, 
+        {
+            "text": "Today I cannot come onsite, I have to take my car to the shop. I will keep working at the project.", 
+            "type": "message", 
+            "user": "U3K6L3EFQ", 
+            "ts": "1490109520.944210"
+        }, 
+        {
+            "text": "thanks", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1490046662.836267"
+        }, 
+        {
+            "text": "I hope you're feeling better - see you soon.", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1490046589.817109"
+        }, 
+        {
+            "text": "Hi, team. I'm under the weather today. Going to try to come in later on. I miss you all", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1490022066.515827"
+        }, 
+        {
+            "text": "Just wanted to let you all know I won't be in tomorrow. If I finish up early I may come in for the afternoon.", 
+            "type": "message", 
+            "user": "U3LQEGN2C", 
+            "ts": "1489630011.300985"
+        }, 
+        {
+            "text": "I don't think jack is here yet so you guys are good", 
+            "type": "message", 
+            "user": "U3EQ2NHSS", 
+            "ts": "1489593712.604951"
+        }, 
+        {
+            "text": "I'm at the Columbia street stop. The bus was both late and slow today ", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1489593589.544537"
+        }, 
+        {
+            "text": "I'm running late today but should be in by 10", 
+            "type": "message", 
+            "user": "U3LQEGN2C", 
+            "ts": "1489593534.518695"
+        }, 
+        {
+            "text": "scratch that. I have 5593 files :smiley:", 
+            "type": "message", 
+            "user": "U3FGA44SD", 
+            "ts": "1489517088.400932", 
+            "edited": {
+                "user": "U3FGA44SD", 
+                "ts": "1489517094.000000"
+            }
+        }, 
+        {
+            "text": "Need to figure out precisely what's going on so I can throw in a try/except block", 
+            "type": "message", 
+            "user": "U3FGA44SD", 
+            "ts": "1489516782.282265"
+        }, 
+        {
+            "text": "I have 1425 files, but some of the JSONfiles on Apple's website appear to be corrupt(?) or at least don't contain the same fields as the more populat genres", 
+            "type": "message", 
+            "user": "U3FGA44SD", 
+            "ts": "1489516764.274739"
+        }, 
+        {
+            "text": "However, I've been trying to download images/album details from itunes.", 
+            "type": "message", 
+            "user": "U3FGA44SD", 
+            "ts": "1489516711.254578"
+        }, 
+        {
+            "text": "I'd be down for an afternoon scrum. Just got here so I don't have much more to report", 
+            "type": "message", 
+            "user": "U3FGA44SD", 
+            "ts": "1489516685.244129"
+        }, 
+        {
+            "text": "Cool, also, I'm up for an afternoon scrum. Anyone else interested? I'd like to propose 2 pm (idk why but sounds like a good time)", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1489507983.577282"
+        }, 
+        {
+            "text": "You should slack out a message too. Part of the point of scrum is that you're publicly sharing stuff with your peers :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1489507073.157341"
+        }, 
+        {
+            "text": "I will late too..the traffic is moving extremely slow", 
+            "type": "message", 
+            "user": "U3K6L3EFQ", 
+            "ts": "1489506764.013118"
+        }, 
+        {
+            "text": "both of you can just slack out a brief message to this group: what you did yesterday, what you're going to finish today, where (if anywhere) you're blocked.", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1489506641.955128"
+        }, 
+        {
+            "text": "hope you feel better, amanda", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1489506605.937651"
+        }, 
+        {
+            "text": "Sorry guys", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1489506364.825103"
+        }, 
+        {
+            "text": "Shoot, I screwed up my alarm whilst resetting it. Just woke up...", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1489506357.822088"
+        }, 
+        {
+            "text": "Hey guys, I'm not feeling good. Ii;ll have to miss the scrum, but I'm gonna try to get some rest and come in later", 
+            "type": "message", 
+            "user": "U3FGA44SD", 
+            "ts": "1489502245.945545"
+        }, 
+        {
+            "text": "See you all tomorrow at 9. :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1489466226.357600"
+        }, 
+        {
+            "text": "9 sounds good :grin:", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1489453574.887011"
+        }, 
+        {
+            "text": "I don't care either way. I will show up at 8 regardless because that's the only time I can take the bus that goes close to my house", 
+            "type": "message", 
+            "user": "U3FGA44SD", 
+            "ts": "1489449995.375001"
+        }, 
+        {
+            "text": ":sleepy_mcsleepface:", 
+            "type": "message", 
+            "user": "U3EQ2NHSS", 
+            "ts": "1489449595.310491"
+        }, 
+        {
+            "text": "but I think everyone already knew my vote", 
+            "type": "message", 
+            "user": "U3EQ2NHSS", 
+            "ts": "1489449580.308120"
+        }, 
+        {
+            "text": "9", 
+            "type": "message", 
+            "user": "U3EQ2NHSS", 
+            "ts": "1489449554.303526"
+        }, 
+        {
+            "text": "Do people want to meet for scrum tomorrow at 8:30 or 9?", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1489449489.293428"
+        }, 
+        {
+            "text": "Hi team, I'm going to be a bit late for the scrum. Sorry!", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1489076125.171757"
+        }, 
+        {
+            "text": "womp..", 
+            "type": "message", 
+            "user": "U3L962FC3", 
+            "ts": "1488217571.000010"
+        }, 
+        {
+            "text": "Slack doesn't allow double underscores. :disappointed:", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1488215760.000009"
+        }, 
+        {
+            "text": "<@U3LQEGN2C|stephpena> has joined the channel", 
+            "ts": "1488215692.000008", 
+            "subtype": "channel_join", 
+            "user": "U3LQEGN2C", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U3FGA44SD|abowers> has joined the channel", 
+            "ts": "1488215692.000007", 
+            "subtype": "channel_join", 
+            "user": "U3FGA44SD", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U3EQ2NHSS|zoe_richards> has joined the channel", 
+            "ts": "1488215692.000006", 
+            "subtype": "channel_join", 
+            "user": "U3EQ2NHSS", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U3K6L3EFQ|aurel1212> has joined the channel", 
+            "ts": "1488215692.000005", 
+            "subtype": "channel_join", 
+            "user": "U3K6L3EFQ", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U3L962FC3|benjamin.macneille> has joined the channel", 
+            "ts": "1488215692.000004", 
+            "subtype": "channel_join", 
+            "user": "U3L962FC3", 
+            "type": "message", 
+            "inviter": "U1Y8Q30LE"
+        }, 
+        {
+            "text": "<@U1Y8Q30LE|jack> set the channel purpose: Scrum team discussions", 
+            "ts": "1488215691.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1Y8Q30LE", 
+            "type": "message", 
+            "purpose": "Scrum team discussions"
+        }, 
+        {
+            "text": "<@U1Y8Q30LE|jack> has joined the channel", 
+            "type": "message", 
+            "user": "U1Y8Q30LE", 
+            "ts": "1488215691.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "_mifflin_", 
+        "name": "_mifflin_", 
+        "is_channel": true, 
+        "created": 1488215691, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1Y8Q30LE", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1488215692, 
+            "value": "Scrum team discussions", 
+            "creator": "U1Y8Q30LE"
+        }, 
+        "members": [
+            "U1Y8Q30LE", 
+            "U3EQ2NHSS", 
+            "U3FGA44SD", 
+            "U3K6L3EFQ", 
+            "U3L962FC3", 
+            "U3LQEGN2C"
+        ], 
+        "id": "C4A94UHK2", 
+        "is_shared": false
+    }
+}

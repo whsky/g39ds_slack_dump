@@ -1,0 +1,306 @@
+{
+    "messages": [
+        {
+            "text": "<https://www.engadget.com/2017/06/27/microsoft-sports-performance-platform/>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1498750169.708780", 
+            "attachments": [
+                {
+                    "image_bytes": 185417, 
+                    "title": "Microsoft\u2019s machine learning can predict injuries in sports", 
+                    "service_name": "Engadget", 
+                    "image_width": 476, 
+                    "title_link": "https://www.engadget.com/2017/06/27/microsoft-sports-performance-platform/", 
+                    "image_height": 250, 
+                    "image_url": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fdims-shared%2Fdims3%2FGLOB%2Fcrop%2F2038x1216%2B62%2B0%2Fresize%2F1600x954%21%2Fformat%2Fjpg%2Fquality%2F85%2Fhttps%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fde0ede1dab371c9ba97aeee429fdd0b3%2F205420105%2Fseattle-reign-fc-forward-megan-rapinoe-sends-a-shot-past-fc-kansas-picture-id697406124&client=cbc79c14efcebee57402&signature=2bc93916a0f3d9e077b49b1b1149453033212041", 
+                    "text": "Microsoft's new Sports Performance Platform uses machine learning and Surface tech to help sports teams track player behavior.", 
+                    "id": 1, 
+                    "fallback": "Engadget: Microsoft\u2019s machine learning can predict injuries in sports", 
+                    "service_icon": "https://s.blogsmithmedia.com/www.engadget.com/assets-h36a73bdca1d2ca122a5bb65c38b0fb9f/images/apple-touch-icon-57x57.png?h=b07835531d7826b72615c77771a72171", 
+                    "from_url": "https://www.engadget.com/2017/06/27/microsoft-sports-performance-platform/"
+                }
+            ]
+        }, 
+        {
+            "text": "Alright, just let us know if anything changes!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497999778.313153"
+        }, 
+        {
+            "text": "But they gave me some meds for the pain and they don\u2019t zonk me out or anything, so I ought to be good for Thursday.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497999553.266336"
+        }, 
+        {
+            "text": "I mean, as long as I don\u2019t have to really move around much, I\u2019m all right to just post up and present my poster as people come around. But yeah, like a tall chair is perfect. It\u2019s basically when I go from like a deep sit to standing or vice versa that it kinda sucks, hah.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497999447.246299"
+        }, 
+        {
+            "text": "Dude, take care of yourself first! You can present to the instructors privately. But if you are doing better then I'm sure we could find a chair for you...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497999228.205107"
+        }, 
+        {
+            "text": "Just went and got a CT scan. I\u2019ll find out later tonight, but I think I probably slipped a disc or something. Will it be possible to have a stool or tall chair or something by my poster so I can prop myself up for Thursday?", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497997746.915052"
+        }, 
+        {
+            "text": "If something comes up I let you know. I think it's just the presenters practicing.  Do t forget about your readme/resume/talent profile...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497961154.740146"
+        }, 
+        {
+            "text": "I likely won\u2019t be in today because of my back/seeing the doctor again. I have phone notifications on for Slack, though, if there are any issues with my submission or there\u2019s anything I need to do.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497957416.898767"
+        }, 
+        {
+            "text": "I have your comments...come get 'em if you're here.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497900055.874054"
+        }, 
+        {
+            "text": "Yeah, I'll be good for tomorrow. I'm assuming I'm in reasonable enough shape unless the notes are crazy. Today was just a tough turnaround since I didn't prioritize the rough draft.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497898762.432252"
+        }, 
+        {
+            "text": "Thanks bud, hope you feel better...I am planning on writing notes on the print out for you. Don't forget 10am tomorrow! Otherwise Frank might flip out on you!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497898485.329758"
+        }, 
+        {
+            "text": "If you need to track me down at all today, I\u2019ll either be around here the whole day or run to the doctor in the next hour or so. Haven\u2019t quite decided yet.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497898381.292106"
+        }, 
+        {
+            "username": "peternygaard", 
+            "display_as_bot": false, 
+            "text": "<@U3QK4HB45|peternygaard> uploaded a file: <https://gstudents.slack.com/files/peternygaard/F5W3SL8RJ/nygaard_poster.pdf|nygaard_poster.pdf> and commented: The images are placeholders right now, but they\u2019re essentially what I want to put there, just league average in the case of the plots and a fully filled-in version for the scores. Once I run the league-averages one, that\u2019ll give me what I need for the conclusions Mad Lib. And then references.", 
+            "upload": true, 
+            "ts": "1497898241.242066", 
+            "subtype": "file_share", 
+            "user": "U3QK4HB45", 
+            "file": {
+                "initial_comment": {
+                    "comment": "The images are placeholders right now, but they\u2019re essentially what I want to put there, just league average in the case of the plots and a fully filled-in version for the scores. Once I run the league-averages one, that\u2019ll give me what I need for the conclusions Mad Lib. And then references.", 
+                    "created": 1497898240, 
+                    "timestamp": 1497898240, 
+                    "is_intro": true, 
+                    "user": "U3QK4HB45", 
+                    "id": "Fc5WS9DPHU"
+                }, 
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5W3SL8RJ", 
+                "size": 3403624, 
+                "title": "nygaard_poster.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5W3SL8RJ/nygaard_poster.pdf", 
+                "ims": [
+                    "D5854TJDS"
+                ], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1497898240, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5W3SL8RJ/download/nygaard_poster.pdf", 
+                "user": "U3QK4HB45", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "nygaard_poster.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5W3SL8RJ-d9aae4d028", 
+                "permalink": "https://gstudents.slack.com/files/peternygaard/F5W3SL8RJ/nygaard_poster.pdf", 
+                "is_external": false, 
+                "created": 1497898240, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://stackoverflow.com/questions/21990914/sort-list-of-objects-with-jinja2-and-flask-depending-the-field-pressed>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497887829.433258", 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+                    "thumb_width": 316, 
+                    "title": "Sort list of objects with Jinja2 and Flask depending the field pressed", 
+                    "text": "I have a model in Flask called Dog, with the parameters Name, Breed and Age. Through Jinja2 I show them in a template as follow: &lt;table&gt; &lt;tr&gt; &lt;td&gt;Name&lt;/td&gt; &lt;td&gt;Breed&amp;...", 
+                    "title_link": "https://stackoverflow.com/questions/21990914/sort-list-of-objects-with-jinja2-and-flask-depending-the-field-pressed", 
+                    "service_name": "stackoverflow.com", 
+                    "id": 1, 
+                    "fallback": "Sort list of objects with Jinja2 and Flask depending the field pressed", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+                    "from_url": "https://stackoverflow.com/questions/21990914/sort-list-of-objects-with-jinja2-and-flask-depending-the-field-pressed"
+                }
+            ]
+        }, 
+        {
+            "text": "No beer no lights...bullshit.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497751135.699184"
+        }, 
+        {
+            "text": "It might be, but only for like the area directly by the stairs and bar. A few of us have been working in the progressively darker area off to the side. Oh well.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497750088.659936"
+        }, 
+        {
+            "text": "I thought there was a motion sensor... Try walking a lap.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497749985.655794"
+        }, 
+        {
+            "text": "Unrelated question: Are there actually any light switches for the 4th floor at Galvanize, or is it all on a timer or something?", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497748723.607730"
+        }, 
+        {
+            "text": "Ha, might have been a bootstrap thing...the forms are weird.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497748313.592816"
+        }, 
+        {
+            "text": "Yeah, after a whole bunch of hours of throwing shit at the wall, I finally found something that did the trick. Something about the way the form was set up (which was more or less ripped from a template, so great), it didn\u2019t like.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497748247.589953"
+        }, 
+        {
+            "text": "All good?", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497748201.588008"
+        }, 
+        {
+            "text": "Wait! I think\u2026 I\u2019ve got it.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497747729.569749"
+        }, 
+        {
+            "text": "I\u2019m having trouble getting my web app to pass a single argument from a drop-down menu selection to the next page in Flask. It keeps returning None, regardless of how I try to retrieve it. Any ideas?", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497746479.519944"
+        }, 
+        {
+            "text": "<https://arxiv.org/pdf/1311.4555.pdf>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497553840.259792"
+        }, 
+        {
+            "text": ":+1: ", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497545814.378187"
+        }, 
+        {
+            "text": "Think I found the issue.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497545631.312041"
+        }, 
+        {
+            "text": ":charliebrown:", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497408464.818693"
+        }, 
+        {
+            "text": "Cool, i'll pencil you in for poster", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497408440.816082"
+        }, 
+        {
+            "text": "Can I tentatively say poster with the option to possibly change if it looks like a presentation might work better? I\u2019m leaning poster, but I\u2019m not quite 100% on it just yet. And I don\u2019t think Bob and I necessarily need to split ours up since our projects are pretty much only connected by our subject material being the NBA at this point.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1497408087.775990"
+        }, 
+        {
+            "text": "good to know, thanks!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493997821.276975"
+        }, 
+        {
+            "text": "It was brutal today. Few of us up here", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1493997773.259156"
+        }, 
+        {
+            "text": "Ahhh...that line can _suck_.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493997746.248318"
+        }, 
+        {
+            "text": "Just upstairs getting coffee", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1493997732.243184"
+        }, 
+        {
+            "text": "I'm here", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1493997719.237976"
+        }, 
+        {
+            "text": "Alarm clock problems again today? Just checking in...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493997698.229705"
+        }, 
+        {
+            "text": "Cool.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493824126.749804"
+        }, 
+        {
+            "text": "Running late. Alarm malfunction. Be there in 15 or so.", 
+            "type": "message", 
+            "user": "U3QK4HB45", 
+            "ts": "1493824065.724759"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U3QK4HB45", 
+            "U34BY2K3K"
+        ]
+    }
+}

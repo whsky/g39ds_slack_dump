@@ -1,0 +1,31 @@
+{
+    "messages": [
+        {
+            "text": "<https://stackoverflow.com/questions/15777836/how-to-install-scipy-on-ec2-server>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1497892347.844061", 
+            "attachments": [
+                {
+                    "thumb_height": 316, 
+                    "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+                    "thumb_width": 316, 
+                    "title": "How to install Scipy on ec2 server", 
+                    "text": "I'm getting stuck on installing scipy on ec2. So I was trying to get the file to download, and it shows the following errors. What am I missing? Thanks so much! Really newbie here to working with r...", 
+                    "title_link": "https://stackoverflow.com/questions/15777836/how-to-install-scipy-on-ec2-server", 
+                    "service_name": "stackoverflow.com", 
+                    "id": 1, 
+                    "fallback": "How to install Scipy on ec2 server", 
+                    "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+                    "from_url": "https://stackoverflow.com/questions/15777836/how-to-install-scipy-on-ec2-server"
+                }
+            ]
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U4EUTPCE5", 
+            "U34BY2K3K"
+        ]
+    }
+}

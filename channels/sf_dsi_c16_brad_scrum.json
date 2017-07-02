@@ -1,0 +1,243 @@
+{
+    "messages": [
+        {
+            "text": "<@U1YADHSLQ|brad> archived the channel", 
+            "ts": "1485198763.000002", 
+            "subtype": "channel_archive", 
+            "user": "U1YADHSLQ", 
+            "members": [
+                "U1WJ2HD35", 
+                "U1WK75XSB", 
+                "U1WLKPKMZ", 
+                "U1WN0V3L4", 
+                "U1X6CKS0P", 
+                "U1YADHSLQ"
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1VA45RE2|ivan> has left the channel", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1481609530.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1WKAKRL5|ark> has left the channel", 
+            "type": "message", 
+            "user": "U1WKAKRL5", 
+            "ts": "1478130352.000003", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1UCMPKPU|lee> has left the channel", 
+            "type": "message", 
+            "user": "U1UCMPKPU", 
+            "ts": "1478106392.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1UCK7AAW|ultramann> has left the channel", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1477259584.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "We won't have official scrums this week, but I will check in with people this morning. Remember we have practice presentations this afternoon. ", 
+            "type": "message", 
+            "user": "U1YADHSLQ", 
+            "ts": "1476723089.000002"
+        }, 
+        {
+            "text": "<!channel>: Update: Things are running late for cohort 17/18, so let\u2019s push scrum to 10:30", 
+            "type": "message", 
+            "user": "U1YADHSLQ", 
+            "ts": "1476463021.000003"
+        }, 
+        {
+            "text": "Morning guys. I am helping lead the case study for cohort 17/18 today. Scrum should still be at 10 but I might be a bit late. ", 
+            "type": "message", 
+            "user": "U1YADHSLQ", 
+            "ts": "1476461223.000002"
+        }, 
+        {
+            "text": "<!channel> Scrum starting now.", 
+            "type": "message", 
+            "user": "U1YADHSLQ", 
+            "ts": "1476378059.000002"
+        }, 
+        {
+            "text": "<!channel> Good morning. I will be leading scrum at the usual time today. See you at 10. ", 
+            "type": "message", 
+            "user": "U1YADHSLQ", 
+            "ts": "1476289366.000002"
+        }, 
+        {
+            "text": "Okay, sounds great to me.", 
+            "type": "message", 
+            "user": "U1WJ2HD35", 
+            "ts": "1476117665.000003"
+        }, 
+        {
+            "text": "<!channel>: I believe I will be filling in for brad today for scrumming, I have my own groups scrum at 10, so lets plan on meeting at 10:30", 
+            "type": "message", 
+            "user": "U1UCMPKPU", 
+            "ts": "1476117635.000002"
+        }, 
+        {
+            "text": "There is a card in the classroom for Mike, if anyone is interested in signing it", 
+            "type": "message", 
+            "user": "U1UCMPKPU", 
+            "ts": "1475611868.000007"
+        }, 
+        {
+            "text": "Okay", 
+            "type": "message", 
+            "user": "U1WJ2HD35", 
+            "ts": "1475599889.000006"
+        }, 
+        {
+            "text": "yep.", 
+            "type": "message", 
+            "user": "U1YADHSLQ", 
+            "ts": "1475599884.000005"
+        }, 
+        {
+            "text": "It is the same place, right?", 
+            "type": "message", 
+            "user": "U1WJ2HD35", 
+            "ts": "1475599869.000004"
+        }, 
+        {
+            "text": "Hi", 
+            "type": "message", 
+            "user": "U1WJ2HD35", 
+            "ts": "1475599862.000003"
+        }, 
+        {
+            "text": "<!channel> Reminder: meet for scrum in the classroom at 10", 
+            "type": "message", 
+            "user": "U1YADHSLQ", 
+            "ts": "1475599843.000002"
+        }, 
+        {
+            "text": "<!channel> Good morning guys and welcome to the first official day of projects, I am looking forward to meeting you and hearing about what you\u2019ll be working on.  Let\u2019s meet at 10:15 outside the classroom and we\u2019ll go from there.", 
+            "type": "message", 
+            "user": "U1YADHSLQ", 
+            "ts": "1475513424.000013"
+        }, 
+        {
+            "text": "<@U1UCMPKPU|lee> has joined the channel", 
+            "ts": "1475513142.000012", 
+            "subtype": "channel_join", 
+            "user": "U1UCMPKPU", 
+            "type": "message", 
+            "inviter": "U1YADHSLQ"
+        }, 
+        {
+            "text": "<@U1VA45RE2|ivan> has joined the channel", 
+            "ts": "1475513142.000011", 
+            "subtype": "channel_join", 
+            "user": "U1VA45RE2", 
+            "type": "message", 
+            "inviter": "U1YADHSLQ"
+        }, 
+        {
+            "text": "<@U1UCK7AAW|ultramann> has joined the channel", 
+            "ts": "1475513142.000010", 
+            "subtype": "channel_join", 
+            "user": "U1UCK7AAW", 
+            "type": "message", 
+            "inviter": "U1YADHSLQ"
+        }, 
+        {
+            "text": "<@U1WLKPKMZ|gopalsan> has joined the channel", 
+            "ts": "1475513142.000009", 
+            "subtype": "channel_join", 
+            "user": "U1WLKPKMZ", 
+            "type": "message", 
+            "inviter": "U1YADHSLQ"
+        }, 
+        {
+            "text": "<@U1WK75XSB|tb16> has joined the channel", 
+            "ts": "1475513141.000008", 
+            "subtype": "channel_join", 
+            "user": "U1WK75XSB", 
+            "type": "message", 
+            "inviter": "U1YADHSLQ"
+        }, 
+        {
+            "text": "<@U1X6CKS0P|rmahdavi> has joined the channel", 
+            "ts": "1475513141.000007", 
+            "subtype": "channel_join", 
+            "user": "U1X6CKS0P", 
+            "type": "message", 
+            "inviter": "U1YADHSLQ"
+        }, 
+        {
+            "text": "<@U1WJ2HD35|anatoly> has joined the channel", 
+            "ts": "1475513141.000006", 
+            "subtype": "channel_join", 
+            "user": "U1WJ2HD35", 
+            "type": "message", 
+            "inviter": "U1YADHSLQ"
+        }, 
+        {
+            "text": "<@U1WN0V3L4|felgueres> has joined the channel", 
+            "ts": "1475513141.000005", 
+            "subtype": "channel_join", 
+            "user": "U1WN0V3L4", 
+            "type": "message", 
+            "inviter": "U1YADHSLQ"
+        }, 
+        {
+            "text": "<@U1WKAKRL5|ark> has joined the channel", 
+            "ts": "1475513141.000004", 
+            "subtype": "channel_join", 
+            "user": "U1WKAKRL5", 
+            "type": "message", 
+            "inviter": "U1YADHSLQ"
+        }, 
+        {
+            "text": "<@U1YADHSLQ|brad> set the channel purpose: SF DSI Cohort 16 projects", 
+            "ts": "1475513141.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1YADHSLQ", 
+            "type": "message", 
+            "purpose": "SF DSI Cohort 16 projects"
+        }, 
+        {
+            "text": "<@U1YADHSLQ|brad> has joined the channel", 
+            "type": "message", 
+            "user": "U1YADHSLQ", 
+            "ts": "1475513141.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "sf_dsi_c16_brad_scrum", 
+        "name": "sf_dsi_c16_brad_scrum", 
+        "is_channel": true, 
+        "created": 1475513141, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U1YADHSLQ", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1475513141, 
+            "value": "SF DSI Cohort 16 projects", 
+            "creator": "U1YADHSLQ"
+        }, 
+        "members": [], 
+        "id": "C2JKV58JF", 
+        "is_shared": false
+    }
+}

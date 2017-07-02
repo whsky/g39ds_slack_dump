@@ -1,0 +1,183 @@
+{
+    "messages": [
+        {
+            "text": "Keeping up is tricky. We were stretched pretty thin today...grading, prepping for upcoming lectures, and meetings. The quality of the exercises is definitely inconsistent! But getting used to plowing forward to the next topic without getting a lot of traction on the previous subject is hard to do. But when you circle back to it (weekends or break week) I think you'll see you learned more than you thought...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493779732.364826", 
+            "edited": {
+                "user": "U34BY2K3K", 
+                "ts": "1493779813.000000"
+            }
+        }, 
+        {
+            "text": "How did you try and retain all this information? I just need more help! This afternoon no one was around for the afternoon exercise for a long time and the exercises were really hard to follow along. The lecture has very little to help us along with the  exercise.", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1493778257.234985"
+        }, 
+        {
+            "text": "Sorry to hear that. Yeah, it can be a bit frustrating. But, I can honestly say that after teaching myself R and then learning Python here, I knew more Python within a month of the program.\nLet me know what I can do to help.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493777185.140330"
+        }, 
+        {
+            "text": "Honestly guys I am considering quitting the program and can't decide. I have paid all this money but I feel like I am teaching myself the material and I feel like we get very little attention, which has to do with the class size. I also feel like the materials aren't very supportive. I don't want to get pushed through and not learn the skills needed.  I am going to slack Adam and Frank too", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1493776297.056115"
+        }, 
+        {
+            "text": "Hey bud,\nSorry today was a busy day for everyone. Let me know if you want to go through anything from the pair assignment that didn't make sense.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493773692.808567"
+        }, 
+        {
+            "text": "You guys in a meeting? ", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1493762100.088073"
+        }, 
+        {
+            "text": "You should have an email with your results.  It looks like you understand the decision trees and random forest well.  Not sure about boosting since you didn't answer those.  But boosting was also really new material and most people have trouble grasping it right away.", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1493747020.627635"
+        }, 
+        {
+            "text": "Can you guys let me know how I did  on the assessment asap. I am having a hard time grasping these ML models, just want to know what you think.", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1493696195.092950"
+        }, 
+        {
+            "text": "Thanks Brent!", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1493217729.358988"
+        }, 
+        {
+            "text": "Almost more concerned with how this broadcasting is working.  If you could help me with that I'd really appreciate it ", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1493211114.274604"
+        }, 
+        {
+            "text": "Let me know how that works ", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1493178487.090737"
+        }, 
+        {
+            "text": "np.linalg.norm(a - b) is all you need for Euclidean ", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1493178460.088369"
+        }, 
+        {
+            "text": "Hey guys I am wondering if you can help me with the broadcasting issue. I want to know how this works in the KNN euclidean distance function. ``` np.sqrt(np.dot(a-b, a-b)) ``` So say like in our assignment you have an array thats (100,4) = a and we pass in a single point thats (4,1) = b . Python says I can't do this and I am not sure why. We are dealing with 4 dimensional space right? so a single point has to have 4 parameters. So confused on how this is actually working and having a hard time even testing it in Ipython. Thanks, have a good night.", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1493174023.655340", 
+            "edited": {
+                "user": "U4G9R3ABY", 
+                "ts": "1493174087.000000"
+            }
+        }, 
+        {
+            "text": "Hey would you two have the solutions to the last assessment? Stewart and I would like to go through them today if possible.", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1492971633.356661"
+        }, 
+        {
+            "text": "Yeah lets meet over there thanks", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1492536953.615468"
+        }, 
+        {
+            "text": "Let me know when you would like to meet.  We can talk in the lab.", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1492536385.413402"
+        }, 
+        {
+            "text": "can I get a one on one with one of you after lecture? thanks", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1492532178.931404"
+        }, 
+        {
+            "text": "Thanks guys.", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1492314404.160618"
+        }, 
+        {
+            "text": "Brent's link above is working for me...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1492314153.151562"
+        }, 
+        {
+            "text": "That's strange since it's an external resource.  Here is the link, see if this works: <http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf>", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1492302633.706783"
+        }, 
+        {
+            "text": "The link for monday readings isn't working for the SL, just a heads up.", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1492296861.465256"
+        }, 
+        {
+            "text": "Hey guys,", 
+            "type": "message", 
+            "user": "U4G9R3ABY", 
+            "ts": "1492296814.463481"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1492296805, 
+            "value": "Group messaging", 
+            "creator": "U4G9R3ABY"
+        }, 
+        "name_normalized": "mpdm-brent.lemieux--whsky--powers_rc-1", 
+        "name": "mpdm-brent.lemieux--whsky--powers_rc-1", 
+        "last_read": "1493779732.364826", 
+        "creator": "U4G9R3ABY", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1492296805, 
+        "is_group": true, 
+        "members": [
+            "U4G9R3ABY", 
+            "U33BKEP9Q", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1492296805, 
+            "value": "Group messaging with: @brent.lemieux @whsky @powers_rc", 
+            "creator": "U4G9R3ABY"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G4ZM53M19", 
+        "latest": {
+            "text": "Keeping up is tricky. We were stretched pretty thin today...grading, prepping for upcoming lectures, and meetings. The quality of the exercises is definitely inconsistent! But getting used to plowing forward to the next topic without getting a lot of traction on the previous subject is hard to do. But when you circle back to it (weekends or break week) I think you'll see you learned more than you thought...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1493779732.364826", 
+            "edited": {
+                "user": "U34BY2K3K", 
+                "ts": "1493779813.000000"
+            }
+        }
+    }
+}

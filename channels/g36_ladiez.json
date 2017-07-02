@@ -1,0 +1,541 @@
+{
+    "messages": [
+        {
+            "text": "<@U1Z9D27QD|tara.mclauchlan> archived the channel", 
+            "ts": "1490719755.949525", 
+            "subtype": "channel_archive", 
+            "user": "U1Z9D27QD", 
+            "members": [
+                "U1V0JV17X", 
+                "U1WUBUG6P", 
+                "U1Z9D27QD", 
+                "U2AP9MP5H", 
+                "U2AT5RLH2", 
+                "U2B58EN5U", 
+                "U2BHSUDFS", 
+                "U2CJ15VEZ", 
+                "U2E7KENV8", 
+                "U2F0SUHEG", 
+                "U2FCFTR7Z", 
+                "U2FF4NDD2", 
+                "U2FF7V1HP", 
+                "U2H7HTVKR", 
+                "U2HAZ1589", 
+                "U37T36Q77"
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U2B7PGW6N|mehri.russo> has left the channel", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1490626620.032753", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U2APAU2D9|ohendrick1223> has left the channel", 
+            "type": "message", 
+            "user": "U2APAU2D9", 
+            "ts": "1490625812.772380", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "thread_ts": "1488741436.000003", 
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "dancer::skin-tone-2", 
+                    "users": [
+                        "U2H7HTVKR", 
+                        "U1Z9D27QD"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "heart", 
+                    "users": [
+                        "U1Z9D27QD"
+                    ]
+                }
+            ], 
+            "text": "I wouldn't do that to you all the day before capstones. I'll be wearing red though. ", 
+            "ts": "1488741820.000008", 
+            "user": "U1V0JV17X", 
+            "parent_user_id": "U1V0JV17X", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1488741436.000003", 
+            "text": "teddi: Please don\u2019t leave us", 
+            "ts": "1488741554.000005", 
+            "user": "U2H7HTVKR", 
+            "parent_user_id": "U1V0JV17X", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1488741436.000003", 
+            "attachments": [
+                {
+                    "image_bytes": 186504, 
+                    "title": "How To Spend The \"Day Without A Woman\" Strike If You Can't Take The Day Off", 
+                    "text": "On March 8 \u2014 which, incidentally, is also International Women's Day \u2014 women are going on strike to demonstrate how important they are to the American workforce. It's a valuable event, but let's not forget that the ability to strike is a privilege. So", 
+                    "image_width": 476, 
+                    "title_link": "https://www.bustle.com/p/how-to-spend-the-day-without-a-woman-strike-if-you-cant-take-the-day-off-41250", 
+                    "image_height": 250, 
+                    "image_url": "https://typeset-beta.imgix.net/2017%2F2%2F28%2F632347394.jpg?w=1200&h=630&fit=crop&crop=faces&auto=format&q=70", 
+                    "service_name": "bustle.com", 
+                    "id": 1, 
+                    "fallback": "How To Spend The \"Day Without A Woman\" Strike If You Can't Take The Day Off", 
+                    "service_icon": "https://cdn.bustle.com/nighthawk.bustle.com/production/apple-touch-icon-precomposed-4d37ce324ce59940d267428520c2415e.png", 
+                    "from_url": "https://www.bustle.com/p/how-to-spend-the-day-without-a-woman-strike-if-you-cant-take-the-day-off-41250"
+                }
+            ], 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U2F0SUHEG", 
+                        "U1Z9D27QD"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "heart", 
+                    "users": [
+                        "U1Z9D27QD"
+                    ]
+                }
+            ], 
+            "text": "<https://www.bustle.com/p/how-to-spend-the-day-without-a-woman-strike-if-you-cant-take-the-day-off-41250>", 
+            "ts": "1488741436.000003", 
+            "unread_count": 2, 
+            "reply_count": 2, 
+            "user": "U1V0JV17X", 
+            "replies": [
+                {
+                    "user": "U2H7HTVKR", 
+                    "ts": "1488741554.000005"
+                }, 
+                {
+                    "user": "U1V0JV17X", 
+                    "ts": "1488741820.000008"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-2", 
+                    "users": [
+                        "U2B58EN5U"
+                    ]
+                }
+            ], 
+            "text": "hey ladies - I have a nice black blazer that is slightly too small for me. Let me know if you need one!", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1488481812.000002"
+        }, 
+        {
+            "text": "Thank you!", 
+            "type": "message", 
+            "user": "U2AP9MP5H", 
+            "ts": "1487957368.000004"
+        }, 
+        {
+            "text": "THnak youuuuuu", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1487957358.000003"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 3, 
+                    "name": "+1::skin-tone-2", 
+                    "users": [
+                        "U2H7HTVKR", 
+                        "U2BHSUDFS", 
+                        "U2E7KENV8"
+                    ]
+                }
+            ], 
+            "text": "Hey <!channel> \u2014 i\u2019m going to leave 4 Thank You cards at the back of your class \u2014 please sign by the end of the day! \n\n- Sandi, CIO and keynote speaker \n- Jack, CTO (awesome that he showed up!)\n- Lissa &amp; Amy \u2014 both have been huge advocates for y\u2019all as students and have been largely responsible for most of the Zayo / Galvanize events that have happened / will happen. \n\n\u2026also recommend reaching out and connecting on LinkedIn / Twitter :wink:", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1487957356.000002"
+        }, 
+        {
+            "text": "<!channel> let\u2019s go ladiez!! :smile:", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1487702696.000023"
+        }, 
+        {
+            "text": "LOL I think we\u2019re ok, <@U2B7PGW6N> \u2014 thank you!", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1487699429.000022"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "grimacing", 
+                    "users": [
+                        "U2AP9MP5H"
+                    ]
+                }
+            ], 
+            "text": "oops, left my wallet (and license) in my husbands truck last night. probably won\u2019t be driving", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1487699274.000020"
+        }, 
+        {
+            "text": "Roger that", 
+            "type": "message", 
+            "user": "U37T36Q77", 
+            "ts": "1487696645.000018"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1::skin-tone-2", 
+                    "users": [
+                        "U2AP9MP5H"
+                    ]
+                }
+            ], 
+            "text": "Woot! <!channel> \u2014 clarification: we\u2019re meeting in the Galvanize lobby @ 11:45 and then we\u2019ll carpool over to Zayo :slightly_smiling_face:", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1487696635.000017"
+        }, 
+        {
+            "text": "I drove today because I have a dentist appt this afternoon. I can take 3-4 people to/from the lunch.", 
+            "type": "message", 
+            "user": "U2AP9MP5H", 
+            "ts": "1487694752.000016"
+        }, 
+        {
+            "text": "I can drive 5 people if needed", 
+            "type": "message", 
+            "user": "U2B58EN5U", 
+            "ts": "1487649642.000015"
+        }, 
+        {
+            "text": "I can also drive. Fit 4-5. ", 
+            "type": "message", 
+            "user": "U2B7PGW6N", 
+            "ts": "1487644275.000014"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U37T36Q77", 
+                        "U1V0JV17X"
+                    ]
+                }
+            ], 
+            "text": "Absolutely <@U37T36Q77>! And <@U1V0JV17X> -- lunch got moved to tomorrow (so sorry I thought you were already on the invite!) ", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1487617790.000011"
+        }, 
+        {
+            "text": "I will not be able to drive, is there a way I could join one of the cars please?", 
+            "type": "message", 
+            "user": "U2H7HTVKR", 
+            "ts": "1487615890.000010"
+        }, 
+        {
+            "text": "Also confirming again for driving. Comfortably fit 4, cozily fit 5. ", 
+            "type": "message", 
+            "user": "U2FF4NDD2", 
+            "ts": "1487614382.000009"
+        }, 
+        {
+            "text": "g36 Women\u2019s Lunch @ Zayo, Tue Feb 21, 11:45-1:15pm", 
+            "type": "message", 
+            "user": "U2HAZ1589", 
+            "ts": "1487614059.000007"
+        }, 
+        {
+            "text": "Tara, what day/time is this happening? I'd like to adjust the teaching schedule if possible/necessary. ", 
+            "type": "message", 
+            "user": "U1V0JV17X", 
+            "ts": "1487611457.000006"
+        }, 
+        {
+            "text": "<@U1Z9D27QD> I never received and RSVP invite. Is there a way I can get one?", 
+            "type": "message", 
+            "user": "U37T36Q77", 
+            "ts": "1487605115.000005"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "blue_car", 
+                    "users": [
+                        "U2H7HTVKR", 
+                        "U2FF4NDD2"
+                    ]
+                }
+            ], 
+            "text": "Confirmed I can still drive! Have room for 5 :blue_car:", 
+            "type": "message", 
+            "user": "U2E7KENV8", 
+            "ts": "1487570545.000003"
+        }, 
+        {
+            "text": "Hey <!channel>! \n\nPlease make sure that your RSVP response is updated by tomorrow (Monday) at noon. I'll be updating any changes to the folks at Zayo. \n\nAlso -- drivers if you could please confirm again that would be wonderful! Thank you and very excited!", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1487568020.000002"
+        }, 
+        {
+            "text": "<@U2F0SUHEG|kjoy> has joined the channel", 
+            "ts": "1486766770.000004", 
+            "subtype": "channel_join", 
+            "user": "U2F0SUHEG", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 5, 
+                    "name": "+1::skin-tone-2", 
+                    "users": [
+                        "U2H7HTVKR", 
+                        "U2E7KENV8", 
+                        "U2HAZ1589", 
+                        "U2AP9MP5H", 
+                        "U2B58EN5U"
+                    ]
+                }
+            ], 
+            "text": "Good news is that for those interested in the UX for Mobile workshop that will be held on the 15th \u2014 now you\u2019re free to go without missing the Zayo lunch! :smile:", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1486766741.000003"
+        }, 
+        {
+            "text": "Hey <!channel>! Unfortunately Zayo\u2019s CIO, Sandi, will have to travel next week and asked if we could postpone lunch for a week. SO! please check your calendars for an updated invitation for the following week.", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1486766718.000002"
+        }, 
+        {
+            "text": "<@U26BPAR5H|kyleg> has left the channel", 
+            "type": "message", 
+            "user": "U26BPAR5H", 
+            "ts": "1486049275.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 4, 
+                    "name": "+1", 
+                    "users": [
+                        "U2HAZ1589", 
+                        "U2B58EN5U", 
+                        "U2E7KENV8", 
+                        "U2H7HTVKR"
+                    ]
+                }
+            ], 
+            "text": "Hey gals! I just sent all the g36 ladies a calendar invite for a ladies\u2019 lunch at Zayo on Feb 15th! Please RSVP on the calendar invite, and let me know if you might be willing to drive! Should be really fun :wink:", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1485975406.000021"
+        }, 
+        {
+            "text": "<@U1V0JV17X|teddi> has joined the channel", 
+            "ts": "1485975221.000020", 
+            "subtype": "channel_join", 
+            "user": "U1V0JV17X", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U37T36Q77|alicia.key> has joined the channel", 
+            "ts": "1485975221.000019", 
+            "subtype": "channel_join", 
+            "user": "U37T36Q77", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U1WUBUG6P|kfoster-marks> has joined the channel", 
+            "ts": "1485975221.000018", 
+            "subtype": "channel_join", 
+            "user": "U1WUBUG6P", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2B58EN5U|malilasage> has joined the channel", 
+            "ts": "1485975221.000017", 
+            "subtype": "channel_join", 
+            "user": "U2B58EN5U", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2CJ15VEZ|oliviatateridgley> has joined the channel", 
+            "ts": "1485975221.000016", 
+            "subtype": "channel_join", 
+            "user": "U2CJ15VEZ", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2APAU2D9|ohendrick1223> has joined the channel", 
+            "ts": "1485975221.000015", 
+            "subtype": "channel_join", 
+            "user": "U2APAU2D9", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2FCFTR7Z|edavis> has joined the channel", 
+            "ts": "1485975220.000014", 
+            "subtype": "channel_join", 
+            "user": "U2FCFTR7Z", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2HAZ1589|justa> has joined the channel", 
+            "ts": "1485975220.000013", 
+            "subtype": "channel_join", 
+            "user": "U2HAZ1589", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U26BPAR5H|kyleg> has joined the channel", 
+            "ts": "1485975220.000012", 
+            "subtype": "channel_join", 
+            "user": "U26BPAR5H", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2FF7V1HP|hrod28> has joined the channel", 
+            "ts": "1485975220.000011", 
+            "subtype": "channel_join", 
+            "user": "U2FF7V1HP", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2B7PGW6N|mehri.russo> has joined the channel", 
+            "ts": "1485975220.000010", 
+            "subtype": "channel_join", 
+            "user": "U2B7PGW6N", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2AP9MP5H|laura-b> has joined the channel", 
+            "ts": "1485975220.000009", 
+            "subtype": "channel_join", 
+            "user": "U2AP9MP5H", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2E7KENV8|katieajenkins> has joined the channel", 
+            "ts": "1485975220.000008", 
+            "subtype": "channel_join", 
+            "user": "U2E7KENV8", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2BHSUDFS|annamefford> has joined the channel", 
+            "ts": "1485975220.000007", 
+            "subtype": "channel_join", 
+            "user": "U2BHSUDFS", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2H7HTVKR|caspeter> has joined the channel", 
+            "ts": "1485975220.000006", 
+            "subtype": "channel_join", 
+            "user": "U2H7HTVKR", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2AT5RLH2|annapanana> has joined the channel", 
+            "ts": "1485975220.000005", 
+            "subtype": "channel_join", 
+            "user": "U2AT5RLH2", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U2FF4NDD2|ari.clark> has joined the channel", 
+            "ts": "1485975220.000004", 
+            "subtype": "channel_join", 
+            "user": "U2FF4NDD2", 
+            "type": "message", 
+            "inviter": "U1Z9D27QD"
+        }, 
+        {
+            "text": "<@U1Z9D27QD|tara.mclauchlan> set the channel purpose: Get all them ladiez of the cohort chattin\u2019!", 
+            "ts": "1485975220.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1Z9D27QD", 
+            "type": "message", 
+            "purpose": "Get all them ladiez of the cohort chattin\u2019!"
+        }, 
+        {
+            "text": "<@U1Z9D27QD|tara.mclauchlan> has joined the channel", 
+            "type": "message", 
+            "user": "U1Z9D27QD", 
+            "ts": "1485975219.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "g36_ladiez", 
+        "name": "g36_ladiez", 
+        "is_channel": true, 
+        "created": 1485975219, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U1Z9D27QD", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1485975220, 
+            "value": "Get all them ladiez of the cohort chattin\u2019!", 
+            "creator": "U1Z9D27QD"
+        }, 
+        "members": [], 
+        "id": "C3ZGG7MD1", 
+        "is_shared": false
+    }
+}

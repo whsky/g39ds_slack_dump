@@ -1,0 +1,216 @@
+{
+    "messages": [
+        {
+            "text": "<http://www.espn.com/chalk/story/_/id/18892935/ncaa-tournament-lines-westgate-las-vegas-superbook-every-first-round-game>", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1489407303.135016", 
+            "attachments": [
+                {
+                    "image_bytes": 323464, 
+                    "title": "Lines for 2017 NCAA tournament first-round games", 
+                    "service_name": "ESPN.com", 
+                    "image_width": 444, 
+                    "title_link": "http://www.espn.com/chalk/story/_/id/18892935/ncaa-tournament-lines-westgate-las-vegas-superbook-every-first-round-game", 
+                    "image_height": 250, 
+                    "image_url": "http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2014%2F1111%2Finsider_lasVegas_d1_1296x729.jpg", 
+                    "text": "Looking to place a wager on the 2017 NCAA tournament? Here are the lines for every first-round tournament game from the Westgate Las Vegas SuperBook.", 
+                    "id": 1, 
+                    "fallback": "ESPN.com: Lines for 2017 NCAA tournament first-round games", 
+                    "service_icon": "http://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons/espn_icon-57x57.min.png", 
+                    "from_url": "http://www.espn.com/chalk/story/_/id/18892935/ncaa-tournament-lines-westgate-las-vegas-superbook-every-first-round-game"
+                }
+            ]
+        }, 
+        {
+            "text": "I think that's retail. Word, thanks homie!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489171837.874883"
+        }, 
+        {
+            "text": "Depends on where the seats are too", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1489171759.857893"
+        }, 
+        {
+            "text": "I saw Dave Chappell at fiddlers a couple years ago, nice open venue", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1489171749.855410"
+        }, 
+        {
+            "text": "Awesome! I too love hall and Oates and saw them at red rocks last year. I believe I paid about the same if not more. I think that's a fair price is that retail or resale? They have a nice opener too I believe", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1489171713.847820"
+        }, 
+        {
+            "text": "Hey bud, I have a friend coming into town in July. She love Hall &amp; Oates. $60 for lawn seats at Fiddler's Green...what do think, is this worth it?  I've never been there before.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489170933.671523"
+        }, 
+        {
+            "text": "date.weekday()\n\n    Return the day of the week as an integer, where Monday is 0 and Sunday is 6. For example, date(2002, 12, 4).weekday() == 2, a Wednesday. See also isoweekday().", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1488823272.000002"
+        }, 
+        {
+            "text": "<https://marcobonzanini.com/2015/02/25/fuzzy-string-matching-in-python/>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1488503875.000002", 
+            "attachments": [
+                {
+                    "author_link": "https://marcobonzanini.com/author/marcobonzanini/", 
+                    "service_name": "Marco Bonzanini", 
+                    "title": "Fuzzy String Matching in\u00a0Python", 
+                    "author_name": "Marco", 
+                    "title_link": "https://marcobonzanini.com/2015/02/25/fuzzy-string-matching-in-python/", 
+                    "service_url": "http://marcobonzanini.com", 
+                    "text": "Fuzzy String Matching, also called Approximate String Matching, is the process of finding strings that approximatively match a given pattern.\nThe closeness of a match is often measured in terms of edit distance, which is the number of primitive operations necessary to convert the string into an exact match.\nPrimitive operations are usually: insertion (to insert a new character at a given position), deletion (to delete a particular character) and substitution (to replace a character with a new one).\nFuzzy String Matching can have different practical applications. Typical examples are spell-checking, text re-use detection (the politically correct way of calling plagiarism detection), spam filtering, as well as several applications in the bioinformatics domain, e.g. matching DNA sequences.\nThis article plays around with fuzzywuzzy, a Python library for Fuzzy String Matching.\nGetting Started with Fuzzywuzzy\nFuzzyWuzzy has been developed and open-sourced by SeatGeek, a service to find sport and concert tickets.  Their original use case, as discussed in their blog, was the problem given by the many different ways of labelling the same event, adding or hiding location, dates, venue, etc. This problem is also arising with different entities like persons or companies.\nTo install the library, you can use pip as usual:\npip install fuzzywuzzy\nThe main modules in FuzzyWuzzy are called fuzz, for string-to-string comparisons, and process to compare a string with a list of strings.\nUnder the hood, FuzzyWuzzy uses difflib, part of the standard library, so there is nothing extra to install. We can anyway benefit from the performance of python-Levenshtein for sequence matching, so let&rsquo;s also install this library:\npip install python-Levenshtein\nExamples of Usage\nFirstly, let&rsquo;s import the main modules:\n\nfrom fuzzywuzzy import fuzz\nfrom fuzzywuzzy import process\n\nIn order to calculate a similarity score between two strings, we can use the methods ratio() or partial_ratio():\n\nfuzz.ratio(\"ACME Factory\", \"ACME Factory Inc.\")\n# 83\nfuzz.partial_ratio(\"ACME Factory\", \"ACME Factory Inc.\")\n# 100\n\nWe can see how the ratio() function is confused by the suffix &ldquo;Inc.&rdquo; used in company names, but really the two strings refer to the same entity. This is captured by the partial ratio.\nMore examples:\n\nfuzz.ratio('Barack Obama', 'Barack H. Obama')\n# 89\nfuzz.partial_ratio('Barack Obama', 'Barack H. Obama')\n# 75\n\nfuzz.ratio('Barack H Obama', 'Barack H. Obama')\n# 97\nfuzz.partial_ratio('Barack H Obama', 'Barack H. Obama')\n# 92\n\nHere we observe the opposite behaviour: different variations in Barack Obama&rsquo;s name produce a lower score for the partial ratio, why is that? Probably because the extra token for the middle name is right in the middle of the string. For this particular case, we can benefit by other functions that tokenise the string and treat it as a set or as a sequence of words:\n\nfuzz.token_sort_ratio('Barack Obama', 'Barack H. Obama')\n# 92\nfuzz.token_set_ratio('Barack Obama', 'Barack H. Obama')\n# 100\n\nfuzz.token_sort_ratio('Barack H Obama', 'Barack H. Obama')\n# 100\nfuzz.token_set_ratio('Barack H Obama', 'Barack H. Obama')\n# 100\n\nThe token_* functions split the string on white-spaces, lowercase everything and get rid of non-alpha non-numeric characters, which means punctuation is ignored (as well as weird unicode symbols).\nIn case we have a list of options and we want to find the closest match(es), we can use the process module:\n\nquery = 'Barack Obama'\nchoices = ['Barack H Obama', 'Barack H. Obama', 'B. Obama']\n# Get a list of matches ordered by score, default limit to 5\nprocess.extract(query, choices)\n# [('Barack H Obama', 95), ('Barack H. Obama', 95), ('B. Obama', 85)]\n\n# If we want only the top one\nprocess.extractOne(query, choices)\n# ('Barack H Obama', 95)\n\nSummary\nThis article has introduced Fuzzy String Matching, which is a well understood problem with some interesting practical applications.\nPython has a very simple option to tackle the problem: the FuzzyWuzzy library, which is built on top of difflib (and python-Levenshtein for speed). It can take a while to figure out how to scope our string matching problem, but the easy interface of fuzzywuzzy should help speeding up the development.", 
+                    "id": 1, 
+                    "fallback": "Marco Bonzanini Link: Fuzzy String Matching in&nbsp;Python", 
+                    "service_icon": "https://s0.wp.com/i/webclip.png", 
+                    "from_url": "https://marcobonzanini.com/2015/02/25/fuzzy-string-matching-in-python/"
+                }
+            ]
+        }, 
+        {
+            "text": "`<http://benanne.github.io/2014/08/05/spotify-cnns.html>`", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487785040.000003"
+        }, 
+        {
+            "text": "Stumbled across an engineer at Spotify describing using Neural Nets to generate latent features for making better playlists:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487785036.000002"
+        }, 
+        {
+            "text": "Ahh, cool.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487719133.000004"
+        }, 
+        {
+            "text": "I got mine. I think that's robs, I'll message him thanks bud", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1487719113.000003"
+        }, 
+        {
+            "text": "Hey, I think you left your laptop charger on the table...I'm going to put it on top of the bookcase by the window in case you need it!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487719072.000002"
+        }, 
+        {
+            "text": "it'a a unicode non-breaking space, so you just need to replace it with an actual space...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487709737.000003"
+        }, 
+        {
+            "text": "`string = string.replace(u'\\xa0', u' ')`", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487709708.000002"
+        }, 
+        {
+            "text": "Damn spreads dawg I can dig it. If you could get a good grasp on how vegas manufactures spreads that'd be very interesting. I bet a lot of overlooked factors are in play that the public undervalues", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1487005287.000005"
+        }, 
+        {
+            "text": "Hell yeah, might have to tweak some of my process to get probabilities out rather than point spreads, but it sounds like fun...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487004455.000004"
+        }, 
+        {
+            "text": "Let me know if you'd wanna run that after you're done with your project, could be fun to see how yours stacks up. There was some people discussing NN they used too", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1487004397.000003"
+        }, 
+        {
+            "text": "Ha, awesome thanks bud!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1487004214.000002"
+        }, 
+        {
+            "text": "<https://www.kaggle.com/c/march-machine-learning-mania-2017>", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1486997652.000002"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F3S5EUSJU/pair.py|pair.py> and commented: pair assignment 1-17-17", 
+            "upload": true, 
+            "ts": "1484700568.000002", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "initial_comment": {
+                    "comment": "pair assignment 1-17-17", 
+                    "created": 1484700568, 
+                    "timestamp": 1484700568, 
+                    "is_intro": true, 
+                    "user": "U34BY2K3K", 
+                    "id": "Fc3S68MA7K"
+                }, 
+                "filetype": "python", 
+                "lines_more": 36, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3S5EUSJU", 
+                "size": 1139, 
+                "title": "pair.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3S5EUSJU/pair.py", 
+                "ims": [
+                    "D3S5EP40G"
+                ], 
+                "preview": "from pymongo import MongoClient\nfrom bs4 import BeautifulSoup\nimport os.path\nimport requests\n", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/whsky/F3S5EUSJU/pair.py/edit", 
+                "username": "", 
+                "timestamp": 1484700568, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3S5EUSJU/download/pair.py", 
+                "user": "U34BY2K3K", 
+                "groups": [], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "pair.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3S5EUSJU-3b75850720", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F3S5EUSJU/pair.py", 
+                "is_external": false, 
+                "created": 1484700568, 
+                "lines": 41, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">pymongo</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">MongoClient</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">bs4</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">BeautifulSoup</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">os</span>.<span class=\"cm-property\">path</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">requests</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U3E2TDR2B", 
+            "U34BY2K3K"
+        ]
+    }
+}

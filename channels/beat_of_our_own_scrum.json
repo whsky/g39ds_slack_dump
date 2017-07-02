@@ -1,0 +1,464 @@
+{
+    "messages": [
+        {
+            "text": "```\n    Stefano\nReducing Childhood Mortality in Africa\nRandomized controlled trial\nLooking for practical conclusions about best (most informative) survey questions\nAlso built a predictive model\nClass Imbalances!\nRF, Ada, GB, SVM\nWrote a balanced-bagger\nNot a tremendous amount of signal\n0.65 AUC\nWhat do we like? Not accuracy, but Recall (so, F1 score)\n\"Isolation forests\"? (future work)\n\n    Matt\nStock market (reimplementing a paper)\nRF to predict returns over time period (30/60/90)\nSuccessfully replicated, but not generalizable :-(\nExplored other indicators\nFeature engineering, covariance, \"RFE\"\n--(plots)--\nFuture steps: momentum, volatility\n\n    Woody \nSF Crime Data: predict whether crime gets resolved\nSubsetted to \"interesting, serious crimes\" (**how did you make these decisions &amp; why?**)\nDefined \"resolved\"\nDummified districts\nTopic modeling on descriptions\n--helped!\nFurther features: not much more improvement\nImportant features: Location (District)\n\n\n    Stephanie\nWorking with wellness weight loss company\nRecorded fitness progress\nNutrition! Food logs\nProblem: logs are unstructured\nSolution: structurize them\nHand label to fit a model, then use model to predict labels for new data\nLinear Chain CRF with more features (POS, punctuation)\nNaive Bayes Baseline\nCRF outscored NB. Also here are the per-label scores.\n\n\n    Cat\nGoal: generate appealing color palette suggestions for a picture of an unfurnished room.\n\"good colors\" are subjective, so...\nScraped best National Geographic photos (nature, landscapes). They are OBJECTIVELY APPEALING.\nVisualization: How I turned an image into a color palette\n--DBSCAN, cluster \"center\"\n--comparing palette overlap: silhouette score\nRecommend palettes based on overlap with input picture\nWebapp screenshots\nBaseline: average RGB over whole image, define image distance based on RGB point to RGB point. \nNext steps: tuning DBSCAN per image. using a different color space. make webapp nicer. \n\n\n```", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1495475417.243661", 
+            "edited": {
+                "user": "U1UBYJQM6", 
+                "ts": "1495475437.000000"
+            }
+        }, 
+        {
+            "text": "Presentation tips: <https://github.com/gSchool/project-proposals/blob/master/presentation.md>", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1495472908.256922"
+        }, 
+        {
+            "text": "Bueller?", 
+            "type": "message", 
+            "user": "U3HHJ52JF", 
+            "ts": "1495472051.903297"
+        }, 
+        {
+            "text": "Okay. I'm in now. Our conductor floored it.", 
+            "type": "message", 
+            "user": "U4B42HAL8", 
+            "ts": "1495470359.211197"
+        }, 
+        {
+            "text": "<!channel> let's meet up at 10", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1495469803.980700"
+        }, 
+        {
+            "text": "Hey team, I'm waiting for the Caltrain now and it's delayed 15 min. So I might be a bit late to our meeting this morning but I'll be there as soon as I can", 
+            "type": "message", 
+            "user": "U4B42HAL8", 
+            "ts": "1495465062.800365"
+        }, 
+        {
+            "text": "<http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html>", 
+            "type": "message", 
+            "user": "U1YEKSK45", 
+            "ts": "1495212320.488983", 
+            "attachments": [
+                {
+                    "image_bytes": 48204, 
+                    "title": "Amy Cuddy\u2019s \u201cPower Pose\u201d Research Is the Latest Example of Scientific Overreach", 
+                    "service_name": "Slate Magazine", 
+                    "image_width": 351, 
+                    "title_link": "http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html", 
+                    "image_height": 250, 
+                    "image_url": "http://www.slate.com/content/dam/slate/articles/health_and_science/science/2016/01/160115_SCI_power-pose.jpg.CROP.promo-large.jpg", 
+                    "text": "As practicing statisticians who work in social science, we have a dark secret to reveal: Some of the most glamorous, popular claims in the field are no ...", 
+                    "id": 1, 
+                    "fallback": "Slate Magazine: Amy Cuddy\u2019s \u201cPower Pose\u201d Research Is the Latest Example of Scientific Overreach", 
+                    "service_icon": "http://www.slate.com/favicon.ico", 
+                    "from_url": "http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html"
+                }
+            ]
+        }, 
+        {
+            "text": "I'm on the BART still at Balboa Park, I don't think I'll be able to make in time sorry guys", 
+            "type": "message", 
+            "user": "U4848S7QE", 
+            "ts": "1495210559.779094"
+        }, 
+        {
+            "text": "also this: <http://www.atlasobscura.com/articles/florence-nightingale-infographic>", 
+            "type": "message", 
+            "user": "U4B42HAL8", 
+            "ts": "1495129605.173225", 
+            "attachments": [
+                {
+                    "image_bytes": 59059, 
+                    "title": "Happy Birthday Florence Nightingale, Unexpected Queen of Infographics", 
+                    "service_name": "Atlas Obscura", 
+                    "ts": 1494623700, 
+                    "title_link": "http://www.atlasobscura.com/articles/florence-nightingale-infographic", 
+                    "image_height": 250, 
+                    "image_url": "https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvYXNzZXRzL2E2YWJkNTU5MWVjZTc3YjY2MF9pbnZhbGlkaW5nLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MSAtYXV0by1vcmllbnQiXSxbInAiLCJ0aHVtYiIsIjYwMHg-Il1d/invaliding.jpg", 
+                    "image_width": 369, 
+                    "text": "The famed nurse was also an early practitioner of marshaling statistics to advance social causes.", 
+                    "id": 1, 
+                    "fallback": "Atlas Obscura: Happy Birthday Florence Nightingale, Unexpected Queen of Infographics", 
+                    "service_icon": "http://assets.atlasobscura.com/assets/favicon-cc5216a130077092525c8c0c8564549de1817d1a1885e1d69369fd98aaff504a.ico", 
+                    "from_url": "http://www.atlasobscura.com/articles/florence-nightingale-infographic"
+                }
+            ]
+        }, 
+        {
+            "text": "<http://www.marinamele.com/install-and-configure-atom-editor-for-python>", 
+            "type": "message", 
+            "user": "U4B42HAL8", 
+            "ts": "1495128534.695746"
+        }, 
+        {
+            "text": "Hey gang, I\u2019m in a meeting this morning and Moses is running late, so he\u2019s anticipating getting in at about 10.", 
+            "type": "message", 
+            "user": "U1YEKSK45", 
+            "ts": "1495125303.271850"
+        }, 
+        {
+            "text": "What's a 15:00", 
+            "type": "message", 
+            "user": "U49JVF5UH", 
+            "ts": "1495065390.550902"
+        }, 
+        {
+            "text": "I'll come search for you at 15:00", 
+            "type": "message", 
+            "user": "U4848S7QE", 
+            "ts": "1495052082.678286"
+        }, 
+        {
+            "text": "Thx", 
+            "type": "message", 
+            "user": "U4848S7QE", 
+            "ts": "1495052072.674016"
+        }, 
+        {
+            "text": "Yeah, sounds great.", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1495048467.198867"
+        }, 
+        {
+            "text": "Moses, can I have a session with you today to ask you some advice about how I organized my code between the different classes? After 15:00 would be perfect any time for me if you are free", 
+            "type": "message", 
+            "user": "U4848S7QE", 
+            "ts": "1495040872.840710"
+        }, 
+        {
+            "text": "Uber is dragging, might be a few minutes late.", 
+            "type": "message", 
+            "user": "U3HHJ52JF", 
+            "ts": "1495037714.431940"
+        }, 
+        {
+            "text": "Im going to be a few few minutes late", 
+            "type": "message", 
+            "user": "U49JVF5UH", 
+            "ts": "1494865730.241392"
+        }, 
+        {
+            "text": "hi isaac, moses, I'm coming in the afternoon tomorrow so I won't be there for the scrum, sorry guys", 
+            "type": "message", 
+            "user": "U4848S7QE", 
+            "ts": "1494824956.120971"
+        }, 
+        {
+            "text": "<https://github.com/cxc13513/color-match>", 
+            "type": "message", 
+            "user": "U4B42HAL8", 
+            "ts": "1494608291.220509", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://fst.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "cxc13513/color-match", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/cxc13513/color-match", 
+                    "text": "Contribute to color-match development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: cxc13513/color-match", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/23533535?v=3&s=400", 
+                    "from_url": "https://github.com/cxc13513/color-match"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "partyfrog", 
+                    "users": [
+                        "U3HHJ52JF"
+                    ]
+                }
+            ], 
+            "text": "(follow up on economic growth: <https://dothemath.ucsd.edu/2011/07/can-economic-growth-last/> )", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1494523380.161302"
+        }, 
+        {
+            "text": "Here's a fun glimpse of the future of exponential growth: <https://dothemath.ucsd.edu/2011/07/galactic-scale-energy/>", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1494523016.003048"
+        }, 
+        {
+            "text": "<https://github.com/woodrujm/Capstone>", 
+            "type": "message", 
+            "user": "U49JVF5UH", 
+            "ts": "1494521984.548778", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://fst.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "woodrujm/Capstone", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/woodrujm/Capstone", 
+                    "text": "Capstone - Woodruff Repo", 
+                    "id": 1, 
+                    "fallback": "GitHub: woodrujm/Capstone", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/25488611?v=3&s=400", 
+                    "from_url": "https://github.com/woodrujm/Capstone"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/mcohenmcohen/trading_ml>", 
+            "type": "message", 
+            "user": "U3HHJ52JF", 
+            "ts": "1494521918.519348", 
+            "attachments": [
+                {
+                    "thumb_height": 250, 
+                    "service_icon": "https://fst.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+                    "thumb_width": 250, 
+                    "title": "mcohenmcohen/trading_ml", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/mcohenmcohen/trading_ml", 
+                    "text": "Contribute to trading_ml development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: mcohenmcohen/trading_ml", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/9144104?v=3&s=400", 
+                    "from_url": "https://github.com/mcohenmcohen/trading_ml"
+                }
+            ]
+        }, 
+        {
+            "text": "The company started in a familiar way: garage, two founders, maxed-out credit cards. The name the founders chose was Specialties\u2014the correctly spelled plural. (More on that choice later.) \u201cBut when they went to apply for a business license,\u201d Sean told me, \u201cthey discovered that spelling was taken, so they changed it to Specialty\u2019s.\u201d\n- <http://nancyfriedman.typepad.com/away_with_words/2014/09/how-specialtys-got-its-oddly-punctuated-name.html>", 
+            "type": "message", 
+            "user": "U3HHJ52JF", 
+            "ts": "1494520459.883166", 
+            "attachments": [
+                {
+                    "image_bytes": 31506, 
+                    "title": "How Specialty&amp;rsquo;s Got Its (Oddly Punctuated) Name", 
+                    "service_name": "Fritinancy", 
+                    "image_width": 348, 
+                    "title_link": "http://nancyfriedman.typepad.com/away_with_words/2014/09/how-specialtys-got-its-oddly-punctuated-name.html", 
+                    "image_height": 250, 
+                    "image_url": "http://nancyfriedman.typepad.com/.a/6a00d8341c4f9453ef01bb078a5239970d-600wi", 
+                    "text": "Here\u2019s a late addition to my National Punctuation Day roundup of quirkily punctuated brand names. This one comes with such a good story that I decided to give it its own post. * Specialty\u2019s Caf\u00e9 and Bakery, which has 48 locations in California, Washington, and Illinois, has been puzzling proofreaders...", 
+                    "id": 1, 
+                    "fallback": "Fritinancy: How Specialty&amp;rsquo;s Got Its (Oddly Punctuated) Name", 
+                    "service_icon": "http://nancyfriedman.typepad.com/favicon.ico", 
+                    "from_url": "http://nancyfriedman.typepad.com/away_with_words/2014/09/how-specialtys-got-its-oddly-punctuated-name.html"
+                }
+            ]
+        }, 
+        {
+            "text": "A deep dive into what feature importance in Random Forests means with respect to correlated features: <https://arxiv.org/abs/1310.5726>", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1494440193.779077"
+        }, 
+        {
+            "text": "Probability calibration: <http://scikit-learn.org/stable/modules/calibration.html>", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1494439849.629730"
+        }, 
+        {
+            "text": "it's too far gone", 
+            "type": "message", 
+            "user": "U49JVF5UH", 
+            "ts": "1494435667.770505"
+        }, 
+        {
+            "text": "Er, 10:30. I promise I will earn back your trust. ", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1494435513.700287"
+        }, 
+        {
+            "text": "<!channel> sorry for the late notice but let's meet at 10:15 today instead", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1494432881.535538"
+        }, 
+        {
+            "text": "oh right, see you at 11:45", 
+            "type": "message", 
+            "user": "U3HHJ52JF", 
+            "ts": "1494347490.019911"
+        }, 
+        {
+            "text": "Team?", 
+            "type": "message", 
+            "user": "U3HHJ52JF", 
+            "ts": "1494347453.003297"
+        }, 
+        {
+            "text": "Tuesday meeting: 11:45", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1494262803.041667"
+        }, 
+        {
+            "text": "<@U3HHJ52JF|mcohenmcohen> has joined the channel", 
+            "ts": "1494262791.036008", 
+            "subtype": "channel_join", 
+            "user": "U3HHJ52JF", 
+            "type": "message", 
+            "inviter": "U1UBYJQM6"
+        }, 
+        {
+            "text": "Tracking spreadsheet: <https://docs.google.com/spreadsheets/d/1U_qdgxBoF0Lb_vi5L9_cWAkSChIP3Tx2K7XWgeD0Pgc/edit?usp=sharing>", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1494261730.600553"
+        }, 
+        {
+            "name": "beat_of_our_own_scrum", 
+            "text": "<@U1YEKSK45|isaac.laughlin> has renamed the channel from \"mo_isaac_scrum\" to \"beat_of_our_own_scrum\"", 
+            "ts": "1494261694.585811", 
+            "subtype": "channel_name", 
+            "user": "U1YEKSK45", 
+            "old_name": "mo_isaac_scrum", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U4CAB2MMY|markcatalysis> has left the channel", 
+            "type": "message", 
+            "user": "U4CAB2MMY", 
+            "ts": "1494261254.410563", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "Running five minutes late, myself. ", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1494260767.208432"
+        }, 
+        {
+            "text": "Would you prefer to meet afterwards so that I can report to you what we said, or do I do that in tomorrow's scrum?", 
+            "type": "message", 
+            "user": "U4848S7QE", 
+            "ts": "1494259424.646049"
+        }, 
+        {
+            "text": "Hi Isaac, Moses, I won't be able to take part to the scrum today, as I have a call scheduled at 9:30 with the \"customer's\" BA. We're going to be talking about the CRT they're giving me and data in general.", 
+            "type": "message", 
+            "user": "U4848S7QE", 
+            "ts": "1494259386.629191"
+        }, 
+        {
+            "text": "<@U4CAB2MMY|markcatalysis> has joined the channel", 
+            "ts": "1494022591.975573", 
+            "subtype": "channel_join", 
+            "user": "U4CAB2MMY", 
+            "type": "message", 
+            "inviter": "U1YEKSK45"
+        }, 
+        {
+            "text": "<@U4AEZHB5E|ssychong> has joined the channel", 
+            "ts": "1494022591.975539", 
+            "subtype": "channel_join", 
+            "user": "U4AEZHB5E", 
+            "type": "message", 
+            "inviter": "U1YEKSK45"
+        }, 
+        {
+            "text": "<@U3QAWPB8D|eliotlogan> has joined the channel", 
+            "ts": "1494022591.975537", 
+            "subtype": "channel_join", 
+            "user": "U3QAWPB8D", 
+            "type": "message", 
+            "inviter": "U1YEKSK45"
+        }, 
+        {
+            "text": "<@U49JVF5UH|woodrujm> has joined the channel", 
+            "ts": "1494022591.975506", 
+            "subtype": "channel_join", 
+            "user": "U49JVF5UH", 
+            "type": "message", 
+            "inviter": "U1YEKSK45"
+        }, 
+        {
+            "text": "<@U4848S7QE|stefano.brunelli> has joined the channel", 
+            "ts": "1494022591.975495", 
+            "subtype": "channel_join", 
+            "user": "U4848S7QE", 
+            "type": "message", 
+            "inviter": "U1YEKSK45"
+        }, 
+        {
+            "text": "<@U1UBYJQM6|moses.marsh> has joined the channel", 
+            "ts": "1494022591.975457", 
+            "subtype": "channel_join", 
+            "user": "U1UBYJQM6", 
+            "type": "message", 
+            "inviter": "U1YEKSK45"
+        }, 
+        {
+            "text": "<@U1YEKSK45|isaac.laughlin> set the channel purpose: Temporary name until somebody thinks of something more fun.", 
+            "ts": "1494022591.975454", 
+            "subtype": "channel_purpose", 
+            "user": "U1YEKSK45", 
+            "type": "message", 
+            "purpose": "Temporary name until somebody thinks of something more fun."
+        }, 
+        {
+            "text": "<@U4B42HAL8|cxc13513> has joined the channel", 
+            "ts": "1494022591.975445", 
+            "subtype": "channel_join", 
+            "user": "U4B42HAL8", 
+            "type": "message", 
+            "inviter": "U1YEKSK45"
+        }, 
+        {
+            "text": "<@U1YEKSK45|isaac.laughlin> has joined the channel", 
+            "type": "message", 
+            "user": "U1YEKSK45", 
+            "ts": "1494022590.975338", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "beat_of_our_own_scrum", 
+        "name": "beat_of_our_own_scrum", 
+        "is_channel": true, 
+        "created": 1494022590, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1YEKSK45", 
+        "is_org_shared": false, 
+        "previous_names": [
+            "mo_isaac_scrum"
+        ], 
+        "purpose": {
+            "last_set": 1494022591, 
+            "value": "Temporary name until somebody thinks of something more fun.", 
+            "creator": "U1YEKSK45"
+        }, 
+        "members": [
+            "U1UBYJQM6", 
+            "U1YEKSK45", 
+            "U3HHJ52JF", 
+            "U3QAWPB8D", 
+            "U4848S7QE", 
+            "U49JVF5UH", 
+            "U4AEZHB5E", 
+            "U4B42HAL8"
+        ], 
+        "id": "C59LVBUDT", 
+        "is_shared": false
+    }
+}

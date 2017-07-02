@@ -1,0 +1,33 @@
+{
+    "messages": [], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1496339725, 
+            "value": "Group messaging", 
+            "creator": "U3SVB50MB"
+        }, 
+        "name_normalized": "mpdm-brent.lemieux--whsky--bens-1", 
+        "name": "mpdm-brent.lemieux--whsky--bens-1", 
+        "last_read": "0000000000.000000", 
+        "creator": "U3SVB50MB", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1496339725, 
+        "is_group": true, 
+        "members": [
+            "U3SVB50MB", 
+            "U33BKEP9Q", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1496339725, 
+            "value": "Group messaging with: @brent.lemieux @whsky @bens", 
+            "creator": "U3SVB50MB"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5N5KFQ23", 
+        "latest": null
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "messages": [
+        {
+            "text": "<@U36F34RGA|merylkrich> archived the channel", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1495746545.174651", 
+            "subtype": "channel_archive"
+        }, 
+        {
+            "text": "<@U55NXF8UA|mavpmp> has joined the channel", 
+            "type": "message", 
+            "user": "U55NXF8UA", 
+            "ts": "1493327573.977370", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U54CU5JNN|syeira555> has joined the channel", 
+            "type": "message", 
+            "user": "U54CU5JNN", 
+            "ts": "1493151083.571913", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4DQ3716U|evanwyloge> has joined the channel", 
+            "ts": "1493138708.494791", 
+            "subtype": "channel_join", 
+            "user": "U4DQ3716U", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U4DQ3716U>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1493138706.494006"
+        }, 
+        {
+            "text": "<@U4DQ3716U>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1493138667.477882"
+        }, 
+        {
+            "text": "Hi all, I would like to get an idea of what everyone's background is.  I work for Allstate in CompoZed Labs.  I am a Product Manager. I know some Python, some R and a lot of SAS.  Anyone else?", 
+            "type": "message", 
+            "user": "U53T8URL4", 
+            "ts": "1493074962.681831"
+        }, 
+        {
+            "text": "<@U53T8URL4|rich-james> has joined the channel", 
+            "type": "message", 
+            "user": "U53T8URL4", 
+            "ts": "1493073982.483610", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U50DL0YQ0|junaid> has joined the channel", 
+            "ts": "1493058037.102962", 
+            "subtype": "channel_join", 
+            "user": "U50DL0YQ0", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U4ZCC063D|jainammakati> has joined the channel", 
+            "ts": "1493058037.102951", 
+            "subtype": "channel_join", 
+            "user": "U4ZCC063D", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U4FQQ8VK9|rbern412> has joined the channel", 
+            "ts": "1493058037.102936", 
+            "subtype": "channel_join", 
+            "user": "U4FQQ8VK9", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U4EFCS32P|ark.n> has joined the channel", 
+            "ts": "1493058037.102925", 
+            "subtype": "channel_join", 
+            "user": "U4EFCS32P", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U532L831C|troy_peterson> has joined the channel", 
+            "ts": "1493058037.102906", 
+            "subtype": "channel_join", 
+            "user": "U532L831C", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U532L831C> <@U4EFCS32P> <@U4YQ44CFJ> <@U4FQQ8VK9> <@U4ZCC063D> <@U50DL0YQ0>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1493058033.101460"
+        }, 
+        {
+            "text": "<@U4F7LA8JJ|rpc212> has joined the channel", 
+            "ts": "1493057822.015459", 
+            "subtype": "channel_join", 
+            "user": "U4F7LA8JJ", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U4F7LA8JJ>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1493057820.014509"
+        }, 
+        {
+            "text": "<@U4F7LA8JJ>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1493055986.260830"
+        }, 
+        {
+            "text": "<@U4EFCS32P>", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1493055935.239881"
+        }, 
+        {
+            "text": "<@U30UDCYF2|chrishuie> has joined the channel", 
+            "ts": "1493055417.034277", 
+            "subtype": "channel_join", 
+            "user": "U30UDCYF2", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U4EFAMYDS|dotsdl> has joined the channel", 
+            "ts": "1493055417.034243", 
+            "subtype": "channel_join", 
+            "user": "U4EFAMYDS", 
+            "type": "message", 
+            "inviter": "U36F34RGA"
+        }, 
+        {
+            "text": "<@U36F34RGA|merylkrich> set the channel purpose: Statistics Short Course", 
+            "ts": "1493055417.034198", 
+            "subtype": "channel_purpose", 
+            "user": "U36F34RGA", 
+            "type": "message", 
+            "purpose": "Statistics Short Course"
+        }, 
+        {
+            "text": "<@U36F34RGA|merylkrich> has joined the channel", 
+            "type": "message", 
+            "user": "U36F34RGA", 
+            "ts": "1493055416.033967", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "phx_stats_apr17", 
+        "name": "phx_stats_apr17", 
+        "is_channel": true, 
+        "created": 1493055416, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U36F34RGA", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1493055417, 
+            "value": "Statistics Short Course", 
+            "creator": "U36F34RGA"
+        }, 
+        "members": [], 
+        "id": "C530YP10Q", 
+        "is_shared": false
+    }
+}

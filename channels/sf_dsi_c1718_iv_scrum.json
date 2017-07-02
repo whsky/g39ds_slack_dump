@@ -1,0 +1,829 @@
+{
+    "messages": [
+        {
+            "text": "<@U1VA45RE2|ivan> archived the channel", 
+            "ts": "1481609507.000002", 
+            "subtype": "channel_archive", 
+            "user": "U1VA45RE2", 
+            "members": [
+                "U1UBYJQM6", 
+                "U1VA45RE2", 
+                "U1WL4KDRT", 
+                "U1YEKSK45", 
+                "U21KYKHV0", 
+                "U21LPPS3W", 
+                "U253BP9K7", 
+                "U256PLJKC", 
+                "U25LZGHC5", 
+                "U28UPRSCA", 
+                "U2ATTPFU2"
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1UCK7AAW|ultramann> has left the channel", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1480968610.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "I just put the presentation room assignments in the 1718 channel", 
+            "type": "message", 
+            "user": "U1UBYJQM6", 
+            "ts": "1480625340.000005"
+        }, 
+        {
+            "text": "Jk nvm", 
+            "type": "message", 
+            "user": "U25LZGHC5", 
+            "ts": "1480624499.000004"
+        }, 
+        {
+            "text": "Can somebody forward it please?", 
+            "type": "message", 
+            "user": "U25LZGHC5", 
+            "ts": "1480624257.000003"
+        }, 
+        {
+            "text": "Hi, I don't see it", 
+            "type": "message", 
+            "user": "U25LZGHC5", 
+            "ts": "1480624249.000002"
+        }, 
+        {
+            "text": "yup", 
+            "type": "message", 
+            "user": "U28UPRSCA", 
+            "ts": "1480526167.000003"
+        }, 
+        {
+            "text": "You guys got the schedule, right?", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1480526092.000002"
+        }, 
+        {
+            "text": "right now", 
+            "type": "message", 
+            "user": "U21KYKHV0", 
+            "ts": "1480451614.000012"
+        }, 
+        {
+            "text": "what time?", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1480451587.000011"
+        }, 
+        {
+            "text": "hey guys, i booked the ocean beach room on level 3, we have it for half hour if you guys want to practice", 
+            "type": "message", 
+            "user": "U28UPRSCA", 
+            "ts": "1480451483.000010"
+        }, 
+        {
+            "text": "Just to be on the same age.  First round is from 1:45 to 2:30.  Second round id from 5 to 5:30.", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1480446924.000009"
+        }, 
+        {
+            "text": "ah ok sorry sorry", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1480446477.000008"
+        }, 
+        {
+            "text": "We'll be in 312.", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1480446301.000007"
+        }, 
+        {
+            "text": "<@U256PLJKC>, You\u2019re welcome to sit in on others practice presentations. But this round is mainly going to be within scrum groups.", 
+            "type": "message", 
+            "user": "U1UCK7AAW", 
+            "ts": "1480443470.000006"
+        }, 
+        {
+            "text": "are we watching all presentations?", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1480440554.000005"
+        }, 
+        {
+            "text": "Running a little late , should be there 10 10", 
+            "type": "message", 
+            "user": "U21LPPS3W", 
+            "ts": "1480440141.000004"
+        }, 
+        {
+            "text": "Good morning.  Yes we are!", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1480438271.000003"
+        }, 
+        {
+            "text": "are we still meeting at 10 am too?", 
+            "type": "message", 
+            "user": "U21KYKHV0", 
+            "ts": "1480435046.000002"
+        }, 
+        {
+            "text": "i'm near the lift i can wait for you here", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1480378074.000009"
+        }, 
+        {
+            "text": "yep!", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1480378059.000008"
+        }, 
+        {
+            "text": "Is everyone there already?", 
+            "type": "message", 
+            "user": "U25LZGHC5", 
+            "ts": "1480378040.000007"
+        }, 
+        {
+            "text": "Ah, okay. Isaac sent out a message and I thought it went out to everyone, but it was just the scrum leads. Here is the schedule for tomorrow:  Scrum leader    First Time    Second Time\nChris    10-10:45    2:30-3\nMoses    10:45-11:30    3-3:30\nIsaac    11:30-12:15    3:30-4\nDan B.    12:15-1:00    4-4:30\nCary    1-1:45    4:30-5\nIvan    1:45-2:30    5-5:30", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1480377986.000006"
+        }, 
+        {
+            "text": "From Dan:", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1480377984.000005"
+        }, 
+        {
+            "text": "Having trouble finding the room on 4th floor", 
+            "type": "message", 
+            "user": "U25LZGHC5", 
+            "ts": "1480377970.000004"
+        }, 
+        {
+            "text": "I booked Panhandle (4th floor) at 4 PM so we can rehearse your presentations.", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1480357538.000003"
+        }, 
+        {
+            "text": "Morning!  I hope you had a great Thanksgivings!  Let's meet at our usual place at 10 this morning.", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1480354556.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VA45RE2"
+                    ]
+                }
+            ], 
+            "text": "would've been nice if something like this was integrated into our curriculum", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1480111922.000005"
+        }, 
+        {
+            "text": "wish I saw this from day1 so that all my docstrings could've been in this format", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1480111905.000004"
+        }, 
+        {
+            "text": "<http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html>", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1480111897.000003"
+        }, 
+        {
+            "text": "found this, looks helpful! to make our code look more professional", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1480111897.000002"
+        }, 
+        {
+            "username": "brityboy", 
+            "display_as_bot": false, 
+            "text": "<@U256PLJKC|brityboy> uploaded a file: <https://gstudents.slack.com/files/brityboy/F35PSSMC1/wsdm227-saha.pdf|wsdm227-saha.pdf> and commented: here's one way of doing incremental NMF, reading it now, so far so good :slightly_smiling_face:", 
+            "upload": true, 
+            "ts": "1479929201.000010", 
+            "subtype": "file_share", 
+            "user": "U256PLJKC", 
+            "file": {
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "+1", 
+                        "users": [
+                            "U1VA45RE2"
+                        ]
+                    }
+                ], 
+                "initial_comment": {
+                    "comment": "here's one way of doing incremental NMF, reading it now, so far so good :slightly_smiling_face:", 
+                    "created": 1479929200, 
+                    "timestamp": 1479929200, 
+                    "is_intro": true, 
+                    "user": "U256PLJKC", 
+                    "id": "Fc374PGKGE"
+                }, 
+                "filetype": "pdf", 
+                "channels": [
+                    "C316DSMSP"
+                ], 
+                "display_as_bot": false, 
+                "id": "F35PSSMC1", 
+                "size": 519781, 
+                "title": "wsdm227-saha.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F35PSSMC1/wsdm227-saha.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1479929200, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F35PSSMC1/download/wsdm227-saha.pdf", 
+                "user": "U256PLJKC", 
+                "groups": [], 
+                "is_public": true, 
+                "pretty_type": "PDF", 
+                "name": "wsdm227-saha.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F35PSSMC1-bbb6b82caa", 
+                "permalink": "https://gstudents.slack.com/files/brityboy/F35PSSMC1/wsdm227-saha.pdf", 
+                "is_external": false, 
+                "created": 1479929200, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://imgur.com/ZY8dKpA>", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1479914110.000008", 
+            "attachments": [
+                {
+                    "thumb_height": 600, 
+                    "service_icon": "http://s.imgur.com/images/favicon-152.png", 
+                    "thumb_width": 800, 
+                    "video_url": "https://i.imgur.com/ZY8dKpA.mp4", 
+                    "title": "How to make your tables less terrible", 
+                    "service_name": "Imgur", 
+                    "video_html_height": "600", 
+                    "title_link": "https://imgur.com/ZY8dKpA", 
+                    "video_html_width": "800", 
+                    "text": "Imgur: The most awesome images on the Internet.", 
+                    "id": 1, 
+                    "fallback": "Imgur: How to make your tables less terrible", 
+                    "thumb_url": "http://i.imgur.com/ZY8dKpA.gif?noredirect", 
+                    "from_url": "https://imgur.com/ZY8dKpA"
+                }
+            ]
+        }, 
+        {
+            "text": "another really good one", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1479914110.000007"
+        }, 
+        {
+            "text": "<http://www.cehd.umn.edu/OLPD/MESI/spring/2015/Ficek-DataVis.pdf>", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1479910124.000006"
+        }, 
+        {
+            "text": "currently reading up on data visualization approaches that lean more towards the \"simplify to emphasize\" your point in telling a story, sharing some good readings", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1479910123.000005"
+        }, 
+        {
+            "text": "Ok", 
+            "type": "message", 
+            "user": "U28UPRSCA", 
+            "ts": "1479837396.000004"
+        }, 
+        {
+            "text": "11am, noted, thanks!", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1479836722.000003"
+        }, 
+        {
+            "text": "Morning!  Running a bit behind.  Let's meet at your usual spot at 11 AM...", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479832704.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1VA45RE2"
+                    ]
+                }
+            ], 
+            "text": "<https://github.com/zipfian/project-proposals/blob/master/presentation.md>", 
+            "type": "message", 
+            "user": "U25LZGHC5", 
+            "ts": "1479752284.000006"
+        }, 
+        {
+            "text": "And good morning all!", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479750469.000005"
+        }, 
+        {
+            "text": "Yes!", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479750461.000004"
+        }, 
+        {
+            "text": "good morning! are we meeting on the 5th floor again?", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1479747980.000003"
+        }, 
+        {
+            "text": "<@U1UC9NH9Q|darren_reger> has left the channel", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1479741952.000002", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<!channel> please come to the dsi office other group members!!!", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1479517632.000014"
+        }, 
+        {
+            "text": "see you!", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1479517512.000013"
+        }, 
+        {
+            "text": "beside the instructor's lounge", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1479517502.000012"
+        }, 
+        {
+            "text": "afternoon scrum is happening now", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1479517496.000011"
+        }, 
+        {
+            "text": "hi guys!", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1479517488.000010"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "cold_sweat", 
+                    "users": [
+                        "U256PLJKC", 
+                        "U21KYKHV0"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "scream", 
+                    "users": [
+                        "U28UPRSCA"
+                    ]
+                }
+            ], 
+            "text": "Looking forward to hearing about all your projects and then asking really hard questions :stuck_out_tongue:", 
+            "type": "message", 
+            "user": "U1UC9NH9Q", 
+            "ts": "1479500513.000009"
+        }, 
+        {
+            "text": "Hi guys.  As I mentioned this morning, I can't be here for the social scrum with 19/20.  Darren was gracious enough to lead the group.  Thanks Darren!", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479500478.000008"
+        }, 
+        {
+            "text": "<@U1UC9NH9Q|darren_reger> has joined the channel", 
+            "ts": "1479500416.000006", 
+            "subtype": "channel_join", 
+            "user": "U1UC9NH9Q", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "I think you've done a lot of great work this week.  With your basic pipeline mostly ready, it's now time to see what specific portions you would like to focus on next week.\n\nThe best way to prioritize next week's work is through what you will present in your 3 minutes capstone presentation.\n\nHere's what I would like you to do over the weekend.  Start thinking very hard about your story.  Yep, a great presentation is all about telling a great story.\n\nAs you make slides to support your story, write down what you want your slide to say with as much details as possible.  Iterate a few times.\n\nOnce you are (mostly) satisfied with your deck, you now have your road map for next week:  Generate the graph and other data to fill up these slides.  It doesn't mean that you should no longer work on your model but what you have to do will be much more specific.\n\nAfter our scrum week, I would like to go over your draft deck.  We can either do that 1-1 or with the scrum group.", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479497463.000005"
+        }, 
+        {
+            "text": "will be slightly late, my apologies, perhaps 10:10 is my eta", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1479491592.000004"
+        }, 
+        {
+            "text": "Sounds good Mike.  Also let's meet at the same place today as yesterday...", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479491375.000003"
+        }, 
+        {
+            "text": "Morning guys I have a physiotherapy session this morning but I'll be in this afternoon- see y'all later!", 
+            "type": "message", 
+            "user": "U1WL4KDRT", 
+            "ts": "1479489877.000002"
+        }, 
+        {
+            "text": "Morning Gang!  Let's meet on the 5th floor this morning (Tehama side):  Super quiet, beautiful skylight, and great companies to talk to when you want to take a break!", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479403095.000002"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "nerd_face", 
+                    "users": [
+                        "U1WL4KDRT"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "charmander_dancing", 
+                    "users": [
+                        "U256PLJKC"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "thumb_height": 518, 
+                    "thumb_width": 1027, 
+                    "title": "Commits.io - Your code has never looked this good", 
+                    "service_name": "Commits.io", 
+                    "title_link": "https://commits.io/", 
+                    "text": "Create a beautiful poster from your code and an image. Printed on museum quality paper and with archival ink that lasts generations.", 
+                    "id": 1, 
+                    "fallback": "Commits.io: Commits.io - Your code has never looked this good", 
+                    "thumb_url": "https://commits.io/assets/splash-015db6c765d90cb526bc07f45496ce338aaf8c85037ec9b5c08e05898176e290.png", 
+                    "from_url": "https://commits.io/"
+                }
+            ], 
+            "text": "if you want a little something to remind you of your capstone blood sweat and tears <https://commits.io/>", 
+            "ts": "1479280854.000002", 
+            "user": "U28UPRSCA", 
+            "type": "message"
+        }, 
+        {
+            "text": "Posting my GitHub repo here:\n<https://github.com/yungmsh/capstone_project>", 
+            "type": "message", 
+            "user": "U1WL4KDRT", 
+            "ts": "1479166537.000009", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "yungmsh/capstone_project", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/yungmsh/capstone_project", 
+                    "text": "capstone_project - Final Capstone Project - Galvanize", 
+                    "id": 1, 
+                    "fallback": "GitHub: yungmsh/capstone_project", 
+                    "thumb_url": "https://avatars1.githubusercontent.com/u/17309733?v=3&s=400", 
+                    "from_url": "https://github.com/yungmsh/capstone_project"
+                }
+            ]
+        }, 
+        {
+            "text": "that looks much simpler. Thanks! I was using this <https://docs.mongodb.com/ecosystem/platforms/amazon-ec2/#deploy-mongodb-ec2>", 
+            "type": "message", 
+            "user": "U28UPRSCA", 
+            "ts": "1479159134.000008"
+        }, 
+        {
+            "text": "(this one looks simpler than the one you shown me I think: <https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-amazon/>)", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479157575.000006", 
+            "attachments": [
+                {
+                    "title": "Install MongoDB Community Edition on Amazon Linux \u2014 MongoDB Manual 3.2", 
+                    "text": "MongoDB Manual 3.2 Install MongoDB Community Edition on Amazon Linux", 
+                    "title_link": "https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-amazon/", 
+                    "service_name": "docs.mongodb.com", 
+                    "id": 1, 
+                    "fallback": "Install MongoDB Community Edition on Amazon Linux \u2014 MongoDB Manual 3.2", 
+                    "service_icon": "https://media.mongodb.org/favicon.ico", 
+                    "from_url": "https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-amazon/"
+                }
+            ]
+        }, 
+        {
+            "text": "Hi Elizabeth.  which tutorial did you use for installing MongoDB on your EC2 instance?", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1479157543.000005"
+        }, 
+        {
+            "text": "Sorry My lyft driver is having app issues. So I'll be 10 mins late ", 
+            "type": "message", 
+            "user": "U28UPRSCA", 
+            "ts": "1479145650.000004"
+        }, 
+        {
+            "text": "It's everyday ", 
+            "type": "message", 
+            "user": "U28UPRSCA", 
+            "ts": "1479145528.000003"
+        }, 
+        {
+            "text": "Hi guys are we meeting at 10am on the 3/F or was that only for last Friday?", 
+            "type": "message", 
+            "user": "U1WL4KDRT", 
+            "ts": "1479144751.000002"
+        }, 
+        {
+            "text": "<https://github.com/salmariazi/Diabetes_Monitor>", 
+            "type": "message", 
+            "user": "U21KYKHV0", 
+            "ts": "1478889325.000003", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "salmariazi/Diabetes_Monitor", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/salmariazi/Diabetes_Monitor", 
+                    "text": "Contribute to Diabetes_Monitor development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: salmariazi/Diabetes_Monitor", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/16942350?v=3&s=400", 
+                    "from_url": "https://github.com/salmariazi/Diabetes_Monitor"
+                }
+            ]
+        }, 
+        {
+            "text": "scrum starting here at the 3rd floor kitchen", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1478887245.000002"
+        }, 
+        {
+            "text": "<https://github.com/lizbug/capstone_project>", 
+            "type": "message", 
+            "user": "U28UPRSCA", 
+            "ts": "1478851158.000004", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "lizbug/capstone_project", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/lizbug/capstone_project", 
+                    "text": "Contribute to capstone_project development by creating an account on GitHub.", 
+                    "id": 1, 
+                    "fallback": "GitHub: lizbug/capstone_project", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/10291323?v=3&s=400", 
+                    "from_url": "https://github.com/lizbug/capstone_project"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/ocarmieo/github-trends>", 
+            "type": "message", 
+            "user": "U25LZGHC5", 
+            "ts": "1478851027.000002", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "ocarmieo/github-trends", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/ocarmieo/github-trends", 
+                    "text": "github-trends - Google Trends for open source libraries", 
+                    "id": 1, 
+                    "fallback": "GitHub: ocarmieo/github-trends", 
+                    "thumb_url": "https://avatars0.githubusercontent.com/u/10440367?v=3&s=400", 
+                    "from_url": "https://github.com/ocarmieo/github-trends"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/brityboy/BotBoosted>", 
+            "type": "message", 
+            "user": "U256PLJKC", 
+            "ts": "1478843255.000002", 
+            "attachments": [
+                {
+                    "thumb_height": 400, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 400, 
+                    "title": "brityboy/BotBoosted", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/brityboy/BotBoosted", 
+                    "text": "BotBoosted - An App that Measures and Explores the Fraudulence of a Queried Topic on Twitter", 
+                    "id": 1, 
+                    "fallback": "GitHub: brityboy/BotBoosted", 
+                    "thumb_url": "https://avatars3.githubusercontent.com/u/18532719?v=3&s=400", 
+                    "from_url": "https://github.com/brityboy/BotBoosted"
+                }
+            ]
+        }, 
+        {
+            "text": "<https://github.com/carlssonnp/Capstone-Project>", 
+            "type": "message", 
+            "user": "U21LPPS3W", 
+            "ts": "1478832748.000003", 
+            "attachments": [
+                {
+                    "thumb_height": 420, 
+                    "service_icon": "https://github.com/apple-touch-icon.png", 
+                    "thumb_width": 420, 
+                    "title": "carlssonnp/Capstone-Project", 
+                    "service_name": "GitHub", 
+                    "title_link": "https://github.com/carlssonnp/Capstone-Project", 
+                    "text": "Capstone-Project - Galvanize Cohort 18 - Capstone Project", 
+                    "id": 1, 
+                    "fallback": "GitHub: carlssonnp/Capstone-Project", 
+                    "thumb_url": "https://avatars2.githubusercontent.com/u/20629163?v=3&s=400", 
+                    "from_url": "https://github.com/carlssonnp/Capstone-Project"
+                }
+            ]
+        }, 
+        {
+            "text": "Hi Ivan - Here is the link. See you tomorrow!", 
+            "type": "message", 
+            "user": "U21LPPS3W", 
+            "ts": "1478832744.000002"
+        }, 
+        {
+            "text": "Also, please go ahead and create your GitHub repo for your capstone project and post the link here.", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1478826931.000016"
+        }, 
+        {
+            "text": "Take the evening off.  You deserve it.  We will really start tomorrow, and yes we will be meeting...", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1478826887.000015"
+        }, 
+        {
+            "text": "Guys, this is the channel we will be using for your scrum group.  Our meeting time will be at 10 AM, on the 3rd floor, on the Tehama street side.", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1478826808.000014"
+        }, 
+        {
+            "text": "<@U1UBYJQM6|moses.marsh> has joined the channel", 
+            "ts": "1478826668.000013", 
+            "subtype": "channel_join", 
+            "user": "U1UBYJQM6", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "<@U2ATTPFU2|dan> has joined the channel", 
+            "ts": "1478826667.000012", 
+            "subtype": "channel_join", 
+            "user": "U2ATTPFU2", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "<@U253BP9K7|chris.overton> has joined the channel", 
+            "ts": "1478826667.000011", 
+            "subtype": "channel_join", 
+            "user": "U253BP9K7", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "<@U1YEKSK45|isaac.laughlin> has joined the channel", 
+            "ts": "1478826667.000010", 
+            "subtype": "channel_join", 
+            "user": "U1YEKSK45", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "<@U1UCK7AAW|ultramann> has joined the channel", 
+            "ts": "1478826667.000009", 
+            "subtype": "channel_join", 
+            "user": "U1UCK7AAW", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "<@U21LPPS3W|carlssonnp> has joined the channel", 
+            "ts": "1478826600.000008", 
+            "subtype": "channel_join", 
+            "user": "U21LPPS3W", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "<@U21KYKHV0|salmariazi> has joined the channel", 
+            "ts": "1478826600.000007", 
+            "subtype": "channel_join", 
+            "user": "U21KYKHV0", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "<@U1WL4KDRT|yungmsh> has joined the channel", 
+            "ts": "1478826600.000006", 
+            "subtype": "channel_join", 
+            "user": "U1WL4KDRT", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "<@U25LZGHC5|carmen> has joined the channel", 
+            "ts": "1478826600.000005", 
+            "subtype": "channel_join", 
+            "user": "U25LZGHC5", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "<@U28UPRSCA|khalizzy> has joined the channel", 
+            "ts": "1478826600.000004", 
+            "subtype": "channel_join", 
+            "user": "U28UPRSCA", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "<@U256PLJKC|brityboy> has joined the channel", 
+            "ts": "1478826600.000003", 
+            "subtype": "channel_join", 
+            "user": "U256PLJKC", 
+            "type": "message", 
+            "inviter": "U1VA45RE2"
+        }, 
+        {
+            "text": "<@U1VA45RE2|ivan> has joined the channel", 
+            "type": "message", 
+            "user": "U1VA45RE2", 
+            "ts": "1478826497.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "sf_dsi_c1718_iv_scrum", 
+        "name": "sf_dsi_c1718_iv_scrum", 
+        "is_channel": true, 
+        "created": 1478826497, 
+        "is_member": false, 
+        "is_archived": true, 
+        "creator": "U1VA45RE2", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "members": [], 
+        "id": "C316DSMSP", 
+        "is_shared": false
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "messages": [
+        {
+            "username": "tilla23", 
+            "display_as_bot": false, 
+            "text": "<@U3PNGE865|tilla23> uploaded a file: <https://gstudents.slack.com/files/tilla23/F5HARUF3L/capstone_proposal.zip|capstone_proposal.zip> and commented: hey guys, here\u2019s my project proposal!", 
+            "upload": true, 
+            "ts": "1495637330.159578", 
+            "subtype": "file_share", 
+            "user": "U3PNGE865", 
+            "file": {
+                "initial_comment": {
+                    "comment": "hey guys, here\u2019s my project proposal!", 
+                    "created": 1495637329, 
+                    "timestamp": 1495637329, 
+                    "is_intro": true, 
+                    "user": "U3PNGE865", 
+                    "id": "Fc5GPGQ9ND"
+                }, 
+                "filetype": "zip", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5HARUF3L", 
+                "size": 61084, 
+                "title": "capstone_proposal.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5HARUF3L/capstone_proposal.zip", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495637329, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5HARUF3L/download/capstone_proposal.zip", 
+                "user": "U3PNGE865", 
+                "groups": [
+                    "G4WTB3AUR"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Zip", 
+                "name": "capstone_proposal.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5HARUF3L-d8c9d8f9ee", 
+                "permalink": "https://gstudents.slack.com/files/tilla23/F5HARUF3L/capstone_proposal.zip", 
+                "is_external": false, 
+                "created": 1495637329, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Thanks Bob.  Hope you feel better.", 
+            "type": "message", 
+            "user": "U1WHHHQ7N", 
+            "ts": "1491919183.066958"
+        }, 
+        {
+            "text": "Hey guys,\nI just woke up feeling super sick - going to try and take care of today's material from home, just wanted to let you all know!\nBob", 
+            "type": "message", 
+            "user": "U3PNGE865", 
+            "ts": "1491916827.104160"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1491916364, 
+            "value": "Group messaging", 
+            "creator": "U3PNGE865"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--tilla23-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--tilla23-1", 
+        "last_read": "1495637330.159578", 
+        "creator": "U3PNGE865", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1491916364, 
+        "is_group": true, 
+        "members": [
+            "U3PNGE865", 
+            "U1Z90HJG3", 
+            "U1WHHHQ7N", 
+            "U34BY2K3K", 
+            "U33BKEP9Q"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1491916364, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky @tilla23", 
+            "creator": "U3PNGE865"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G4WTB3AUR", 
+        "latest": {
+            "username": "tilla23", 
+            "display_as_bot": false, 
+            "text": "<@U3PNGE865|tilla23> uploaded a file: <https://gstudents.slack.com/files/tilla23/F5HARUF3L/capstone_proposal.zip|capstone_proposal.zip> and commented: hey guys, here\u2019s my project proposal!", 
+            "upload": true, 
+            "ts": "1495637330.159578", 
+            "subtype": "file_share", 
+            "user": "U3PNGE865", 
+            "file": {
+                "initial_comment": {
+                    "comment": "hey guys, here\u2019s my project proposal!", 
+                    "created": 1495637329, 
+                    "timestamp": 1495637329, 
+                    "is_intro": true, 
+                    "user": "U3PNGE865", 
+                    "id": "Fc5GPGQ9ND"
+                }, 
+                "filetype": "zip", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5HARUF3L", 
+                "size": 61084, 
+                "title": "capstone_proposal.zip", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5HARUF3L/capstone_proposal.zip", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495637329, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5HARUF3L/download/capstone_proposal.zip", 
+                "user": "U3PNGE865", 
+                "groups": [
+                    "G4WTB3AUR"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Zip", 
+                "name": "capstone_proposal.zip", 
+                "mimetype": "application/zip", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5HARUF3L-d8c9d8f9ee", 
+                "permalink": "https://gstudents.slack.com/files/tilla23/F5HARUF3L/capstone_proposal.zip", 
+                "is_external": false, 
+                "created": 1495637329, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    }
+}

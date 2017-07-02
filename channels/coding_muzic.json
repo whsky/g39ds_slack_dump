@@ -1,0 +1,58 @@
+{
+    "messages": [
+        {
+            "text": ":notes: Welcome!!! :notes:", 
+            "type": "message", 
+            "user": "U2E7KENV8", 
+            "ts": "1498835999.694262"
+        }, 
+        {
+            "text": "<@U4SPCC6VA> <@U3PJP00HG> <@U4TPZ0LA2> <@U4LLSKD55> <@U3Q2JC6R4>  <@U4KENPYDS> <@U3NL672UQ> <@U4JN6ACQK> <@U4MK1L202> <@U4TJWG09J> <@U4KFPC4PR> <@U4J8AFLEL> <@U3QES0B7H> <@U3PTW16TF> <@U4T03TNS2>  <@U3PNSN5BL> <@U4JQW89PU> <@U4J3YULMN> <@U4JT76VMX> <@U4Q8MH162> <@U1V0JV17X> <@U1UQY6B8T>", 
+            "type": "message", 
+            "user": "U2E7KENV8", 
+            "ts": "1498835976.685342"
+        }, 
+        {
+            "text": "<@U2E7KENV8|katieajenkins> set the channel purpose: To share glorious music to code to!", 
+            "ts": "1498763123.102358", 
+            "subtype": "channel_purpose", 
+            "user": "U2E7KENV8", 
+            "type": "message", 
+            "purpose": "To share glorious music to code to!"
+        }, 
+        {
+            "text": "<@U2E7KENV8|katieajenkins> has joined the channel", 
+            "type": "message", 
+            "user": "U2E7KENV8", 
+            "ts": "1498763121.101618", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "coding_muzic", 
+        "name": "coding_muzic", 
+        "is_channel": true, 
+        "created": 1498763121, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U2E7KENV8", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1498763123, 
+            "value": "To share glorious music to code to!", 
+            "creator": "U2E7KENV8"
+        }, 
+        "members": [
+            "U2E7KENV8"
+        ], 
+        "id": "C61QE1FEW", 
+        "is_shared": false
+    }
+}

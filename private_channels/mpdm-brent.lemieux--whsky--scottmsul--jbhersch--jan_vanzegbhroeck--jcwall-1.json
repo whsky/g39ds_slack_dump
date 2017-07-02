@@ -1,0 +1,137 @@
+{
+    "messages": [
+        {
+            "text": "Team STNS on the rise.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489544897.458708"
+        }, 
+        {
+            "text": "Woot woot!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489544880.456504"
+        }, 
+        {
+            "text": "Also the person before tour at 54 entries is just weak ", 
+            "type": "message", 
+            "user": "U3BHWDP0D", 
+            "ts": "1489544775.443526"
+        }, 
+        {
+            "text": "Damn you are good! :100: ", 
+            "type": "message", 
+            "user": "U3BHWDP0D", 
+            "ts": "1489544735.438780"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F4HLD84SC/kaggle_leaderboard.tiff|Kaggle_Leaderboard.tiff>", 
+            "upload": true, 
+            "ts": "1489525533.484201", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [
+                    "G4HMGSHU4"
+                ], 
+                "filetype": "tiff", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F4HLD84SC-c80f88e9aa/kaggle_leaderboard_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F4HLD84SC-c80f88e9aa/kaggle_leaderboard_64.png", 
+                "size": 99284, 
+                "original_h": 525, 
+                "thumb_360_w": 360, 
+                "title": "Kaggle_Leaderboard.tiff", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F4HLD84SC/kaggle_leaderboard.tiff", 
+                "thumb_720_h": 375, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F4HLD84SC-c80f88e9aa/kaggle_leaderboard_360.png", 
+                "id": "F4HLD84SC", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F4HLD84SC-c80f88e9aa/kaggle_leaderboard_80.png", 
+                "thumb_360_h": 187, 
+                "thumb_480_h": 250, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1489525530, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F4HLD84SC-c80f88e9aa/kaggle_leaderboard_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F4HLD84SC/download/kaggle_leaderboard.tiff", 
+                "user": "U34BY2K3K", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F4HLD84SC-c80f88e9aa/kaggle_leaderboard_960.png", 
+                "is_public": false, 
+                "pretty_type": "TIFF", 
+                "name": "Kaggle_Leaderboard.tiff", 
+                "mimetype": "image/tiff", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F4HLD84SC-fd7c1af8c3", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F4HLD84SC/kaggle_leaderboard.tiff", 
+                "is_external": false, 
+                "created": 1489525530, 
+                "thumb_960_h": 500, 
+                "original_w": 1009, 
+                "thumb_960_w": 960, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F4HLD84SC-c80f88e9aa/kaggle_leaderboard_720.png", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "It's a rare moment, but I am feeling rather pleased with myself at the moment:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489525519.479345"
+        }, 
+        {
+            "text": "i updated the eda.py file to add the opponents season averages", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1489431870.315511"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1489431813, 
+            "value": "Group messaging", 
+            "creator": "U33BKEP9Q"
+        }, 
+        "name_normalized": "mpdm-brent.lemieux--whsky--scottmsul--jbhersch--jan_vanzegbhroeck--jcwall-1", 
+        "name": "mpdm-brent.lemieux--whsky--scottmsul--jbhersch--jan_vanzegbhroeck--jcwall-1", 
+        "last_read": "1489544897.458708", 
+        "creator": "U33BKEP9Q", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1489431813, 
+        "is_group": true, 
+        "members": [
+            "U33BKEP9Q", 
+            "U3E2TDR2B", 
+            "U3AUKQEKU", 
+            "U3AQUNZPX", 
+            "U34BY2K3K", 
+            "U3BHWDP0D"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1489431813, 
+            "value": "Group messaging with: @brent.lemieux @whsky @scottmsul @jbhersch @jan_vanzegbhroeck @jcwall", 
+            "creator": "U33BKEP9Q"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G4HMGSHU4", 
+        "latest": {
+            "text": "Team STNS on the rise.", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1489544897.458708"
+        }
+    }
+}

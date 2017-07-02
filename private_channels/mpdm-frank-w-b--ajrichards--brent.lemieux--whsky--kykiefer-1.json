@@ -1,0 +1,133 @@
+{
+    "messages": [
+        {
+            "username": "kykiefer", 
+            "display_as_bot": false, 
+            "text": "<@U39J8B4LT|kykiefer> uploaded a file: <https://gstudents.slack.com/files/kykiefer/F5HCP925S/ky_kiefer_depressiondetectproposal.pdf|ky_kiefer_DepressionDetectProposal.pdf> and commented: Preliminary proposal!", 
+            "upload": true, 
+            "ts": "1495638565.267189", 
+            "subtype": "file_share", 
+            "user": "U39J8B4LT", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Preliminary proposal!", 
+                    "created": 1495638564, 
+                    "timestamp": 1495638564, 
+                    "is_intro": true, 
+                    "user": "U39J8B4LT", 
+                    "id": "Fc5GM075EC"
+                }, 
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5HCP925S", 
+                "size": 82728, 
+                "title": "ky_kiefer_DepressionDetectProposal.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5HCP925S/ky_kiefer_depressiondetectproposal.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495638564, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5HCP925S/download/ky_kiefer_depressiondetectproposal.pdf", 
+                "user": "U39J8B4LT", 
+                "groups": [
+                    "G5J5X9DC7"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "ky_kiefer_DepressionDetectProposal.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5HCP925S-c71742b787", 
+                "permalink": "https://gstudents.slack.com/files/kykiefer/F5HCP925S/ky_kiefer_depressiondetectproposal.pdf", 
+                "is_external": false, 
+                "created": 1495638564, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1495638196, 
+            "value": "Group messaging", 
+            "creator": "U39J8B4LT"
+        }, 
+        "name_normalized": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--kykiefer-1", 
+        "name": "mpdm-frank-w-b--ajrichards--brent.lemieux--whsky--kykiefer-1", 
+        "last_read": "1495638565.267189", 
+        "creator": "U39J8B4LT", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1495638196, 
+        "is_group": true, 
+        "members": [
+            "U39J8B4LT", 
+            "U1Z90HJG3", 
+            "U1WHHHQ7N", 
+            "U33BKEP9Q", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1495638196, 
+            "value": "Group messaging with: @frank-w-b @ajrichards @brent.lemieux @whsky @kykiefer", 
+            "creator": "U39J8B4LT"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G5J5X9DC7", 
+        "latest": {
+            "username": "kykiefer", 
+            "display_as_bot": false, 
+            "text": "<@U39J8B4LT|kykiefer> uploaded a file: <https://gstudents.slack.com/files/kykiefer/F5HCP925S/ky_kiefer_depressiondetectproposal.pdf|ky_kiefer_DepressionDetectProposal.pdf> and commented: Preliminary proposal!", 
+            "upload": true, 
+            "ts": "1495638565.267189", 
+            "subtype": "file_share", 
+            "user": "U39J8B4LT", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Preliminary proposal!", 
+                    "created": 1495638564, 
+                    "timestamp": 1495638564, 
+                    "is_intro": true, 
+                    "user": "U39J8B4LT", 
+                    "id": "Fc5GM075EC"
+                }, 
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F5HCP925S", 
+                "size": 82728, 
+                "title": "ky_kiefer_DepressionDetectProposal.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5HCP925S/ky_kiefer_depressiondetectproposal.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1495638564, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5HCP925S/download/ky_kiefer_depressiondetectproposal.pdf", 
+                "user": "U39J8B4LT", 
+                "groups": [
+                    "G5J5X9DC7"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "ky_kiefer_DepressionDetectProposal.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5HCP925S-c71742b787", 
+                "permalink": "https://gstudents.slack.com/files/kykiefer/F5HCP925S/ky_kiefer_depressiondetectproposal.pdf", 
+                "is_external": false, 
+                "created": 1495638564, 
+                "comments_count": 1, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }
+    }
+}

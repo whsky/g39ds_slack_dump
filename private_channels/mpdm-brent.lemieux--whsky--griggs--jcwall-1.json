@@ -1,0 +1,684 @@
+{
+    "messages": [
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "nerd_face", 
+                    "users": [
+                        "U3AQVRWPP"
+                    ]
+                }
+            ], 
+            "text": "Yeah just make sure my hair looks good", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1485451172.000003"
+        }, 
+        {
+            "text": "Knock yourself out!", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1485444439.000002"
+        }, 
+        {
+            "text": "Fine with me!", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1485400869.000002"
+        }, 
+        {
+            "text": "Do you guys mind if I put our Case Study presentation as a project on my Linked In page?  Was going to add you all as team members for the project...", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1485391865.000002"
+        }, 
+        {
+            "text": "Got an AUC of 0.86...I think that's better than Adam's!", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1485044770.000002"
+        }, 
+        {
+            "username": "griggs", 
+            "display_as_bot": false, 
+            "text": "<@U3AQVRWPP|griggs> uploaded a file: <https://gstudents.slack.com/files/griggs/F3UKJ6AG4/casestudy_1_churn_analysis.pdf|CaseStudy_1_Churn_Analysis.pdf>", 
+            "upload": true, 
+            "ts": "1484956329.000048", 
+            "subtype": "file_share", 
+            "user": "U3AQVRWPP", 
+            "file": {
+                "filetype": "pdf", 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3UKJ6AG4", 
+                "size": 439480, 
+                "title": "CaseStudy_1_Churn_Analysis.pdf", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3UKJ6AG4/casestudy_1_churn_analysis.pdf", 
+                "ims": [], 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484956328, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3UKJ6AG4/download/casestudy_1_churn_analysis.pdf", 
+                "user": "U3AQVRWPP", 
+                "groups": [
+                    "G3V28P2NA"
+                ], 
+                "is_public": false, 
+                "pretty_type": "PDF", 
+                "name": "CaseStudy_1_Churn_Analysis.pdf", 
+                "mimetype": "application/pdf", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3UKJ6AG4-17a99f4a17", 
+                "permalink": "https://gstudents.slack.com/files/griggs/F3UKJ6AG4/casestudy_1_churn_analysis.pdf", 
+                "is_external": false, 
+                "created": 1484956328, 
+                "comments_count": 0, 
+                "mode": "hosted"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "username": "brent.lemieux", 
+            "display_as_bot": false, 
+            "text": "<@U33BKEP9Q|brent.lemieux> uploaded a file: <https://gstudents.slack.com/files/brent.lemieux/F3UH2GDEW/screen_shot_2017-01-20_at_4.27.16_pm.png|Screen Shot 2017-01-20 at 4.27.16 PM.png>", 
+            "upload": true, 
+            "ts": "1484954867.000047", 
+            "subtype": "file_share", 
+            "user": "U33BKEP9Q", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [
+                    "G3V28P2NA"
+                ], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3UH2GDEW-70174a73e0/screen_shot_2017-01-20_at_4.27.16_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3UH2GDEW-70174a73e0/screen_shot_2017-01-20_at_4.27.16_pm_64.png", 
+                "size": 39371, 
+                "original_h": 451, 
+                "thumb_360_w": 360, 
+                "title": "Screen Shot 2017-01-20 at 4.27.16 PM.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3UH2GDEW/screen_shot_2017-01-20_at_4.27.16_pm.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3UH2GDEW-70174a73e0/screen_shot_2017-01-20_at_4.27.16_pm_360.png", 
+                "id": "F3UH2GDEW", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3UH2GDEW-70174a73e0/screen_shot_2017-01-20_at_4.27.16_pm_80.png", 
+                "thumb_360_h": 282, 
+                "thumb_480_h": 376, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484954866, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3UH2GDEW-70174a73e0/screen_shot_2017-01-20_at_4.27.16_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3UH2GDEW/download/screen_shot_2017-01-20_at_4.27.16_pm.png", 
+                "user": "U33BKEP9Q", 
+                "image_exif_rotation": 1, 
+                "is_public": false, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-01-20 at 4.27.16 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3UH2GDEW-59340a48a9", 
+                "permalink": "https://gstudents.slack.com/files/brent.lemieux/F3UH2GDEW/screen_shot_2017-01-20_at_4.27.16_pm.png", 
+                "is_external": false, 
+                "created": 1484954866, 
+                "original_w": 576, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "```\ndef gradientboost(X, y):\n    X_train, X_test, y_train, y_test = train_test_split(X, y)\n    est = GradientBoostingClassifier(n_estimators=1000, learning_rate= 0.1, max_depth=3, max_features='sqrt')\n    model = est.fit(X_train,y_train)\n    pred = model.predict(X_test)\n    acc = model.score(X_test, y_test)\n    sort_feat = np.argsort(model.feature_importances_)[::-1]\n    report = classification_report(y_test, pred)\n    matrix = conf_mat(pred, y_test)\n    print 'acc', acc\n    TP, FN, FP, TN = matrix[0][0], matrix[0][1], matrix[1][0], matrix[1][1]\n    recall = float(TP)/(TP+FP)\n    precision = float(TP)/(TP+FN)\n    print 'precision', precision\n    print 'recall', recall\n    print 'f1', 2*(precision*recall)/(precision+recall)\n    return model\n    # params = {'n_estimators': [100, 500, 1000],\n    #             'learning_rate': [.01, .1, .5, 1], 'max_depth': [1, 2, 3],\n    #             'max_features': [\"sqrt\"]}\n    #\n    # grid = GridSearchCV(est, params, scoring='f1')\n    # gridfinal = grid.fit(X_train, y_train)\n    # return gridfinal\n```", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484954264.000046"
+        }, 
+        {
+            "text": "TP gives us profit of $50, FP costs us $10", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1484954027.000045"
+        }, 
+        {
+            "username": "brent.lemieux", 
+            "display_as_bot": false, 
+            "text": "<@U33BKEP9Q|brent.lemieux> uploaded a file: <https://gstudents.slack.com/files/brent.lemieux/F3TRK0XEC/screen_shot_2017-01-20_at_4.12.21_pm.png|max_profit.png>", 
+            "upload": true, 
+            "ts": "1484953995.000044", 
+            "subtype": "file_share", 
+            "user": "U33BKEP9Q", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [
+                    "G3V28P2NA"
+                ], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3TRK0XEC-b6d06aad31/screen_shot_2017-01-20_at_4.12.21_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3TRK0XEC-b6d06aad31/screen_shot_2017-01-20_at_4.12.21_pm_64.png", 
+                "size": 40632, 
+                "original_h": 461, 
+                "thumb_360_w": 360, 
+                "title": "max_profit.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3TRK0XEC/screen_shot_2017-01-20_at_4.12.21_pm.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3TRK0XEC-b6d06aad31/screen_shot_2017-01-20_at_4.12.21_pm_360.png", 
+                "id": "F3TRK0XEC", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3TRK0XEC-b6d06aad31/screen_shot_2017-01-20_at_4.12.21_pm_80.png", 
+                "thumb_360_h": 275, 
+                "thumb_480_h": 367, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484953993, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3TRK0XEC-b6d06aad31/screen_shot_2017-01-20_at_4.12.21_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3TRK0XEC/download/screen_shot_2017-01-20_at_4.12.21_pm.png", 
+                "user": "U33BKEP9Q", 
+                "image_exif_rotation": 1, 
+                "is_public": false, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-01-20 at 4.12.21 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3TRK0XEC-bf37962e4c", 
+                "permalink": "https://gstudents.slack.com/files/brent.lemieux/F3TRK0XEC/screen_shot_2017-01-20_at_4.12.21_pm.png", 
+                "is_external": false, 
+                "created": 1484953993, 
+                "original_w": 603, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "Logit Regression Results\n==============================================================================\nDep. Variable:                      y   No. Observations:                30000\nModel:                          Logit   Df Residuals:                    29987\nMethod:                           MLE   Df Model:                           12\nDate:                Fri, 20 Jan 2017   Pseudo R-squ.:                  0.1602\nTime:                        16:09:15   Log-Likelihood:                -16702.\nconverged:                       True   LL-Null:                       -19888.\n                                        LLR p-value:                     0.000\n==============================================================================\n                 coef    std err          z      P&gt;|z|      [95.0% Conf. Int.]\n------------------------------------------------------------------------------\nconst          0.5908      0.014     43.259      0.000         0.564     0.618\nx1             0.2068      0.015     13.439      0.000         0.177     0.237\nx2             0.0818      0.013      6.138      0.000         0.056     0.108\nx3             0.0296      0.013      2.247      0.025         0.004     0.055\nx4             0.0355      0.023      1.542      0.123        -0.010     0.081\nx5            -0.0710      0.022     -3.165      0.002        -0.115    -0.027\nx6            -0.4766      0.017    -27.422      0.000        -0.511    -0.443\nx7            -0.4203      0.013    -31.439      0.000        -0.446    -0.394\nx8             0.0080      0.014      0.582      0.561        -0.019     0.035\nx9             0.3054    4.4e+05   6.94e-07      1.000     -8.62e+05  8.62e+05\nx10           -0.4356   3.76e+05  -1.16e-06      1.000     -7.38e+05  7.38e+05\nx11            0.0636   4.66e+05   1.36e-07      1.000     -9.14e+05  9.14e+05\nx12            0.1117      0.072      1.553      0.120        -0.029     0.253\nx13           -0.3922      0.072     -5.472      0.000        -0.533    -0.252\n==============================================================================", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484953772.000043"
+        }, 
+        {
+            "text": "our final stats ^^", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484953707.000042"
+        }, 
+        {
+            "text": "acc 0.7839\nprecision 0.801803155522\nrecall 0.863709938491\nf1 0.831606015741", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484953704.000041"
+        }, 
+        {
+            "username": "griggs", 
+            "display_as_bot": false, 
+            "text": "<@U3AQVRWPP|griggs> uploaded a file: <https://gstudents.slack.com/files/griggs/F3V7N56ET/group_gretchen.py|group_Gretchen.py> and commented: Here's my code testing KNN and Sklearn's NN", 
+            "upload": true, 
+            "ts": "1484952917.000040", 
+            "subtype": "file_share", 
+            "user": "U3AQVRWPP", 
+            "file": {
+                "initial_comment": {
+                    "comment": "Here's my code testing KNN and Sklearn's NN", 
+                    "created": 1484952916, 
+                    "timestamp": 1484952916, 
+                    "is_intro": true, 
+                    "user": "U3AQVRWPP", 
+                    "id": "Fc3UKBC65T"
+                }, 
+                "filetype": "python", 
+                "lines_more": 71, 
+                "channels": [], 
+                "display_as_bot": false, 
+                "id": "F3V7N56ET", 
+                "size": 3497, 
+                "title": "group_Gretchen.py", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3V7N56ET/group_gretchen.py", 
+                "ims": [], 
+                "preview": "from __future__ import division\nimport pandas as pd\nimport numpy as np\nfrom sklearn.ensemble import RandomForestClassifier\nfrom sklearn.model_selection import train_test_split, cross_val_score", 
+                "external_type": "", 
+                "edit_link": "https://gstudents.slack.com/files/griggs/F3V7N56ET/group_gretchen.py/edit", 
+                "username": "", 
+                "timestamp": 1484952916, 
+                "public_url_shared": false, 
+                "editable": true, 
+                "preview_is_truncated": true, 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3V7N56ET/download/group_gretchen.py", 
+                "user": "U3AQVRWPP", 
+                "groups": [
+                    "G3V28P2NA"
+                ], 
+                "is_public": false, 
+                "pretty_type": "Python", 
+                "name": "group_Gretchen.py", 
+                "mimetype": "text/plain", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3V7N56ET-ab020cea72", 
+                "permalink": "https://gstudents.slack.com/files/griggs/F3V7N56ET/group_gretchen.py", 
+                "is_external": false, 
+                "created": 1484952916, 
+                "lines": 76, 
+                "comments_count": 1, 
+                "mode": "snippet", 
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">__future__</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">division</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">pandas</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">pd</span></pre></div>\n<div><pre><span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">numpy</span> <span class=\"cm-keyword\">as</span> <span class=\"cm-variable\">np</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">sklearn</span>.<span class=\"cm-property\">ensemble</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">RandomForestClassifier</span></pre></div>\n<div><pre><span class=\"cm-keyword\">from</span> <span class=\"cm-variable\">sklearn</span>.<span class=\"cm-property\">model_selection</span> <span class=\"cm-keyword\">import</span> <span class=\"cm-variable\">train_test_split</span>, <span class=\"cm-variable\">cross_val_score</span></pre></div>\n</div>\n</div>\n"
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "```\ndef conf_mat(y_pred, y_true):\n    tp, tn, fp, fn = 0,0,0,0\n    for p,a in zip(y_pred,y_true):\n        if p == 1:\n            if p == a:\n                tp += 1\n            else: #if p!= a\n                fp += 1\n        elif p == 0:\n            if p == a:\n                tn += 1\n            else: #if p!= a\n                fn += 1\n    return np.array([[tp, fp],[fn,tn]])\n```", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1484952562.000039"
+        }, 
+        {
+            "text": "```\ndef adaboost(X, y):\n    X_train, X_test, y_train, y_test = train_test_split(X, y, random_state = 0)\n    selector = SelectKBest()\n    ada = AdaBoostClassifier(DecisionTreeClassifier(max_depth=1))\n    #                      algorithm=\"SAMME\", learning_rate = .25,\n    #                      n_estimators=1000)\n    pipe = Pipeline([('select', selector), ('ada', ada)])\n    params = {'select__k': [5,8,11],\n                'ada__n_estimators': [100, 500, 1000, 2000],\n                'ada__learning_rate': [.01, .1, .5, 1], 'ada__algorithm': ['SAMME', 'SAMME.R']}\n\n    grid = GridSearchCV(pipe, params, scoring='f1')\n    grid.fit(X_train, y_train)\n    print grid.best_score_, grid.best_params_\n```", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484952358.000038"
+        }, 
+        {
+            "text": "Logit Regression Results\n==============================================================================\nDep. Variable:                      y   No. Observations:                30000\nModel:                          Logit   Df Residuals:                    29987\nMethod:                           MLE   Df Model:                           12\nDate:                Fri, 20 Jan 2017   Pseudo R-squ.:                  0.1630\nTime:                        15:36:50   Log-Likelihood:                -16621.\nconverged:                       True   LL-Null:                       -19857.\n                                        LLR p-value:                     0.000\n==============================================================================\n                 coef    std err          z      P&gt;|z|      [95.0% Conf. Int.]\n------------------------------------------------------------------------------\nconst         -0.6015      0.014    -43.933      0.000        -0.628    -0.575\nx1            -0.2074      0.015    -13.500      0.000        -0.237    -0.177\nx2            -0.0657      0.013     -4.926      0.000        -0.092    -0.040\nx3            -0.0270      0.013     -2.025      0.043        -0.053    -0.001\nx4            -0.0529      0.023     -2.299      0.022        -0.098    -0.008\nx5             0.0899      0.023      3.962      0.000         0.045     0.134\nx6             0.4596      0.017     27.080      0.000         0.426     0.493\nx7             0.4256      0.013     31.803      0.000         0.399     0.452\nx8             0.0014      0.014      0.101      0.919        -0.026     0.028\nx9            -0.3044        nan        nan        nan           nan       nan\nx10            0.4440        nan        nan        nan           nan       nan\nx11           -0.0713        nan        nan        nan           nan       nan\nx12           -0.1572      0.070     -2.230      0.026        -0.295    -0.019\nx13            0.3568      0.070      5.084      0.000         0.219     0.494\n==============================================================================", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484951896.000037"
+        }, 
+        {
+            "text": "```\ndef logcoef(X, y):\n    X_train, X_test, y_train, y_test = train_test_split(X, y)\n    X_const = add_constant(X_train, prepend=True)\n    log = Logit(y_train, X_const).fit()\n    print log.summary()\n```", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484951868.000036"
+        }, 
+        {
+            "text": "array([[2449,  822],\n       [1320, 5409]])\n\nTP  FP\nFN TN", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1484951453.000035"
+        }, 
+        {
+            "username": "griggs", 
+            "display_as_bot": false, 
+            "text": "<@U3AQVRWPP|griggs> uploaded a file: <https://gstudents.slack.com/files/griggs/F3UGA2J4S/roc_curve_gradboost.png|ROC_Curve_GradBoost.png>", 
+            "upload": true, 
+            "ts": "1484950346.000034", 
+            "subtype": "file_share", 
+            "user": "U3AQVRWPP", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [
+                    "G3V28P2NA"
+                ], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3UGA2J4S-f9fc67637b/roc_curve_gradboost_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3UGA2J4S-f9fc67637b/roc_curve_gradboost_64.png", 
+                "size": 33363, 
+                "original_h": 600, 
+                "thumb_360_w": 360, 
+                "title": "ROC_Curve_GradBoost.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3UGA2J4S/roc_curve_gradboost.png", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3UGA2J4S-f9fc67637b/roc_curve_gradboost_360.png", 
+                "id": "F3UGA2J4S", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3UGA2J4S-f9fc67637b/roc_curve_gradboost_80.png", 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484950344, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3UGA2J4S-f9fc67637b/roc_curve_gradboost_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3UGA2J4S/download/roc_curve_gradboost.png", 
+                "user": "U3AQVRWPP", 
+                "image_exif_rotation": 1, 
+                "is_public": false, 
+                "pretty_type": "PNG", 
+                "name": "ROC_Curve_GradBoost.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3UGA2J4S-a8345589c9", 
+                "permalink": "https://gstudents.slack.com/files/griggs/F3UGA2J4S/roc_curve_gradboost.png", 
+                "is_external": false, 
+                "created": 1484950344, 
+                "original_w": 800, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F3UGA2J4S-f9fc67637b/roc_curve_gradboost_720.png", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "```\n\ndef gradientboost(X, y):\n    X_train, X_test, y_train, y_test = train_test_split(X, y)\n    est = GradientBoostingClassifier(n_estimators=1000, learning_rate= 0.1, max_depth=3, max_features='sqrt')\n    model = est.fit(X_train,y_train)\n    pred = model.predict(X_test)\n    acc = model.score(X_test, y_test)\n    sort_feat = np.argsort(model.feature_importances_)[::-1]\n    report = classification_report(y_test, pred)\n    matrix = confusion_matrix(y_test, pred)\n    print 'acc', acc\n    TP, FN, FP, TN = matrix[0][0], matrix[0][1], matrix[1][0], matrix[1][1]\n    print TP, FN, FP, TN\n    precision = float(TP)/(TP+FP)\n    recall = float(TP)/(TP+FN)\n    print 'precision', precision\n    print 'recall', recall\n    print 'f1', 2*(precision*recall)/(precision+recall)\n    return model\n```", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484950306.000033"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F3V6JUTT8/figure_1.png|figure_1.png> and commented: relative feature importance plot", 
+            "upload": true, 
+            "ts": "1484948953.000032", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [
+                    "G3V28P2NA"
+                ], 
+                "initial_comment": {
+                    "comment": "relative feature importance plot", 
+                    "created": 1484948950, 
+                    "timestamp": 1484948950, 
+                    "is_intro": true, 
+                    "user": "U34BY2K3K", 
+                    "id": "Fc3TQLNPDW"
+                }, 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3V6JUTT8-3493226b92/figure_1_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3V6JUTT8-3493226b92/figure_1_64.png", 
+                "size": 50640, 
+                "original_h": 760, 
+                "thumb_360_w": 360, 
+                "title": "figure_1.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3V6JUTT8/figure_1.png", 
+                "thumb_720_h": 377, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3V6JUTT8-3493226b92/figure_1_360.png", 
+                "id": "F3V6JUTT8", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3V6JUTT8-3493226b92/figure_1_80.png", 
+                "comments_count": 1, 
+                "thumb_360_h": 189, 
+                "thumb_480_h": 251, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484948950, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3V6JUTT8-3493226b92/figure_1_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3V6JUTT8/download/figure_1.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F3V6JUTT8-3493226b92/figure_1_1024.png", 
+                "user": "U34BY2K3K", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F3V6JUTT8-3493226b92/figure_1_960.png", 
+                "is_public": false, 
+                "pretty_type": "PNG", 
+                "name": "figure_1.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3V6JUTT8-d76800810f", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F3V6JUTT8/figure_1.png", 
+                "is_external": false, 
+                "created": 1484948950, 
+                "thumb_1024_h": 536, 
+                "thumb_960_h": 503, 
+                "original_w": 1451, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F3V6JUTT8-3493226b92/figure_1_720.png", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "```\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nfrom sklearn.linear_model import LogisticRegression\nfrom sklearn.cross_validation import KFold\nfrom sklearn.linear_model import LogisticRegression\nfrom sklearn.grid_search import GridSearchCV\nfrom sklearn.linear_model import LogisticRegressionCV\nfrom sklearn import preprocessing\nfrom sklearn.ensemble import AdaBoostClassifier\nfrom sklearn.tree import DecisionTreeClassifier\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.metrics import f1_score\nfrom sklearn.feature_selection import SelectKBest\nfrom sklearn.pipeline import Pipeline\nfrom sklearn.ensemble import GradientBoostingClassifier\nfrom sklearn.ensemble.partial_dependence import plot_partial_dependence\nfrom sklearn.metrics import mean_squared_error,r2_score\n\ndef gradientboost(X, y):\n    X_train, X_test, y_train, y_test = train_test_split(X, y)\n    est = GradientBoostingClassifier(n_estimators=1000, learning_rate= 0.1, max_depth=3, max_features='sqrt')\n    model = est.fit(X,y)\n    pred = model.predict(X_test)\n    acc = model.score(X_test, y_test)\n    print acc\n    \n\n    # params = {'n_estimators': [100, 500, 1000],\n    #             'learning_rate': [.01, .1, .5, 1], 'max_depth': [1, 2, 3],\n    #             'max_features': [\"sqrt\"]}\n    #\n    # grid = GridSearchCV(est, params, scoring='f1')\n    # gridfinal = grid.fit(X_train, y_train)\n    # return gridfinal\n\n\n    # est.fit(X_train, y_train)\n    #\n    # # predict class labels\n    # pred = est.predict(X_test)\n    #\n    # # score on test data (accuracy)\n    # acc = est.score(X_test, y_test)\n    # print('ACC: %.4f' % acc)\n    #\n    # # predict class probabilities\n    # est.predict_proba(X_test)[0]\n\nif __name__ == '__main__':\n    df = pd.read_csv('data/churn_train.csv')\n    df = df.fillna(df.mean())\n    df['last_trip_date'] = pd.to_datetime(df['last_trip_date'])\n    #df['signup_date'] = pd.to_datetime(df['signup_date'])\n    df = pd.get_dummies(df, columns=['city', 'phone'])\n    df['active'] = df['last_trip_date'].dt.month &gt;= 6\n    df = df.drop('last_trip_date', axis=1)\n    df = df.drop('signup_date', axis=1)\n    y = df.pop('active').values\n    X = df.values\n    X_scaled = preprocessing.scale(X)\n    #log = log_reg(X_scaled, y)\n    gra = gradientboost(X_scaled, y)\n    plt.show()\n```", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484947172.000031"
+        }, 
+        {
+            "text": "Classification Report\n```from sklearn.metrics import classification_report\nreport = classification_report(Y_test, predicted)\nprint(report)```\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 precision\u00a0\u00a0\u00a0\u00a0recall\u00a0\u00a0f1-score\u00a0\u00a0 support\n\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00.0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 0.77\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00.87\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00.82\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 162\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a01.0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 0.71\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00.55\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00.62\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a092\n\u00a0\navg / total\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 0.75\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00.76\u00a0\u00a0\u00a0\u00a0\u00a0\u00a00.75\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 254", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1484946933.000027", 
+            "edited": {
+                "user": "U3AQVRWPP", 
+                "ts": "1484946948.000000"
+            }
+        }, 
+        {
+            "text": "Confusion Matrix\n```from sklearn.metrics import confusion_matrix\nmatrix = confusion_matrix(Y_test, predicted)\nprint(matrix)```", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1484946831.000026"
+        }, 
+        {
+            "text": "```results = model_selection.cross_val_score(model, X, Y, cv=kfold, scoring='roc_auc')\nprint(\"AUC: %.3f (%.3f)\") % (results.mean(), results.std())```", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1484946752.000025"
+        }, 
+        {
+            "text": "Area Under ROC Curve:", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1484946741.000024"
+        }, 
+        {
+            "text": "Here\u2019s another metric to look at:\nLogarithmic loss (or logloss) is a performance metric for evaluating the predictions of probabilities of membership to a given class.\nThe scalar probability between 0 and 1 can be seen as a measure of confidence for a prediction by an algorithm. Predictions that are correct or incorrect are rewarded or punished proportionally to the confidence of the prediction.\n```results = model_selection.cross_val_score(model, X, y, scoring=\u2019neg_log_loss)\nprint(\"Logloss: %.3f (%.3f)\") % (results.mean(), results.std())```", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1484946637.000023"
+        }, 
+        {
+            "text": "```from sklearn import metrics\nfpr, tpr, thresholds = roc_curve(y, scores, pos_label=2)\nplt.plot(FPRs, TPRs, 'b-')\nplt.show()```", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1484946361.000021", 
+            "edited": {
+                "user": "U3AQVRWPP", 
+                "ts": "1484946368.000000"
+            }
+        }, 
+        {
+            "text": "ROC Curve code:", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1484946259.000020"
+        }, 
+        {
+            "text": "```\ndef gradientboost(X, y):\n    X_train, X_test, y_train, y_test = train_test_split(X, y)\n    est = GradientBoostingClassifier(n_estimators=1000, learning_rate= 0.1, max_depth=3, max_features='sqrt')\n    model = est.fit(X,y)\n    pred = model.predict(X_test)\n    acc = model.score(X_test, y_test)\n    return model\n```", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484945483.000019"
+        }, 
+        {
+            "text": "import pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nfrom sklearn.linear_model import LogisticRegression\nfrom sklearn.cross_validation import KFold\nfrom sklearn.linear_model import LogisticRegression\nfrom sklearn.grid_search import GridSearchCV\nfrom sklearn.linear_model import LogisticRegressionCV\nfrom sklearn import preprocessing\nfrom sklearn.ensemble import AdaBoostClassifier\nfrom sklearn.tree import DecisionTreeClassifier\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.metrics import f1_score\nfrom sklearn.feature_selection import SelectKBest\nfrom sklearn.pipeline import Pipeline\nfrom sklearn.ensemble import GradientBoostingClassifier\n\ndef gradientboost(X, y):\n    X_train, X_test, y_train, y_test = train_test_split(X, y)\n    est = GradientBoostingClassifier()\n\n    params = {'n_estimators': [100, 500, 1000],\n                'learning_rate': [.01, .1, .5, 1], 'max_depth': [1, 2, 3],\n                'max_features': [\"sqrt\"]}\n\n    grid = GridSearchCV(est, params, scoring='f1')\n    gridfinal = grid.fit(X_train, y_train)\n    return gridfinal \n\n\n    # est.fit(X_train, y_train)\n    #\n    # # predict class labels\n    # pred = est.predict(X_test)\n    #\n    # # score on test data (accuracy)\n    # acc = est.score(X_test, y_test)\n    # print('ACC: %.4f' % acc)\n    #\n    # # predict class probabilities\n    # est.predict_proba(X_test)[0]\n\nif __name__ == '__main__':\n    df = pd.read_csv('data/churn_train.csv')\n    df = df.fillna(df.mean())\n    df['last_trip_date'] = pd.to_datetime(df['last_trip_date'])\n    #df['signup_date'] = pd.to_datetime(df['signup_date'])\n    df = pd.get_dummies(df, columns=['city', 'phone'])\n    df['active'] = df['last_trip_date'].dt.month &gt;= 6\n    df = df.drop('last_trip_date', axis=1)\n    df = df.drop('signup_date', axis=1)\n    y = df.pop('active').values\n    X = df.values\n    X_scaled = preprocessing.scale(X)\n    #log = log_reg(X_scaled, y)\n    gra = gradientboost(X_scaled, y)", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484945003.000018"
+        }, 
+        {
+            "username": "whsky", 
+            "display_as_bot": false, 
+            "text": "<@U34BY2K3K|whsky> uploaded a file: <https://gstudents.slack.com/files/whsky/F3TQ60SF3/2_2_model_complexity.png|2_2_model_complexity.png>", 
+            "upload": true, 
+            "ts": "1484943598.000017", 
+            "subtype": "file_share", 
+            "user": "U34BY2K3K", 
+            "file": {
+                "thumb_480_w": 480, 
+                "groups": [
+                    "G3V28P2NA"
+                ], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F3TQ60SF3-3c2edc2dca/2_2_model_complexity_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F3TQ60SF3-3c2edc2dca/2_2_model_complexity_64.png", 
+                "size": 91233, 
+                "original_h": 600, 
+                "thumb_360_w": 360, 
+                "title": "2_2_model_complexity.png", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F3TQ60SF3/2_2_model_complexity.png", 
+                "thumb_720_h": 540, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F3TQ60SF3-3c2edc2dca/2_2_model_complexity_360.png", 
+                "id": "F3TQ60SF3", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F3TQ60SF3-3c2edc2dca/2_2_model_complexity_80.png", 
+                "thumb_360_h": 270, 
+                "thumb_480_h": 360, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1484943597, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F3TQ60SF3-3c2edc2dca/2_2_model_complexity_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F3TQ60SF3/download/2_2_model_complexity.png", 
+                "user": "U34BY2K3K", 
+                "image_exif_rotation": 1, 
+                "is_public": false, 
+                "pretty_type": "PNG", 
+                "name": "2_2_model_complexity.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F3TQ60SF3-8c7c48b180", 
+                "permalink": "https://gstudents.slack.com/files/whsky/F3TQ60SF3/2_2_model_complexity.png", 
+                "is_external": false, 
+                "created": 1484943597, 
+                "original_w": 800, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F3TQ60SF3-3c2edc2dca/2_2_model_complexity_720.png", 
+                "channels": []
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "using code straight from the Boosting pair assignment sol'ns:", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1484943586.000016"
+        }, 
+        {
+            "text": "```\n    rf = RandomForestClassifier(n_estimators=200,\n                                max_depth=9)\n    selector = SelectKBest()\n    pipe = Pipeline([('select', selector), ('rf', rf)])\n    params = {'select__k': [8,9,11]\n                'rf__max_features': [.35,.4],\n                }\n\n    grid = GridSearchCV(pipe, params, scoring='f1')\n    grid.fit(X_train, y_train)\n    print grid.best_score_, grid.best_params_\n```", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1484939828.000015"
+        }, 
+        {
+            "text": "```\nfrom __future__ import division\nimport pandas as pd\nimport numpy as np\nfrom sklearn.ensemble import RandomForestClassifier\nfrom sklearn.model_selection import train_test_split, cross_val_score\n\ndef loadnclean():\n    df = pd.read_csv('data/churn_train.csv')\n    df = df.fillna(df.mean())\n    df = pd.get_dummies(df, columns=['city', 'phone'], drop_first=True)\n    df['last_trip_date'] = pd.to_datetime(df['last_trip_date'])\n    df['signup_date'] = pd.to_datetime(df['signup_date'])\n    df['active'] = df['last_trip_date'] &gt;= '2014-06-01'\n    trash = df.pop('last_trip_date')\n    trash = df.pop('signup_date')\n    return df\n\n\n\n\nif __name__ == '__main__':\n    df = loadnclean()\n    y = np.array(df.pop('active'))\n\n    X = np.array(df)\n    X_train, X_test, y_train, y_test = train_test_split(X,y)\n    rf = RandomForestClassifier()\n    rf.fit(X_train, y_train)\n    # predictions = rf.predict(X_test)\n    print np.mean(cross_val_score(rf, X_train, y_train, scoring='accuracy'))\n    print np.mean(cross_val_score(rf, X_train, y_train, scoring='precision'))\n    print np.mean(cross_val_score(rf, X_train, y_train, scoring='recall'))\n```", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1484935040.000012"
+        }, 
+        {
+            "text": "df['active'] = df['last_trip_date'].dt.month &gt;= 6", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484933592.000011"
+        }, 
+        {
+            "text": "df['last_trip_date'] = pd.to_datetime(df['last_trip_date'])\n    df['signup_date'] = pd.to_datetime(df['signup_date'])", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1484932984.000010"
+        }, 
+        {
+            "text": "<https://github.com/whsky/ml-case-study/>", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1484932966.000009"
+        }, 
+        {
+            "text": "gretchenriggs", 
+            "type": "message", 
+            "user": "U3AQVRWPP", 
+            "ts": "1484932901.000008"
+        }, 
+        {
+            "text": "brent-lemieux", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1484932894.000007"
+        }, 
+        {
+            "text": "here's the get dummies for city and phone", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1484932787.000006"
+        }, 
+        {
+            "text": "`pd.get_dummies(df, columns=['city', 'phone'])`", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1484932773.000005"
+        }, 
+        {
+            "text": "~pd.get_dummies(df, columns=['city', 'phone'])~", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1484932759.000004"
+        }, 
+        {
+            "text": "```\ndf = df.fillna(df.mean())\n```\n\nuse this to fill NaN", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1484932743.000003"
+        }, 
+        {
+            "text": "A team slack channel", 
+            "type": "message", 
+            "user": "U33BKEP9Q", 
+            "ts": "1484932247.000002"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 1484932226, 
+            "value": "Group messaging", 
+            "creator": "U33BKEP9Q"
+        }, 
+        "name_normalized": "mpdm-brent.lemieux--whsky--griggs--jcwall-1", 
+        "name": "mpdm-brent.lemieux--whsky--griggs--jcwall-1", 
+        "last_read": "1485451172.000003", 
+        "creator": "U33BKEP9Q", 
+        "is_mpim": true, 
+        "is_archived": false, 
+        "created": 1484932226, 
+        "is_group": true, 
+        "members": [
+            "U33BKEP9Q", 
+            "U3E2TDR2B", 
+            "U3AQVRWPP", 
+            "U34BY2K3K"
+        ], 
+        "unread_count": 0, 
+        "is_open": false, 
+        "purpose": {
+            "last_set": 1484932226, 
+            "value": "Group messaging with: @brent.lemieux @whsky @griggs @jcwall", 
+            "creator": "U33BKEP9Q"
+        }, 
+        "unread_count_display": 0, 
+        "id": "G3V28P2NA", 
+        "latest": {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "nerd_face", 
+                    "users": [
+                        "U3AQVRWPP"
+                    ]
+                }
+            ], 
+            "text": "Yeah just make sure my hair looks good", 
+            "type": "message", 
+            "user": "U3E2TDR2B", 
+            "ts": "1485451172.000003"
+        }
+    }
+}

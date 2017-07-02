@@ -1,0 +1,28 @@
+{
+    "messages": [
+        {
+            "text": "Yeah, Cherry Creek. She's thinking about moving and is trying to decide if she should sell her condo or not. Figured getting some Airbnb data might help with the decision!\n\nThanks bud. No worries if they can't hook it up...", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496527237.585580"
+        }, 
+        {
+            "text": "Hey Steve!  I've been meaning to see if they'll give me temporary access to some/all of their online services, just for the sake of exploration.  I'll check in with Dan on Monday for that.  Does your sister-in-law live in the Denver area?", 
+            "type": "message", 
+            "user": "U3SM7D51Q", 
+            "ts": "1496512840.806835"
+        }, 
+        {
+            "text": "Stupid question: could you get some Intel on my sis-in-laws condo from AirDNA?", 
+            "type": "message", 
+            "user": "U34BY2K3K", 
+            "ts": "1496444899.249054"
+        }
+    ], 
+    "channel_info": {
+        "members": [
+            "U3SM7D51Q", 
+            "U34BY2K3K"
+        ]
+    }
+}

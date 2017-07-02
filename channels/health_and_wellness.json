@@ -1,0 +1,1105 @@
+{
+    "messages": [
+        {
+            "text": "Summarized in this Reddit post:\n\n<https://www.reddit.com/r/Fitness/comments/6juj90/issn_position_stands_protein_and_exercise_diets/>", 
+            "type": "message", 
+            "user": "U23MJ5E3E", 
+            "ts": "1498765760.700583", 
+            "edited": {
+                "user": "U23MJ5E3E", 
+                "ts": "1498765764.000000"
+            }
+        }, 
+        {
+            "text": "<https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z>", 
+            "type": "message", 
+            "user": "U23MJ5E3E", 
+            "ts": "1498765692.676595", 
+            "edited": {
+                "user": "U23MJ5E3E", 
+                "ts": "1498765740.000000"
+            }
+        }, 
+        {
+            "text": "<https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0174-y>", 
+            "type": "message", 
+            "user": "U23MJ5E3E", 
+            "ts": "1498765686.674832", 
+            "edited": {
+                "user": "U23MJ5E3E", 
+                "ts": "1498765744.000000"
+            }
+        }, 
+        {
+            "text": "<https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8>", 
+            "type": "message", 
+            "user": "U23MJ5E3E", 
+            "ts": "1498765680.672926", 
+            "edited": {
+                "user": "U23MJ5E3E", 
+                "ts": "1498765746.000000"
+            }
+        }, 
+        {
+            "text": "*May is Mental Health Month*\n*Join Sigmend at a number of events this month:*\n\nMay 11 - Harness and Thrive Webinar\nMay 17 - Boulder Startup Week Brain Crawl\nMay 24 - Craft Your Story Webinar \n\nLearn more here: <http://mentalhealthmonth.sigmend.com/open/>", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1494276961.159896", 
+            "attachments": [
+                {
+                    "title": "Sigmend Mental Health Month", 
+                    "text": "Sigmend is celebrating Mental Health Month with #OPENwithHope webinar and event series", 
+                    "title_link": "http://mentalhealthmonth.sigmend.com/open/", 
+                    "service_name": "mentalhealthmonth.sigmend.com", 
+                    "id": 1, 
+                    "fallback": "Sigmend Mental Health Month", 
+                    "from_url": "http://mentalhealthmonth.sigmend.com/open/"
+                }
+            ]
+        }, 
+        {
+            "text": "50% off with FOTR17 <http://fitnessontherockscolorado.com/>", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1493047750.378360"
+        }, 
+        {
+            "text": "<@U4Q996RM5|amanda_allen> has joined the channel", 
+            "type": "message", 
+            "user": "U4Q996RM5", 
+            "ts": "1492456064.774323", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4X69U63B|abbystarnes> has joined the channel", 
+            "type": "message", 
+            "user": "U4X69U63B", 
+            "ts": "1492455220.537915", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "raised_hands", 
+                    "users": [
+                        "U1TTQUYEQ"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "title": "A Good Developer Knows When It's Time to Take a Break", 
+                    "text": "A good developer takes a break before they get burned out. When a developer gets burned out, it takes them longer to recover than taking periodic breaks.", 
+                    "title_link": "http://blog.alexpiechowski.com/2017/04/05/a-good-developer-knows-when-its-time-to-take-a-break.html", 
+                    "service_name": "blog.alexpiechowski.com", 
+                    "id": 1, 
+                    "fallback": "A Good Developer Knows When It's Time to Take a Break", 
+                    "service_icon": "http://blog.alexpiechowski.com/favicon.ico", 
+                    "from_url": "http://blog.alexpiechowski.com/2017/04/05/a-good-developer-knows-when-its-time-to-take-a-break.html"
+                }
+            ], 
+            "text": "<http://blog.alexpiechowski.com/2017/04/05/a-good-developer-knows-when-its-time-to-take-a-break.html>", 
+            "ts": "1491499811.642064", 
+            "user": "U23MJ5E3E", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U23MJ5E3E|olitreadwell> has joined the channel", 
+            "type": "message", 
+            "user": "U23MJ5E3E", 
+            "ts": "1491166747.791813", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3Z7JPZTP|ghetto_geek> has joined the channel", 
+            "type": "message", 
+            "user": "U3Z7JPZTP", 
+            "ts": "1489356035.074563", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WFYBSE9|zz> has left the channel", 
+            "type": "message", 
+            "user": "U1WFYBSE9", 
+            "ts": "1487105278.000025", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W3R0RJ5|ozwal> has left the channel", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1487105077.000024", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1X7FV0JY|mikeechen> has left the channel", 
+            "type": "message", 
+            "user": "U1X7FV0JY", 
+            "ts": "1487105023.000023", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W3CTQA0|ji_kim> has left the channel", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1487104863.000022", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W2WG4KG|anudle> has left the channel", 
+            "type": "message", 
+            "user": "U1W2WG4KG", 
+            "ts": "1487104372.000021", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W4YNBT4|mariajcb> has left the channel", 
+            "type": "message", 
+            "user": "U1W4YNBT4", 
+            "ts": "1486480189.000020", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "If you don\u2019t already use f.lux, I recommend looking into downloading the free program: <https://justgetflux.com/>", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1485454570.000018", 
+            "attachments": [
+                {
+                    "thumb_height": 256, 
+                    "service_icon": "https://justgetflux.com/favicon.ico", 
+                    "thumb_width": 256, 
+                    "title": "f.lux", 
+                    "service_name": "justgetflux", 
+                    "title_link": "https://justgetflux.com/", 
+                    "text": "Software to warm up your computer display at night, to match your indoor lighting.", 
+                    "id": 1, 
+                    "fallback": "justgetflux: f.lux", 
+                    "thumb_url": "http://justgetflux.com/flux-icon-big.png", 
+                    "from_url": "https://justgetflux.com/"
+                }
+            ]
+        }, 
+        {
+            "text": "<@U3VH6EVDK|adrtho4> has joined the channel", 
+            "type": "message", 
+            "user": "U3VH6EVDK", 
+            "ts": "1485225709.000017", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3UQLUUFP|ianharvey> has joined the channel", 
+            "type": "message", 
+            "user": "U3UQLUUFP", 
+            "ts": "1485039143.000016", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3K6F21UG|stefand> has joined the channel", 
+            "type": "message", 
+            "user": "U3K6F21UG", 
+            "ts": "1484688973.000015", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2D9SMXBQ> :100:", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1484684448.000014"
+        }, 
+        {
+            "text": ":joy: :dino:", 
+            "type": "message", 
+            "user": "U1TU3PLMB", 
+            "ts": "1484622431.000013"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "weight_lifter", 
+                    "users": [
+                        "U1TTQUYEQ"
+                    ]
+                }
+            ], 
+            "text": "I think we need a seminar that aims to teach people how to properly set down their free weights. It\u2019s like a t-rex is walking around upstairs.", 
+            "type": "message", 
+            "user": "U2D9SMXBQ", 
+            "ts": "1484609224.000012"
+        }, 
+        {
+            "text": "<@U3SRAQKN2|rickets100> has joined the channel", 
+            "type": "message", 
+            "user": "U3SRAQKN2", 
+            "ts": "1484590157.000011", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3R4K8VFT|seanmcdermott> has joined the channel", 
+            "type": "message", 
+            "user": "U3R4K8VFT", 
+            "ts": "1484518406.000010", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3RPJ4X5J|mavyllos> has joined the channel", 
+            "type": "message", 
+            "user": "U3RPJ4X5J", 
+            "ts": "1484453073.000009", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3R0813A4|andromeda111> has joined the channel", 
+            "type": "message", 
+            "user": "U3R0813A4", 
+            "ts": "1484447071.000008", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3R05SAHW|doubleshot> has joined the channel", 
+            "type": "message", 
+            "user": "U3R05SAHW", 
+            "ts": "1484445693.000007", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3RDLPDA7|pupxx> has joined the channel", 
+            "type": "message", 
+            "user": "U3RDLPDA7", 
+            "ts": "1484351482.000006", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3S419ZGX|ambermurray> has joined the channel", 
+            "type": "message", 
+            "user": "U3S419ZGX", 
+            "ts": "1484338979.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3QMPQ2RE|joshua.warren> has joined the channel", 
+            "type": "message", 
+            "user": "U3QMPQ2RE", 
+            "ts": "1484338682.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U365TCNH3|jng> has joined the channel", 
+            "type": "message", 
+            "user": "U365TCNH3", 
+            "ts": "1484093952.000003", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3JDDQSD6|ivonne.terrero> has joined the channel", 
+            "type": "message", 
+            "user": "U3JDDQSD6", 
+            "ts": "1484021226.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3KTVMJ|james> has left the channel", 
+            "type": "message", 
+            "user": "U1W3KTVMJ", 
+            "ts": "1483484254.000009", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U3MF47PM4|zachhj> has joined the channel", 
+            "type": "message", 
+            "user": "U3MF47PM4", 
+            "ts": "1483462388.000008", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3EAFC5UK|evanfwelch> has joined the channel", 
+            "type": "message", 
+            "user": "U3EAFC5UK", 
+            "ts": "1481667257.000007", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3EQ2NHSS|zoe_richards> has joined the channel", 
+            "type": "message", 
+            "user": "U3EQ2NHSS", 
+            "ts": "1481636698.000006", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3EK8AHSB|chenzhih03> has joined the channel", 
+            "type": "message", 
+            "user": "U3EK8AHSB", 
+            "ts": "1481599189.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3DQRFARZ|avi.kejriwal> has joined the channel", 
+            "type": "message", 
+            "user": "U3DQRFARZ", 
+            "ts": "1481586638.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3D5UHM0R|tdeason> has joined the channel", 
+            "type": "message", 
+            "user": "U3D5UHM0R", 
+            "ts": "1481581461.000003", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U3D4QA76C|mynameiseric> has joined the channel", 
+            "type": "message", 
+            "user": "U3D4QA76C", 
+            "ts": "1481580284.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1UVAKDA6|elana> has left the channel", 
+            "type": "message", 
+            "user": "U1UVAKDA6", 
+            "ts": "1479225054.000014", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U21L97GGN|victorv> has left the channel", 
+            "type": "message", 
+            "user": "U21L97GGN", 
+            "ts": "1478902797.000013", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1W4F497B|gordon> has left the channel", 
+            "type": "message", 
+            "user": "U1W4F497B", 
+            "ts": "1478037086.000012", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1WFM80C9|rogerschmidt> has left the channel", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1477411158.000011", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "yoga", 
+                    "users": [
+                        "U1W2YSJHF"
+                    ]
+                }
+            ], 
+            "text": "*Friday Night Yoga Club @ Platte*\nUse Promo Code GAL50 for 50% off!\n<https://www.eventbrite.com/e/friday-night-yoga-club-denver-presented-by-way-better-snacks-fall-series-tickets-26946463598?discount=Gal50>", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1477350931.000010"
+        }, 
+        {
+            "text": "*REMINDER*\nThe Student Talk One2One service is FREE for all Galvanize students. If you would like to talk to a counselor about stress management, roommate conflicts, relationship issues, anxiety, basically _anything_, please reach out to them! \n\n<http://www.studenttalkone2one.com/>", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1477082185.000009"
+        }, 
+        {
+            "text": "<@U2G1LNAG5|matt.winzer> has joined the channel", 
+            "type": "message", 
+            "user": "U2G1LNAG5", 
+            "ts": "1476829618.000008", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2D814J2X|lukemccrae> has joined the channel", 
+            "type": "message", 
+            "user": "U2D814J2X", 
+            "ts": "1476827489.000007", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2D9SMXBQ|mycroquet> has joined the channel", 
+            "type": "message", 
+            "user": "U2D9SMXBQ", 
+            "ts": "1476826289.000006", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W9GQ50V|mairinbailey> has joined the channel", 
+            "type": "message", 
+            "user": "U1W9GQ50V", 
+            "ts": "1476825785.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2DE91J8Z|zacjocelyn> has joined the channel", 
+            "type": "message", 
+            "user": "U2DE91J8Z", 
+            "ts": "1476825456.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U239RFQ78|zachary_thomas> has left the channel", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1476729509.000003", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U2PMM23M5|brianlee> has joined the channel", 
+            "type": "message", 
+            "user": "U2PMM23M5", 
+            "ts": "1476483549.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2H7HTVKR|caspeter> has joined the channel", 
+            "type": "message", 
+            "user": "U2H7HTVKR", 
+            "ts": "1475525053.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U2DBHN4DV|choudlette> has joined the channel", 
+            "type": "message", 
+            "user": "U2DBHN4DV", 
+            "ts": "1474946303.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1YBJPJM9|fraida> has joined the channel", 
+            "type": "message", 
+            "user": "U1YBJPJM9", 
+            "ts": "1474210877.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Colorado Runners! The Global Run is tomorrow morning at 8:30am in Golden (meeting place is Salvia and Golden Hills in Golden, CO). It\u2019s a 5km or a 10km walk or run, hope to see you out there! You can sign up here: <http://www.amazinggirls.org/global-run-2016/b3gcu>", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1474056090.000002", 
+            "attachments": [
+                {
+                    "image_bytes": 133181, 
+                    "title": "Amazing Girls Project", 
+                    "text": "US-registered 501(c)(3) non-profit organization providing secondary school scholarships to Maasai girls in rural Kenya.", 
+                    "image_width": 375, 
+                    "title_link": "http://www.amazinggirls.org/global-run-2016/b3gcu", 
+                    "image_height": 250, 
+                    "image_url": "http://static.wixstatic.com/media/f8e3fd_ac46a04649724558a4e24ebe141ab3af%7Emv2.jpg", 
+                    "service_name": "amazinggirls.org", 
+                    "id": 1, 
+                    "fallback": "Amazing Girls Project", 
+                    "service_icon": "http://static.wixstatic.com/ficons/f8e3fd_10fd87b05e8145f8a4fd2935d76fa28e_fi.ico", 
+                    "from_url": "http://www.amazinggirls.org/global-run-2016/b3gcu"
+                }
+            ]
+        }, 
+        {
+            "text": "True dat. Bernal Heights to bring the pain!", 
+            "type": "message", 
+            "user": "U21RUE8QZ", 
+            "ts": "1473889366.000004"
+        }, 
+        {
+            "text": "<@U21RUE8QZ|chip> has joined the channel", 
+            "ts": "1473737473.000003", 
+            "subtype": "channel_join", 
+            "user": "U21RUE8QZ", 
+            "type": "message", 
+            "inviter": "U21L97GGN"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "smiley", 
+                    "users": [
+                        "U239RFQ78"
+                    ]
+                }
+            ], 
+            "text": "Anyone in SF wanna get a running group together? I know <@U21RUE8QZ> would be down", 
+            "type": "message", 
+            "user": "U21L97GGN", 
+            "ts": "1473737468.000002"
+        }, 
+        {
+            "text": "<@U1W3HAQDP|sarmeyer> has left the channel", 
+            "type": "message", 
+            "user": "U1W3HAQDP", 
+            "ts": "1472764738.000003", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U239RFQ78|zachary_thomas> has joined the channel", 
+            "type": "message", 
+            "user": "U239RFQ78", 
+            "ts": "1472507994.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V31SFNJ|brooks> has left the channel", 
+            "type": "message", 
+            "user": "U1V31SFNJ", 
+            "ts": "1471545284.000006", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1Z8PSJ2K|ryan> has joined the channel", 
+            "type": "message", 
+            "user": "U1Z8PSJ2K", 
+            "ts": "1471383687.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U21L97GGN|victorv> has joined the channel", 
+            "type": "message", 
+            "user": "U21L97GGN", 
+            "ts": "1471368386.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3HAQDP|sarmeyer> has joined the channel", 
+            "type": "message", 
+            "user": "U1W3HAQDP", 
+            "ts": "1471361229.000003", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1X34FT9S|lizziesz> has joined the channel", 
+            "type": "message", 
+            "user": "U1X34FT9S", 
+            "ts": "1471360785.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1VCXSG4X|monique> has left the channel", 
+            "type": "message", 
+            "user": "U1VCXSG4X", 
+            "ts": "1471274366.000035", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U210DFHT9"
+                    ]
+                }
+            ], 
+            "text": "Nice to meet you <@U210DFHT9> !!", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1471028998.000034"
+        }, 
+        {
+            "text": "For my first suggestion to those in Seattle (and other chapters across the US) is joining the November Project! I'll be regularly hanging with this crowd prior to class: <http://november-project.com/seattle-wa/>", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1471027855.000032"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 5, 
+                    "name": "+1", 
+                    "users": [
+                        "U1TTQUYEQ", 
+                        "U1UVAKDA6", 
+                        "U1TU3PLMB", 
+                        "U1W223003", 
+                        "U1W3MUNDB"
+                    ]
+                }
+            ], 
+            "edited": {
+                "user": "U210DFHT9", 
+                "ts": "1471028182.000000"
+            }, 
+            "text": "Hi y'all! Wanted to give a quick head's up/intro to myself. I'm going to be studying in the DSI in Seattle this fall and pride myself on keeping a healthy work-life balance in my life and career. I'm a RRCA certified running coach and have many marathons, ultras, etc. under my belt (including Boston and 4 100-mile finishes, going for #5 prior to the DSI in the Cascades). I'm more than happy to give out solicited (and sometimes non-solicited) advice if anyone is interested. I've successfully managed this balance while working for the past ~9 years at a super-major Oil and Gas company, so it is in fact possible to have the best of both Worlds :slightly_smiling_face:", 
+            "ts": "1471027720.000031", 
+            "user": "U210DFHT9", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U210DFHT9|ophiolite> has joined the channel", 
+            "type": "message", 
+            "user": "U210DFHT9", 
+            "ts": "1471027532.000030", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1Y42EK7F|nate_george> has joined the channel", 
+            "type": "message", 
+            "user": "U1Y42EK7F", 
+            "ts": "1470776191.000029", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1ZDCU2LT|grr> has joined the channel", 
+            "type": "message", 
+            "user": "U1ZDCU2LT", 
+            "ts": "1470709776.000028", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W2WG4KG|anudle> has joined the channel", 
+            "type": "message", 
+            "user": "U1W2WG4KG", 
+            "ts": "1470262448.000027", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "woo-party", 
+                    "users": [
+                        "U1W2YSJHF", 
+                        "U1W3CTQA0"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 98424, 
+                    "title": "Unlimited Yoga", 
+                    "text": "Up-to-date info on 50+ free and donation-based yoga classes in Denver and Boulder Colorado", 
+                    "image_width": 167, 
+                    "title_link": "http://www.unlimitedyoga.com/#!boulder/c1vao", 
+                    "image_height": 250, 
+                    "image_url": "http://static.wixstatic.com/media/7af266_a47f7143b7554addbbf0339aead16f21.jpg", 
+                    "service_name": "unlimitedyoga.com", 
+                    "id": 1, 
+                    "fallback": "Unlimited Yoga", 
+                    "service_icon": "http://static.wixstatic.com/media/bc3ce3_15573ac5649344d39b8d9a8af0e98941.jpg/v1/fill/w_16%2Ch_16%2Clg_1/bc3ce3_15573ac5649344d39b8d9a8af0e98941.jpg", 
+                    "from_url": "http://www.unlimitedyoga.com/#!boulder/c1vao"
+                }
+            ], 
+            "text": ".<http://www.unlimitedyoga.com/#!boulder/c1vao>", 
+            "ts": "1470255783.000025", 
+            "user": "U1TTQUYEQ", 
+            "type": "message"
+        }, 
+        {
+            "text": "<@U1W35JJSU|michaelolson> has joined the channel", 
+            "type": "message", 
+            "user": "U1W35JJSU", 
+            "ts": "1470191168.000024", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1VBLPSDQ|jade> has left the channel", 
+            "type": "message", 
+            "user": "U1VBLPSDQ", 
+            "ts": "1470180141.000023", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1VBLPSDQ|jade> has joined the channel", 
+            "type": "message", 
+            "user": "U1VBLPSDQ", 
+            "ts": "1470180132.000022", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1XJ4CWJW|emkintner> has joined the channel", 
+            "type": "message", 
+            "user": "U1XJ4CWJW", 
+            "ts": "1470169535.000021", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V0JV17X|teddi> has joined the channel", 
+            "type": "message", 
+            "user": "U1V0JV17X", 
+            "ts": "1470106147.000020", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1X7FV0JY|mikeechen> has joined the channel", 
+            "type": "message", 
+            "user": "U1X7FV0JY", 
+            "ts": "1470097464.000019", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W11UFLK|mworks4905> has joined the channel", 
+            "type": "message", 
+            "user": "U1W11UFLK", 
+            "ts": "1470086593.000018", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W2U3SN9|gannonk08> has joined the channel", 
+            "type": "message", 
+            "user": "U1W2U3SN9", 
+            "ts": "1470079819.000017", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1VKTLR89|mrb91002> has left the channel", 
+            "type": "message", 
+            "user": "U1VKTLR89", 
+            "ts": "1470069691.000016", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "<@U1WNVE67P|scotty.huhn> has joined the channel", 
+            "type": "message", 
+            "user": "U1WNVE67P", 
+            "ts": "1469923655.000015", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W223003|zenvercoder> has joined the channel", 
+            "type": "message", 
+            "user": "U1W223003", 
+            "ts": "1469904375.000014", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WFYBSE9|zz> has joined the channel", 
+            "type": "message", 
+            "user": "U1WFYBSE9", 
+            "ts": "1469902085.000013", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W7Q0UCR|nathanmuss> has joined the channel", 
+            "type": "message", 
+            "user": "U1W7Q0UCR", 
+            "ts": "1469847893.000012", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WKJSBUP|sam> has joined the channel", 
+            "type": "message", 
+            "user": "U1WKJSBUP", 
+            "ts": "1469837294.000011", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WK700EL|weian> has joined the channel", 
+            "type": "message", 
+            "user": "U1WK700EL", 
+            "ts": "1469835297.000010", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W4F1UP2|kristiemcgoldrick> has joined the channel", 
+            "type": "message", 
+            "user": "U1W4F1UP2", 
+            "ts": "1469811590.000009", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WFM80C9|rogerschmidt> has joined the channel", 
+            "type": "message", 
+            "user": "U1WFM80C9", 
+            "ts": "1469809674.000008", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1WEVHA4W|lucy> has joined the channel", 
+            "type": "message", 
+            "user": "U1WEVHA4W", 
+            "ts": "1469808549.000007", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3MUNDB|amybriggs> has joined the channel", 
+            "type": "message", 
+            "user": "U1W3MUNDB", 
+            "ts": "1469804943.000006", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W95MYC9|devstone11> has joined the channel", 
+            "type": "message", 
+            "user": "U1W95MYC9", 
+            "ts": "1469802628.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1VKTLR89|mrb91002> has joined the channel", 
+            "type": "message", 
+            "user": "U1VKTLR89", 
+            "ts": "1469801850.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W4YNBT4|mariajcb> has joined the channel", 
+            "type": "message", 
+            "user": "U1W4YNBT4", 
+            "ts": "1469801147.000003", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W181QD9|isaac_miller> has joined the channel", 
+            "type": "message", 
+            "user": "U1W181QD9", 
+            "ts": "1469792938.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1VSD6PMZ|xander.31tech_> has joined the channel", 
+            "type": "message", 
+            "user": "U1VSD6PMZ", 
+            "ts": "1469769332.000015", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1VCXSG4X|monique> has joined the channel", 
+            "type": "message", 
+            "user": "U1VCXSG4X", 
+            "ts": "1469759152.000014", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3CTQA0|ji_kim> has joined the channel", 
+            "type": "message", 
+            "user": "U1W3CTQA0", 
+            "ts": "1469734466.000013", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W2MHVQQ|samanthaspensley> has joined the channel", 
+            "type": "message", 
+            "user": "U1W2MHVQQ", 
+            "ts": "1469733624.000012", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W4F497B|gordon> has joined the channel", 
+            "type": "message", 
+            "user": "U1W4F497B", 
+            "ts": "1469726129.000011", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V31SFNJ|brooks> has joined the channel", 
+            "type": "message", 
+            "user": "U1V31SFNJ", 
+            "ts": "1469725132.000010", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3R0RJ5|ozwal> has joined the channel", 
+            "type": "message", 
+            "user": "U1W3R0RJ5", 
+            "ts": "1469724385.000009", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W2UPQ93|girlsam> has joined the channel", 
+            "type": "message", 
+            "user": "U1W2UPQ93", 
+            "ts": "1469724186.000008", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W3KTVMJ|james> has joined the channel", 
+            "type": "message", 
+            "user": "U1W3KTVMJ", 
+            "ts": "1469724097.000007", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1V8380BF|bhassara> has joined the channel", 
+            "type": "message", 
+            "user": "U1V8380BF", 
+            "ts": "1469723371.000006", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W2YSJHF|creightonsoukup> has joined the channel", 
+            "type": "message", 
+            "user": "U1W2YSJHF", 
+            "ts": "1469722401.000005", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1UTQ84LF|tbearden> has joined the channel", 
+            "type": "message", 
+            "user": "U1UTQ84LF", 
+            "ts": "1469721801.000004", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1USUC91P|erika> has joined the channel", 
+            "type": "message", 
+            "user": "U1USUC91P", 
+            "ts": "1469721772.000003", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1W2ZMB5L|cole.chambers> has joined the channel", 
+            "type": "message", 
+            "user": "U1W2ZMB5L", 
+            "ts": "1469721147.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1VBN8XM0|chaseklingel> has joined the channel", 
+            "type": "message", 
+            "user": "U1VBN8XM0", 
+            "ts": "1469563071.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1UV2ED9D|ryansobol> has left the channel", 
+            "type": "message", 
+            "user": "U1UV2ED9D", 
+            "ts": "1469477402.000005", 
+            "subtype": "channel_leave"
+        }, 
+        {
+            "text": "oh yea!", 
+            "type": "message", 
+            "user": "U1UV2ED9D", 
+            "ts": "1469476398.000004"
+        }, 
+        {
+            "text": "<@U1UV2ED9D|ryansobol> has joined the channel", 
+            "type": "message", 
+            "user": "U1UV2ED9D", 
+            "ts": "1469476394.000003", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1UVAKDA6|elana> has joined the channel", 
+            "type": "message", 
+            "user": "U1UVAKDA6", 
+            "ts": "1469475953.000002", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U1TU3PLMB|katieparker> has joined the channel", 
+            "ts": "1469134594.000005", 
+            "subtype": "channel_join", 
+            "user": "U1TU3PLMB", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U1TJCRE2E|piratritasavit> has joined the channel", 
+            "ts": "1469134594.000004", 
+            "subtype": "channel_join", 
+            "user": "U1TJCRE2E", 
+            "type": "message", 
+            "inviter": "U1TTQUYEQ"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> set the channel purpose: Tips, advice, fitness classes, stress management activities...what do you do to stay healthy and balance life and school? Share here!", 
+            "ts": "1469134594.000003", 
+            "subtype": "channel_purpose", 
+            "user": "U1TTQUYEQ", 
+            "type": "message", 
+            "purpose": "Tips, advice, fitness classes, stress management activities...what do you do to stay healthy and balance life and school? Share here!"
+        }, 
+        {
+            "text": "<@U1TTQUYEQ|kelly.kawa> has joined the channel", 
+            "type": "message", 
+            "user": "U1TTQUYEQ", 
+            "ts": "1469134594.000002", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "health_and_wellness", 
+        "name": "health_and_wellness", 
+        "is_channel": true, 
+        "created": 1469134594, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U1TTQUYEQ", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1469134594, 
+            "value": "Tips, advice, fitness classes, stress management activities...what do you do to stay healthy and balance life and school? Share here!", 
+            "creator": "U1TTQUYEQ"
+        }, 
+        "members": [
+            "U1TJCRE2E", 
+            "U1TTQUYEQ", 
+            "U1TU3PLMB", 
+            "U1USUC91P", 
+            "U1UTQ84LF", 
+            "U1V0JV17X", 
+            "U1V8380BF", 
+            "U1VBN8XM0", 
+            "U1VSD6PMZ", 
+            "U1W11UFLK", 
+            "U1W181QD9", 
+            "U1W223003", 
+            "U1W2MHVQQ", 
+            "U1W2U3SN9", 
+            "U1W2UPQ93", 
+            "U1W2YSJHF", 
+            "U1W2ZMB5L", 
+            "U1W35JJSU", 
+            "U1W3MUNDB", 
+            "U1W4F1UP2", 
+            "U1W7Q0UCR", 
+            "U1W95MYC9", 
+            "U1W9GQ50V", 
+            "U1WEVHA4W", 
+            "U1WK700EL", 
+            "U1WKJSBUP", 
+            "U1WNVE67P", 
+            "U1X34FT9S", 
+            "U1XJ4CWJW", 
+            "U1Y42EK7F", 
+            "U1YBJPJM9", 
+            "U1Z8PSJ2K", 
+            "U1ZDCU2LT", 
+            "U210DFHT9", 
+            "U21RUE8QZ", 
+            "U23MJ5E3E", 
+            "U2D814J2X", 
+            "U2D9SMXBQ", 
+            "U2DBHN4DV", 
+            "U2DE91J8Z", 
+            "U2G1LNAG5", 
+            "U2H7HTVKR", 
+            "U2PMM23M5", 
+            "U365TCNH3", 
+            "U3D4QA76C", 
+            "U3D5UHM0R", 
+            "U3DQRFARZ", 
+            "U3EAFC5UK", 
+            "U3EK8AHSB", 
+            "U3EQ2NHSS", 
+            "U3JDDQSD6", 
+            "U3K6F21UG", 
+            "U3MF47PM4", 
+            "U3QMPQ2RE", 
+            "U3R05SAHW", 
+            "U3R0813A4", 
+            "U3R4K8VFT", 
+            "U3RDLPDA7", 
+            "U3RPJ4X5J", 
+            "U3S419ZGX", 
+            "U3SRAQKN2", 
+            "U3UQLUUFP", 
+            "U3VH6EVDK", 
+            "U3Z7JPZTP", 
+            "U4Q996RM5", 
+            "U4X69U63B"
+        ], 
+        "id": "C1U06NA9H", 
+        "is_shared": false
+    }
+}

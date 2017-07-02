@@ -1,0 +1,2176 @@
+{
+    "messages": [
+        {
+            "reactions": [
+                {
+                    "count": 5, 
+                    "name": "clap", 
+                    "users": [
+                        "U2WBQ64BY", 
+                        "U1X2N7XAM", 
+                        "U41PHLSJW", 
+                        "U3052PE5D", 
+                        "U2P556JHZ"
+                    ]
+                }
+            ], 
+            "text": "That was fun. I hope to become a galvanize student", 
+            "type": "message", 
+            "user": "U5YB97RRN", 
+            "ts": "1498347400.690098"
+        }, 
+        {
+            "text": "Thank you for spending the day with us!", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1498343820.540420"
+        }, 
+        {
+            "text": "The surveys are super important to us- I appreciate you taking the time to fill them out.", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1498343806.539905"
+        }, 
+        {
+            "text": "<!channel> Please take the time to fill out the survey: <https://goo.gl/forms/XzIAvM7aEZsYeknf1>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498343548.528934", 
+            "attachments": [
+                {
+                    "image_bytes": 34127, 
+                    "title": "Basic Training Survey", 
+                    "service_name": "Google Docs", 
+                    "image_width": 333, 
+                    "title_link": "https://goo.gl/forms/XzIAvM7aEZsYeknf1", 
+                    "image_height": 250, 
+                    "image_url": "https://lh6.googleusercontent.com/sFd7a2tQTUpB-so7pdZx5Zv7yLgqYZr_KP_ghxqlQeqRwxuxyi5WTI078OkXEYIoUXw", 
+                    "id": 1, 
+                    "fallback": "Google Docs: Basic Training Survey", 
+                    "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png", 
+                    "from_url": "https://goo.gl/forms/XzIAvM7aEZsYeknf1"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "+1", 
+                    "users": [
+                        "U1USJGEG2"
+                    ]
+                }, 
+                {
+                    "count": 1, 
+                    "name": "wave", 
+                    "users": [
+                        "U1USJGEG2"
+                    ]
+                }
+            ], 
+            "text": "It's been fun - learned quite a bit. Thanks for all of your help.", 
+            "type": "message", 
+            "user": "U5Z1CDD7U", 
+            "ts": "1498342788.497202"
+        }, 
+        {
+            "text": "I would like to show off a Tribute Page to Steve Jobs that I created in CodePen for FreeCodeCamp", 
+            "type": "message", 
+            "user": "U5YB97RRN", 
+            "ts": "1498342583.488566", 
+            "attachments": [
+                {
+                    "footer": "Thread in #denver-basic-training", 
+                    "channel_id": "C5Z0WE02G", 
+                    "is_thread_root_unfurl": true, 
+                    "text": "<!channel> At 4:15pm we will allow anyone to show what they have created today. Whether thats the madlibs project or some other project/exercise. Reply to this message if you would like show your work.", 
+                    "author_link": "https://gstudents.slack.com/team/cj", 
+                    "ts": "1498341759.451235", 
+                    "author_name": "\ud83d\udc7d CJ R.", 
+                    "is_share": true, 
+                    "channel_name": "denver-basic-training", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "cj", 
+                    "fallback": "[June 24th, 2017 4:02 PM] cj: <!channel> At 4:15pm we will allow anyone to show what they have created today. Whether thats the madlibs project or some other project/exercise. Reply to this message if you would like show your work.", 
+                    "author_icon": "https://avatars.slack-edge.com/2016-07-29/64482758675_22946f55ef4cba74d480_48.jpg", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/C5Z0WE02G/p1498341759451235?thread_ts=1498341759451235&cid=C5Z0WE02G", 
+                    "color": "D0D0D0"
+                }
+            ]
+        }, 
+        {
+            "text": "Yes. You will still have access to all course materials from today.", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498341906.458056"
+        }, 
+        {
+            "text": "will we still have access to the units after today?", 
+            "type": "message", 
+            "user": "U5ZRYAV2T", 
+            "ts": "1498341859.455954"
+        }, 
+        {
+            "thread_ts": "1498341759.451235", 
+            "text": "Replies go here...", 
+            "ts": "1498341765.451521", 
+            "user": "U1USJGEG2", 
+            "parent_user_id": "U1USJGEG2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1498341759.451235", 
+            "subscribed": false, 
+            "text": "<!channel> At 4:15pm we will allow anyone to show what they have created today. Whether thats the madlibs project or some other project/exercise. Reply to this message if you would like show your work.", 
+            "ts": "1498341759.451235", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U1USJGEG2", 
+            "replies": [
+                {
+                    "user": "U1USJGEG2", 
+                    "ts": "1498341765.451521"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1498334060.074747", 
+            "text": "Cool. Got it. Thanks!", 
+            "ts": "1498341005.415395", 
+            "user": "U2WBQ64BY", 
+            "parent_user_id": "U5ZREM0UW", 
+            "type": "message"
+        }, 
+        {
+            "text": "copy/paste the whole location into your browser where you save your file, including the file name (.html)", 
+            "type": "message", 
+            "user": "U5Z1FVA58", 
+            "ts": "1498340736.402957"
+        }, 
+        {
+            "text": "you can type \u2018open \u201cindex\u201d.html\u2019 in your text editor. (replace \u201cindex\u201d with whatever you\u2019ve called your file.)", 
+            "type": "message", 
+            "user": "U5KJA4YKY", 
+            "ts": "1498340281.382554", 
+            "attachments": [
+                {
+                    "footer": "Posted in #denver-basic-training", 
+                    "channel_id": "C5Z0WE02G", 
+                    "color": "D0D0D0", 
+                    "text": "how do you run your code from a text editor in an actual web browser?", 
+                    "author_link": "https://gstudents.slack.com/team/johncarter", 
+                    "ts": "1498339941.366134", 
+                    "author_name": "John Carter", 
+                    "is_share": true, 
+                    "channel_name": "denver-basic-training", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "johncarter", 
+                    "fallback": "[June 24th, 2017 3:32 PM] johncarter: how do you run your code from a text editor in an actual web browser?", 
+                    "author_icon": "https://secure.gravatar.com/avatar/c8dd4998e8558f3fdc40760614874aa3.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0008-48.png", 
+                    "is_msg_unfurl": true, 
+                    "from_url": "https://gstudents.slack.com/archives/C5Z0WE02G/p1498339941366134"
+                }
+            ]
+        }, 
+        {
+            "text": "when I open up google chrome and go to the elements page and try to run an HTML doc it wont work.", 
+            "type": "message", 
+            "user": "U5ZRC5F54", 
+            "ts": "1498339970.367538"
+        }, 
+        {
+            "text": "how do you run your code from a text editor in an actual web browser?", 
+            "type": "message", 
+            "user": "U5ZRC5F54", 
+            "ts": "1498339941.366134"
+        }, 
+        {
+            "thread_ts": "1498334060.074747", 
+            "text": "Tasks\n0) Change the Photo\n\nPick a new photo, you will be changing the colors to match it. Feel free to use any from Unsplash . Then apply a whole new set of colors that work well with the photo. You'll be surprised at how much faster changing colors is than initially applying new ones!", 
+            "ts": "1498339382.340139", 
+            "user": "U5ZREM0UW", 
+            "parent_user_id": "U5ZREM0UW", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1498334060.074747", 
+            "text": "\"add color to css declarations\" on unit 4", 
+            "ts": "1498339359.339016", 
+            "user": "U5ZREM0UW", 
+            "parent_user_id": "U5ZREM0UW", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1498334060.074747", 
+            "text": ":slightly_smiling_face:", 
+            "ts": "1498339219.332429", 
+            "user": "U5ZREM0UW", 
+            "parent_user_id": "U5ZREM0UW", 
+            "type": "message"
+        }, 
+        {
+            "text": "<https://codepen.io/w3cj/pen/dRVPqz?editors=1010>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498338934.318342", 
+            "edited": {
+                "user": "U1USJGEG2", 
+                "ts": "1498341637.000000"
+            }
+        }, 
+        {
+            "text": "Thanks for all your help!", 
+            "type": "message", 
+            "user": "U5YECDTGR", 
+            "ts": "1498338245.285254"
+        }, 
+        {
+            "text": "JavaScript breakout starting soon in the East conference room.", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498338023.273055"
+        }, 
+        {
+            "text": "<!channel> There will be a JavaScript breakout in the East conference room at 3:01pm", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498337766.260361"
+        }, 
+        {
+            "thread_ts": "1498334060.074747", 
+            "text": "janessab: Hey Janessa, where\u2019d you see the upsplash in the curriculum?", 
+            "ts": "1498337450.245581", 
+            "user": "U2WBQ64BY", 
+            "parent_user_id": "U5ZREM0UW", 
+            "type": "message"
+        }, 
+        {
+            "text": "lol", 
+            "type": "message", 
+            "user": "U5ZRXSENT", 
+            "ts": "1498336732.212358"
+        }, 
+        {
+            "username": "cj", 
+            "display_as_bot": false, 
+            "text": "<@U1USJGEG2|cj> uploaded a file: <https://gstudents.slack.com/files/cj/F5Z5MBQRK/screen_shot_2017-06-24_at_2.37.59_pm.png|chad>", 
+            "upload": true, 
+            "ts": "1498336713.211558", 
+            "subtype": "file_share", 
+            "user": "U1USJGEG2", 
+            "file": {
+                "thumb_480_w": 480, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "100", 
+                        "users": [
+                            "U2P556JHZ"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_800_h": 238, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5Z5MBQRK-5cfe1419bd/screen_shot_2017-06-24_at_2.37.59_pm_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5Z5MBQRK-5cfe1419bd/screen_shot_2017-06-24_at_2.37.59_pm_64.png", 
+                "size": 82870, 
+                "original_h": 332, 
+                "thumb_360_w": 360, 
+                "title": "chad", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5Z5MBQRK/screen_shot_2017-06-24_at_2.37.59_pm.png", 
+                "thumb_720_h": 214, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5Z5MBQRK-5cfe1419bd/screen_shot_2017-06-24_at_2.37.59_pm_360.png", 
+                "id": "F5Z5MBQRK", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5Z5MBQRK-5cfe1419bd/screen_shot_2017-06-24_at_2.37.59_pm_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 107, 
+                "thumb_480_h": 143, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5Z5MBQRK-5cfe1419bd/screen_shot_2017-06-24_at_2.37.59_pm_800.png", 
+                "timestamp": 1498336711, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5Z5MBQRK-5cfe1419bd/screen_shot_2017-06-24_at_2.37.59_pm_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5Z5MBQRK/download/screen_shot_2017-06-24_at_2.37.59_pm.png", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5Z5MBQRK-5cfe1419bd/screen_shot_2017-06-24_at_2.37.59_pm_1024.png", 
+                "user": "U1USJGEG2", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5Z5MBQRK-5cfe1419bd/screen_shot_2017-06-24_at_2.37.59_pm_960.png", 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Screen Shot 2017-06-24 at 2.37.59 PM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5Z5MBQRK-70472b58b5", 
+                "permalink": "https://gstudents.slack.com/files/cj/F5Z5MBQRK/screen_shot_2017-06-24_at_2.37.59_pm.png", 
+                "is_external": false, 
+                "created": 1498336711, 
+                "thumb_1024_h": 304, 
+                "thumb_960_h": 285, 
+                "original_w": 1118, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5Z5MBQRK-5cfe1419bd/screen_shot_2017-06-24_at_2.37.59_pm_720.png", 
+                "channels": [
+                    "C5Z0WE02G"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "clap", 
+                    "users": [
+                        "U2WBQ64BY", 
+                        "U1X2N7XAM"
+                    ]
+                }
+            ], 
+            "text": "sharing my mad lib <http://sharp-shooter-monkey-18246.bitballoon.com/>", 
+            "type": "message", 
+            "user": "U5ZRXSENT", 
+            "ts": "1498336582.205686"
+        }, 
+        {
+            "thread_ts": "1498331272.918709", 
+            "text": "I could use a 101 on standalone editors. I have Atom installed but I don't use it yet.", 
+            "ts": "1498336453.199299", 
+            "user": "U5Z2WSDL4", 
+            "parent_user_id": "U1USJGEG2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1498336384.195923", 
+            "text": "Replies go here...", 
+            "ts": "1498336391.196279", 
+            "user": "U1USJGEG2", 
+            "parent_user_id": "U1USJGEG2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1498336384.195923", 
+            "subscribed": false, 
+            "text": "<!channel> Please respond to the poll for breakouts. We can repeat a previous breakout if there is interest. Respond to this message if you would like to cover another topic.", 
+            "ts": "1498336384.195923", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U1USJGEG2", 
+            "replies": [
+                {
+                    "user": "U1USJGEG2", 
+                    "ts": "1498336391.196279"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "attachments": [
+                {
+                    "title": "What breakout would you like to attend?", 
+                    "color": "6ecadc", 
+                    "fields": [
+                        {
+                            "short": false, 
+                            "value": ":one: HTML\n\n\n", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": false, 
+                            "value": ":two: CSS\n\n\n", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": false, 
+                            "value": ":three: JavaScript    `3`\nctaylor707, thextool, frazzws\n\n", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": false, 
+                            "value": ":four: Something Else\n\n\n", 
+                            "title": ""
+                        }
+                    ], 
+                    "mrkdwn_in": [
+                        "fields"
+                    ], 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "id": 1
+                }, 
+                {
+                    "callback_id": "3a8158ad-91fb-45a8-a327-07cff5f2a3e2", 
+                    "color": "6ecadc", 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "id": 2, 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":one:", 
+                            "value": "1", 
+                            "type": "button", 
+                            "id": "1"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":two:", 
+                            "value": "2", 
+                            "type": "button", 
+                            "id": "2"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":three:", 
+                            "value": "3", 
+                            "type": "button", 
+                            "id": "3"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":four:", 
+                            "value": "4", 
+                            "type": "button", 
+                            "id": "4"
+                        }, 
+                        {
+                            "style": "danger", 
+                            "name": "delete-v2", 
+                            "confirm": {
+                                "text": "Are you sure you want to delete the Poll?", 
+                                "dismiss_text": "No", 
+                                "ok_text": "Yes", 
+                                "title": "Delete Poll?"
+                            }, 
+                            "text": "Delete Poll", 
+                            "value": "", 
+                            "type": "button", 
+                            "id": "5"
+                        }
+                    ]
+                }, 
+                {
+                    "footer": "Simple Poll        <https://simplepoll.rocks/dashboard/gstudents/settings/|Edit Settings>", 
+                    "color": "6ecadc", 
+                    "callback_id": "3a8158ad-91fb-45a8-a327-07cff5f2a3e2", 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "footer_icon": "https://simplepoll.rocks/static/main/favicon.png", 
+                    "id": 3
+                }
+            ], 
+            "text": "", 
+            "ts": "1498336089.181008", 
+            "subtype": "bot_message", 
+            "type": "message", 
+            "bot_id": "B537FQZ7C"
+        }, 
+        {
+            "thread_ts": "1498335687.161388", 
+            "text": "pema: Yep!", 
+            "ts": "1498335709.162569", 
+            "user": "U1USJGEG2", 
+            "parent_user_id": "U5ZRXSENT", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1498335687.161388", 
+            "subscribed": false, 
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "dont_panic", 
+                    "users": [
+                        "U1USJGEG2", 
+                        "U2P556JHZ"
+                    ]
+                }
+            ], 
+            "text": "<@U1USJGEG2> is your favorite number 42 a reference from Hitchhikers Guide to the Galaxy?", 
+            "ts": "1498335687.161388", 
+            "unread_count": 1, 
+            "reply_count": 1, 
+            "user": "U5ZRXSENT", 
+            "replies": [
+                {
+                    "user": "U1USJGEG2", 
+                    "ts": "1498335709.162569"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "If you\u2019re interested in playing with some CSS colors, here\u2019s 147 of them: <http://www.colors.commutercreative.com/grid/>", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498335366.145917", 
+            "attachments": [
+                {
+                    "title": "147 Colors Grid - CSS Color Names", 
+                    "service_name": "147 Colors", 
+                    "title_link": "http://www.colors.commutercreative.com/grid/", 
+                    "text": "This is a tool to help web designers and developers learn the 147 CSS color names that are available today. The 147 Colors consist of 17 standard plus 130 more.", 
+                    "id": 1, 
+                    "fallback": "147 Colors: 147 Colors Grid - CSS Color Names", 
+                    "service_icon": "http://www.colors.commutercreative.com/favicon.ico", 
+                    "from_url": "http://www.colors.commutercreative.com/grid/"
+                }
+            ]
+        }, 
+        {
+            "text": "MDN is where you can find documentation about _everything_ related to HTML/CSS/JavaScript\n<https://developer.mozilla.org/en-US/>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498334973.125607", 
+            "attachments": [
+                {
+                    "thumb_height": 600, 
+                    "service_icon": "https://developer.cdn.mozilla.net/static/img/favicon144.a6e4162070f4.png", 
+                    "thumb_width": 600, 
+                    "title": "Mozilla Developer Network", 
+                    "text": "The Mozilla Developer Network (MDN) provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and HTML5 Apps. It also documents Mozilla products, like Firefox OS.", 
+                    "title_link": "https://developer.mozilla.org/en-US/", 
+                    "service_name": "developer.mozilla.org", 
+                    "id": 1, 
+                    "fallback": "Mozilla Developer Network", 
+                    "thumb_url": "https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png", 
+                    "from_url": "https://developer.mozilla.org/en-US/"
+                }
+            ]
+        }, 
+        {
+            "text": "The code is here: <https://codepen.io/w3cj/pen/QgqWzm?editors=1010>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498334914.122614", 
+            "attachments": [
+                {
+                    "image_bytes": 10425, 
+                    "title": "QgqWzm", 
+                    "service_name": "CodePen", 
+                    "image_width": 427, 
+                    "title_link": "https://codepen.io/w3cj/pen/QgqWzm?editors=1010", 
+                    "image_height": 250, 
+                    "image_url": "https://s3-us-west-2.amazonaws.com/i.cdpn.io/397356.QgqWzm.0e506b86-0d8f-4a39-912a-34d4e69baea7.png", 
+                    "text": "...", 
+                    "id": 1, 
+                    "fallback": "CodePen: QgqWzm", 
+                    "service_icon": "https://production-assets.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+                    "from_url": "https://codepen.io/w3cj/pen/QgqWzm?editors=1010"
+                }
+            ]
+        }, 
+        {
+            "text": "JavaScript breakout video is here: <https://www.youtube.com/watch?v=QiNClFl4fQY>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498334906.122183", 
+            "attachments": [
+                {
+                    "thumb_height": 360, 
+                    "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+                    "thumb_width": 480, 
+                    "author_link": "https://www.youtube.com/channel/UC3KjMjib6mxyrFZosGli5dg", 
+                    "service_name": "YouTube", 
+                    "title": "Basic Training - Intro to JavaScript", 
+                    "video_html_height": 225, 
+                    "author_name": "Galvanize", 
+                    "title_link": "https://www.youtube.com/watch?v=QiNClFl4fQY", 
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/QiNClFl4fQY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+                    "video_html_width": 400, 
+                    "service_url": "https://www.youtube.com/", 
+                    "id": 1, 
+                    "fallback": "YouTube Video: Basic Training - Intro to JavaScript", 
+                    "thumb_url": "https://i.ytimg.com/vi/QiNClFl4fQY/hqdefault.jpg", 
+                    "from_url": "https://www.youtube.com/watch?v=QiNClFl4fQY"
+                }
+            ]
+        }, 
+        {
+            "text": "Thanks!", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498334694.110686"
+        }, 
+        {
+            "thread_ts": "1498334060.074747", 
+            "subscribed": false, 
+            "text": "upsplash didn't work for multiple peeps...(just for curriculum improvement purposes) :slightly_smiling_face:", 
+            "ts": "1498334060.074747", 
+            "unread_count": 5, 
+            "reply_count": 5, 
+            "user": "U5ZREM0UW", 
+            "replies": [
+                {
+                    "user": "U2WBQ64BY", 
+                    "ts": "1498337450.245581"
+                }, 
+                {
+                    "user": "U5ZREM0UW", 
+                    "ts": "1498339219.332429"
+                }, 
+                {
+                    "user": "U5ZREM0UW", 
+                    "ts": "1498339359.339016"
+                }, 
+                {
+                    "user": "U5ZREM0UW", 
+                    "ts": "1498339382.340139"
+                }, 
+                {
+                    "user": "U2WBQ64BY", 
+                    "ts": "1498341005.415395"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "<!channel>\nBreakouts at 1:18pm:\n* CSS: West Conference Room\n* JavaScript: East Conference Room", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498331680.942218"
+        }, 
+        {
+            "thread_ts": "1498331272.918709", 
+            "text": "Yes - javascript, that is why I came", 
+            "ts": "1498331444.928951", 
+            "user": "U5Z1CDD7U", 
+            "parent_user_id": "U1USJGEG2", 
+            "type": "message"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "100", 
+                    "users": [
+                        "U5ZRC5F54"
+                    ]
+                }, 
+                {
+                    "count": 2, 
+                    "name": "+1", 
+                    "users": [
+                        "U5Z1CDD7U", 
+                        "U5Z1FVA58"
+                    ]
+                }
+            ], 
+            "text": "JavaScript", 
+            "type": "message", 
+            "user": "U5Z4CRH37", 
+            "ts": "1498331319.921552"
+        }, 
+        {
+            "thread_ts": "1498331272.918709", 
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "javascript", 
+                    "users": [
+                        "U1USJGEG2"
+                    ]
+                }
+            ], 
+            "text": "JavaScript please :slightly_smiling_face:", 
+            "ts": "1498331299.920317", 
+            "user": "U5ZRC5F54", 
+            "parent_user_id": "U1USJGEG2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1498331272.918709", 
+            "text": "Replies go in here...", 
+            "ts": "1498331280.919147", 
+            "user": "U1USJGEG2", 
+            "parent_user_id": "U1USJGEG2", 
+            "type": "message"
+        }, 
+        {
+            "thread_ts": "1498331272.918709", 
+            "subscribed": false, 
+            "text": "<!channel> Please respond to the poll if you will attend a breakout. If there is another topic you would like covered, respond to this message.", 
+            "ts": "1498331272.918709", 
+            "unread_count": 4, 
+            "reply_count": 4, 
+            "user": "U1USJGEG2", 
+            "replies": [
+                {
+                    "user": "U1USJGEG2", 
+                    "ts": "1498331280.919147"
+                }, 
+                {
+                    "user": "U5ZRC5F54", 
+                    "ts": "1498331299.920317"
+                }, 
+                {
+                    "user": "U5Z1CDD7U", 
+                    "ts": "1498331444.928951"
+                }, 
+                {
+                    "user": "U5Z2WSDL4", 
+                    "ts": "1498336453.199299"
+                }
+            ], 
+            "type": "message"
+        }, 
+        {
+            "text": "^ Add a reaction to Johns message if you\u2019d like a Javascript Intro", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498331091.908031"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 2, 
+                    "name": "grimacing", 
+                    "users": [
+                        "U5Z2WSDL4", 
+                        "U5ZRC5F54"
+                    ]
+                }, 
+                {
+                    "count": 4, 
+                    "name": "+1", 
+                    "users": [
+                        "U5Z1CDD7U", 
+                        "U5Z1FVA58", 
+                        "U5ZRC5F54", 
+                        "U5YEEC27K"
+                    ]
+                }
+            ], 
+            "text": "No JavaScript?", 
+            "type": "message", 
+            "user": "U5ZRC5F54", 
+            "ts": "1498331017.903300"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "grinning", 
+                    "users": [
+                        "U5Z2WSDL4"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "title": "What breakout would you like to attend right now?", 
+                    "color": "6ecadc", 
+                    "fields": [
+                        {
+                            "short": false, 
+                            "value": ":one: Embed Links and Images with HTML    `1`\nwilliamfray1\n\n", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": false, 
+                            "value": ":two: Accurately Write HTML to form a basic webpage using common elements\n\n\n", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": false, 
+                            "value": ":three: Intro to CSS    `2`\nrman, robayerst\n\n", 
+                            "title": ""
+                        }
+                    ], 
+                    "mrkdwn_in": [
+                        "fields"
+                    ], 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "id": 1
+                }, 
+                {
+                    "callback_id": "6c9cfd26-3839-42c6-a561-c28b00a35426", 
+                    "color": "6ecadc", 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "id": 2, 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":one:", 
+                            "value": "1", 
+                            "type": "button", 
+                            "id": "1"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":two:", 
+                            "value": "2", 
+                            "type": "button", 
+                            "id": "2"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":three:", 
+                            "value": "3", 
+                            "type": "button", 
+                            "id": "3"
+                        }, 
+                        {
+                            "style": "danger", 
+                            "name": "delete-v2", 
+                            "confirm": {
+                                "text": "Are you sure you want to delete the Poll?", 
+                                "dismiss_text": "No", 
+                                "ok_text": "Yes", 
+                                "title": "Delete Poll?"
+                            }, 
+                            "text": "Delete Poll", 
+                            "value": "", 
+                            "type": "button", 
+                            "id": "4"
+                        }
+                    ]
+                }, 
+                {
+                    "footer": "Simple Poll        <https://simplepoll.rocks/dashboard/gstudents/settings/|Edit Settings>", 
+                    "color": "6ecadc", 
+                    "callback_id": "6c9cfd26-3839-42c6-a561-c28b00a35426", 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "footer_icon": "https://simplepoll.rocks/static/main/favicon.png", 
+                    "id": 3
+                }
+            ], 
+            "text": "", 
+            "ts": "1498330968.900095", 
+            "subtype": "bot_message", 
+            "type": "message", 
+            "bot_id": "B537FQZ7C"
+        }, 
+        {
+            "text": "For those of you that were trying to access Unit 14 content, the materials are now working: <https://learn.galvanize.com/cohorts/218/units/2616>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498327582.699697"
+        }, 
+        {
+            "text": "For unpaid codepen, you can only have 1 project. If you have a previous forked project, you will need to delete it.", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498326354.623828"
+        }, 
+        {
+            "text": "<@U3F4FRWSK|tcastl> has joined the channel", 
+            "ts": "1498326200.614138", 
+            "subtype": "channel_join", 
+            "user": "U3F4FRWSK", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<!channel> If you're getting a message about upgrading to the paid plan, try the above :point_up:", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498325917.597536"
+        }, 
+        {
+            "text": "<@U5ZRY2YA3> If you have already forked it, you can access the project under your \"forked\" projects on your profile.", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498325890.595911"
+        }, 
+        {
+            "username": "cj", 
+            "display_as_bot": false, 
+            "text": "<@U1USJGEG2|cj> uploaded a file: <https://gstudents.slack.com/files/cj/F5ZRZK7SS/codepen-project-fork.gif|codepen-project-fork.gif>", 
+            "upload": true, 
+            "ts": "1498325852.593585", 
+            "subtype": "file_share", 
+            "user": "U1USJGEG2", 
+            "file": {
+                "thumb_480_w": 480, 
+                "thumb_480_gif": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_480.gif", 
+                "groups": [], 
+                "filetype": "gif", 
+                "thumb_800_h": 460, 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_480.png", 
+                "display_as_bot": false, 
+                "thumb_800_w": 800, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_64.png", 
+                "size": 1394838, 
+                "original_h": 819, 
+                "thumb_360_w": 360, 
+                "title": "codepen-project-fork.gif", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5ZRZK7SS/codepen-project-fork.gif", 
+                "thumb_720_h": 414, 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_360.png", 
+                "id": "F5ZRZK7SS", 
+                "ims": [], 
+                "thumb_720_w": 720, 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_80.png", 
+                "comments_count": 0, 
+                "thumb_360_h": 207, 
+                "thumb_480_h": 276, 
+                "external_type": "", 
+                "username": "", 
+                "thumb_800": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_800.png", 
+                "timestamp": 1498325840, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5ZRZK7SS/download/codepen-project-fork.gif", 
+                "thumb_1024": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_1024.png", 
+                "user": "U1USJGEG2", 
+                "image_exif_rotation": 1, 
+                "thumb_960": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_960.png", 
+                "is_public": true, 
+                "pretty_type": "GIF", 
+                "name": "codepen-project-fork.gif", 
+                "mimetype": "image/gif", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5ZRZK7SS-f728b3a006", 
+                "permalink": "https://gstudents.slack.com/files/cj/F5ZRZK7SS/codepen-project-fork.gif", 
+                "is_external": false, 
+                "created": 1498325840, 
+                "thumb_1024_h": 589, 
+                "thumb_960_h": 552, 
+                "thumb_360_gif": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_360.gif", 
+                "original_w": 1425, 
+                "thumb_960_w": 960, 
+                "thumb_1024_w": 1024, 
+                "mode": "hosted", 
+                "deanimate_gif": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_deanimate_gif.png", 
+                "thumb_720": "https://files.slack.com/files-tmb/T1T555TL0-F5ZRZK7SS-d1e7a40200/codepen-project-fork_720.png", 
+                "channels": [
+                    "C5Z0WE02G"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<https://codepen.io/Galvanize-Learn/project/editor/ZmbEwg/>", 
+            "type": "message", 
+            "user": "U5ZRY2YA3", 
+            "ts": "1498325290.558553", 
+            "attachments": [
+                {
+                    "image_bytes": 25802, 
+                    "title": "Linking", 
+                    "service_name": "CodePen", 
+                    "image_width": 445, 
+                    "title_link": "https://codepen.io/Galvanize-Learn/project/editor/ZmbEwg/", 
+                    "image_height": 250, 
+                    "image_url": "https://s3-us-west-2.amazonaws.com/m.cdpn.io/default-project-screenshot-large.png", 
+                    "text": "...", 
+                    "id": 1, 
+                    "fallback": "CodePen: Linking", 
+                    "service_icon": "https://production-assets.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+                    "from_url": "https://codepen.io/Galvanize-Learn/project/editor/ZmbEwg/"
+                }
+            ]
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 4, 
+                    "name": "grinning", 
+                    "users": [
+                        "U5YEGSW65", 
+                        "U5Z2TRLR2", 
+                        "U5ZRC5F54", 
+                        "U2P556JHZ"
+                    ]
+                }
+            ], 
+            "text": "<@U5Z2TRLR2> Yes you will", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498325022.542696"
+        }, 
+        {
+            "text": "Anyone else getting a message that they can not open the linking project becuase of the Plan?", 
+            "type": "message", 
+            "user": "U5ZRY2YA3", 
+            "ts": "1498324936.537177"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "fearful", 
+                    "users": [
+                        "U5YEGSW65"
+                    ]
+                }
+            ], 
+            "text": "Will we be able to access <http://learn.galvanize.com|learn.galvanize.com> outside/after today?", 
+            "type": "message", 
+            "user": "U5Z2TRLR2", 
+            "ts": "1498324933.536939"
+        }, 
+        {
+            "text": "<@U2JQYPPTN|brad.miller> has joined the channel", 
+            "ts": "1498322066.357518", 
+            "subtype": "channel_join", 
+            "user": "U2JQYPPTN", 
+            "type": "message", 
+            "inviter": "U1X2N7XAM"
+        }, 
+        {
+            "text": "<!channel>\nBreakout on codepen will be in the West Conference Room at 10:37am\nBreakout on HTML/Elements/Page Structure will be in the East Conference Room at 10:37am\n\nWe can repeat these breakouts later if needed.\nIf you don't need a breakout right now, keep on keepin' on.", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498322032.355387"
+        }, 
+        {
+            "text": "<!channel> Please take the poll above.", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498321284.308487"
+        }, 
+        {
+            "attachments": [
+                {
+                    "title": "What breakout would you like to attend right now?", 
+                    "color": "6ecadc", 
+                    "fields": [
+                        {
+                            "short": false, 
+                            "value": ":one: Codepen basics    `6`\nmarquitahartman, frazzws, f1k4, johnm, kattrujillo, andysmart\n\n", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": false, 
+                            "value": ":two: Intro to HTML    `4`\ndanethestain, mr.blanco, williamfray1, kattrujillo\n\n", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": false, 
+                            "value": ":three: HTML Elements    `3`\nwadere, johncarter, kattrujillo\n\n", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": false, 
+                            "value": ":four: HTML Page Structure    `5`\nbdl-enterprises, fairthomas, thextool, kattrujillo, polymathcs\n\n", 
+                            "title": ""
+                        }, 
+                        {
+                            "short": false, 
+                            "value": ":five: Embedding Links/Images    `4`\ncboachie30, mshea, rman, kattrujillo\n\n", 
+                            "title": ""
+                        }
+                    ], 
+                    "mrkdwn_in": [
+                        "fields"
+                    ], 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "id": 1
+                }, 
+                {
+                    "callback_id": "7019533d-6129-4920-9470-0ddb215c45bf", 
+                    "color": "6ecadc", 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "id": 2, 
+                    "actions": [
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":one:", 
+                            "value": "1", 
+                            "type": "button", 
+                            "id": "1"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":two:", 
+                            "value": "2", 
+                            "type": "button", 
+                            "id": "2"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":three:", 
+                            "value": "3", 
+                            "type": "button", 
+                            "id": "3"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":four:", 
+                            "value": "4", 
+                            "type": "button", 
+                            "id": "4"
+                        }, 
+                        {
+                            "style": "", 
+                            "name": "vote", 
+                            "text": ":five:", 
+                            "value": "5", 
+                            "type": "button", 
+                            "id": "5"
+                        }
+                    ]
+                }, 
+                {
+                    "callback_id": "7019533d-6129-4920-9470-0ddb215c45bf", 
+                    "color": "6ecadc", 
+                    "fallback": "Open Slack to delete the Simple Poll you created.", 
+                    "id": 3, 
+                    "actions": [
+                        {
+                            "style": "danger", 
+                            "name": "delete-v2", 
+                            "confirm": {
+                                "text": "Are you sure you want to delete the Poll?", 
+                                "dismiss_text": "No", 
+                                "ok_text": "Yes", 
+                                "title": "Delete Poll?"
+                            }, 
+                            "text": "Delete Poll", 
+                            "value": "", 
+                            "type": "button", 
+                            "id": "6"
+                        }
+                    ]
+                }, 
+                {
+                    "footer": "Simple Poll        <https://simplepoll.rocks/dashboard/gstudents/settings/|Edit Settings>", 
+                    "color": "6ecadc", 
+                    "callback_id": "7019533d-6129-4920-9470-0ddb215c45bf", 
+                    "fallback": "Open Slack to cast your vote in this Simple Poll", 
+                    "footer_icon": "https://simplepoll.rocks/static/main/favicon.png", 
+                    "id": 4
+                }
+            ], 
+            "text": "", 
+            "ts": "1498321277.308034", 
+            "subtype": "bot_message", 
+            "type": "message", 
+            "bot_id": "B537FQZ7C"
+        }, 
+        {
+            "text": "Works now! Thanks!", 
+            "type": "message", 
+            "user": "U5YEEKU2V", 
+            "ts": "1498320742.273992"
+        }, 
+        {
+            "text": "<@U5YEEKU2V> Fixed. Try again!", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498320720.272562"
+        }, 
+        {
+            "text": "On Lesson 02, Change styles on an HTML page with CSS. Broken link to github repo  <https://github.com/gSchool/web-simple-html-css-page>", 
+            "type": "message", 
+            "user": "U5YEEKU2V", 
+            "ts": "1498320656.268769"
+        }, 
+        {
+            "text": "never mind ..lol i had an account ..duh", 
+            "type": "message", 
+            "user": "U5YUNTW11", 
+            "ts": "1498320478.256881"
+        }, 
+        {
+            "text": "<@U5ZRL7PJS|tedle> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRL7PJS", 
+            "ts": "1498320365.249598", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<https://codepen.io/>", 
+            "type": "message", 
+            "user": "U5Z4ABYJH", 
+            "ts": "1498320184.238039", 
+            "attachments": [
+                {
+                    "thumb_height": 200, 
+                    "service_icon": "https://codepen.io/favicons/apple-touch-icon-57x57.png", 
+                    "thumb_width": 200, 
+                    "title": "CodePen", 
+                    "text": "A front end web development playground.", 
+                    "title_link": "https://codepen.io/", 
+                    "service_name": "codepen.io", 
+                    "id": 1, 
+                    "fallback": "CodePen", 
+                    "thumb_url": "https://production-assets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png", 
+                    "from_url": "https://codepen.io/"
+                }
+            ]
+        }, 
+        {
+            "text": "Or when you get to the HTML lesson you can click on the first codepen assignment and it'll prompt you", 
+            "type": "message", 
+            "user": "U5YECDTGR", 
+            "ts": "1498320177.237607"
+        }, 
+        {
+            "text": "&lt;!-- this is an HTML comment --&gt;", 
+            "type": "message", 
+            "user": "U5ZRXSENT", 
+            "ts": "1498320164.236861"
+        }, 
+        {
+            "text": "<http://codepen.com|codepen.com>", 
+            "type": "message", 
+            "user": "U5ZRC5F54", 
+            "ts": "1498320158.236472"
+        }, 
+        {
+            "text": "where do i sign up for the code pen", 
+            "type": "message", 
+            "user": "U5YUNTW11", 
+            "ts": "1498320060.229997"
+        }, 
+        {
+            "text": "<@U34TA50NQ|wadere> has joined the channel", 
+            "ts": "1498319820.213598", 
+            "subtype": "channel_join", 
+            "user": "U34TA50NQ", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "#HowToSlack?", 
+            "type": "message", 
+            "user": "U5YUK0VV1", 
+            "ts": "1498319724.207078"
+        }, 
+        {
+            "text": "gold^^", 
+            "type": "message", 
+            "user": "U5Z2TRLR2", 
+            "ts": "1498319659.203374"
+        }, 
+        {
+            "text": "lol", 
+            "type": "message", 
+            "user": "U5ZRXSENT", 
+            "ts": "1498319413.188329"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "bug", 
+                    "users": [
+                        "U5ZRC5F54"
+                    ]
+                }
+            ], 
+            "attachments": [
+                {
+                    "image_bytes": 34994, 
+                    "image_width": 600, 
+                    "id": 1, 
+                    "image_height": 525, 
+                    "image_url": "https://media.makeameme.org/created/javascript-sgfi8v.jpg", 
+                    "from_url": "https://media.makeameme.org/created/javascript-sgfi8v.jpg", 
+                    "fallback": "600x525px image"
+                }
+            ], 
+            "text": "<https://media.makeameme.org/created/javascript-sgfi8v.jpg>", 
+            "ts": "1498319384.186363", 
+            "user": "U5YUPD73M", 
+            "type": "message"
+        }, 
+        {
+            "text": "doeport markdowns slack sup", 
+            "type": "message", 
+            "user": "U5Z1FE4KC", 
+            "ts": "1498319380.186123"
+        }, 
+        {
+            "reactions": [
+                {
+                    "count": 1, 
+                    "name": "clap", 
+                    "users": [
+                        "U5YED93C1"
+                    ]
+                }
+            ], 
+            "text": "Makes words *bold* like so\nwords can _slant_ to one side too\nend haiku please do", 
+            "type": "message", 
+            "user": "U5YECDTGR", 
+            "ts": "1498319366.185315"
+        }, 
+        {
+            "text": "<@U5YUS4FQT|ctaylor707> has joined the channel", 
+            "type": "message", 
+            "user": "U5YUS4FQT", 
+            "ts": "1498319364.185241", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZS1EEMD|netcams> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZS1EEMD", 
+            "ts": "1498319309.181762", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Many lines in one\nmessage with no benefit\nfor you just me thanks", 
+            "type": "message", 
+            "user": "U5YECDTGR", 
+            "ts": "1498319264.179033"
+        }, 
+        {
+            "text": "<@U5YEK7A2V|frazzws> has joined the channel", 
+            "type": "message", 
+            "user": "U5YEK7A2V", 
+            "ts": "1498319149.171790", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZS0U615|joscelynjames> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZS0U615", 
+            "ts": "1498319097.168142", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "attachments": [
+                {
+                    "channel_id": "C5Z0WE02G", 
+                    "text": "<https://learn.galvanize.com/cohorts/218/units>", 
+                    "author_link": "https://gstudents.slack.com/team/cj", 
+                    "ts": "1498319068.166379", 
+                    "author_name": "\ud83d\udc7d CJ R.", 
+                    "channel_name": "denver-basic-training", 
+                    "mrkdwn_in": [
+                        "text"
+                    ], 
+                    "author_subname": "cj", 
+                    "fallback": "[June 24th, 2017 9:44 AM] cj: <https://learn.galvanize.com/cohorts/218/units>", 
+                    "author_icon": "https://avatars.slack-edge.com/2016-07-29/64482758675_22946f55ef4cba74d480_48.jpg", 
+                    "is_msg_unfurl": true
+                }
+            ], 
+            "item_type": "C", 
+            "text": "<@U2WBQ64BY|chad.drummond> pinned a message to this channel.", 
+            "ts": "1498319083.167330", 
+            "subtype": "pinned_item", 
+            "user": "U2WBQ64BY", 
+            "type": "message"
+        }, 
+        {
+            "text": "<https://learn.galvanize.com/cohorts/218/units>", 
+            "pinned_to": [
+                "C5Z0WE02G"
+            ], 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498319068.166379"
+        }, 
+        {
+            "text": "<http://gph.is/2np39Kn>", 
+            "type": "message", 
+            "user": "U5YED93C1", 
+            "ts": "1498319000.161943", 
+            "attachments": [
+                {
+                    "image_bytes": 6354111, 
+                    "service_name": "Giphy", 
+                    "image_width": 480, 
+                    "image_height": 270, 
+                    "service_url": "http://giphy.com/", 
+                    "image_url": "http://media2.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif", 
+                    "fallback": "giphy: http://giphy.com/gifs/DNCE-3oKIPsx2VAYAgEHC12", 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/giphy.png", 
+                    "id": 1
+                }
+            ]
+        }, 
+        {
+            "text": "<@U5YBBJCSU|okabe> has joined the channel", 
+            "type": "message", 
+            "user": "U5YBBJCSU", 
+            "ts": "1498318927.157168", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5Z2Z0DNG|ashleyhamilton820> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z2Z0DNG", 
+            "ts": "1498318856.152777", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "copy paste or url", 
+            "type": "message", 
+            "user": "U5Z1FE4KC", 
+            "ts": "1498318558.134031"
+        }, 
+        {
+            "text": "how do you do the gifs?", 
+            "type": "message", 
+            "user": "U5ZRC5F54", 
+            "ts": "1498318518.131380"
+        }, 
+        {
+            "text": "Hello Everyone!", 
+            "type": "message", 
+            "user": "U5ZRYA77H", 
+            "ts": "1498318486.129063"
+        }, 
+        {
+            "text": "<https://media.giphy.com/media/1aLFYfbItZcSk/giphy.gif>", 
+            "type": "message", 
+            "user": "U5ZREM0UW", 
+            "ts": "1498318484.128954", 
+            "attachments": [
+                {
+                    "image_bytes": 320583, 
+                    "image_width": 439, 
+                    "id": 1, 
+                    "image_height": 650, 
+                    "image_url": "https://media.giphy.com/media/1aLFYfbItZcSk/giphy.gif", 
+                    "fallback": "439x650px image", 
+                    "from_url": "https://media.giphy.com/media/1aLFYfbItZcSk/giphy.gif", 
+                    "is_animated": true
+                }
+            ]
+        }, 
+        {
+            "username": "stekphen", 
+            "display_as_bot": false, 
+            "text": "<@U5Z1FE4KC|stekphen> uploaded a file: <https://gstudents.slack.com/files/stekphen/F5YUPLS2X/pasted_image_at_2017_06_24_09_33_am.png|Pasted image at 2017-06-24, 9:33 AM>", 
+            "upload": true, 
+            "ts": "1498318391.122937", 
+            "subtype": "file_share", 
+            "user": "U5Z1FE4KC", 
+            "file": {
+                "thumb_480_w": 480, 
+                "reactions": [
+                    {
+                        "count": 1, 
+                        "name": "100", 
+                        "users": [
+                            "U5ZRC5F54"
+                        ]
+                    }
+                ], 
+                "groups": [], 
+                "filetype": "png", 
+                "thumb_480": "https://files.slack.com/files-tmb/T1T555TL0-F5YUPLS2X-c8f765ab40/pasted_image_at_2017_06_24_09_33_am_480.png", 
+                "display_as_bot": false, 
+                "thumb_64": "https://files.slack.com/files-tmb/T1T555TL0-F5YUPLS2X-c8f765ab40/pasted_image_at_2017_06_24_09_33_am_64.png", 
+                "size": 357909, 
+                "original_h": 360, 
+                "thumb_360_w": 360, 
+                "title": "Pasted image at 2017-06-24, 9:33 AM", 
+                "url_private": "https://files.slack.com/files-pri/T1T555TL0-F5YUPLS2X/pasted_image_at_2017_06_24_09_33_am.png", 
+                "thumb_360": "https://files.slack.com/files-tmb/T1T555TL0-F5YUPLS2X-c8f765ab40/pasted_image_at_2017_06_24_09_33_am_360.png", 
+                "id": "F5YUPLS2X", 
+                "ims": [], 
+                "thumb_80": "https://files.slack.com/files-tmb/T1T555TL0-F5YUPLS2X-c8f765ab40/pasted_image_at_2017_06_24_09_33_am_80.png", 
+                "thumb_360_h": 203, 
+                "thumb_480_h": 270, 
+                "external_type": "", 
+                "username": "", 
+                "timestamp": 1498318389, 
+                "public_url_shared": false, 
+                "editable": false, 
+                "thumb_160": "https://files.slack.com/files-tmb/T1T555TL0-F5YUPLS2X-c8f765ab40/pasted_image_at_2017_06_24_09_33_am_160.png", 
+                "url_private_download": "https://files.slack.com/files-pri/T1T555TL0-F5YUPLS2X/download/pasted_image_at_2017_06_24_09_33_am.png", 
+                "user": "U5Z1FE4KC", 
+                "image_exif_rotation": 1, 
+                "is_public": true, 
+                "pretty_type": "PNG", 
+                "name": "Pasted image at 2017_06_24 09_33 AM.png", 
+                "mimetype": "image/png", 
+                "permalink_public": "https://slack-files.com/T1T555TL0-F5YUPLS2X-c472b0c5f6", 
+                "permalink": "https://gstudents.slack.com/files/stekphen/F5YUPLS2X/pasted_image_at_2017_06_24_09_33_am.png", 
+                "is_external": false, 
+                "created": 1498318389, 
+                "original_w": 640, 
+                "comments_count": 0, 
+                "mode": "hosted", 
+                "channels": [
+                    "C5Z0WE02G"
+                ]
+            }, 
+            "type": "message", 
+            "bot_id": null
+        }, 
+        {
+            "text": "<http://gph.is/1Suq5zU>", 
+            "type": "message", 
+            "user": "U5ZRULFAB", 
+            "ts": "1498318345.120074", 
+            "attachments": [
+                {
+                    "image_bytes": 702612, 
+                    "service_name": "Giphy", 
+                    "image_width": 480, 
+                    "image_height": 362, 
+                    "service_url": "http://giphy.com/", 
+                    "image_url": "http://media3.giphy.com/media/xT5LMQ1zvoy2Bdm7g4/giphy.gif", 
+                    "fallback": "giphy: http://giphy.com/gifs/season-16-the-simpsons-16x3-xT5LMQ1zvoy2Bdm7g4", 
+                    "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/giphy.png", 
+                    "id": 1
+                }
+            ]
+        }, 
+        {
+            "text": "<@U5Z2XKR2Q|taki> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z2XKR2Q", 
+            "ts": "1498318323.118750", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Hi!", 
+            "type": "message", 
+            "user": "U5YEEKU2V", 
+            "ts": "1498318315.118216"
+        }, 
+        {
+            "text": "<@U5YUPD73M|johnm> has joined the channel", 
+            "type": "message", 
+            "user": "U5YUPD73M", 
+            "ts": "1498318277.115901", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Howdy!", 
+            "type": "message", 
+            "user": "U5YB9HTS4", 
+            "ts": "1498318262.114898"
+        }, 
+        {
+            "text": "<@U5Z2XCQJG|zacflorez> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z2XCQJG", 
+            "ts": "1498318224.112307", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YEGSW65|juanavasquez> has joined the channel", 
+            "type": "message", 
+            "user": "U5YEGSW65", 
+            "ts": "1498318219.111913", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZRYLGGP|rman> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRYLGGP", 
+            "ts": "1498318197.110030", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YB9NL1E|pei> has joined the channel", 
+            "type": "message", 
+            "user": "U5YB9NL1E", 
+            "ts": "1498318196.109896", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Ahoy!", 
+            "type": "message", 
+            "user": "U1X2N7XAM", 
+            "ts": "1498318187.109324"
+        }, 
+        {
+            "text": "<https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy-downsized.gif>", 
+            "type": "message", 
+            "user": "U1USJGEG2", 
+            "ts": "1498318181.109015", 
+            "attachments": [
+                {
+                    "image_bytes": 453529, 
+                    "image_width": 480, 
+                    "id": 1, 
+                    "image_height": 360, 
+                    "image_url": "https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy-downsized.gif", 
+                    "fallback": "480x360px image", 
+                    "from_url": "https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy-downsized.gif", 
+                    "is_animated": true
+                }
+            ]
+        }, 
+        {
+            "text": "<@U5ZREM0UW|janessab> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZREM0UW", 
+            "ts": "1498318176.108724", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "hi", 
+            "type": "message", 
+            "user": "U5Z1FVA58", 
+            "ts": "1498318160.107627"
+        }, 
+        {
+            "text": "<@U52Q1S6DR|kyle.reubendale> has joined the channel", 
+            "ts": "1498318151.107108", 
+            "subtype": "channel_join", 
+            "user": "U52Q1S6DR", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "Hi!!", 
+            "type": "message", 
+            "user": "U5YEEKU2V", 
+            "ts": "1498318145.106756"
+        }, 
+        {
+            "text": "<@U5YB9HTS4|williamfray1> has joined the channel", 
+            "type": "message", 
+            "user": "U5YB9HTS4", 
+            "ts": "1498318124.105408", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZRYF9V5|brooksdavis> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRYF9V5", 
+            "ts": "1498318120.105104", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "is it 3 or 2.5?", 
+            "type": "message", 
+            "user": "U5ZRYAV2T", 
+            "ts": "1498318112.104557"
+        }, 
+        {
+            "text": "<@U52Q1S6DR>", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498318110.104434"
+        }, 
+        {
+            "text": "<@U5ZREG1B8|robayerst> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZREG1B8", 
+            "ts": "1498318101.103890", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Heya!!!", 
+            "type": "message", 
+            "user": "U5ZRE9QP8", 
+            "ts": "1498318095.103458"
+        }, 
+        {
+            "text": "Hi!", 
+            "type": "message", 
+            "user": "U5YEEC27K", 
+            "ts": "1498318091.103179"
+        }, 
+        {
+            "text": "Hello", 
+            "type": "message", 
+            "user": "U5YB97RRN", 
+            "ts": "1498318087.102873"
+        }, 
+        {
+            "text": "<@U5YUNTW11|kattrujillo> has joined the channel", 
+            "type": "message", 
+            "user": "U5YUNTW11", 
+            "ts": "1498318085.102750", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5Z1FVA58|f1k4> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z1FVA58", 
+            "ts": "1498318082.102563", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "hola", 
+            "type": "message", 
+            "user": "U5Z4CRH37", 
+            "ts": "1498318072.101904"
+        }, 
+        {
+            "text": "<@U5ZRYAV2T|fairthomas> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRYAV2T", 
+            "ts": "1498318055.100872", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZRYA77H|bethdobos> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRYA77H", 
+            "ts": "1498318044.100224", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "sup y'all!", 
+            "type": "message", 
+            "user": "U5Z2TRLR2", 
+            "ts": "1498318031.099387"
+        }, 
+        {
+            "text": "Hello All", 
+            "type": "message", 
+            "user": "U5Z1CDD7U", 
+            "ts": "1498318031.099344"
+        }, 
+        {
+            "text": "<@U5ZRE9QP8|arthurgr> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRE9QP8", 
+            "ts": "1498318019.098453", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "Hello group", 
+            "type": "message", 
+            "user": "U5ZRY2YA3", 
+            "ts": "1498318016.098304"
+        }, 
+        {
+            "text": "<@U5Z2WSDL4|andysmart> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z2WSDL4", 
+            "ts": "1498318014.098158", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5Z4CRH37|michael.francis> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z4CRH37", 
+            "ts": "1498318004.097479", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "hello!", 
+            "type": "message", 
+            "user": "U5YUK0VV1", 
+            "ts": "1498317982.096168"
+        }, 
+        {
+            "text": "<@U5Z1FNF9Q|heidimiller> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z1FNF9Q", 
+            "ts": "1498317980.096059", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YB97RRN|bdl-enterprises> has joined the channel", 
+            "type": "message", 
+            "user": "U5YB97RRN", 
+            "ts": "1498317978.095895", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "hellooooo", 
+            "type": "message", 
+            "user": "U5ZRC5F54", 
+            "ts": "1498317977.095888"
+        }, 
+        {
+            "text": "Yo", 
+            "type": "message", 
+            "user": "U5ZRCBLAJ", 
+            "ts": "1498317959.094587"
+        }, 
+        {
+            "text": "<@U5ZRY2YA3|basher999> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRY2YA3", 
+            "ts": "1498317951.094093", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZRE4JHL|thextool> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRE4JHL", 
+            "ts": "1498317946.093758", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<http://cdn.themis-media.com/media/global/images/library/deriv/928/928512.gif>", 
+            "type": "message", 
+            "user": "U5ZRXSENT", 
+            "ts": "1498317917.091891", 
+            "attachments": [
+                {
+                    "image_bytes": 2278234, 
+                    "image_width": 249, 
+                    "id": 1, 
+                    "image_height": 146, 
+                    "image_url": "http://cdn.themis-media.com/media/global/images/library/deriv/928/928512.gif", 
+                    "fallback": "249x146px image", 
+                    "from_url": "http://cdn.themis-media.com/media/global/images/library/deriv/928/928512.gif", 
+                    "is_animated": true
+                }
+            ]
+        }, 
+        {
+            "text": "<@U5Z1FE4KC|stekphen> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z1FE4KC", 
+            "ts": "1498317871.088788", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZRXSENT|pema> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRXSENT", 
+            "ts": "1498317865.088405", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YEEKU2V|jaftrain> has joined the channel", 
+            "type": "message", 
+            "user": "U5YEEKU2V", 
+            "ts": "1498317306.052536", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YEEJXT3|mr.blanco> has joined the channel", 
+            "type": "message", 
+            "user": "U5YEEJXT3", 
+            "ts": "1498317290.051409", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZRCBLAJ|cboachie30> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRCBLAJ", 
+            "ts": "1498317217.046875", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YEEC27K|mshea> has joined the channel", 
+            "type": "message", 
+            "user": "U5YEEC27K", 
+            "ts": "1498317191.045266", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5Z1DQCTC|mikew> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z1DQCTC", 
+            "ts": "1498317186.044944", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZRC5F54|johncarter> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRC5F54", 
+            "ts": "1498317130.041698", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5Z4ABYJH|ronstoppable> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z4ABYJH", 
+            "ts": "1498316979.032344", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YB6FXNC|vivekravishankar> has joined the channel", 
+            "type": "message", 
+            "user": "U5YB6FXNC", 
+            "ts": "1498316839.023875", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YEDG3UH|samuel.conner> has joined the channel", 
+            "type": "message", 
+            "user": "U5YEDG3UH", 
+            "ts": "1498316827.023042", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5Z2TRLR2|linda14vasquez> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z2TRLR2", 
+            "ts": "1498316755.018694", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YED93C1|alyssaebert> has joined the channel", 
+            "type": "message", 
+            "user": "U5YED93C1", 
+            "ts": "1498316730.016876", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZRB2VKQ|pflorez> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRB2VKQ", 
+            "ts": "1498316688.013934", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZRB1T1U|tmatason> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRB1T1U", 
+            "ts": "1498316669.012761", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5Z1CDD7U|pamtozier> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z1CDD7U", 
+            "ts": "1498316626.009944", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZRULFAB|polymathcs> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRULFAB", 
+            "ts": "1498316546.004696", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YUK3C11|marquitahartman> has joined the channel", 
+            "type": "message", 
+            "user": "U5YUK3C11", 
+            "ts": "1498316505.001899", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YECLN49|geeky1> has joined the channel", 
+            "type": "message", 
+            "user": "U5YECLN49", 
+            "ts": "1498316498.001467", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5Z2T59C4|danethestain> has joined the channel", 
+            "type": "message", 
+            "user": "U5Z2T59C4", 
+            "ts": "1498316486.000708", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YUK0VV1|sirgizmo> has joined the channel", 
+            "type": "message", 
+            "user": "U5YUK0VV1", 
+            "ts": "1498316472.999557", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5ZRUB3KR|ndevereaux> has joined the channel", 
+            "type": "message", 
+            "user": "U5ZRUB3KR", 
+            "ts": "1498316427.996427", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U5YECDTGR|mbutler> has joined the channel", 
+            "type": "message", 
+            "user": "U5YECDTGR", 
+            "ts": "1498316417.995668", 
+            "subtype": "channel_join"
+        }, 
+        {
+            "text": "<@U4PT4E7FW|robpuls> has joined the channel", 
+            "ts": "1498283823.542602", 
+            "subtype": "channel_join", 
+            "user": "U4PT4E7FW", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<@U4XUXDR7F|austinjohnston> has joined the channel", 
+            "ts": "1498283823.542599", 
+            "subtype": "channel_join", 
+            "user": "U4XUXDR7F", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<@U5KJA4YKY|shawna.doering> has joined the channel", 
+            "ts": "1498283823.542596", 
+            "subtype": "channel_join", 
+            "user": "U5KJA4YKY", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<@U41PHLSJW|fcfreyre> has joined the channel", 
+            "ts": "1498283823.542582", 
+            "subtype": "channel_join", 
+            "user": "U41PHLSJW", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<@U3QMYKCE4|bradg81> has joined the channel", 
+            "ts": "1498283823.542580", 
+            "subtype": "channel_join", 
+            "user": "U3QMYKCE4", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<@U3052PE5D|joshcouper> has joined the channel", 
+            "ts": "1498283823.542576", 
+            "subtype": "channel_join", 
+            "user": "U3052PE5D", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<@U2P556JHZ|ninjames> has joined the channel", 
+            "ts": "1498283823.542573", 
+            "subtype": "channel_join", 
+            "user": "U2P556JHZ", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<@U1USJGEG2|cj> has joined the channel", 
+            "ts": "1498283823.542555", 
+            "subtype": "channel_join", 
+            "user": "U1USJGEG2", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<@U5CE3ABDK|erin.hough> has joined the channel", 
+            "ts": "1498283822.542553", 
+            "subtype": "channel_join", 
+            "user": "U5CE3ABDK", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<@U1X2N7XAM|kylecoberly> has joined the channel", 
+            "ts": "1498283822.542548", 
+            "subtype": "channel_join", 
+            "user": "U1X2N7XAM", 
+            "type": "message", 
+            "inviter": "U2WBQ64BY"
+        }, 
+        {
+            "text": "<@U2WBQ64BY|chad.drummond> set the channel purpose: Basic Training", 
+            "ts": "1498283822.542547", 
+            "subtype": "channel_purpose", 
+            "user": "U2WBQ64BY", 
+            "type": "message", 
+            "purpose": "Basic Training"
+        }, 
+        {
+            "text": "<@U2WBQ64BY|chad.drummond> has joined the channel", 
+            "type": "message", 
+            "user": "U2WBQ64BY", 
+            "ts": "1498283822.542519", 
+            "subtype": "channel_join"
+        }
+    ], 
+    "channel_info": {
+        "topic": {
+            "last_set": 0, 
+            "value": "", 
+            "creator": ""
+        }, 
+        "is_general": false, 
+        "name_normalized": "denver-basic-training", 
+        "name": "denver-basic-training", 
+        "is_channel": true, 
+        "created": 1498283822, 
+        "is_member": false, 
+        "is_archived": false, 
+        "creator": "U2WBQ64BY", 
+        "is_org_shared": false, 
+        "previous_names": [], 
+        "purpose": {
+            "last_set": 1498283822, 
+            "value": "Basic Training", 
+            "creator": "U2WBQ64BY"
+        }, 
+        "members": [
+            "U1USJGEG2", 
+            "U1X2N7XAM", 
+            "U2JQYPPTN", 
+            "U2P556JHZ", 
+            "U2WBQ64BY", 
+            "U3052PE5D", 
+            "U34TA50NQ", 
+            "U3F4FRWSK", 
+            "U3QMYKCE4", 
+            "U41PHLSJW", 
+            "U4PT4E7FW", 
+            "U4XUXDR7F", 
+            "U52Q1S6DR", 
+            "U5CE3ABDK", 
+            "U5KJA4YKY", 
+            "U5YB6FXNC", 
+            "U5YB97RRN", 
+            "U5YB9HTS4", 
+            "U5YB9NL1E", 
+            "U5YBBJCSU", 
+            "U5YECDTGR", 
+            "U5YECLN49", 
+            "U5YED93C1", 
+            "U5YEDG3UH", 
+            "U5YEEC27K", 
+            "U5YEEJXT3", 
+            "U5YEEKU2V", 
+            "U5YEGSW65", 
+            "U5YEK7A2V", 
+            "U5YUK0VV1", 
+            "U5YUK3C11", 
+            "U5YUNTW11", 
+            "U5YUPD73M", 
+            "U5YUS4FQT", 
+            "U5Z1CDD7U", 
+            "U5Z1DQCTC", 
+            "U5Z1FE4KC", 
+            "U5Z1FNF9Q", 
+            "U5Z1FVA58", 
+            "U5Z2T59C4", 
+            "U5Z2TRLR2", 
+            "U5Z2WSDL4", 
+            "U5Z2XCQJG", 
+            "U5Z2XKR2Q", 
+            "U5Z2Z0DNG", 
+            "U5Z4ABYJH", 
+            "U5Z4CRH37", 
+            "U5ZRB1T1U", 
+            "U5ZRB2VKQ", 
+            "U5ZRC5F54", 
+            "U5ZRCBLAJ", 
+            "U5ZRE4JHL", 
+            "U5ZRE9QP8", 
+            "U5ZREG1B8", 
+            "U5ZREM0UW", 
+            "U5ZRL7PJS", 
+            "U5ZRUB3KR", 
+            "U5ZRULFAB", 
+            "U5ZRXSENT", 
+            "U5ZRY2YA3", 
+            "U5ZRYA77H", 
+            "U5ZRYAV2T", 
+            "U5ZRYF9V5", 
+            "U5ZRYLGGP", 
+            "U5ZS0U615", 
+            "U5ZS1EEMD"
+        ], 
+        "id": "C5Z0WE02G", 
+        "is_shared": false
+    }
+}
